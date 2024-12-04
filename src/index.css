@@ -1,0 +1,23 @@
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url("../src/assets/back.png") no-repeat center center fixed;
+  background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla*/
+  color: #f7f1f1;
+  font-family: "Arial", sans-serif;
+}
+
+/* body {
+    
+    background: url('../src/assets/fondo.png') no-repeat center center fixed;
+    background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla
+    color: #050505;
+    font-family: 'Arial', sans-serif;
+
+
+    
+    
+    */
