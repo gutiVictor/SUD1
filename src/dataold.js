@@ -38681,2949 +38681,4563 @@ export const questions = [
       ],
     },
   },
+ 
 
-  //Profetas (Abraham)
+  // Profeta Abrahan
 
-  {
-    id: 1954,
-    difficulty: "Media",
-    question:"¿Qué promesa hizo Dios a Abraham en el pacto que realizó con él?",
-    category: profetas,
-    correct_answer: "Que sería el padre de una gran nación",
-    incorrect_answers: [
-      "Que recibiría riquezas y prosperidad en todas las tierras que habitara",
-      "Que tendría una descendencia eterna y sin fin",
-      "Que gobernaría un reino sobre todas las naciones de la Tierra",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios le prometió a Abraham que sería el padre de una gran nación, la cual se extendería por toda la tierra.",
-      incorrect_answers: [
-        "La promesa no se centró en riquezas materiales, sino en el futuro de su descendencia.",
-        "La promesa fue sobre una nación, no sobre una descendencia eterna sin fin.",
-        "No se le prometió a Abraham un reino terrenal, sino que su descendencia sería grande y bendecida.",
-      ],
-    },
-  },
-  {
-    id: 1955,
-    difficulty: "Difícil",
-    question: "¿Cómo probó Dios la fe de Abraham en el Monte Moriah?",
-    category: profetas,
-    correct_answer: "Pidiéndole sacrificar a su hijo Isaac",
-    incorrect_answers: [
-      "Haciéndole ofrecer un sacrificio de animales en el desierto",
-      "Ordenándole construir un altar para adorar a Dios",
-      "Solicitándole abandonar su hogar y mudarse a una tierra lejana",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios pidió a Abraham que sacrificara a su hijo Isaac, lo cual Abraham estaba dispuesto a hacer como prueba de su fe.",
-      incorrect_answers: [
-        "El sacrificio no fue de animales, sino de su propio hijo, como un acto de obediencia.",
-        "Aunque Abraham construyó altares, la prueba de su fe fue en el Monte Moriah, no solo en adoración.",
-        "Dios no pidió a Abraham que abandonara su hogar como prueba, sino que le pidió que sacrificara a su hijo.",
-      ],
-    },
-  },
-  {
-    id: 1956,
-    difficulty: "Media",
-    question:
-      "¿Dónde fue llamado Abraham por primera vez por Dios para dejar su tierra natal?",
-    category: profetas,
-    correct_answer: "En Ur de los caldeos",
-    incorrect_answers: [
-      "En la ciudad de Harán",
-      "En Egipto, mientras estaba en el exilio",
-      "En la ciudad de Jericó",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios llamó a Abraham en Ur de los caldeos para que dejara su tierra natal y fuera a una nueva tierra que Él le mostraría.",
-      incorrect_answers: [
-        "Abraham se detuvo en Harán, pero fue en Ur donde recibió el primer llamado de Dios.",
-        "Abraham no fue llamado en Egipto, aunque estuvo allí más tarde en su vida.",
-        "No fue en Jericó, sino en Ur, donde Abraham comenzó su viaje hacia la tierra prometida.",
-      ],
-    },
-  },
-  {
-    id: 1957,
-    difficulty: "Difícil",
-    question:
-      "¿Qué significaba para Abraham el nombre que Dios le dio a su hijo Isaac?",
-    category: profetas,
-    correct_answer:
-      "Que sería el cumplimiento de la promesa de una descendencia numerosa",
-    incorrect_answers: [
-      "Que Isaac sería el único hijo de Abraham y su descendencia terminaría con él",
-      "Que Isaac traería prosperidad material y riquezas a Abraham",
-      "Que Isaac sería un rey que gobernaría todas las naciones",
-    ],
-    justifications: {
-      correct_answer:
-        "El nombre Isaac, que significa 'risa', simbolizaba la alegría y el cumplimiento de la promesa de Dios de darle un hijo a una edad avanzada.",
-      incorrect_answers: [
-        "Isaac no fue el único hijo de Abraham, aunque fue el hijo de la promesa.",
-        "La promesa no era de riquezas materiales, sino de una descendencia numerosa.",
-        "Isaac no fue un rey terrenal, sino el antecesor de una gran nación.",
-      ],
-    },
-  },
-  {
-    id: 1958,
-    difficulty: "Media",
-    question:
-      "¿Quién fue el sobrino de Abraham que se separó de él y se estableció en Sodoma?",
-    category: profetas,
-    correct_answer: "Lot",
-    incorrect_answers: ["Eliezer", "Isaac", "Jacob"],
-    justifications: {
-      correct_answer:
-        "Lot, el sobrino de Abraham, se separó de él y se fue a vivir en la ciudad de Sodoma.",
-      incorrect_answers: [
-        "Eliezer era el siervo de Abraham, no su sobrino.",
-        "Isaac era el hijo de Abraham, no su sobrino.",
-        "Jacob era el nieto de Abraham, no su sobrino, y tuvo su propio legado.",
-      ],
-    },
-  },
-  {
-    id: 1959,
-    difficulty: "Difícil",
-    question:
-      "¿Qué ofreció Abraham como sacrificio en su pacto con Dios después de que fue prometida la tierra prometida a su descendencia?",
-    category: profetas,
-    correct_answer: "Un sacrificio de animales dividido en mitades",
-    incorrect_answers: [
-      "Un sacrificio de pan y vino",
-      "Un sacrificio de siete bueyes y un carnero",
-      "Un sacrificio de frutos de la tierra",
-    ],
-    justifications: {
-      correct_answer:
-        "Abraham ofreció un sacrificio de animales divididos en mitades como parte del pacto de Dios con él.",
-      incorrect_answers: [
-        "No se ofreció pan y vino, ya que el sacrificio fue de animales según el pacto.",
-        "El sacrificio no consistió en bueyes y carneros, sino en animales específicos divididos en mitades.",
-        "El sacrificio no fue de frutos, sino de animales, para sellar el pacto con Dios.",
-      ],
-    },
-  },
 
-  //Moises
 
-  {
-    id: 1960,
-    difficulty: "Media",
-    question:
-      "¿Quién fue el profeta que dirigió a los israelitas fuera de Egipto?",
-    category: profetas,
-    correct_answer: "Moisés",
-    incorrect_answers: ["Abraham", "Elías", "José"],
-    justifications: {
-      correct_answer:
-        "Moisés fue el elegido por Dios para liberar a los israelitas de la esclavitud en Egipto.",
-      incorrect_answers: [
-        "Abraham fue el patriarca de los israelitas, pero no lideró la salida de Egipto.",
-        "Elías fue un profeta, pero no estuvo relacionado con la liberación de los israelitas de Egipto.",
-        "José fue un líder importante en la historia bíblica, pero no estuvo involucrado en la salida de Egipto.",
-      ],
-    },
-  },
-  {
-    id: 1961,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo fue recibida la ley de Moisés por el pueblo de Israel en el Monte Sinaí?",
-    category: profetas,
-    correct_answer:
-      "Con un pacto que implicaba obedecer los mandamientos dados por Dios",
-    incorrect_answers: [
-      "Con una negación y rechazo por parte de los israelitas",
-      "Con un acuerdo de sacrificios y ceremonias exclusivas para los sacerdotes",
-      "Con un plan para establecer un nuevo gobierno independiente de Dios",
-    ],
-    justifications: {
-      correct_answer:
-        "El pueblo aceptó la ley de Moisés como un pacto con Dios, comprometiéndose a seguir los mandamientos dados en el Monte Sinaí.",
-      incorrect_answers: [
-        "El pueblo no rechazó la ley, sino que aceptó el pacto de obedecer los mandamientos.",
-        "La ley no estaba limitada solo a los sacerdotes, sino que era un pacto para toda la nación.",
-        "No se trataba de un plan de gobierno, sino de un pacto divino con la nación de Israel.",
-      ],
-    },
-  },
-  {
-    id: 1962,
-    difficulty: "Media",
-    question: "¿Dónde recibió Moisés los Diez Mandamientos?",
-    category: profetas,
-    correct_answer: "En el Monte Sinaí",
-    incorrect_answers: [
-      "En el Monte Nebo",
-      "En la tierra de Canaán",
-      "En el desierto de Paran",
-    ],
-    justifications: {
-      correct_answer:
-        "Los Diez Mandamientos fueron entregados a Moisés en el Monte Sinaí, como parte del pacto entre Dios e Israel.",
-      incorrect_answers: [
-        "El Monte Nebo es importante en la historia de Moisés, pero no fue el lugar de la entrega de los mandamientos.",
-        "La tierra de Canaán fue la prometida, pero no fue el lugar de los Diez Mandamientos.",
-        "El desierto de Paran es relevante en la travesía del pueblo de Israel, pero no es el sitio de la revelación de los mandamientos.",
-      ],
-    },
-  },
-  {
-    id: 1963,
-    difficulty: "Difícil",
-    question:
-      "¿Qué evento fundamental en la vida de Moisés ocurrió después de la separación del Mar Rojo?",
-    category: profetas,
-    correct_answer:
-      "La provisión del maná del cielo para alimentar a los israelitas en el desierto",
-    incorrect_answers: [
-      "La revelación de la ley sobre las montañas de la transfiguración",
-      "La instauración de los sacrificios de animales para la redención",
-      "La creación del tabernáculo como lugar de adoración",
-    ],
-    justifications: {
-      correct_answer:
-        "Después de cruzar el Mar Rojo, Moisés guió a los israelitas por el desierto, y Dios les proporcionó maná para alimentarlos.",
-      incorrect_answers: [
-        "La ley fue dada en el Monte Sinaí, no en la transfiguración.",
-        "Los sacrificios no fueron establecidos inmediatamente después del cruce del Mar Rojo.",
-        "El tabernáculo fue construido más tarde, como un lugar donde habitaría la presencia de Dios.",
-      ],
-    },
-  },
-  {
-    id: 1964,
-    difficulty: "Media",
-    question:
-      "¿Qué signo milagroso se dio a Moisés para demostrar su autoridad ante los israelitas?",
-    category: profetas,
-    correct_answer:
-      "Su bastón se convirtió en serpiente y luego volvió a ser un bastón",
-    incorrect_answers: [
-      "El sol se oscureció por completo durante el día",
-      "El mar se convirtió en sangre",
-      "Una nube de fuego apareció sobre él mientras oraba",
-    ],
-    justifications: {
-      correct_answer:
-        "Moisés realizó el milagro con su bastón, el cual se convirtió en serpiente, como señal de su autoridad ante Faraón.",
-      incorrect_answers: [
-        "El sol oscureciéndose no fue un signo dado a Moisés, sino una de las plagas de Egipto.",
-        "La conversión del mar en sangre fue una plaga que ocurrió antes de la salida de Egipto.",
-        "La nube de fuego apareció en el desierto, pero no como una señal directa de autoridad de Moisés.",
-      ],
-    },
-  },
-  {
-    id: 1965,
-    difficulty: "Difícil",
-    question:
-      "¿Qué mensaje recibió Moisés cuando preguntó por la razón del sufrimiento del pueblo de Israel?",
-    category: profetas,
-    correct_answer:
-      "Que debía enseñar al pueblo a confiar plenamente en Dios y seguir sus mandamientos",
-    incorrect_answers: [
-      "Que el sufrimiento era una prueba que solo algunos debían superar",
-      "Que Dios los castigaba por sus pecados anteriores y no había remedio",
-      "Que debía llevar al pueblo a otra tierra prometida sin la necesidad de cumplir con la ley",
-    ],
-    justifications: {
-      correct_answer:
-        "Moisés recibió la revelación de que debía guiar al pueblo hacia la fe y la obediencia a Dios, a pesar de las dificultades.",
-      incorrect_answers: [
-        "El sufrimiento no era selectivo, sino que fue parte del proceso de enseñanza y purificación.",
-        "El sufrimiento no fue un castigo final, sino parte de la disciplina para preparar al pueblo.",
-        "Moisés no fue llamado a llevar al pueblo sin la ley, sino a cumplirla para alcanzar la tierra prometida.",
-      ],
-    },
-  },
 
-  //Samuel
+  
+    {
+      id: 1955,
+      difficulty: "Difícil",
+      question: "¿Qué prueba de fe le pidió Dios a Abraham que realizara?",
+      category: profetas,
+      correct_answer: "Sacrificar a su hijo Isaac",
+      incorrect_answers: [
+        "Dejar su tierra natal",
+        "Construir un altar de piedra",
+        "Ayunar durante cuarenta días",
+      ],
+      justifications: {
+        correct_answer:
+          "Dios probó la fe de Abraham al pedirle que sacrificara a su hijo Isaac, demostrando su obediencia absoluta.",
+        incorrect_answers: [
+          "Abraham dejó su tierra natal antes de esta prueba.",
+          "Construir un altar fue parte de la prueba, pero no la prueba principal.",
+          "El ayuno no fue parte de esta prueba específica.",
+        ],
+      },
+    },
+    {
+      id: 1956,
+      difficulty: "Medio",
+      question: "¿Cuál fue el nombre original de Abraham antes de que Dios lo cambiara?",
+      category: profetas,
+      correct_answer: "Abram",
+      incorrect_answers: ["Jacob", "Isaac", "Noé"],
+      justifications: {
+        correct_answer:
+          "Dios cambió el nombre de Abram a Abraham como parte de su pacto con él.",
+        incorrect_answers: [
+          "Jacob fue el nieto de Abraham.",
+          "Isaac fue el hijo de Abraham.",
+          "Noé fue un profeta anterior a Abraham.",
+        ],
+      },
+    },
+    {
+      id: 1957,
+      difficulty: "Fácil",
+      question: "¿Qué promesa hizo Dios a Abraham en el pacto que realizó con él?",
+      category: profetas,
+      correct_answer: "Que su descendencia sería tan numerosa como las estrellas",
+      incorrect_answers: [
+        "Que viviría eternamente",
+        "Que conquistaría todas las naciones",
+        "Que sería rey de su tierra",
+      ],
+      justifications: {
+        correct_answer:
+          "Dios prometió a Abraham que su descendencia sería innumerable, como las estrellas del cielo.",
+        incorrect_answers: [
+          "Dios no prometió vida eterna a Abraham.",
+          "La conquista de naciones no fue parte del pacto.",
+          "Abraham no fue nombrado rey en el pacto.",
+        ],
+      },
+    },
+    {
+      id: 1958,
+      difficulty: "Difícil",
+      question: "¿Qué evento ocurrió en el valle de Shaveh que involucró a Abraham?",
+      category: profetas,
+      correct_answer: "Se encontró con Melquisedec, rey de Salem",
+      incorrect_answers: [
+        "Recibió las tablas de la ley",
+        "Luchó contra los filisteos",
+        "Construyó el arca de Noé",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham se encontró con Melquisedec después de rescatar a Lot y recibió su bendición.",
+        incorrect_answers: [
+          "Las tablas de la ley fueron dadas a Moisés, no a Abraham.",
+          "Abraham no luchó contra los filisteos en ese valle.",
+          "El arca de Noé fue construida mucho antes de Abraham.",
+        ],
+      },
+    },
+    {
+      id: 1959,
+      difficulty: "Medio",
+      question: "¿Qué relación tenía Lot con Abraham?",
+      category: profetas,
+      correct_answer: "Era su sobrino",
+      incorrect_answers: ["Era su hermano", "Era su hijo", "Era su primo"],
+      justifications: {
+        correct_answer:
+          "Lot era el hijo de Harán, hermano de Abraham, lo que lo convertía en su sobrino.",
+        incorrect_answers: [
+          "Lot no era hermano de Abraham.",
+          "Lot no era hijo de Abraham.",
+          "Lot no era primo de Abraham.",
+        ],
+      },
+    },
+    {
+      id: 1960,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Abraham cuando Dios le dijo que dejara su tierra natal?",
+      category: profetas,
+      correct_answer: "Obedeció y partió hacia Canaán",
+      incorrect_answers: [
+        "Se negó y se quedó en Ur",
+        "Pidió una señal divina",
+        "Consultó a su familia primero",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham obedeció inmediatamente la orden de Dios y partió hacia Canaán.",
+        incorrect_answers: [
+          "Abraham no se negó a seguir a Dios.",
+          "No pidió una señal antes de obedecer.",
+          "No consultó a su familia antes de partir.",
+        ],
+      },
+    },
+    {
+      id: 1961,
+      difficulty: "Difícil",
+      question: "¿Qué simboliza el sacrificio de Isaac en la historia de Abraham?",
+      category: profetas,
+      correct_answer: "La obediencia absoluta a Dios",
+      incorrect_answers: [
+        "La importancia de los rituales",
+        "La necesidad de sacrificios humanos",
+        "La superioridad de Abraham sobre otros patriarcas",
+      ],
+      justifications: {
+        correct_answer:
+          "El sacrificio de Isaac simboliza la disposición de Abraham a obedecer a Dios sin cuestionar.",
+        incorrect_answers: [
+          "No se trata de rituales, sino de fe y obediencia.",
+          "Dios no aprueba los sacrificios humanos.",
+          "No es una comparación con otros patriarcas.",
+        ],
+      },
+    },
+    {
+      id: 1962,
+      difficulty: "Medio",
+      question: "¿Qué le prometió Dios a Abraham sobre su esposa Sara?",
+      category: profetas,
+      correct_answer: "Que tendría un hijo en su vejez",
+      incorrect_answers: [
+        "Que viviría eternamente",
+        "Que sería reina de Canaán",
+        "Que sería recordada como la madre de todas las naciones",
+      ],
+      justifications: {
+        correct_answer:
+          "Dios prometió a Abraham que Sara tendría un hijo, Isaac, a pesar de su avanzada edad.",
+        incorrect_answers: [
+          "Dios no prometió vida eterna a Sara.",
+          "Sara no fue nombrada reina.",
+          "Esa promesa se aplica a Abraham, no a Sara.",
+        ],
+      },
+    },
+    {
+      id: 1963,
+      difficulty: "Fácil",
+      question: "¿Cómo se llamaba el hijo que Abraham tuvo con Sara?",
+      category: profetas,
+      correct_answer: "Isaac",
+      incorrect_answers: ["Ismael", "Jacob", "Esau"],
+      justifications: {
+        correct_answer:
+          "Isaac fue el hijo prometido que Abraham tuvo con Sara en su vejez.",
+        incorrect_answers: [
+          "Ismael fue el hijo de Abraham con Agar, no con Sara.",
+          "Jacob fue el nieto de Abraham.",
+          "Esau fue el hermano gemelo de Jacob.",
+        ],
+      },
+    },
+    {
+      id: 1964,
+      difficulty: "Difícil",
+      question: "¿Qué papel jugó Agar en la vida de Abraham?",
+      category: profetas,
+      correct_answer: "Fue la madre de Ismael",
+      incorrect_answers: [
+        "Fue la hermana de Abraham",
+        "Fue la esposa principal de Abraham",
+        "Fue la profetisa que guió a Abraham",
+      ],
+      justifications: {
+        correct_answer:
+          "Agar fue la sierva de Sara y madre de Ismael, el primer hijo de Abraham.",
+        incorrect_answers: [
+          "Agar no era hermana de Abraham.",
+          "Sara fue la esposa principal de Abraham.",
+          "Agar no fue una profetisa.",
+        ],
+      },
+    },
+    {
+      id: 1965,
+      difficulty: "Medio",
+      question: "¿Qué hizo Abraham cuando Sara le pidió que echara a Agar e Ismael?",
+      category: profetas,
+      correct_answer: "Obedeció después de que Dios le dijo que lo hiciera",
+      incorrect_answers: [
+        "Se negó y los mantuvo en su hogar",
+        "Consultó a los ancianos de la tribu",
+        "Los envió a vivir con Lot",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham obedeció a Dios y envió a Agar e Ismael al desierto, confiando en la promesa divina.",
+        incorrect_answers: [
+          "Abraham no se negó a la petición de Sara.",
+          "No consultó a los ancianos.",
+          "No los envió con Lot.",
+        ],
+      },
+    },
+    {
+      id: 1966,
+      difficulty: "Fácil",
+      question: "¿Qué edad tenía Abraham cuando nació Isaac?",
+      category: profetas,
+      correct_answer: "100 años",
+      incorrect_answers: ["90 años", "80 años", "110 años"],
+      justifications: {
+        correct_answer:
+          "Abraham tenía 100 años cuando nació Isaac, según el relato bíblico.",
+        incorrect_answers: [
+          "No tenía 90 años cuando nació Isaac.",
+          "No tenía 80 años cuando nació Isaac.",
+          "No tenía 110 años cuando nació Isaac.",
+        ],
+      },
+    },
+    {
+      id: 1967,
+      difficulty: "Difícil",
+      question: "¿Qué significado tiene el nombre 'Isaac' en la historia de Abraham?",
+      category: profetas,
+      correct_answer: "Risa, porque Sara rio al escuchar la promesa",
+      incorrect_answers: [
+        "Bendición, porque fue un regalo de Dios",
+        "Esperanza, porque simbolizaba el futuro",
+        "Pacto, porque cumplía la promesa divina",
+      ],
+      justifications: {
+        correct_answer:
+          "El nombre Isaac significa 'risa', ya que Sara rio al escuchar que tendría un hijo en su vejez.",
+        incorrect_answers: [
+          "Aunque fue una bendición, el nombre no significa eso.",
+          "No simboliza esperanza en el contexto del nombre.",
+          "No se relaciona directamente con el pacto.",
+        ],
+      },
+    },
+    {
+      id: 1968,
+      difficulty: "Medio",
+      question: "¿Qué hizo Abraham cuando Dios le prometió un hijo?",
+      category: profetas,
+      correct_answer: "Creíó en la promesa de Dios",
+      incorrect_answers: [
+        "Se rio incrédulo",
+        "Pidió una señal divina",
+        "Se negó a creer por su edad",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham creyó en la promesa de Dios, y su fe le fue contada por justicia.",
+        incorrect_answers: [
+          "Fue Sara quien se rio, no Abraham.",
+          "Abraham no pidió una señal.",
+          "No se negó a creer, sino que confió en Dios.",
+        ],
+      },
+    },
+    {
+      id: 1969,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Abraham para salvar a Lot cuando fue capturado?",
+      category: profetas,
+      correct_answer: "Reunió a sus sirvientes y lo rescató",
+      incorrect_answers: [
+        "Oró a Dios para que lo liberara",
+        "Pagó un rescate a los captores",
+        "Negoció con los reyes enemigos",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham reunió a sus sirvientes y rescató a Lot de sus captores.",
+        incorrect_answers: [
+          "No solo oró, sino que actuó.",
+          "No pagó un rescate.",
+          "No negoció con los reyes.",
+        ],
+      },
+    },
+    {
+      id: 1970,
+      difficulty: "Difícil",
+      question: "¿Qué lección enseña la historia de Abraham e Isaac sobre la fe?",
+      category: profetas,
+      correct_answer: "La fe requiere obediencia incluso en lo más difícil",
+      incorrect_answers: [
+        "La fe es solo creer sin actuar",
+        "La fe no necesita pruebas",
+        "La fe es opcional en la vida espiritual",
+      ],
+      justifications: {
+        correct_answer:
+          "La historia muestra que la fe verdadera implica obediencia, incluso en las pruebas más difíciles.",
+        incorrect_answers: [
+          "La fe no es solo creer, sino actuar.",
+          "La fe puede ser probada, como en el caso de Abraham.",
+          "La fe no es opcional, es fundamental.",
+        ],
+      },
+    },
+    {
+      id: 1971,
+      difficulty: "Medio",
+      question: "¿Qué hizo Abraham cuando Dios le dijo que contara las estrellas?",
+      category: profetas,
+      correct_answer: "Creíó en la promesa de una descendencia numerosa",
+      incorrect_answers: [
+        "Se rio porque parecía imposible",
+        "Pidió una explicación detallada",
+        "Se sintió abrumado y desistió",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham creyó en la promesa de Dios de que su descendencia sería tan numerosa como las estrellas.",
+        incorrect_answers: [
+          "No se rio, sino que creyó.",
+          "No pidió una explicación detallada.",
+          "No se sintió abrumado, sino que confió.",
+        ],
+      },
+    },
+    {
+      id: 1972,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Abraham cuando llegó a Canaán?",
+      category: profetas,
+      correct_answer: "Construyó un altar para adorar a Dios",
+      incorrect_answers: [
+        "Se estableció como rey",
+        "Luchó contra los habitantes locales",
+        "Volvió a su tierra natal",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham construyó un altar en Canaán para adorar a Dios y agradecerle.",
+        incorrect_answers: [
+          "No se estableció como rey.",
+          "No luchó contra los habitantes locales.",
+          "No volvió a su tierra natal.",
+        ],
+      },
+    },
+    {
+      id: 1973,
+      difficulty: "Difícil",
+      question: "¿Qué simboliza el pacto de Dios con Abraham en la historia bíblica?",
+      category: profetas,
+      correct_answer: "El inicio de una relación especial entre Dios y su pueblo",
+      incorrect_answers: [
+        "La fundación de una nueva religión",
+        "La creación de un imperio terrenal",
+        "El fin de los sacrificios rituales",
+      ],
+      justifications: {
+        correct_answer:
+          "El pacto con Abraham marca el inicio de una relación especial entre Dios y su pueblo elegido.",
+        incorrect_answers: [
+          "No se trata de fundar una nueva religión.",
+          "No se relaciona con un imperio terrenal.",
+          "No implica el fin de los sacrificios.",
+        ],
+      },
+    },
+    {
+      id: 1974,
+      difficulty: "Medio",
+      question: "¿Qué le dijo Dios a Abraham sobre su descendencia?",
+      category: profetas,
+      correct_answer: "Que sería tan numerosa como las estrellas del cielo",
+      incorrect_answers: [
+        "Que gobernaría todas las naciones",
+        "Que sería bendecida con riquezas infinitas",
+        "Que viviría en paz eterna",
+      ],
+      justifications: {
+        correct_answer:
+          "Dios prometió a Abraham que su descendencia sería innumerable, como las estrellas del cielo.",
+        incorrect_answers: [
+          "No se menciona que gobernarían todas las naciones.",
+          "No se prometieron riquezas infinitas.",
+          "No se menciona una paz eterna.",
+        ],
+      },
+    },
+    {
+      id: 1975,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Abraham cuando Dios le prometió la tierra de Canaán?",
+      category: profetas,
+      correct_answer: "Creyó en la promesa y se estableció allí",
+      incorrect_answers: [
+        "La rechazó y se fue a Egipto",
+        "Pidió una señal para confirmar",
+        "La compartió con Lot",
+      ],
+      justifications: {
+        correct_answer:
+          "Abraham creyó en la promesa de Dios y se estableció en Canaán.",
+        incorrect_answers: [
+          "No rechazó la promesa ni se fue a Egipto.",
+          "No pidió una señal para confirmar.",
+          "No compartió la tierra con Lot.",
+        ],
+      },
+    },
 
-  {
-    id: 1966,
-    difficulty: "Media",
-    question:
-      "¿Cómo fue llamado Samuel por primera vez por Dios cuando aún era niño?",
-    category: profetas,
-    correct_answer:
-      "Dios lo llamó por su nombre en medio de la noche mientras estaba en el templo",
-    incorrect_answers: [
-      "Dios lo llamó mientras cuidaba las ovejas de su padre",
-      "Dios lo llamó en un sueño durante el día mientras dormía",
-      "Dios lo llamó a través de una visión mientras estaba en el campo",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios llamó a Samuel por su nombre en medio de la noche, lo cual lo despertó y lo condujo a un encuentro con Eli.",
-      incorrect_answers: [
-        "Samuel no estaba cuidando las ovejas cuando fue llamado, sino que dormía en el templo.",
-        "El llamado de Dios ocurrió de noche, no en un sueño durante el día.",
-        "No fue a través de una visión en el campo, sino en el templo durante la noche.",
-      ],
-    },
-  },
-  {
-    id: 1967,
-    difficulty: "Difícil",
-    question: "¿Qué hizo Samuel al escuchar por primera vez la voz de Dios?",
-    category: profetas,
-    correct_answer: "Fue a Eli, creyendo que era él quien lo llamaba",
-    incorrect_answers: [
-      "Se levantó y salió del templo para encontrar la fuente de la voz",
-      "Oró a Dios pidiendo claridad sobre lo que debía hacer",
-      "Rápidamente reconoció que era Dios quien lo llamaba y respondió",
-    ],
-    justifications: {
-      correct_answer:
-        "Samuel, al escuchar la voz, creyó que era Eli quien lo llamaba, por lo que fue a su encuentro.",
-      incorrect_answers: [
-        "Samuel no salió del templo, ya que la voz venía de adentro del lugar donde él se encontraba.",
-        "No oró inmediatamente, sino que primero fue a Eli pensando que era él quien lo llamaba.",
-        "Samuel no reconoció inmediatamente que era la voz de Dios, sino que confundió el llamado con Eli.",
-      ],
-    },
-  },
-  {
-    id: 1968,
-    difficulty: "Media",
-    question:
-      "¿Qué le pidió el pueblo de Israel a Samuel cuando él ya era anciano?",
-    category: profetas,
-    correct_answer:
-      "Que les nombrara un rey para que los gobernara como otras naciones",
-    incorrect_answers: [
-      "Que les otorgara un lugar de descanso y paz en la tierra prometida",
-      "Que les diera un ejército para defenderse de sus enemigos",
-      "Que les ayudara a reconstruir el templo y la ciudad de Jerusalén",
-    ],
-    justifications: {
-      correct_answer:
-        "El pueblo de Israel pidió un rey para que los gobernara, lo que contradecía el sistema de gobierno divino establecido por Dios.",
-      incorrect_answers: [
-        "No pidieron descanso en la tierra prometida, sino un cambio en su forma de gobierno.",
-        "El pueblo no pidió un ejército en ese momento, sino un rey para ser gobernados como otras naciones.",
-        "No se pidió la reconstrucción del templo en ese momento, sino un rey que les liderara.",
-      ],
-    },
-  },
-  {
-    id: 1969,
-    difficulty: "Difícil",
-    question: "¿Cómo reaccionó Samuel cuando el pueblo le pidió un rey?",
-    category: profetas,
-    correct_answer:
-      "Se entristeció y oró a Dios, quien le dijo que accediera a su pedido",
-    incorrect_answers: [
-      "Se encolerizó y rechazó su solicitud, advirtiéndoles las consecuencias",
-      "Habló con los ancianos de Israel, pero no tomó ninguna decisión inmediata",
-      "Llamó a un consejo para discutir si la petición era adecuada",
-    ],
-    justifications: {
-      correct_answer:
-        "Samuel oró a Dios, quien le indicó que accediera a la petición del pueblo, aunque no era lo ideal.",
-      incorrect_answers: [
-        "Aunque Samuel se entristeció, no rechazó la solicitud, sino que oró y recibió una respuesta divina.",
-        "Samuel no solo habló con los ancianos, sino que oró a Dios para recibir instrucciones.",
-        "No convocó un consejo, sino que buscó la guía divina a través de la oración.",
-      ],
-    },
-  },
-  {
-    id: 1970,
-    difficulty: "Media",
-    question:
-      "¿Qué hizo Samuel después de ungir a Saúl como el primer rey de Israel?",
-    category: profetas,
-    correct_answer:
-      "Le dio instrucciones de esperar siete días antes de ofrecer sacrificios",
-    incorrect_answers: [
-      "Lo acompañó a su casa y le dijo que gobernara con sabiduría",
-      "Le ordenó hacer una guerra inmediata contra los filisteos",
-      "Le advirtió que debía hacer un sacrificio de agradecimiento a Dios inmediatamente",
-    ],
-    justifications: {
-      correct_answer:
-        "Samuel instruyó a Saúl para que esperara siete días en Gilgal antes de ofrecer sacrificios, como una prueba de su obediencia.",
-      incorrect_answers: [
-        "Samuel no acompañó a Saúl a su casa, sino que le dio instrucciones claras sobre cómo proceder.",
-        "No se le ordenó una guerra inmediata, sino que primero debía esperar para ofrecer sacrificios.",
-        "No se le pidió hacer un sacrificio inmediato, sino que se le dio instrucciones de esperar antes de ofrecer sacrificios.",
-      ],
-    },
-  },
-  {
-    id: 1971,
-    difficulty: "Difícil",
-    question:
-      "¿Qué hizo Saúl cuando Samuel no llegó a tiempo para ofrecer sacrificios?",
-    category: profetas,
-    correct_answer:
-      "Ofreció él mismo los sacrificios, desobedeciendo las instrucciones de Samuel",
-    incorrect_answers: [
-      "Esperó pacientemente y no ofreció ningún sacrificio sin la presencia de Samuel",
-      "Envió a alguien a buscar a Samuel y continuó esperando",
-      "Rechazó la oferta de sacrificar y decidió buscar otra solución",
-    ],
-    justifications: {
-      correct_answer:
-        "Saúl, impacientado, ofreció los sacrificios él mismo, lo que representó una desobediencia a las instrucciones de Samuel.",
-      incorrect_answers: [
-        "Saúl no esperó pacientemente, sino que actuó por sí mismo sin esperar la llegada de Samuel.",
-        "No envió a nadie a buscar a Samuel, sino que actuó por su cuenta al no esperar más.",
-        "Saúl no rechazó la oferta, sino que actuó impulsivamente y ofreció los sacrificios por sí mismo.",
-      ],
-    },
-  },
-  {
-    id: 1972,
-    difficulty: "Media",
-    question:
-      "¿Qué le dijo Samuel a Saúl después de que él desobedeciera y ofreciera sacrificios?",
-    category: profetas,
-    correct_answer:
-      "Que su reino no perduraría y que Dios buscaría otro rey mejor que él",
-    incorrect_answers: [
-      "Que Dios lo perdonaría si arrepentía y dejaría de hacer sacrificios",
-      "Que su reinado sería grandemente bendecido a pesar de su error",
-      "Que sería castigado severamente por desobedecer las instrucciones de Samuel",
-    ],
-    justifications: {
-      correct_answer:
-        "Samuel le dijo a Saúl que por su desobediencia, Dios lo rechazaría como rey y buscaría a otro hombre según su corazón.",
-      incorrect_answers: [
-        "No se le prometió perdón inmediato, sino que la desobediencia tuvo consecuencias a largo plazo.",
-        "El reinado de Saúl no fue bendecido después de su desobediencia, sino que se le prometió un cambio de liderazgo.",
-        "No hubo un castigo inmediato, sino una declaración de que su reinado terminaría y que otro tomaría su lugar.",
-      ],
-    },
-  },
-  //Isaías
 
-  {
-    id: 1973,
-    difficulty: "Media",
-    question: "¿Cómo describe Isaías a la ciudad de Jerusalén en sus visiones?",
-    category: profetas,
-    correct_answer:
-      "Una ciudad que ha sido purificada, pero que aún enfrenta juicios divinos",
-    incorrect_answers: [
-      "Una ciudad llena de riquezas, donde todos los habitantes viven en paz",
-      "Una ciudad destruida y olvidada por completo por Dios",
-      "Una ciudad que está a punto de ser destruida por completo sin esperanza de redención",
-    ],
-    justifications: {
-      correct_answer:
-        "Isaías describe a Jerusalén como una ciudad que, aunque purificada por el juicio divino, aún enfrenta más castigos por su pecado.",
-      incorrect_answers: [
-        "Isaías no la describe como una ciudad rica y pacífica, sino como una que requiere purificación y juicio.",
-        "Aunque Jerusalén enfrenta juicio, no se presenta como destruida sin esperanza, sino que hay un remanente que será restaurado.",
-        "La ciudad no está a punto de ser destruida por completo sin esperanza, sino que después del juicio hay esperanza de restauración.",
-      ],
-    },
-  },
-  {
-    id: 1974,
-    difficulty: "Difícil",
-    question: "¿Qué mensaje importante transmite Isaías en el capítulo 53?",
-    category: profetas,
-    correct_answer:
-      "El sufrimiento del Mesías como un sacrificio por los pecados de la humanidad",
-    incorrect_answers: [
-      "La exaltación de un líder humano que traerá prosperidad a Israel",
-      "La condena de los pueblos extranjeros que oprimen a Israel",
-      "La destrucción total de Jerusalén como castigo por sus pecados",
-    ],
-    justifications: {
-      correct_answer:
-        "Isaías profetiza el sufrimiento del Siervo de Jehová, quien será un sacrificio por los pecados de las naciones.",
-      incorrect_answers: [
-        "El capítulo 53 no se refiere a un líder humano de Israel, sino al sufrimiento de un siervo divino.",
-        "Aunque Isaías menciona a las naciones extranjeras, el capítulo 53 se centra en el sufrimiento redentor del Mesías, no en la condena de otros pueblos.",
-        "Isaías no profetiza la destrucción total de Jerusalén en este capítulo, sino que se enfoca en el sacrificio del Mesías.",
-      ],
-    },
-  },
-  {
-    id: 1975,
-    difficulty: "Media",
-    question:
-      "¿Qué imagen utiliza Isaías para describir el futuro reino de Dios?",
-    category: profetas,
-    correct_answer:
-      "Un reino de paz donde los animales y los humanos vivirán en armonía",
-    incorrect_answers: [
-      "Un reino lleno de riquezas materiales que satisfarán todos los deseos de los habitantes",
-      "Un reino donde solo los justos vivirán, excluyendo a todos los demás",
-      "Un reino que se establece a través de la violencia y la conquista de las naciones",
-    ],
-    justifications: {
-      correct_answer:
-        "Isaías usa imágenes de paz y armonía entre los animales y los seres humanos, como parte del reino de Dios.",
-      incorrect_answers: [
-        "Isaías no describe el reino de Dios como un lugar de riquezas materiales, sino como uno de paz y justicia.",
-        "El reino de Dios no excluye a los demás, sino que se ofrece a todos los pueblos a través del Mesías.",
-        "Isaías no habla de un reino impuesto por la violencia, sino de un reino que viene con la justicia y la paz del Mesías.",
-      ],
-    },
-  },
-  {
-    id: 1976,
-    difficulty: "Difícil",
-    question:
-      "¿Qué le promete Dios a Isaías en el capítulo 6 cuando lo llama a ser su profeta?",
-    category: profetas,
-    correct_answer:
-      "Que irá a predicar a un pueblo que no entenderá ni escuchará su mensaje",
-    incorrect_answers: [
-      "Que será escuchado por todo el pueblo y que su mensaje traerá una gran transformación inmediata",
-      "Que su ministerio será corto, pero muy exitoso en términos de número de conversos",
-      "Que todos los reyes de Israel y Judá escucharán sus palabras y se arrepentirán",
-    ],
-    justifications: {
-      correct_answer:
-        "Isaías recibe la llamada a predicar a un pueblo que no escuchará, pero su mensaje tendrá un propósito divino de juicio y restauración.",
-      incorrect_answers: [
-        "Isaías no fue llamado a tener éxito inmediato, sino que su mensaje sería rechazado por muchos.",
-        "Isaías no fue prometido éxito numérico, sino que su ministerio tendría desafíos debido a la dureza del corazón del pueblo.",
-        "No se le prometió que todos los reyes se arrepentirían, sino que su mensaje se daría a un pueblo en constante desobediencia.",
-      ],
-    },
-  },
-  {
-    id: 1977,
-    difficulty: "Media",
-    question: "¿Qué profecía clave sobre el Mesías aparece en Isaías 7:14?",
-    category: profetas,
-    correct_answer:
-      "Una virgen concebirá y dará a luz un hijo, llamado Emanuel",
-    incorrect_answers: [
-      "El Mesías nacerá en una ciudad pequeña, sin importancia, en el norte de Israel",
-      "El Mesías será un líder militar que traerá la victoria sobre los enemigos de Israel",
-      "El Mesías será un rey que vivirá una vida lujosa y gobernará con gran poder",
-    ],
-    justifications: {
-      correct_answer:
-        "Isaías 7:14 predice el nacimiento del Mesías, un niño llamado Emanuel, nacido de una virgen, como un signo de esperanza para Israel.",
-      incorrect_answers: [
-        "El Mesías no se describe como un líder militar en esta profecía, sino como un niño nacido de una virgen.",
-        "Isaías no habla de un Mesías que vivirá en lujo, sino de uno que traerá salvación espiritual.",
-        "El Mesías no se presenta como un líder militar en Isaías 7:14, sino como un signo de la presencia de Dios con su pueblo.",
-      ],
-    },
-  },
-  {
-    id: 1978,
-    difficulty: "Difícil",
-    question:
-      "¿Qué advierte Isaías acerca de las riquezas y la vanidad de los hombres en el capítulo 2?",
-    category: profetas,
-    correct_answer:
-      "Que las riquezas y la vanidad serán destruidas cuando Dios venga a juzgar la tierra",
-    incorrect_answers: [
-      "Que las riquezas serán bendición para aquellos que siguen a Dios, pero traerán castigo para los malvados",
-      "Que las riquezas y la vanidad son signos de la bendición divina y deben ser buscadas por los fieles",
-      "Que las riquezas solo afectan a aquellos que se apartan de la fe, pero no influencian a los justos",
-    ],
-    justifications: {
-      correct_answer:
-        "Isaías advierte que las riquezas y la vanidad serán destruidas en el juicio divino cuando Dios venga a juzgar la tierra.",
-      incorrect_answers: [
-        "Isaías no promueve la acumulación de riquezas, sino que advierte sobre su destrucción en el juicio.",
-        "Isaías no ve las riquezas como una bendición para los justos, sino como un peligro cuando se ponen en primer lugar.",
-        "No es que las riquezas solo afecten a los malvados, sino que todo lo vano será juzgado en el juicio divino.",
-      ],
-    },
-  },
-  {
-    id: 1979,
-    difficulty: "Media",
-    question:
-      "¿Qué visión de esperanza da Isaías acerca del futuro de Jerusalén en el capítulo 60?",
-    category: profetas,
-    correct_answer:
-      "Que Jerusalén será el centro de la luz y la gloria de Dios, atrayendo a todas las naciones",
-    incorrect_answers: [
-      "Que Jerusalén será destruida y nunca se levantará nuevamente",
-      "Que Jerusalén se convertirá en una ciudad de riquezas materiales, pero perderá su pureza espiritual",
-      "Que Jerusalén será olvidada por Dios y solo los justos sobrevivirán fuera de ella",
-    ],
-    justifications: {
-      correct_answer:
-        "Isaías 60 presenta una visión de Jerusalén como el centro de la gloria de Dios, donde todas las naciones serán atraídas por su luz.",
-      incorrect_answers: [
-        "Isaías no profetiza la destrucción total de Jerusalén, sino su restauración y resplandor futuro.",
-        "Jerusalén no se convertirá solo en una ciudad material, sino que será el centro de la gloria de Dios.",
-        "Jerusalén no será olvidada por Dios, sino que será un faro de luz para todas las naciones.",
-      ],
-    },
-  },
+    //Samuel
 
-  //Jeremías
 
-  {
-    id: 1980,
-    difficulty: "Media",
-    question: "¿Qué le pide Dios a Jeremías en su llamado como profeta?",
-    category: profetas,
-    correct_answer:
-      "Que sea su portavoz y declare su mensaje a un pueblo rebelde",
-    incorrect_answers: [
-      "Que establezca un reino de justicia y gobierne sobre los pueblos",
-      "Que predique un mensaje de prosperidad material y bendiciones inmediatas",
-      "Que se retire a un lugar apartado y evite enfrentar a los líderes corruptos",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios llama a Jeremías a ser su portavoz, a hablar el mensaje divino a un pueblo obstinado y rebelde.",
-      incorrect_answers: [
-        "Jeremías no fue llamado a gobernar, sino a ser un profeta del juicio y la restauración.",
-        "El mensaje de Jeremías no era de prosperidad material, sino de arrepentimiento y juicio.",
-        "Dios no le pide a Jeremías que se retire, sino que enfrente valientemente la oposición.",
-      ],
-    },
-  },
-  {
-    id: 1981,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo reacciona Jeremías ante la dureza del corazón del pueblo de Judá?",
-    category: profetas,
-    correct_answer: "Llorando y lamentándose por la desobediencia de su pueblo",
-    incorrect_answers: [
-      "Con ira, condenando a todos los habitantes de Judá sin excepción",
-      "Con indiferencia, enfocándose solo en cumplir su misión sin mostrar emociones",
-      "Con satisfacción, viendo cómo los juicios divinos se cumplen en su pueblo",
-    ],
-    justifications: {
-      correct_answer:
-        "Jeremías se lamenta profundamente por la dureza de su pueblo, mostrando empatía por su sufrimiento y desobediencia.",
-      incorrect_answers: [
-        "Jeremías no responde con ira, sino con tristeza y preocupación por la desobediencia de Judá.",
-        "Jeremías no es indiferente; su llamado es doloroso para él debido a la dura resistencia del pueblo.",
-        "No se muestra satisfecho, ya que él prefiere la restauración de su pueblo, no su destrucción.",
-      ],
-    },
-  },
-  {
-    id: 1982,
-    difficulty: "Media",
-    question: "¿Qué metáfora usa Jeremías para describir el pecado de Israel?",
-    category: profetas,
-    correct_answer: "Una vasija rota que no puede ser restaurada",
-    incorrect_answers: [
-      "Una puerta cerrada que nunca será abierta",
-      "Una corona de oro que ha perdido su brillo",
-      "Una espada que se ha doblado y no puede cortar",
-    ],
-    justifications: {
-      correct_answer:
-        "Jeremías usa la metáfora de una vasija rota para ilustrar cómo el pecado ha hecho que Israel sea irremediablemente dañado.",
-      incorrect_answers: [
-        "La metáfora de una puerta cerrada no refleja el daño irreversible del pecado de Israel.",
-        "La corona de oro no es la metáfora principal de Jeremías para el pecado, aunque menciona el desdén de Dios por las vanidades.",
-        "La espada doblada no describe la situación de Israel como la vasija rota, que es irreparable sin intervención divina.",
-      ],
-    },
-  },
-  {
-    id: 1983,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo responde Dios cuando Jeremías le pide que no lo envíe a predicar más?",
-    category: profetas,
-    correct_answer:
-      "Le recuerda que su palabra es como fuego en sus huesos, y no puede callar",
-    incorrect_answers: [
-      "Le promete que su tarea será fácil y que todos escucharán su mensaje",
-      "Le dice que abandonará su misión, ya que comprende su dolor",
-      "Le ordena que se aleje por completo del pueblo y no regrese nunca más",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios responde a Jeremías diciendo que su palabra es como fuego en sus huesos, y no puede dejar de predicar, a pesar del sufrimiento.",
-      incorrect_answers: [
-        "Dios no le promete facilidad, sino que lo llama a perseverar, aún cuando la tarea es dura.",
-        "Dios no abandona a Jeremías, sino que lo anima a seguir adelante con su misión.",
-        "Dios no le ordena a Jeremías que se aleje, sino que le da la fuerza para seguir predicando.",
-      ],
-    },
-  },
-  {
-    id: 1984,
-    difficulty: "Media",
-    question:
-      "¿Qué símbolo utiliza Jeremías para ilustrar el juicio inminente sobre Judá?",
-    category: profetas,
-    correct_answer: "Un caldero hirviendo que se derramará sobre el país",
-    incorrect_answers: [
-      "Una nube oscura que traerá lluvia para sanar la tierra",
-      "Una espada que cortará los lazos de la maldad en Judá",
-      "Una flor marchita que caerá al suelo y no se levantará más",
-    ],
-    justifications: {
-      correct_answer:
-        "Jeremías usa la imagen de un caldero hirviendo que se derrama sobre Judá para simbolizar el juicio inminente de Dios sobre su pecado.",
-      incorrect_answers: [
-        "La nube oscura no representa el juicio, sino más bien una imagen de purificación o restauración.",
-        "La espada es una imagen usada en otros contextos, pero el caldero es el símbolo más claro para ilustrar el juicio divino.",
-        "La flor marchita no refleja el juicio inminente de Dios, sino más bien la consecuencia del pecado.",
-      ],
-    },
-  },
-  {
-    id: 1985,
-    difficulty: "Difícil",
-    question:
-      "¿Qué promesas de restauración da Dios a Jeremías para el futuro de Israel?",
-    category: profetas,
-    correct_answer:
-      "Un nuevo pacto, escrito en sus corazones, donde todos conocerán al Señor",
-    incorrect_answers: [
-      "Una victoria militar definitiva sobre todas las naciones vecinas",
-      "La prosperidad material inmediata para el pueblo de Israel",
-      "El retorno al antiguo reino de David sin ningún conflicto futuro",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios promete un nuevo pacto que será interiorizado por su pueblo, marcando un cambio profundo en la relación con Él.",
-      incorrect_answers: [
-        "Aunque Dios promete restauración, no la vincula directamente con una victoria militar, sino con un corazón transformado.",
-        "La prosperidad material no es la promesa central, sino la renovación espiritual del pueblo.",
-        "El retorno a un reino perfecto no es parte de la promesa inmediata, sino que se centra en la restauración espiritual del pueblo.",
-      ],
-    },
-  },
+    
+      {
+        id: 1976,
+        difficulty: "Difícil",
+        question: "¿Qué señal le dio Dios a Samuel para confirmar su llamado como profeta?",
+        category: profetas,
+        correct_answer: "Le habló directamente en el templo",
+        incorrect_answers: [
+          "Le mostró una visión de fuego",
+          "Le envió un ángel visible",
+          "Le dio un sueño profético",
+        ],
+        justifications: {
+          correct_answer:
+            "Dios llamó a Samuel por su nombre en el templo, confirmando su llamado como profeta.",
+          incorrect_answers: [
+            "No hubo una visión de fuego en este relato.",
+            "No se menciona un ángel visible en este contexto.",
+            "El llamado no fue a través de un sueño.",
+          ],
+        },
+      },
+      {
+        id: 1977,
+        difficulty: "Medio",
+        question: "¿Qué hizo Samuel cuando escuchó la voz de Dios por primera vez?",
+        category: profetas,
+        correct_answer: "Fue a consultar a Elí",
+        incorrect_answers: [
+          "Ignoró la voz pensando que era un sueño",
+          "Huyó del templo asustado",
+          "Respondió inmediatamente a Dios",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel no reconoció la voz de Dios al principio y fue a consultar a Elí, quien le explicó que era Dios quien lo llamaba.",
+          incorrect_answers: [
+            "No ignoró la voz, sino que buscó entenderla.",
+            "No huyó del templo.",
+            "No respondió inmediatamente, sino después de consultar a Elí.",
+          ],
+        },
+      },
+      {
+        id: 1978,
+        difficulty: "Fácil",
+        question: "¿Quién fue el mentor de Samuel en el templo?",
+        category: profetas,
+        correct_answer: "Elí",
+        incorrect_answers: ["Saúl", "David", "Moisés"],
+        justifications: {
+          correct_answer:
+            "Elí fue el sacerdote que cuidó de Samuel en el templo y lo guió en sus primeros años.",
+          incorrect_answers: [
+            "Saúl fue ungido por Samuel, no su mentor.",
+            "David fue posterior a Samuel.",
+            "Moisés vivió mucho antes que Samuel.",
+          ],
+        },
+      },
+      {
+        id: 1979,
+        difficulty: "Difícil",
+        question: "¿Qué mensaje le dio Samuel a Elí sobre el futuro de su familia?",
+        category: profetas,
+        correct_answer: "Que su descendencia perdería el sacerdocio",
+        incorrect_answers: [
+          "Que su familia sería bendecida eternamente",
+          "Que su hijo lo sucedería como sacerdote",
+          "Que su linaje gobernaría Israel",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel le dijo a Elí que su familia perdería el sacerdocio debido a la maldad de sus hijos.",
+          incorrect_answers: [
+            "No hubo una bendición eterna para su familia.",
+            "Sus hijos no lo sucederían debido a su maldad.",
+            "No se menciona que su linaje gobernaría Israel.",
+          ],
+        },
+      },
+      {
+        id: 1980,
+        difficulty: "Medio",
+        question: "¿Qué hizo Samuel después de que los filisteos capturaron el arca de Dios?",
+        category: profetas,
+        correct_answer: "Lloró y clamó a Dios por Israel",
+        incorrect_answers: [
+          "Guió al pueblo en una batalla",
+          "Maldijo a los filisteos",
+          "Se escondió por temor",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel se entristeció profundamente y clamó a Dios por la situación de Israel.",
+          incorrect_answers: [
+            "No guió una batalla en ese momento.",
+            "No maldijo a los filisteos.",
+            "No se escondió, sino que actuó como intercesor.",
+          ],
+        },
+      },
+      {
+        id: 1981,
+        difficulty: "Fácil",
+        question: "¿Qué función principal tenía Samuel en Israel?",
+        category: profetas,
+        correct_answer: "Profeta y juez",
+        incorrect_answers: ["Rey", "Sacerdote principal", "Guerrero"],
+        justifications: {
+          correct_answer:
+            "Samuel fue un profeta y el último juez de Israel antes de la monarquía.",
+          incorrect_answers: [
+            "No fue rey, aunque ungió a los primeros reyes.",
+            "No era el sacerdote principal, aunque sirvió en el templo.",
+            "No era principalmente un guerrero.",
+          ],
+        },
+      },
+      {
+        id: 1982,
+        difficulty: "Difícil",
+        question: "¿Qué lección enseña la historia de Samuel y Elí sobre la obediencia a Dios?",
+        category: profetas,
+        correct_answer: "La importancia de escuchar y obedecer a Dios sin demora",
+        incorrect_answers: [
+          "Que Dios no castiga a los desobedientes",
+          "Que los líderes religiosos son infalibles",
+          "Que la desobediencia no tiene consecuencias",
+        ],
+        justifications: {
+          correct_answer:
+            "La historia muestra que escuchar y obedecer a Dios es crucial, como lo hizo Samuel, a diferencia de los hijos de Elí.",
+          incorrect_answers: [
+            "Dios sí castigó a los hijos de Elí por su desobediencia.",
+            "Los líderes religiosos no son infalibles, como lo muestra Elí.",
+            "La desobediencia tuvo graves consecuencias para la familia de Elí.",
+          ],
+        },
+      },
+      {
+        id: 1983,
+        difficulty: "Medio",
+        question: "¿Qué hizo Samuel cuando el pueblo de Israel pidió un rey?",
+        category: profetas,
+        correct_answer: "Consultó a Dios y ungió a Saúl",
+        incorrect_answers: [
+          "Se negó y los reprendió",
+          "Declaró que él sería su rey",
+          "Abandonó su rol como profeta",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel consultó a Dios, quien le indicó ungir a Saúl como el primer rey de Israel.",
+          incorrect_answers: [
+            "No se negó, sino que siguió las instrucciones de Dios.",
+            "No declaró ser rey, ya que no era su rol.",
+            "No abandonó su rol como profeta.",
+          ],
+        },
+      },
+      {
+        id: 1984,
+        difficulty: "Fácil",
+        question: "¿Qué relación tenía Samuel con el rey David?",
+        category: profetas,
+        correct_answer: "Lo ungió como futuro rey de Israel",
+        incorrect_answers: [
+          "Fue su padre espiritual",
+          "Fue su enemigo declarado",
+          "Fue su consejero principal",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel ungió a David como futuro rey de Israel por mandato de Dios.",
+          incorrect_answers: [
+            "No fue su padre espiritual en el sentido literal.",
+            "No fue su enemigo, sino su mentor.",
+            "No fue su consejero principal, aunque lo apoyó.",
+          ],
+        },
+      },
+      {
+        id: 1985,
+        difficulty: "Difícil",
+        question: "¿Qué simboliza la unción de David por parte de Samuel?",
+        category: profetas,
+        correct_answer: "La elección divina de un líder conforme al corazón de Dios",
+        incorrect_answers: [
+          "El fin de la monarquía en Israel",
+          "La derrota de los filisteos",
+          "El inicio de una era de paz eterna",
+        ],
+        justifications: {
+          correct_answer:
+            "La unción de David simboliza que Dios elige a líderes conforme a su corazón, no por apariencias.",
+          incorrect_answers: [
+            "No marcó el fin de la monarquía, sino su continuidad.",
+            "No se relaciona directamente con la derrota de los filisteos.",
+            "No inició una era de paz eterna, sino de grandes desafíos.",
+          ],
+        },
+      },
+      {
+        id: 1986,
+        difficulty: "Medio",
+        question: "¿Qué hizo Samuel cuando Saúl desobedeció a Dios?",
+        category: profetas,
+        correct_answer: "Lo reprendió y anunció que perdería el trono",
+        incorrect_answers: [
+          "Lo apoyó para que rectificara",
+          "Lo perdonó sin consecuencias",
+          "Lo ignoró y siguió adelante",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel reprendió a Saúl y le anunció que perdería el trono por su desobediencia.",
+          incorrect_answers: [
+            "No lo apoyó, sino que lo confrontó.",
+            "No lo perdonó sin consecuencias.",
+            "No lo ignoró, sino que actuó como profeta.",
+          ],
+        },
+      },
+      {
+        id: 1987,
+        difficulty: "Fácil",
+        question: "¿Qué hizo Samuel antes de morir?",
+        category: profetas,
+        correct_answer: "Reunió al pueblo y les recordó seguir a Dios",
+        incorrect_answers: [
+          "Ungió a Salomón como rey",
+          "Luchó en una batalla final",
+          "Escribió un libro de la Biblia",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel reunió al pueblo y les recordó la importancia de seguir a Dios antes de su muerte.",
+          incorrect_answers: [
+            "No ungió a Salomón, ya que David aún era rey.",
+            "No luchó en una batalla final.",
+            "No escribió un libro de la Biblia.",
+          ],
+        },
+      },
+      {
+        id: 1988,
+        difficulty: "Difícil",
+        question: "¿Qué lección enseña la vida de Samuel sobre el liderazgo espiritual?",
+        category: profetas,
+        correct_answer: "La importancia de ser fiel a Dios en todo momento",
+        incorrect_answers: [
+          "Que el liderazgo se basa en el poder militar",
+          "Que los líderes no necesitan ser humildes",
+          "Que la popularidad es más importante que la obediencia",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel demostró que un líder espiritual debe ser fiel a Dios en todo momento.",
+          incorrect_answers: [
+            "Su liderazgo no se basó en el poder militar.",
+            "Samuel fue un líder humilde y obediente.",
+            "No buscó popularidad, sino obedecer a Dios.",
+          ],
+        },
+      },
+      {
+        id: 1989,
+        difficulty: "Medio",
+        question: "¿Qué hizo Samuel cuando el arca de Dios fue devuelta por los filisteos?",
+        category: profetas,
+        correct_answer: "Dirigió al pueblo en adoración y sacrificios",
+        incorrect_answers: [
+          "La escondió para protegerla",
+          "La llevó a su casa personal",
+          "La destruyó por temor a los filisteos",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel dirigió al pueblo en adoración y sacrificios cuando el arca fue devuelta.",
+          incorrect_answers: [
+            "No la escondió, sino que la usó para adorar.",
+            "No la llevó a su casa personal.",
+            "No la destruyó, sino que la honró.",
+          ],
+        },
+      },
+      {
+        id: 1990,
+        difficulty: "Fácil",
+        question: "¿Qué hizo Samuel cuando Saúl fue rechazado como rey?",
+        category: profetas,
+        correct_answer: "Ungió a David como el próximo rey",
+        incorrect_answers: [
+          "Declaró que no habría más reyes",
+          "Se convirtió en rey él mismo",
+          "Abandonó su rol como profeta",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel ungió a David como el próximo rey después de que Saúl fuera rechazado.",
+          incorrect_answers: [
+            "No declaró el fin de la monarquía.",
+            "No se convirtió en rey.",
+            "No abandonó su rol como profeta.",
+          ],
+        },
+      },
+      {
+        id: 1991,
+        difficulty: "Difícil",
+        question: "¿Qué simboliza el arca de Dios en la vida de Samuel?",
+        category: profetas,
+        correct_answer: "La presencia y el poder de Dios entre su pueblo",
+        incorrect_answers: [
+          "Un objeto de valor material",
+          "Un símbolo de derrota",
+          "Un artefacto sin importancia",
+        ],
+        justifications: {
+          correct_answer:
+            "El arca simbolizaba la presencia y el poder de Dios, algo central en la vida de Samuel.",
+          incorrect_answers: [
+            "No era solo un objeto de valor material.",
+            "No simbolizaba derrota, sino la gloria de Dios.",
+            "Era un artefacto de gran importancia espiritual.",
+          ],
+        },
+      },
+      {
+        id: 1992,
+        difficulty: "Medio",
+        question: "¿Qué hizo Samuel cuando el pueblo se arrepintió de pedir un rey?",
+        category: profetas,
+        correct_answer: "Los animó a seguir sirviendo a Dios",
+        incorrect_answers: [
+          "Los reprendió severamente",
+          "Los abandonó en su desesperación",
+          "Les dijo que era demasiado tarde",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel los animó a seguir sirviendo a Dios a pesar de sus errores.",
+          incorrect_answers: [
+            "No los reprendió severamente, sino que los guió.",
+            "No los abandonó, sino que los apoyó.",
+            "No les dijo que era demasiado tarde.",
+          ],
+        },
+      },
+      {
+        id: 1993,
+        difficulty: "Fácil",
+        question: "¿Qué hizo Samuel cuando Dios le dijo que ungiera a David?",
+        category: profetas,
+        correct_answer: "Obedeció y lo ungió en Belén",
+        incorrect_answers: [
+          "Dudó y pidió una señal",
+          "Se negó porque David era joven",
+          "Esperó a que Saúl muriera",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel obedeció a Dios y ungió a David en Belén como futuro rey.",
+          incorrect_answers: [
+            "No dudó, sino que obedeció de inmediato.",
+            "No se negó por la edad de David.",
+            "No esperó a que Saúl muriera.",
+          ],
+        },
+      },
+      {
+        id: 1994,
+        difficulty: "Difícil",
+        question: "¿Qué lección enseña la relación de Samuel con Saúl sobre el liderazgo?",
+        category: profetas,
+        correct_answer: "Que la obediencia a Dios es más importante que el poder",
+        incorrect_answers: [
+          "Que el liderazgo se basa en la fuerza militar",
+          "Que los errores no tienen consecuencias",
+          "Que la popularidad es clave para gobernar",
+        ],
+        justifications: {
+          correct_answer:
+            "La relación muestra que la obediencia a Dios es fundamental, a diferencia de Saúl, quien desobedeció.",
+          incorrect_answers: [
+            "El liderazgo no se basó en la fuerza militar.",
+            "Los errores de Saúl tuvieron graves consecuencias.",
+            "La popularidad no fue lo más importante para Samuel.",
+          ],
+        },
+      },
+      {
+        id: 1995,
+        difficulty: "Medio",
+        question: "¿Qué hizo Samuel cuando el pueblo lo acusó de mal liderazgo?",
+        category: profetas,
+        correct_answer: "Se defendió recordando su integridad",
+        incorrect_answers: [
+          "Renunció a su cargo inmediatamente",
+          "Los maldijo por sus acusaciones",
+          "Abandonó al pueblo en silencio",
+        ],
+        justifications: {
+          correct_answer:
+            "Samuel se defendió recordando al pueblo su integridad y servicio fiel.",
+          incorrect_answers: [
+            "No renunció, sino que confrontó las acusaciones.",
+            "No los maldijo, sino que los confrontó con la verdad.",
+            "No abandonó al pueblo, sino que siguió guiándolo.",
+          ],
+        },
+      },
 
-  //Ezequiel
 
-  {
-    id: 1986,
-    difficulty: "Media",
-    question:
-      "¿Cómo describe Ezequiel la visión de los cuatro seres vivientes?",
-    category: profetas,
-    correct_answer:
-      "Como criaturas con rostros de hombre, león, buey y águila, con alas extendidas",
-    incorrect_answers: [
-      "Como ángeles con rostros brillantes y alas doradas, rodeados de fuego",
-      "Como seres de fuego con cabezas de serpiente y cuerpos de hierro",
-      "Como cuatro grandes columnas de luz, cada una con un animal distinto",
-    ],
-    justifications: {
-      correct_answer:
-        "Ezequiel describe una visión compleja de seres con cuatro rostros diferentes y alas, representando la diversidad y la majestad de la obra de Dios.",
-      incorrect_answers: [
-        "La descripción de los seres no incluye ángeles ni fuego; la visión está relacionada con la presencia de Dios en su gloria.",
-        "No se mencionan serpientes ni cuerpos de hierro en la visión de Ezequiel, sino seres con características específicas y simbólicas.",
-        "Las columnas de luz no corresponden a la descripción de los seres vivientes, que tienen rostro humano y de animales.",
-      ],
-    },
-  },
-  {
-    id: 1987,
-    difficulty: "Difícil",
-    question:
-      "¿Qué símbolo usa Ezequiel para representar la desobediencia de Israel?",
-    category: profetas,
-    correct_answer: "Una prostituta que se ha entregado a otros dioses",
-    incorrect_answers: [
-      "Un árbol que se seca por la falta de agua",
-      "Un campo de grano que no da fruto debido al pecado",
-      "Un río que se desvía y pierde su curso por la corrupción",
-    ],
-    justifications: {
-      correct_answer:
-        "Ezequiel usa la imagen de una prostituta para mostrar cómo Israel se ha entregado a la idolatría y la desobediencia contra Dios.",
-      incorrect_answers: [
-        "Aunque Ezequiel usa otras imágenes de sequedad y vacío, la prostitución es la más clara para ilustrar la infidelidad espiritual.",
-        "El campo de grano o el río no son los símbolos más destacados de Ezequiel para la rebelión de Israel.",
-        "El enfoque de Ezequiel sobre la desobediencia no se centra en la falta de frutos, sino en el acto de traición espiritual.",
-      ],
-    },
-  },
-  {
-    id: 1988,
-    difficulty: "Media",
-    question:
-      "¿Qué mensaje le da Dios a Ezequiel sobre la dureza de corazón del pueblo?",
-    category: profetas,
-    correct_answer:
-      "Que les dará un corazón de carne en lugar de uno de piedra",
-    incorrect_answers: [
-      "Que les ofrecerá una oportunidad más para arrepentirse sin consecuencias",
-      "Que les cambiará su destino por completo, eliminando cualquier castigo",
-      "Que los castigará de manera definitiva, sin opción de perdón",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios promete transformar el corazón de los israelitas, quitándoles su corazón de piedra para darles uno de carne, dispuesto a arrepentirse.",
-      incorrect_answers: [
-        "El pueblo no recibe una oportunidad sin consecuencias, sino que se les ofrece una transformación espiritual.",
-        "El destino del pueblo no es borrado, sino que se les da la posibilidad de cambio a través de un nuevo corazón.",
-        "No se les castiga sin opción de perdón, sino que se les invita a arrepentirse y cambiar su actitud.",
-      ],
-    },
-  },
-  {
-    id: 1989,
-    difficulty: "Difícil",
-    question: "¿Qué visión tiene Ezequiel sobre la restauración del templo?",
-    category: profetas,
-    correct_answer:
-      "Una visión detallada de un templo glorioso y restaurado, con medidas exactas y un sistema de sacrificios renovado",
-    incorrect_answers: [
-      "Una visión de un templo celestial que reemplaza el físico, sin necesidad de sacrificios",
-      "Una visión de un templo destruido, sin esperanza de restauración futura",
-      "Una visión de un templo en ruinas, que nunca será reconstruido por el pueblo",
-    ],
-    justifications: {
-      correct_answer:
-        "Ezequiel recibe una visión sobre la restauración del templo, donde se muestran medidas precisas y el regreso a un sistema de sacrificios para la purificación de Israel.",
-      incorrect_answers: [
-        "El templo restaurado no es celestial, sino físico, y tiene implicaciones de sacrificios y purificación.",
-        "La visión no muestra el templo destruido sin esperanza, sino una restauración detallada del mismo.",
-        "Ezequiel no ve un templo en ruinas sin posibilidad de reconstrucción, sino uno renovado y lleno de gloria.",
-      ],
-    },
-  },
-  {
-    id: 1990,
-    difficulty: "Media",
-    question: "¿Cómo describe Ezequiel el juicio de las naciones?",
-    category: profetas,
-    correct_answer:
-      "Como un juicio de retribución, donde cada nación recibe lo que merece según sus acciones",
-    incorrect_answers: [
-      "Como una purificación espiritual que traerá paz a todas las naciones sin castigo",
-      "Como una serie de batallas donde las naciones se destruirán mutuamente sin intervención divina",
-      "Como un perdón universal donde todos los pueblos serán aceptados sin excepción",
-    ],
-    justifications: {
-      correct_answer:
-        "Ezequiel describe el juicio de las naciones como un acto justo de retribución, donde cada nación paga por sus malas acciones.",
-      incorrect_answers: [
-        "El juicio no es solo purificación espiritual, sino también justicia retributiva por los pecados cometidos.",
-        "Las batallas no son el enfoque principal, sino el juicio divino sobre las acciones y la maldad de las naciones.",
-        "El perdón no es universal sin justicia, ya que las naciones deben arrepentirse para recibir misericordia.",
-      ],
-    },
-  },
-  {
-    id: 1991,
-    difficulty: "Difícil",
-    question: "¿Qué signo usa Ezequiel para simbolizar el asedio de Jerusalén?",
-    category: profetas,
-    correct_answer:
-      "Un ladrillo sobre el que dibuja la ciudad y lo pone bajo un cerco de hierro",
-    incorrect_answers: [
-      "Una espada rota que simboliza la pérdida de poder de Jerusalén",
-      "Una cesta llena de cadáveres para mostrar la desesperación",
-      "Una balanza rota que representa el juicio desequilibrado sobre Jerusalén",
-    ],
-    justifications: {
-      correct_answer:
-        "Ezequiel usa el ladrillo como símbolo de Jerusalén, representando el cerco y la destrucción que se avecina.",
-      incorrect_answers: [
-        "La espada rota no es el símbolo utilizado, sino un objeto más relacionado con el juicio, pero no el cerco de la ciudad.",
-        "La cesta de cadáveres no es la imagen principal que Ezequiel utiliza para el asedio, sino el ladrillo y el cerco.",
-        "La balanza rota no se usa para describir el asedio de Jerusalén, sino para hablar de la justicia desequilibrada en otros contextos.",
-      ],
-    },
-  },
-  {
-    id: 1992,
-    difficulty: "Media",
-    question:
-      "¿Qué mensaje de esperanza da Ezequiel a los exiliados de Israel?",
-    category: profetas,
-    correct_answer:
-      "Dios restaurará su tierra y les dará un corazón renovado para seguir sus mandamientos",
-    incorrect_answers: [
-      "Dios les llevará de regreso a su tierra sin ningún cambio en su corazón o actitud",
-      "Dios los recompensará con riquezas materiales y paz sin necesidad de arrepentimiento",
-      "Dios les dará una nueva ley que reemplazará completamente la antigua",
-    ],
-    justifications: {
-      correct_answer:
-        "Ezequiel ofrece esperanza al pueblo de Israel al asegurarles que Dios restaurará su tierra y les dará un corazón dispuesto a seguirlo.",
-      incorrect_answers: [
-        "La restauración no es solo un regreso físico, sino también un cambio espiritual profundo.",
-        "La recompensa no es material, sino una renovación espiritual y un corazón dispuesto al arrepentimiento.",
-        "La ley no es reemplazada, sino que el pueblo será renovado para seguir la ley que Dios ya les dio.",
-      ],
-    },
-  },
+      //Jeremías
 
-  // Daniel
 
-  {
-    id: 1992,
-    difficulty: "Media",
-    question: "¿Qué visión tuvo Daniel sobre el reino de los metales?",
-    category: profetas,
-    correct_answer:
-      "Un gran estatua que representaba los reinos sucesivos, con una piedra que la destruye",
-    incorrect_answers: [
-      "Una gran ciudad que se eleva desde la tierra, representando el reino celestial",
-      "Un árbol que crece hasta los cielos, simbolizando la prosperidad eterna",
-      "Un río que fluye hacia el mar, representando el poder de las naciones unidas",
-    ],
-    justifications: {
-      correct_answer:
-        "La visión de la estatua es fundamental, representando los diferentes imperios que dominarían la tierra antes del reino eterno de Dios.",
-      incorrect_answers: [
-        "La visión no habla de una ciudad, sino de una estatua que representa las sucesivas civilizaciones terrenales.",
-        "El árbol que crece hacia los cielos no es parte de la visión de Daniel, que es simbólica de los reinos políticos, no de la prosperidad espiritual.",
-        "El río no es un símbolo de los reinos, la estatua es la clave de la visión sobre los imperios sucesivos.",
-      ],
-    },
-  },
-  {
-    id: 1993,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo interpreta Daniel el sueño del rey Nabucodonosor sobre la estatua?",
-    category: profetas,
-    correct_answer:
-      "Daniel explica que la estatua representa los reinos sucesivos y su eventual destrucción por el reino de Dios",
-    incorrect_answers: [
-      "Daniel interpreta que la estatua es una representación del poder de Babilonia, que durará eternamente",
-      "Daniel afirma que la estatua predice una serie de catástrofes naturales que destruirán todos los imperios",
-      "Daniel revela que la estatua es un símbolo de la lucha espiritual interna dentro de cada nación",
-    ],
-    justifications: {
-      correct_answer:
-        "Daniel explica que cada parte de la estatua simboliza un imperio distinto, que será reemplazado por el reino eterno de Dios.",
-      incorrect_answers: [
-        "La estatua no predice la eternidad de Babilonia, sino la caída de todos los reinos representados en ella.",
-        "No es una interpretación de catástrofes naturales, sino de la sucesión de imperios hasta la instauración del reino de Dios.",
-        "La estatua no simboliza luchas espirituales internas, sino que describe imperios políticos sucesivos.",
-      ],
-    },
-  },
-  {
-    id: 1994,
-    difficulty: "Media",
-    question: "¿Qué hizo Daniel para interpretar los sueños de Nabucodonosor?",
-    category: profetas,
-    correct_answer:
-      "Oró a Dios para pedir revelación y recibió la interpretación del sueño",
-    incorrect_answers: [
-      "Consultó a los magos y sabios del reino, quienes le revelaron el significado del sueño",
-      "Leyó antiguos textos sagrados que contenían la interpretación exacta del sueño",
-      "Estudió las estrellas y los signos del cielo para obtener la respuesta a la visión",
-    ],
-    justifications: {
-      correct_answer:
-        "Daniel oró a Dios para obtener la revelación sobre el sueño, lo que le permitió interpretar correctamente lo que Dios le mostró.",
-      incorrect_answers: [
-        "Daniel no confió en los magos ni sabios del reino, sino en la revelación divina para obtener la interpretación.",
-        "No fue a textos sagrados antiguos, sino que dependió directamente de la inspiración de Dios.",
-        "La interpretación no vino de la astrología, sino de la intervención divina a través de la oración.",
-      ],
-    },
-  },
-  {
-    id: 1995,
-    difficulty: "Difícil",
-    question:
-      "¿Cuál es el significado de la visión de las cuatro bestias que Daniel recibe?",
-    category: profetas,
-    correct_answer:
-      "Representa cuatro imperios que dominarán el mundo, siendo el cuarto el más temible y destructivo",
-    incorrect_answers: [
-      "Es una visión sobre la lucha espiritual entre los ángeles caídos y los ángeles del cielo",
-      "Muestra la caída de las grandes naciones por la corrupción interna y la decadencia moral",
-      "Es una representación simbólica de los cuatro elementos naturales que gobiernan el universo",
-    ],
-    justifications: {
-      correct_answer:
-        "La visión de las bestias simboliza cuatro imperios que dominarán la tierra, siendo el último especialmente violento, antes de la instauración del reino de Dios.",
-      incorrect_answers: [
-        "La visión no se refiere a una lucha espiritual entre ángeles, sino a la sucesión de imperios terrenales.",
-        "Aunque la corrupción y la decadencia son temas importantes en las visiones de Daniel, la interpretación de las bestias se refiere a imperios políticos, no a la moralidad interna de las naciones.",
-        "Los elementos naturales no son el tema de la visión, sino los imperios que dominarán el mundo según el plan de Dios.",
-      ],
-    },
-  },
-  {
-    id: 1996,
-    difficulty: "Media",
-    question:
-      "¿Cómo respondió Daniel al decreto del rey Darío sobre la adoración?",
-    category: profetas,
-    correct_answer:
-      "Daniel siguió orando a Dios a pesar del decreto, siendo arrestado por su desobediencia",
-    incorrect_answers: [
-      "Daniel obedeció el decreto y dejó de orar a Dios para evitar el castigo",
-      "Daniel se rebeló violentamente contra el rey, rechazando su autoridad",
-      "Daniel buscó una manera secreta de orar a Dios sin que nadie lo notara",
-    ],
-    justifications: {
-      correct_answer:
-        "Daniel desobedeció el decreto porque su fidelidad a Dios era más importante, lo que resultó en su arresto y posterior liberación milagrosa.",
-      incorrect_answers: [
-        "Daniel no dejó de orar, a pesar de la amenaza, ya que su obediencia a Dios era su prioridad.",
-        "No hubo rebelión violenta; Daniel mantuvo su fe y confianza en Dios ante la persecución.",
-        "Daniel no trató de ocultar su oración, sino que continuó orando abiertamente como era su costumbre.",
-      ],
-    },
-  },
-  {
-    id: 1997,
-    difficulty: "Difícil",
-    question: "¿Qué visión tiene Daniel sobre el final de los tiempos?",
-    category: profetas,
-    correct_answer:
-      "Una visión de una resurrección de los muertos, con recompensa para los justos y castigo para los impíos",
-    incorrect_answers: [
-      "Una visión de una batalla entre las fuerzas del bien y el mal que traerá paz a la tierra",
-      "Una visión de un nuevo cielo y una nueva tierra donde no habrá más sufrimiento ni pecado",
-      "Una visión del juicio final donde todos serán perdonados sin distinción alguna",
-    ],
-    justifications: {
-      correct_answer:
-        "Daniel describe una visión del juicio final, donde los muertos serán resucitados y se les dará su recompensa o castigo según sus obras.",
-      incorrect_answers: [
-        "La visión no se centra en una batalla, sino en la resurrección y el juicio de los muertos.",
-        "No es una visión de la creación de un nuevo cielo y nueva tierra, sino un juicio basado en las obras de cada uno.",
-        "El juicio no es universalmente perdonador; los justos serán recompensados y los impíos castigados según su vida.",
-      ],
-    },
-  },
-  {
-    id: 1998,
-    difficulty: "Media",
-    question:
-      "¿Qué significa la 'pequeña piedra' que destruye la estatua en la visión de Daniel?",
-    category: profetas,
-    correct_answer:
-      "Es el reino de Dios que destruirá todos los imperios terrenales y será eterno",
-    incorrect_answers: [
-      "Es una referencia a un líder secular que traerá paz al mundo",
-      "Es un símbolo de la sabiduría que se extiende por toda la humanidad",
-      "Es un símbolo de la caída de un imperio menor ante los más poderosos",
-    ],
-    justifications: {
-      correct_answer:
-        "La pequeña piedra simboliza el reino de Dios, que destruirá todos los imperios humanos y reemplazará sus gobiernos con uno eterno y divino.",
-      incorrect_answers: [
-        "No es un líder secular, sino el reino eterno de Dios el que destruirá las estructuras humanas.",
-        "La piedra no es un símbolo de sabiduría, sino de la intervención divina que pone fin a los imperios terrenales.",
-        "No es la caída de un imperio menor, sino el final de todos los reinos terrenales al establecerse el reino de Dios.",
-      ],
-    },
-  },
 
-  //Oseas
+      
+        {
+          id: 1996,
+          difficulty: "Difícil",
+          question: "¿Qué simboliza el yugo que Jeremías llevó como señal profética?",
+          category: profetas,
+          correct_answer: "La sumisión de Judá a Babilonia",
+          incorrect_answers: [
+            "La liberación de Egipto",
+            "La independencia de Israel",
+            "La alianza con Asiria",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías llevó un yugo para simbolizar que Judá debía someterse a Babilonia como juicio de Dios.",
+            incorrect_answers: [
+              "No se relaciona con la liberación de Egipto.",
+              "No simboliza independencia, sino sumisión.",
+              "No representa una alianza con Asiria.",
+            ],
+          },
+        },
+        {
+          id: 1997,
+          difficulty: "Medio",
+          question: "¿Qué le dijo Jeremías al pueblo sobre el templo de Jerusalén?",
+          category: profetas,
+          correct_answer: "Que no confiaran en él como talismán de seguridad",
+          incorrect_answers: [
+            "Que lo destruyeran para evitar idolatría",
+            "Que lo expandieran para glorificar a Dios",
+            "Que lo abandonaran y huyeran a Egipto",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías advirtió que el templo no los salvaría si no se arrepentían de sus pecados.",
+            incorrect_answers: [
+              "No les dijo que lo destruyeran.",
+              "No les pidió que lo expandieran.",
+              "No les dijo que huyeran a Egipto en ese momento.",
+            ],
+          },
+        },
+        {
+          id: 1998,
+          difficulty: "Fácil",
+          question: "¿Qué hizo Jeremías cuando Dios lo llamó a ser profeta?",
+          category: profetas,
+          correct_answer: "Dudó por su juventud, pero obedeció",
+          incorrect_answers: [
+            "Huyó por miedo al rechazo",
+            "Se negó rotundamente",
+            "Aceptó sin cuestionar",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías dudó por su juventud, pero finalmente obedeció el llamado de Dios.",
+            incorrect_answers: [
+              "No huyó, sino que aceptó el llamado.",
+              "No se negó, sino que obedeció.",
+              "No aceptó sin cuestionar, sino que expresó sus dudas.",
+            ],
+          },
+        },
+        {
+          id: 1999,
+          difficulty: "Difícil",
+          question: "¿Qué lección enseña la vida de Jeremías sobre la fidelidad a Dios?",
+          category: profetas,
+          correct_answer: "Que ser fiel a Dios puede implicar sufrimiento y rechazo",
+          incorrect_answers: [
+            "Que la obediencia siempre trae prosperidad",
+            "Que los profetas son inmunes al dolor",
+            "Que Dios solo llama a los fuertes",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías sufrió rechazo y persecución, pero mantuvo su fidelidad a Dios.",
+            incorrect_answers: [
+              "La obediencia no siempre trae prosperidad terrenal.",
+              "Jeremías no fue inmune al dolor.",
+              "Dios llama a personas dispuestas, no necesariamente fuertes.",
+            ],
+          },
+        },
+        {
+          id: 2000,
+          difficulty: "Medio",
+          question: "¿Qué hizo Jeremías cuando el rey Joacim quemó su rollo profético?",
+          category: profetas,
+          correct_answer: "Dictó de nuevo las palabras de Dios a Baruc",
+          incorrect_answers: [
+            "Maldijo al rey y huyó",
+            "Renunció a su llamado como profeta",
+            "Guardó silencio por el resto de su vida",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías dictó de nuevo las palabras de Dios a Baruc, demostrando su perseverancia.",
+            incorrect_answers: [
+              "No maldijo al rey ni huyó.",
+              "No renunció a su llamado.",
+              "No guardó silencio, sino que continuó profetizando.",
+            ],
+          },
+        },
+        {
+          id: 2001,
+          difficulty: "Fácil",
+          question: "¿Qué nombre simbólico le puso Dios a Jeremías para su misión?",
+          category: profetas,
+          correct_answer: "Profeta para las naciones",
+          incorrect_answers: [
+            "Guerrero de la fe",
+            "Luz de Israel",
+            "Defensor del templo",
+          ],
+          justifications: {
+            correct_answer:
+              "Dios llamó a Jeremías 'profeta para las naciones', indicando su alcance universal.",
+            incorrect_answers: [
+              "No fue llamado 'guerrero de la fe'.",
+              "No fue llamado 'luz de Israel'.",
+              "No fue llamado 'defensor del templo'.",
+            ],
+          },
+        },
+        {
+          id: 2002,
+          difficulty: "Difícil",
+          question: "¿Qué simboliza la vasija del alfarero en el mensaje de Jeremías?",
+          category: profetas,
+          correct_answer: "La soberanía de Dios para moldear a su pueblo",
+          incorrect_answers: [
+            "La fragilidad de la vida humana",
+            "La necesidad de perfección en el servicio",
+            "La destrucción inevitable de Jerusalén",
+          ],
+          justifications: {
+            correct_answer:
+              "La vasija del alfarero simboliza que Dios tiene el poder de moldear y restaurar a su pueblo.",
+            incorrect_answers: [
+              "No se enfoca en la fragilidad de la vida.",
+              "No se refiere a la perfección en el servicio.",
+              "No simboliza solo destrucción, sino también restauración.",
+            ],
+          },
+        },
+        {
+          id: 2003,
+          difficulty: "Medio",
+          question: "¿Qué hizo Jeremías cuando fue arrojado a la cisterna?",
+          category: profetas,
+          correct_answer: "Fue rescatado por Ebed-melec, un funcionario etíope",
+          incorrect_answers: [
+            "Escapó por sus propios medios",
+            "Renunció a su mensaje profético",
+            "Murió en la cisterna",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías fue rescatado por Ebed-melec, quien intercedió ante el rey.",
+            incorrect_answers: [
+              "No escapó por sus propios medios.",
+              "No renunció a su mensaje.",
+              "No murió en la cisterna.",
+            ],
+          },
+        },
+        {
+          id: 2004,
+          difficulty: "Fácil",
+          question: "¿Qué le prometió Dios a Jeremías al llamarlo?",
+          category: profetas,
+          correct_answer: "Que estaría con él y lo protegería",
+          incorrect_answers: [
+            "Que sería aceptado por todos",
+            "Que no enfrentaría dificultades",
+            "Que su mensaje sería fácil de transmitir",
+          ],
+          justifications: {
+            correct_answer:
+              "Dios prometió a Jeremías que estaría con él y lo protegería en su misión.",
+            incorrect_answers: [
+              "No prometió que sería aceptado por todos.",
+              "No prometió que no enfrentaría dificultades.",
+              "No prometió que su mensaje sería fácil de transmitir.",
+            ],
+          },
+        },
+        {
+          id: 2005,
+          difficulty: "Difícil",
+          question: "¿Qué lección enseña el libro de Lamentaciones sobre Jeremías?",
+          category: profetas,
+          correct_answer: "Que el dolor puede coexistir con la esperanza en Dios",
+          incorrect_answers: [
+            "Que el sufrimiento es un castigo sin redención",
+            "Que Jerusalén nunca sería restaurada",
+            "Que Dios abandonó a su pueblo para siempre",
+          ],
+          justifications: {
+            correct_answer:
+              "El libro muestra que, a pesar del dolor, hay esperanza en la misericordia de Dios.",
+            incorrect_answers: [
+              "El sufrimiento no es un castigo sin redención.",
+              "Jerusalén sería restaurada en el futuro.",
+              "Dios no abandonó a su pueblo para siempre.",
+            ],
+          },
+        },
+        {
+          id: 2006,
+          difficulty: "Medio",
+          question: "¿Qué hizo Jeremías cuando el pueblo lo acusó de traición?",
+          category: profetas,
+          correct_answer: "Defendió su mensaje como palabra de Dios",
+          incorrect_answers: [
+            "Se retractó de sus profecías",
+            "Huyó a Egipto por seguridad",
+            "Guardó silencio para evitar conflictos",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías defendió su mensaje como palabra de Dios, a pesar de las acusaciones.",
+            incorrect_answers: [
+              "No se retractó de sus profecías.",
+              "No huyó a Egipto en ese momento.",
+              "No guardó silencio, sino que continuó profetizando.",
+            ],
+          },
+        },
+        {
+          id: 2007,
+          difficulty: "Fácil",
+          question: "¿Qué profetizó Jeremías sobre el exilio de Judá?",
+          category: profetas,
+          correct_answer: "Que duraría 70 años",
+          incorrect_answers: [
+            "Que sería permanente",
+            "Que duraría solo unos meses",
+            "Que nunca ocurriría",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías profetizó que el exilio de Judá a Babilonia duraría 70 años.",
+            incorrect_answers: [
+              "No sería permanente, sino temporal.",
+              "No duraría solo unos meses.",
+              "El exilio sí ocurrió, como él profetizó.",
+            ],
+          },
+        },
+        {
+          id: 2008,
+          difficulty: "Difícil",
+          question: "¿Qué simboliza el cinturón de lino en el mensaje de Jeremías?",
+          category: profetas,
+          correct_answer: "La corrupción espiritual de Judá",
+          incorrect_answers: [
+            "La pureza del sacerdocio",
+            "La riqueza de Jerusalén",
+            "La unidad de las tribus de Israel",
+          ],
+          justifications: {
+            correct_answer:
+              "El cinturón de lino simbolizaba la corrupción espiritual de Judá, que se había arruinado.",
+            incorrect_answers: [
+              "No simbolizaba la pureza del sacerdocio.",
+              "No representaba la riqueza de Jerusalén.",
+              "No simbolizaba la unidad de las tribus.",
+            ],
+          },
+        },
+        {
+          id: 2009,
+          difficulty: "Medio",
+          question: "¿Qué hizo Jeremías cuando el pueblo se burló de sus profecías?",
+          category: profetas,
+          correct_answer: "Continuó proclamando el mensaje de Dios",
+          incorrect_answers: [
+            "Dejó de profetizar por un tiempo",
+            "Se unió a los falsos profetas",
+            "Maldijo a los que se burlaban",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías continuó proclamando el mensaje de Dios, a pesar del rechazo y las burlas.",
+            incorrect_answers: [
+              "No dejó de profetizar.",
+              "No se unió a los falsos profetas.",
+              "No maldijo a los que se burlaban.",
+            ],
+          },
+        },
+        {
+          id: 2010,
+          difficulty: "Fácil",
+          question: "¿Qué le dijo Jeremías al pueblo sobre la idolatría?",
+          category: profetas,
+          correct_answer: "Que los alejaba de Dios y traería juicio",
+          incorrect_answers: [
+            "Que era una práctica aceptable",
+            "Que no tenía consecuencias",
+            "Que era necesaria para la prosperidad",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías advirtió que la idolatría alejaba al pueblo de Dios y traería juicio.",
+            incorrect_answers: [
+              "No era una práctica aceptable para Dios.",
+              "Sí tenía consecuencias graves.",
+              "No era necesaria para la prosperidad.",
+            ],
+          },
+        },
+        {
+          id: 2011,
+          difficulty: "Difícil",
+          question: "¿Qué lección enseña la compra de un campo por parte de Jeremías?",
+          category: profetas,
+          correct_answer: "Que habría restauración futura para Judá",
+          incorrect_answers: [
+            "Que Jerusalén nunca sería destruida",
+            "Que el exilio sería permanente",
+            "Que la tierra perdería su valor",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías compró un campo como señal de que, a pesar del exilio, habría restauración.",
+            incorrect_answers: [
+              "Jerusalén sería destruida temporalmente.",
+              "El exilio no sería permanente.",
+              "La tierra no perdería su valor.",
+            ],
+          },
+        },
+        {
+          id: 2012,
+          difficulty: "Medio",
+          question: "¿Qué hizo Jeremías cuando fue encarcelado por Sedequías?",
+          category: profetas,
+          correct_answer: "Continuó profetizando desde la prisión",
+          incorrect_answers: [
+            "Renunció a su llamado como profeta",
+            "Huyó de la cárcel con ayuda divina",
+            "Guardó silencio para evitar problemas",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías continuó profetizando incluso desde la prisión, demostrando su fidelidad.",
+            incorrect_answers: [
+              "No renunció a su llamado.",
+              "No huyó de la cárcel.",
+              "No guardó silencio, sino que siguió hablando.",
+            ],
+          },
+        },
+        {
+          id: 2013,
+          difficulty: "Fácil",
+          question: "¿Qué profetizó Jeremías sobre el nuevo pacto?",
+          category: profetas,
+          correct_answer: "Que sería escrito en los corazones del pueblo",
+          incorrect_answers: [
+            "Que sería igual al pacto con Moisés",
+            "Que solo incluiría a las tribus del norte",
+            "Que sería temporal y se rompería",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías profetizó que el nuevo pacto sería escrito en los corazones, no en tablas de piedra.",
+            incorrect_answers: [
+              "No sería igual al pacto con Moisés.",
+              "No solo incluiría a las tribus del norte.",
+              "No sería temporal, sino eterno.",
+            ],
+          },
+        },
+        {
+          id: 2014,
+          difficulty: "Difícil",
+          question: "¿Qué simboliza la higuera podrida en el mensaje de Jeremías?",
+          category: profetas,
+          correct_answer: "La corrupción moral y espiritual de Judá",
+          incorrect_answers: [
+            "La prosperidad futura de Israel",
+            "La necesidad de reformas agrícolas",
+            "La llegada de un nuevo rey justo",
+          ],
+          justifications: {
+            correct_answer:
+              "La higuera podrida simbolizaba la corrupción moral y espiritual de Judá.",
+            incorrect_answers: [
+              "No simbolizaba prosperidad futura.",
+              "No se relacionaba con reformas agrícolas.",
+              "No anunciaba la llegada de un nuevo rey.",
+            ],
+          },
+        },
+        {
+          id: 2015,
+          difficulty: "Medio",
+          question: "¿Qué hizo Jeremías cuando el pueblo lo rechazó por su mensaje?",
+          category: profetas,
+          correct_answer: "Se mantuvo fiel a Dios y continuó profetizando",
+          incorrect_answers: [
+            "Se unió a los falsos profetas",
+            "Abandonó su llamado por el rechazo",
+            "Maldijo al pueblo por su incredulidad",
+          ],
+          justifications: {
+            correct_answer:
+              "Jeremías se mantuvo fiel a Dios y continuó profetizando, a pesar del rechazo.",
+            incorrect_answers: [
+              "No se unió a los falsos profetas.",
+              "No abandonó su llamado.",
+              "No maldijo al pueblo, sino que los amonestó.",
+            ],
+          },
+        },
 
-  {
-    id: 1999,
-    difficulty: "Media",
-    question: "¿Qué mensaje principal transmite Oseas en su profecía?",
-    category: profetas,
-    correct_answer:
-      "El llamado al arrepentimiento y la fidelidad a Dios a pesar de la infidelidad de Israel",
-    incorrect_answers: [
-      "La promesa de prosperidad y expansión para el pueblo de Israel si siguen los mandamientos",
-      "El juicio inminente y la destrucción de las naciones vecinas a Israel",
-      "La revelación de un futuro rey que gobernará con justicia sobre todas las naciones",
-    ],
-    justifications: {
-      correct_answer:
-        "Oseas centra su mensaje en la infidelidad de Israel y llama al arrepentimiento, anunciando la restauración de la relación con Dios.",
-      incorrect_answers: [
-        "Oseas no se centra en promesas de prosperidad material, sino en el arrepentimiento y el regreso a Dios.",
-        "Aunque Oseas habla del juicio, su énfasis está en la fidelidad a Dios y no en la destrucción de otras naciones.",
-        "Oseas no hace referencia a un futuro rey como el foco principal de su mensaje, sino en el llamado a la arrepentirse.",
-      ],
-    },
-  },
-  {
-    id: 2000,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo utiliza Oseas la relación con su esposa Gomer como metáfora?",
-    category: profetas,
-    correct_answer:
-      "Representa la relación de Dios con Israel, donde Israel es infiel pero Dios busca restaurarla",
-    incorrect_answers: [
-      "Simboliza la lucha entre el bien y el mal dentro del corazón humano",
-      "Muestra la necesidad de que Israel se aleje de todos los pactos y sigas sus propios deseos",
-      "Ilustra cómo Dios castiga sin misericordia a los que se alejan de Él y no hay esperanza de redención",
-    ],
-    justifications: {
-      correct_answer:
-        "La relación con Gomer refleja la infidelidad de Israel hacia Dios, pero también la disposición de Dios para perdonar y restaurar.",
-      incorrect_answers: [
-        "No se centra en la lucha interna, sino en la traición de Israel a su relación con Dios.",
-        "No se trata de que Israel se aleje de los pactos, sino de su infidelidad y la necesidad de arrepentimiento.",
-        "Oseas muestra la misericordia de Dios, no la falta de esperanza, ya que el propósito es la restauración.",
-      ],
-    },
-  },
-  {
-    id: 2001,
-    difficulty: "Media",
-    question: "¿Qué significa el nombre Oseas?",
-    category: profetas,
-    correct_answer: "Salvación",
-    incorrect_answers: ["Reconciliación", "Paz", "Restauración"],
-    justifications: {
-      correct_answer:
-        "El nombre Oseas significa 'salvación', lo que es un reflejo del mensaje de esperanza y restauración de Dios a su pueblo.",
-      incorrect_answers: [
-        "Oseas no significa reconciliación, aunque su mensaje es sobre restaurar la relación con Dios.",
-        "Paz no es el significado de Oseas, aunque la restauración trae paz, el nombre se refiere a salvación.",
-        "Restauración es el tema central, pero el nombre en sí significa salvación, no restauración.",
-      ],
-    },
-  },
-  {
-    id: 2002,
-    difficulty: "Difícil",
-    question:
-      "¿Qué simboliza el acto de Oseas de comprar nuevamente a su esposa Gomer?",
-    category: profetas,
-    correct_answer:
-      "Simboliza la redención de Israel por parte de Dios, a pesar de su infidelidad",
-    incorrect_answers: [
-      "Representa la necesidad de un sacrificio de sangre para limpiar el pecado de Israel",
-      "Es una señal de que la relación con Dios debe ser purificada y comenzada de nuevo desde cero",
-      "Indica que solo los justos pueden ser restaurados, pero no los pecadores impenitentes",
-    ],
-    justifications: {
-      correct_answer:
-        "El acto de comprar a Gomer muestra cómo Dios está dispuesto a redimir a Israel, incluso cuando es infiel, reflejando el amor divino.",
-      incorrect_answers: [
-        "No se refiere a un sacrificio de sangre en este contexto, sino a la restauración de una relación rota.",
-        "Oseas no comienza desde cero, sino que busca restaurar lo que ya ha sido quebrantado.",
-        "La restauración está abierta a todos, no solo a los justos, ya que el amor de Dios abarca a todos los que se arrepienten.",
-      ],
-    },
-  },
-  {
-    id: 2003,
-    difficulty: "Media",
-    question:
-      "¿Qué lecciones prácticas podemos aprender de las profecías de Oseas?",
-    category: profetas,
-    correct_answer:
-      "La importancia de la fidelidad a Dios y el arrepentimiento genuino para restaurar nuestra relación con Él",
-    incorrect_answers: [
-      "Que la prosperidad material es una señal de bendición divina y que siempre debe ser nuestra prioridad",
-      "Que Dios condena sin misericordia a quienes pecan, sin importar su arrepentimiento",
-      "Que la obediencia a los mandamientos de Dios siempre lleva a una vida de comodidad y sin sufrimiento",
-    ],
-    justifications: {
-      correct_answer:
-        "Oseas enseña que la fidelidad a Dios y el arrepentimiento genuino son fundamentales para restaurar nuestra relación con Él.",
-      incorrect_answers: [
-        "Oseas no enseña que la prosperidad material sea un fin en sí mismo, sino la restauración de la relación con Dios.",
-        "Aunque Oseas habla de juicio, también muestra la misericordia de Dios para aquellos que se arrepienten.",
-        "La obediencia no siempre lleva a una vida sin sufrimiento, pero sí a la bendición de estar en la voluntad de Dios.",
-      ],
-    },
-  },
-  {
-    id: 2004,
-    difficulty: "Difícil",
-    question:
-      "¿Qué mensaje de esperanza ofrece Oseas para el futuro de Israel?",
-    category: profetas,
-    correct_answer:
-      "A pesar de la infidelidad, Dios promete restaurar a Israel y mostrarle misericordia",
-    incorrect_answers: [
-      "Israel será destruido por completo debido a su desobediencia, sin posibilidad de restauración",
-      "Dios reemplazará a Israel por una nueva nación más fiel, sin oportunidad de arrepentimiento",
-      "El pueblo de Israel vivirá eternamente bajo un reino de prosperidad sin necesidad de arrepentirse",
-    ],
-    justifications: {
-      correct_answer:
-        "Oseas promete que, a pesar de la infidelidad de Israel, Dios restaurará a su pueblo, ofreciendo esperanza y perdón a los que se arrepientan.",
-      incorrect_answers: [
-        "Oseas no habla de la destrucción total, sino de la restauración para los que se arrepienten.",
-        "No hay reemplazo de Israel, sino una restauración de la relación entre Dios e Israel.",
-        "La prosperidad eterna no se presenta sin el arrepentimiento, que es esencial en la restauración de la relación con Dios.",
-      ],
-    },
-  },
-  {
-    id: 2005,
-    difficulty: "Media",
-    question:
-      "¿Cuál fue la reacción del pueblo de Israel ante los mensajes de Oseas?",
-    category: profetas,
-    correct_answer:
-      "Generalmente, ignoraron sus advertencias y persistieron en su infidelidad",
-    incorrect_answers: [
-      "Israel respondió con arrepentimiento inmediato, volviendo a la obediencia a Dios",
-      "El pueblo de Israel aceptó las advertencias de Oseas y se comprometió a seguir los mandamientos de Dios",
-      "El pueblo rechazó a Oseas, pero el rey y los líderes nacionales cambiaron su camino",
-    ],
-    justifications: {
-      correct_answer:
-        "A pesar de las advertencias de Oseas, el pueblo de Israel no se arrepintió y continuó con su infidelidad.",
-      incorrect_answers: [
-        "No hubo arrepentimiento inmediato, ya que el pueblo se negó a escuchar y cambiar.",
-        "Israel no aceptó las advertencias de Oseas, y la mayoría persistió en su infidelidad.",
-        "Los líderes nacionales no cambiaron su rumbo, a pesar de las palabras de Oseas.",
-      ],
-    },
-  },
 
-  //Joel
+        //  Oseas
 
-  {
-    id: 2006,
-    difficulty: "Media",
-    question:
-      "¿Qué evento catastrófico describe Joel como una advertencia para el pueblo de Israel?",
-    category: profetas,
-    correct_answer:
-      "Una invasión de langostas, que simboliza el juicio de Dios sobre la infidelidad de Israel",
-    incorrect_answers: [
-      "Una sequía devastadora que destruye toda la agricultura de Israel",
-      "Una invasión militar de los asirios que arrasa la nación",
-      "Un terremoto que destruye las ciudades más grandes de Israel",
-    ],
-    justifications: {
-      correct_answer:
-        "Joel utiliza la invasión de langostas como una metáfora para el juicio de Dios, llamando a Israel al arrepentimiento.",
-      incorrect_answers: [
-        "No es una sequía la que Joel describe, sino una plaga de langostas que sirve como señal de juicio.",
-        "Joel no se refiere a una invasión militar específica de los asirios, sino al juicio de Dios en forma de plagas.",
-        "Un terremoto no es la imagen usada por Joel, sino la plaga de langostas como símbolo del juicio divino.",
-      ],
-    },
-  },
-  {
-    id: 2007,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo presenta Joel el papel del Espíritu Santo en los últimos tiempos?",
-    category: profetas,
-    correct_answer:
-      "El Espíritu Santo será derramado sobre toda carne, tanto hombres como mujeres, jóvenes y ancianos",
-    incorrect_answers: [
-      "El Espíritu Santo solo se derramará sobre los líderes espirituales y sacerdotes del pueblo",
-      "El Espíritu Santo solo se manifestará en aquellos que hayan cumplido perfectamente la ley",
-      "El Espíritu Santo será retirado de la tierra debido al endurecimiento del corazón de las personas",
-    ],
-    justifications: {
-      correct_answer:
-        "Joel profetiza que en los últimos días, el Espíritu Santo se derramará sobre todos, sin distinción de edad, sexo o posición.",
-      incorrect_answers: [
-        "No se limita solo a los líderes espirituales, sino que se derramará sobre todos los creyentes.",
-        "No depende de la perfección en la ley, sino que es una promesa de gracia y poder para todos.",
-        "Joel no menciona que el Espíritu Santo será retirado, sino que habrá un derramamiento abundante.",
-      ],
-    },
-  },
-  {
-    id: 2008,
-    difficulty: "Media",
-    question:
-      "¿Qué acción se les pide a los israelitas en respuesta al juicio que se avecina?",
-    category: profetas,
-    correct_answer:
-      "Que se arrepientan sinceramente y se vuelvan a Dios con ayuno, llanto y lamento",
-    incorrect_answers: [
-      "Que se preparen para luchar contra las naciones invasoras con todas sus fuerzas",
-      "Que ofrezcan sacrificios de animales como expiación por sus pecados",
-      "Que busquen la protección de otras naciones aliadas para sobrevivir al juicio",
-    ],
-    justifications: {
-      correct_answer:
-        "Joel llama a un arrepentimiento genuino, donde el pueblo se humilla ante Dios y se arrepiente con sinceridad.",
-      incorrect_answers: [
-        "El arrepentimiento no es una preparación militar, sino una respuesta espiritual ante el juicio.",
-        "Joel no se enfoca en sacrificios, sino en un arrepentimiento genuino y humillación ante Dios.",
-        "El enfoque de Joel es espiritual, no en alianzas con otras naciones, sino en volver al Señor.",
-      ],
-    },
-  },
-  {
-    id: 2009,
-    difficulty: "Difícil",
-    question: "¿Qué simboliza el vino y el aceite en la profecía de Joel?",
-    category: profetas,
-    correct_answer:
-      "Son símbolos de la bendición y restauración de Dios tras el arrepentimiento del pueblo",
-    incorrect_answers: [
-      "Son símbolos del juicio de Dios, que traerá escasez a la tierra",
-      "Son símbolos de la victoria militar sobre los enemigos de Israel",
-      "Son símbolos de la prosperidad económica que vendrá tras la guerra",
-    ],
-    justifications: {
-      correct_answer:
-        "Joel usa el vino y el aceite como símbolos de la restauración de las bendiciones de Dios después del arrepentimiento del pueblo.",
-      incorrect_answers: [
-        "No son símbolos del juicio, sino de la bendición que vendrá tras el arrepentimiento.",
-        "No se refieren a victorias militares, sino a la restauración espiritual y material de Israel.",
-        "La prosperidad no es una promesa directamente asociada con la guerra, sino con el arrepentimiento y la restauración.",
-      ],
-    },
-  },
-  {
-    id: 2010,
-    difficulty: "Media",
-    question:
-      "¿Qué nombre le da Joel a la plaga de langostas como símbolo del juicio de Dios?",
-    category: profetas,
-    correct_answer: "El ejército del Señor",
-    incorrect_answers: [
-      "La tormenta furiosa",
-      "El castigo de los impíos",
-      "El juicio final",
-    ],
-    justifications: {
-      correct_answer:
-        "Joel describe la invasión de langostas como el 'ejército del Señor', que realiza el juicio divino sobre la nación.",
-      incorrect_answers: [
-        "Aunque es un juicio, no se refiere a la plaga como una tormenta, sino como un ejército.",
-        "No se llama 'castigo de los impíos', sino un juicio dirigido por Dios como el ejército del Señor.",
-        "No es el juicio final, sino un juicio específico sobre Israel por su infidelidad.",
-      ],
-    },
-  },
-  {
-    id: 2011,
-    difficulty: "Difícil",
-    question:
-      "¿Qué promete Joel respecto al futuro de los gentiles después del juicio de Dios sobre Israel?",
-    category: profetas,
-    correct_answer:
-      "Dios juzgará a las naciones que han hecho mal a Israel y las restaurará a su pueblo",
-    incorrect_answers: [
-      "Los gentiles serán destruidos sin oportunidad de arrepentimiento",
-      "Las naciones gentiles se convertirán en siervas de Israel sin derecho a participar en la salvación",
-      "Dios les otorgará poder y autoridad sobre Israel como castigo por sus pecados",
-    ],
-    justifications: {
-      correct_answer:
-        "Joel profetiza que Dios no solo juzgará a las naciones, sino que también habrá restauración y bendición para el pueblo de Dios.",
-      incorrect_answers: [
-        "Joel no habla de la destrucción total de los gentiles, sino de un juicio que lleva a su restauración.",
-        "Los gentiles no serán siervos, sino que serán juzgados según sus acciones hacia Israel.",
-        "No es un castigo a las naciones gentiles con poder sobre Israel, sino un juicio que incluye restauración.",
-      ],
-    },
-  },
 
-  // Amós
 
-  {
-    id: 2012,
-    difficulty: "Media",
-    question: "¿Qué acusación principal hace Amós a Israel en sus profecías?",
-    category: profetas,
-    correct_answer:
-      "Israel ha ignorado la justicia y la rectitud, opresionando a los pobres y necesitados",
-    incorrect_answers: [
-      "Israel ha caído en idolatría y está adorando a dioses falsos",
-      "Israel ha abandonado el pacto con Dios y ha seguido a naciones extranjeras",
-      "Israel ha dejado de cumplir con las leyes del sacrificio y los rituales religiosos",
-    ],
-    justifications: {
-      correct_answer:
-        "Amós denuncia la opresión de los pobres, la injusticia social y la hipocresía religiosa en Israel.",
-      incorrect_answers: [
-        "Aunque la idolatría es un problema en otros libros, Amós se enfoca principalmente en la injusticia social.",
-        "Amós critica la falta de justicia, no tanto el abandono del pacto o el seguimiento de naciones extranjeras.",
-        "La crítica principal de Amós no es la falta de sacrificios, sino la injusticia y corrupción en la sociedad.",
-      ],
-    },
-  },
-  {
-    id: 2013,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo describe Amós la respuesta de Dios ante el pecado de Israel?",
-    category: profetas,
-    correct_answer:
-      "Dios enviará juicios y desastres naturales como castigo, pero aún ofrece oportunidad de arrepentimiento",
-    incorrect_answers: [
-      "Dios castigará a Israel con la destrucción total y no habrá lugar para el arrepentimiento",
-      "Dios promete un periodo de paz y prosperidad si Israel se arrepiente de sus pecados",
-      "Dios levantará un líder militar que derrotará a los enemigos de Israel para restaurar su gloria",
-    ],
-    justifications: {
-      correct_answer:
-        "Amós enfatiza que Dios enviará juicios (como plagas y desastres), pero sigue ofreciendo la posibilidad de arrepentimiento.",
-      incorrect_answers: [
-        "Aunque el juicio es severo, no es una destrucción total sin posibilidad de arrepentimiento.",
-        "No se promete paz inmediata; el arrepentimiento es la clave, pero no se enfoca en prosperidad sin juicio.",
-        "Amós no habla de un líder militar, sino de la justicia divina que se manifestará en desastres.",
-      ],
-    },
-  },
-  {
-    id: 2014,
-    difficulty: "Media",
-    question:
-      "¿Qué acción concreta les pide Amós a los líderes y ricos de Israel en respuesta a sus pecados?",
-    category: profetas,
-    correct_answer:
-      "Que dejen de oprimir a los pobres y busquen la justicia y el bien común",
-    incorrect_answers: [
-      "Que ofrezcan sacrificios y dones a Dios para aplacar su ira",
-      "Que se alíen con otras naciones para protegerse de los enemigos",
-      "Que se retiren del gobierno y dejen el liderazgo en manos de los profetas",
-    ],
-    justifications: {
-      correct_answer:
-        "Amós llama a los líderes a actuar con justicia, cuidando a los oprimidos y no explotando a los pobres.",
-      incorrect_answers: [
-        "Aunque los sacrificios son importantes, Amós llama primero a la justicia social y no a la mera ritualidad.",
-        "No menciona alianzas militares, sino que hace un llamado a cambiar el trato hacia los más necesitados.",
-        "Amós no insta a los líderes a retirarse, sino a corregir su comportamiento injusto y actuar con rectitud.",
-      ],
-    },
-  },
-  {
-    id: 2015,
-    difficulty: "Difícil",
-    question:
-      "¿Qué simboliza la visión de la canasta de fruta madura en la profecía de Amós?",
-    category: profetas,
-    correct_answer:
-      "Es una metáfora de que el juicio de Dios sobre Israel está cerca, porque su pecado ha llegado a su plenitud",
-    incorrect_answers: [
-      "Es una señal de que la prosperidad de Israel está garantizada si se arrepienten",
-      "Es un símbolo de que los enemigos de Israel serán derrotados por la acción divina",
-      "Es un indicio de que Israel recibirá un periodo de paz antes del juicio final",
-    ],
-    justifications: {
-      correct_answer:
-        "La canasta de fruta madura simboliza la llegada del juicio, pues los pecados de Israel han alcanzado su punto máximo.",
-      incorrect_answers: [
-        "No es un símbolo de prosperidad futura, sino de juicio cercano por la acumulación de pecado.",
-        "La visión no es sobre la derrota de los enemigos, sino sobre el juicio a Israel por su corrupción interna.",
-        "La visión no habla de un periodo de paz, sino de la inminente llegada del juicio divino.",
-      ],
-    },
-  },
-  {
-    id: 2016,
-    difficulty: "Media",
-    question:
-      "¿Quién fue el principal enemigo de Israel durante el tiempo de las profecías de Amós?",
-    category: profetas,
-    correct_answer:
-      "El reino de Asiria, que amenazaba la estabilidad del pueblo de Israel",
-    incorrect_answers: [
-      "El reino de Egipto, que atacaba constantemente las ciudades del sur",
-      "El reino de Babilonia, que estaba buscando expandir su imperio hacia Israel",
-      "Los filisteos, que invadían las costas y los territorios cercanos",
-    ],
-    justifications: {
-      correct_answer:
-        "Amós profetiza durante un periodo en el que el reino de Asiria era una amenaza inminente para Israel.",
-      incorrect_answers: [
-        "Aunque Egipto tenía influencia, la amenaza principal era Asiria durante el tiempo de Amós.",
-        "Babilonia se convierte en una amenaza más tarde, pero no en la época de Amós.",
-        "Aunque los filisteos eran un peligro, el juicio que Amós profetiza se enfoca más en el pecado de Israel.",
-      ],
-    },
-  },
-  {
-    id: 2017,
-    difficulty: "Difícil",
-    question:
-      "¿Qué promesa final hace Amós respecto al futuro de Israel después del juicio?",
-    category: profetas,
-    correct_answer:
-      "Dios restaurará el reino de Israel, trayendo prosperidad y seguridad a su pueblo",
-    incorrect_answers: [
-      "Israel será destruido permanentemente y no habrá oportunidad de restauración",
-      "Dios eliminará a todas las naciones extranjeras que rodean a Israel para siempre",
-      "Dios dejará a Israel en un estado de desolación permanente por su rebelión",
-    ],
-    justifications: {
-      correct_answer:
-        "Amós habla de una futura restauración de Israel, donde Dios traerá bendiciones y seguridad tras el juicio.",
-      incorrect_answers: [
-        "No es una destrucción permanente, sino una restauración después del juicio.",
-        "La restauración de Israel no depende de la eliminación de todas las naciones, sino de un arrepentimiento genuino.",
-        "La desolación no es permanente, ya que Amós profetiza la restauración de la nación.",
-      ],
-    },
-  },
+        
+          {
+            id: 2016,
+            difficulty: "Difícil",
+            question: "¿Qué simboliza el matrimonio de Oseas con Gomer en el contexto de su mensaje profético?",
+            category: profetas,
+            correct_answer: "Representa la relación entre Dios e Israel, donde Israel es infiel.",
+            incorrect_answers: [
+              "Simboliza la unión eterna entre dos naciones.",
+              "Representa la alianza entre Dios y los gentiles.",
+              "Es una metáfora de la prosperidad económica de Israel.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 1:2 describe cómo Dios ordena a Oseas casarse con una mujer infiel para ilustrar la infidelidad de Israel.",
+              incorrect_answers: [
+                "No se trata de una unión entre naciones.",
+                "El mensaje no está dirigido a los gentiles.",
+                "No tiene relación con la prosperidad económica.",
+              ],
+            },
+          },
+          {
+            id: 2017,
+            difficulty: "Medio",
+            question: "¿Qué nombre le puso Oseas a su primer hijo y qué significado tiene?",
+            category: profetas,
+            correct_answer: "Jezreel, que significa 'Dios sembrará' y simboliza juicio.",
+            incorrect_answers: [
+              "Lo-Ammi, que significa 'no mi pueblo'.",
+              "Lo-Ruhama, que significa 'no compadecida'.",
+              "Efraín, que significa 'fruto fructífero'.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 1:4 explica que Jezreel es un recordatorio del juicio de Dios sobre la casa de Jehú.",
+              incorrect_answers: [
+                "Lo-Ammi fue el nombre del tercer hijo.",
+                "Lo-Ruhama fue el nombre de la hija.",
+                "Efraín no es mencionado como hijo de Oseas.",
+              ],
+            },
+          },
+          {
+            id: 2018,
+            difficulty: "Fácil",
+            question: "¿Qué nombre le puso Oseas a su hija y qué significado tiene?",
+            category: profetas,
+            correct_answer: "Lo-Ruhama, que significa 'no compadecida'.",
+            incorrect_answers: [
+              "Jezreel, que significa 'Dios sembrará'.",
+              "Lo-Ammi, que significa 'no mi pueblo'.",
+              "Gomer, que significa 'cumplimiento'.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 1:6 indica que el nombre Lo-Ruhama simboliza la falta de misericordia de Dios hacia Israel.",
+              incorrect_answers: [
+                "Jezreel fue el nombre del primer hijo.",
+                "Lo-Ammi fue el nombre del tercer hijo.",
+                "Gomer era la esposa de Oseas, no su hija.",
+              ],
+            },
+          },
+          {
+            id: 2019,
+            difficulty: "Difícil",
+            question: "¿Qué mensaje principal transmite Oseas sobre el amor de Dios?",
+            category: profetas,
+            correct_answer: "El amor de Dios es fiel y restaurador, a pesar de la infidelidad de Israel.",
+            incorrect_answers: [
+              "El amor de Dios es condicional y se retira ante el pecado.",
+              "El amor de Dios solo se extiende a los justos.",
+              "El amor de Dios es exclusivo para los gentiles.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 2:19-20 describe cómo Dios promete restaurar su relación con Israel.",
+              incorrect_answers: [
+                "El amor de Dios no es condicional, sino constante.",
+                "El amor de Dios no se limita a los justos.",
+                "El mensaje de Oseas no excluye a Israel.",
+              ],
+            },
+          },
+          {
+            id: 2020,
+            difficulty: "Medio",
+            question: "¿Qué representa la infidelidad de Gomer en el libro de Oseas?",
+            category: profetas,
+            correct_answer: "La infidelidad de Israel hacia Dios al adorar ídolos.",
+            incorrect_answers: [
+              "La prosperidad económica de Israel.",
+              "La alianza entre Israel y otras naciones.",
+              "La fidelidad de los profetas menores.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 2:2-5 compara a Gomer con Israel, que se volvió a otros dioses.",
+              incorrect_answers: [
+                "No tiene relación con la prosperidad económica.",
+                "No se trata de una alianza política.",
+                "No representa la fidelidad de los profetas.",
+              ],
+            },
+          },
+          {
+            id: 2021,
+            difficulty: "Fácil",
+            question: "¿Qué hizo Oseas para demostrar el amor de Dios hacia Israel?",
+            category: profetas,
+            correct_answer: "Compró a Gomer de vuelta, simbolizando la redención de Dios.",
+            incorrect_answers: [
+              "Construyó un templo en Samaria.",
+              "Predicó solo a las naciones gentiles.",
+              "Abandonó a su familia para servir a Dios.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 3:1-2 muestra cómo Oseas redime a Gomer, reflejando el amor redentor de Dios.",
+              incorrect_answers: [
+                "No construyó ningún templo.",
+                "Su mensaje fue dirigido a Israel, no solo a los gentiles.",
+                "No abandonó a su familia.",
+              ],
+            },
+          },
+          {
+            id: 2022,
+            difficulty: "Difícil",
+            question: "¿Qué promesa hace Dios a Israel a través de Oseas?",
+            category: profetas,
+            correct_answer: "Restaurará a Israel y lo llevará de vuelta a su tierra.",
+            incorrect_answers: [
+              "Destruirá completamente a Israel.",
+              "Olvidará el pacto con Israel.",
+              "Hará de Israel una nación gentil.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 14:4-7 promete sanar y restaurar a Israel.",
+              incorrect_answers: [
+                "Dios no promete destruir a Israel.",
+                "Dios no olvida sus pactos.",
+                "Israel no se convierte en una nación gentil.",
+              ],
+            },
+          },
+          {
+            id: 2023,
+            difficulty: "Medio",
+            question: "¿Qué actitud muestra Oseas hacia el pueblo de Israel?",
+            category: profetas,
+            correct_answer: "Compasión y deseo de que se arrepientan.",
+            incorrect_answers: [
+              "Indiferencia hacia su destino.",
+              "Odio y desprecio por su infidelidad.",
+              "Alegría por su caída.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 11:8-9 muestra el corazón compasivo de Dios hacia Israel.",
+              incorrect_answers: [
+                "Oseas no es indiferente.",
+                "No muestra odio, sino dolor.",
+                "No se alegra por su caída.",
+              ],
+            },
+          },
+          {
+            id: 2024,
+            difficulty: "Fácil",
+            question: "¿Qué nombre le puso Oseas a su tercer hijo y qué significa?",
+            category: profetas,
+            correct_answer: "Lo-Ammi, que significa 'no mi pueblo'.",
+            incorrect_answers: [
+              "Jezreel, que significa 'Dios sembrará'.",
+              "Lo-Ruhama, que significa 'no compadecida'.",
+              "Efraín, que significa 'fruto fructífero'.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 1:9 explica que Lo-Ammi simboliza el rechazo temporal de Dios a Israel.",
+              incorrect_answers: [
+                "Jezreel fue el nombre del primer hijo.",
+                "Lo-Ruhama fue el nombre de la hija.",
+                "Efraín no es mencionado como hijo de Oseas.",
+              ],
+            },
+          },
+          {
+            id: 2025,
+            difficulty: "Difícil",
+            question: "¿Qué enseñanza principal se extrae del libro de Oseas?",
+            category: profetas,
+            correct_answer: "El amor inquebrantable de Dios a pesar de la infidelidad humana.",
+            incorrect_answers: [
+              "La importancia de la prosperidad económica.",
+              "La necesidad de alianzas políticas.",
+              "La irrelevancia de la adoración a Dios.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 2:19-20 y 14:4-7 enfatizan el amor y la restauración de Dios.",
+              incorrect_answers: [
+                "No se enfoca en la prosperidad económica.",
+                "No promueve alianzas políticas.",
+                "La adoración a Dios es central en el mensaje.",
+              ],
+            },
+          },
+          {
+            id: 2026,
+            difficulty: "Medio",
+            question: "¿Qué simboliza el valle de Jezreel en el libro de Oseas?",
+            category: profetas,
+            correct_answer: "Un lugar de juicio y restauración.",
+            incorrect_answers: [
+              "Un lugar de celebración y fiesta.",
+              "Un símbolo de la prosperidad de Israel.",
+              "Un lugar de adoración a ídolos.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 1:4-5 menciona Jezreel como lugar de juicio y futura restauración.",
+              incorrect_answers: [
+                "No es un lugar de celebración.",
+                "No simboliza prosperidad.",
+                "No es un centro de adoración idólatra.",
+              ],
+            },
+          },
+          {
+            id: 2027,
+            difficulty: "Fácil",
+            question: "¿Qué hizo Oseas para simbolizar el amor de Dios?",
+            category: profetas,
+            correct_answer: "Compró a Gomer de vuelta, a pesar de su infidelidad.",
+            incorrect_answers: [
+              "Construyó un altar en Samaria.",
+              "Predicó solo a los gentiles.",
+              "Abandonó a su familia.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 3:1-2 muestra la redención de Gomer como símbolo del amor de Dios.",
+              incorrect_answers: [
+                "No construyó un altar.",
+                "Predicó principalmente a Israel.",
+                "No abandonó a su familia.",
+              ],
+            },
+          },
+          {
+            id: 2028,
+            difficulty: "Difícil",
+            question: "¿Qué significa el nombre 'Oseas'?",
+            category: profetas,
+            correct_answer: "Salvación o liberación.",
+            incorrect_answers: [
+              "Juicio o castigo.",
+              "Prosperidad o riqueza.",
+              "Guerra o conflicto.",
+            ],
+            justifications: {
+              correct_answer: "El nombre Oseas viene del hebreo y significa 'salvación'.",
+              incorrect_answers: [
+                "No significa juicio o castigo.",
+                "No está relacionado con la prosperidad.",
+                "No tiene que ver con la guerra.",
+              ],
+            },
+          },
+          {
+            id: 2029,
+            difficulty: "Medio",
+            question: "¿Qué promesa hace Dios a Israel en Oseas 2:23?",
+            category: profetas,
+            correct_answer: "Hará de Israel 'mi pueblo' y dirá 'tú eres mi Dios'.",
+            incorrect_answers: [
+              "Destruirá a Israel completamente.",
+              "Convertirá a Israel en una nación gentil.",
+              "Olvidará el pacto con Israel.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 2:23 promete restauración y renovación del pacto.",
+              incorrect_answers: [
+                "Dios no promete destruir a Israel.",
+                "Israel no se convierte en una nación gentil.",
+                "Dios no olvida sus pactos.",
+              ],
+            },
+          },
+          {
+            id: 2030,
+            difficulty: "Fácil",
+            question: "¿Qué hizo Gomer que simbolizaba la infidelidad de Israel?",
+            category: profetas,
+            correct_answer: "Se fue tras otros amantes.",
+            incorrect_answers: [
+              "Construyó altares a Dios.",
+              "Se mantuvo fiel a Oseas.",
+              "Abandonó a sus hijos.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 2:5 describe cómo Gomer siguió a otros amantes, simbolizando la idolatría de Israel.",
+              incorrect_answers: [
+                "No construyó altares a Dios.",
+                "No se mantuvo fiel a Oseas.",
+                "No abandonó a sus hijos.",
+              ],
+            },
+          },
+          {
+            id: 2031,
+            difficulty: "Difícil",
+            question: "¿Qué enseñanza sobre el arrepentimiento se encuentra en Oseas?",
+            category: profetas,
+            correct_answer: "Dios recibe con amor a quienes se arrepienten.",
+            incorrect_answers: [
+              "El arrepentimiento no tiene valor para Dios.",
+              "Solo los justos pueden arrepentirse.",
+              "El arrepentimiento es innecesario.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 14:1-4 invita al arrepentimiento y promete sanación.",
+              incorrect_answers: [
+                "El arrepentimiento es valioso para Dios.",
+                "Todos pueden arrepentirse, no solo los justos.",
+                "El arrepentimiento es esencial.",
+              ],
+            },
+          },
+          {
+            id: 2032,
+            difficulty: "Medio",
+            question: "¿Qué simboliza el nombre 'Lo-Ammi' en el libro de Oseas?",
+            category: profetas,
+            correct_answer: "El rechazo temporal de Dios a Israel.",
+            incorrect_answers: [
+              "La prosperidad futura de Israel.",
+              "La alianza con los gentiles.",
+              "La fidelidad de Israel a Dios.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 1:9 explica que 'Lo-Ammi' significa 'no mi pueblo'.",
+              incorrect_answers: [
+                "No simboliza prosperidad.",
+                "No se relaciona con los gentiles.",
+                "No representa fidelidad.",
+              ],
+            },
+          },
+          {
+            id: 2033,
+            difficulty: "Fácil",
+            question: "¿Qué hizo Oseas para mostrar el amor de Dios?",
+            category: profetas,
+            correct_answer: "Redimió a Gomer, a pesar de su infidelidad.",
+            incorrect_answers: [
+              "Construyó un templo en Samaria.",
+              "Predicó solo a los gentiles.",
+              "Abandonó a su familia.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 3:1-2 muestra cómo Oseas redime a Gomer, reflejando el amor de Dios.",
+              incorrect_answers: [
+                "No construyó un templo.",
+                "Predicó principalmente a Israel.",
+                "No abandonó a su familia.",
+              ],
+            },
+          },
+          {
+            id: 2034,
+            difficulty: "Difícil",
+            question: "¿Qué simboliza el nombre 'Lo-Ruhama' en el libro de Oseas?",
+            category: profetas,
+            correct_answer: "La falta de misericordia de Dios hacia Israel por un tiempo.",
+            incorrect_answers: [
+              "La prosperidad futura de Israel.",
+              "La alianza con los gentiles.",
+              "La fidelidad de Israel a Dios.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 1:6 explica que 'Lo-Ruhama' significa 'no compadecida'.",
+              incorrect_answers: [
+                "No simboliza prosperidad.",
+                "No se relaciona con los gentiles.",
+                "No representa fidelidad.",
+              ],
+            },
+          },
+          {
+            id: 2035,
+            difficulty: "Medio",
+            question: "¿Qué enseñanza principal se extrae de Oseas 6:6?",
+            category: profetas,
+            correct_answer: "Dios desea misericordia y no sacrificios.",
+            incorrect_answers: [
+              "Los sacrificios son más importantes que el amor.",
+              "La prosperidad es señal del favor de Dios.",
+              "La adoración idólatra es aceptable.",
+            ],
+            justifications: {
+              correct_answer: "Oseas 6:6 enfatiza que Dios valora la misericordia más que los rituales.",
+              incorrect_answers: [
+                "Dios valora más el amor que los sacrificios.",
+                "La prosperidad no es el enfoque.",
+                "La idolatría es condenada.",
+              ],
+            },
+          },
 
-  //Abdías
 
-  {
-    id: 2018,
-    difficulty: "Media",
-    question:
-      "¿Qué mensaje principal transmite el profeta Abdías a la nación de Edom?",
-    category: profetas,
-    correct_answer:
-      "El juicio de Dios vendrá sobre Edom por su orgullo y su violencia contra Israel",
-    incorrect_answers: [
-      "Dios restaurará a Edom y le otorgará prosperidad por su arrepentimiento",
-      "Dios condenará a Edom por su idolatría, pero no destruirá a la nación por completo",
-      "Edom será bendecida por su fidelidad a Dios y se convertirá en una nación poderosa",
-    ],
-    justifications: {
-      correct_answer:
-        "Abdías profetiza el juicio de Dios sobre Edom debido a su orgullo y violencia contra Israel.",
-      incorrect_answers: [
-        "No es una profecía de restauración, sino de juicio debido a la opresión contra Israel.",
-        "El juicio no está relacionado con la idolatría, sino con la actitud hostil hacia Israel.",
-        "La profecía no incluye bendición para Edom; en cambio, predice su destrucción.",
-      ],
-    },
-  },
-  {
-    id: 2019,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo describe Abdías la actitud de Edom hacia Israel en el momento del juicio?",
-    category: profetas,
-    correct_answer:
-      "Edom se alegró de la caída de Israel y se unió a sus enemigos para destruirlo",
-    incorrect_answers: [
-      "Edom ayudó a Israel en tiempos de necesidad, protegiéndola de sus enemigos",
-      "Edom lamentó la caída de Israel, pero no intervino en su defensa",
-      "Edom mostró indiferencia ante el sufrimiento de Israel, pero no participó en su destrucción",
-    ],
-    justifications: {
-      correct_answer:
-        "Abdías denuncia que Edom se alegró del sufrimiento de Israel y ayudó a sus enemigos.",
-      incorrect_answers: [
-        "No fue un acto de ayuda, sino una traición al regocijarse por la caída de Israel.",
-        "Edom no lamentó el sufrimiento de Israel, sino que se aprovechó de su debilidad.",
-        "La indiferencia no es lo que Abdías describe, sino la complicidad de Edom con los enemigos de Israel.",
-      ],
-    },
-  },
-  {
-    id: 2020,
-    difficulty: "Media",
-    question:
-      "¿Qué castigo profetiza Abdías para Edom por sus acciones contra Israel?",
-    category: profetas,
-    correct_answer:
-      "Edom será destruido y sus habitantes serán exterminados por su violencia y orgullo",
-    incorrect_answers: [
-      "Edom será derrotado, pero sus habitantes serán perdonados y restaurados",
-      "Edom será destruido solo en parte, pero algunos sobrevivirán para repoblar la tierra",
-      "Edom sufrirá una humillación temporal, pero finalmente se levantará como una nación fuerte",
-    ],
-    justifications: {
-      correct_answer:
-        "Abdías predice la completa destrucción de Edom por su hostilidad hacia Israel.",
-      incorrect_answers: [
-        "No hay perdón para Edom en este contexto; la destrucción es total.",
-        "No se menciona un castigo parcial, sino una completa aniquilación por sus pecados.",
-        "Abdías no habla de restauración para Edom, sino de su extinción como nación.",
-      ],
-    },
-  },
-  {
-    id: 2021,
-    difficulty: "Difícil",
-    question:
-      "¿Qué consecuencia espiritual se menciona en Abdías para aquellos que se alegran de la caída de Israel?",
-    category: profetas,
-    correct_answer:
-      "Serán juzgados por Dios y recibirán la misma calamidad que causaron a Israel",
-    incorrect_answers: [
-      "Serán perdonados por su falta de compasión y recibirán bendiciones de Dios",
-      "Serán apartados de las naciones y vivirá en paz en su propia tierra",
-      "Serán adoptados por Dios y restaurados como parte del pueblo escogido",
-    ],
-    justifications: {
-      correct_answer:
-        "Abdías afirma que aquellos que se alegran del sufrimiento de Israel recibirán el mismo castigo.",
-      incorrect_answers: [
-        "No se habla de perdón o bendiciones, sino de juicio por el mal hecho a Israel.",
-        "La paz y restauración no son ofrecidas a los enemigos, sino que reciben el juicio divino.",
-        "No hay adopción de Edom, sino su condena debido a su traición contra Israel.",
-      ],
-    },
-  },
-  {
-    id: 2022,
-    difficulty: "Media",
-    question:
-      "¿Cómo se describen las naciones aliadas de Edom en el contexto de la profecía de Abdías?",
-    category: profetas,
-    correct_answer:
-      "Serán igualmente destruidas por Dios por su complicidad en el pecado contra Israel",
-    incorrect_answers: [
-      "Serán perdonadas, pero sufrirán una gran humillación por su desobediencia a Dios",
-      "Serán adoptadas por Dios, ya que se arrepentirán de su hostilidad contra Israel",
-      "Serán bendecidas y recibirán el favor de Dios por su apoyo a Israel",
-    ],
-    justifications: {
-      correct_answer:
-        "Abdías profetiza la destrucción no solo de Edom, sino también de sus aliados por participar en su pecado.",
-      incorrect_answers: [
-        "No se habla de perdón o bendición para las naciones aliadas de Edom.",
-        "La profecía no incluye arrepentimiento ni restauración para los enemigos de Israel.",
-        "No hay bendición para los aliados de Edom, sino juicio por su complicidad.",
-      ],
-    },
-  },
-  {
-    id: 2023,
-    difficulty: "Difícil",
-    question:
-      "¿Qué evento futuro describe Abdías que simboliza la restauración de Israel?",
-    category: profetas,
-    correct_answer:
-      "El reino de Dios se establecerá sobre el monte Sion y todas las naciones lo reconocerán",
-    incorrect_answers: [
-      "Israel será restaurado a su antigua gloria, pero sólo será reconocido por sus vecinos",
-      "Las naciones serán destruídas por completo, y sólo quedará Israel como la nación triunfante",
-      "Dios levantará a Israel como el líder mundial, y todas las naciones se someterán a su poder",
-    ],
-    justifications: {
-      correct_answer:
-        "Abdías predice que la restauración de Israel será marcada por la soberanía de Dios sobre todas las naciones.",
-      incorrect_answers: [
-        "La restauración no es de gloria pasada, sino del reino de Dios sobre Sion.",
-        "No se habla de la completa destrucción de las naciones, sino de su reconocimiento de Dios.",
-        "El liderazgo mundial no es el tema central, sino la soberanía de Dios sobre las naciones.",
-      ],
-    },
-  },
 
-  // Jonás
 
-  {
-    id: 2024,
-    difficulty: "Media",
-    question: "¿Qué le ordenó Dios a Jonás al principio de su misión?",
-    category: profetas,
-    correct_answer:
-      "Ir a la ciudad de Nínive y proclamar el mensaje de arrepentimiento",
-    incorrect_answers: [
-      "Viajar a Egipto para liberar al pueblo de Israel de la opresión",
-      "Ir a Jerusalén para advertir sobre la destrucción de la ciudad",
-      "Viajar a Nínive para llevar un mensaje de juicio y condena final",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios le pidió a Jonás que fuera a Nínive para proclamar un mensaje de arrepentimiento para evitar la destrucción.",
-      incorrect_answers: [
-        "Jonás no fue enviado a Egipto, sino a Nínive para predicar el arrepentimiento.",
-        "El mensaje no era de destrucción inmediata, sino de oportunidad de arrepentimiento.",
-        "Jonás no llevaba un mensaje de juicio final, sino de advertencia para la conversión.",
-      ],
-    },
-  },
-  {
-    id: 2025,
-    difficulty: "Difícil",
-    question:
-      "¿Qué ocurrió cuando Jonás intentó huir de la misión que Dios le asignó?",
-    category: profetas,
-    correct_answer:
-      "Una tormenta violenta se desató, poniendo en peligro a los marineros",
-    incorrect_answers: [
-      "Jonás fue protegido por un ángel que lo rescató de las aguas",
-      "La tormenta cesó inmediatamente, pero Jonás fue castigado por desobedecer",
-      "La nave naufragó, pero Jonás logró sobrevivir solo por la intervención divina",
-    ],
-    justifications: {
-      correct_answer:
-        "La tormenta que se desató fue un castigo por la desobediencia de Jonás, poniendo en peligro a los marineros.",
-      incorrect_answers: [
-        "No se menciona la protección directa de un ángel, sino el castigo por desobedecer.",
-        "La tormenta no cesó, sino que aumentó, y fue solo cuando Jonás fue arrojado al mar que se calmó.",
-        "El naufragio no ocurrió; la tormenta fue calmada después de que Jonás fue arrojado al mar.",
-      ],
-    },
-  },
-  {
-    id: 2026,
-    difficulty: "Media",
-    question:
-      "¿Cómo reaccionaron los habitantes de Nínive al mensaje de Jonás?",
-    category: profetas,
-    correct_answer:
-      "Se arrepintieron de sus pecados y ayunaron para evitar la destrucción",
-    incorrect_answers: [
-      "Rechazaron el mensaje de Jonás y continuaron con sus malas acciones",
-      "Acosaron a Jonás y lo expulsaron de la ciudad",
-      "Pidieron pruebas de la veracidad del mensaje antes de tomar acción",
-    ],
-    justifications: {
-      correct_answer:
-        "Los ninivitas, al escuchar el mensaje de Jonás, se arrepintieron sinceramente y se sometieron a ayuno.",
-      incorrect_answers: [
-        "No rechazaron el mensaje, sino que se arrepintieron y se sometieron a la voluntad de Dios.",
-        "Jonás no fue expulsado, sino que su mensaje fue escuchado y aceptado.",
-        "No hubo demandas de pruebas, sino un arrepentimiento inmediato tras escuchar la advertencia.",
-      ],
-    },
-  },
-  {
-    id: 2027,
-    difficulty: "Difícil",
-    question: "¿Qué actitud mostró Jonás después de que Nínive se arrepintió?",
-    category: profetas,
-    correct_answer:
-      "Se enojó con Dios porque perdonó a los ninivitas y no los destruyó",
-    incorrect_answers: [
-      "Jonás se sintió orgulloso de su éxito y alabó a Dios por la salvación de Nínive",
-      "Jonás se retiró en silencio, aceptando la voluntad de Dios sin cuestionarla",
-      "Jonás celebró la conversión de Nínive y oró por la prosperidad de la ciudad",
-    ],
-    justifications: {
-      correct_answer:
-        "Jonás se sintió frustrado y enojado porque Dios perdonó a Nínive, en lugar de castigarlos como él esperaba.",
-      incorrect_answers: [
-        "Jonás no se sintió orgulloso; al contrario, su enojo reflejó su falta de entendimiento de la misericordia de Dios.",
-        "Jonás no aceptó sin cuestionar; su actitud fue más de resentimiento hacia la misericordia de Dios.",
-        "Jonás no celebró, sino que estuvo disgustado por la salvación de Nínive.",
-      ],
-    },
-  },
-  {
-    id: 2028,
-    difficulty: "Media",
-    question:
-      "¿Qué hizo Dios para enseñar una lección a Jonás sobre su actitud hacia Nínive?",
-    category: profetas,
-    correct_answer:
-      "Dios hizo crecer una planta para dar sombra a Jonás, pero luego la hizo marchitar",
-    incorrect_answers: [
-      "Dios envió una lluvia torrencial sobre Jonás para enseñarle humildad",
-      "Dios le ofreció a Jonás un perdón personal para ayudarle a entender su misericordia",
-      "Dios envió un ángel para corregir a Jonás y mostrarle su error",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios usó una planta para ilustrar la lección sobre la compasión y el arrepentimiento.",
-      incorrect_answers: [
-        "La lluvia no fue el método usado por Dios para enseñar a Jonás, sino la planta.",
-        "Dios no ofreció un perdón personal a Jonás, sino que le enseñó a través de la naturaleza.",
-        "No se menciona un ángel, sino un acto de la naturaleza que impactó a Jonás.",
-      ],
-    },
-  },
-  {
-    id: 2029,
-    difficulty: "Difícil",
-    question:
-      "¿Qué mensaje central se puede extraer de la profecía de Jonás respecto a la misericordia de Dios?",
-    category: profetas,
-    correct_answer:
-      "Dios muestra misericordia incluso a los pueblos considerados enemigos si se arrepienten",
-    incorrect_answers: [
-      "Dios castiga severamente a los pueblos malvados sin ofrecerles oportunidad de arrepentirse",
-      "La misericordia de Dios solo se extiende a los israelitas, sin importar su comportamiento",
-      "La misericordia de Dios es condicional, dependiendo de los méritos de cada pueblo",
-    ],
-    justifications: {
-      correct_answer:
-        "El mensaje central es que la misericordia de Dios está disponible para todos aquellos que se arrepienten sinceramente, incluso para los enemigos de Israel.",
-      incorrect_answers: [
-        "No se habla de castigo inmediato sin oportunidad, sino de una oportunidad para el arrepentimiento.",
-        "La misericordia de Dios es extendida a todos, no solo a los israelitas, cuando se arrepienten.",
-        "La misericordia no depende de méritos, sino de la voluntad de arrepentimiento de los pueblos.",
-      ],
-    },
-  },
+         //Joel
+        
 
-  // Miqueas
 
-  {
-    id: 2030,
-    difficulty: "Media",
-    question: "¿Qué mensaje central transmite Miqueas sobre el juicio de Dios?",
-    category: profetas,
-    correct_answer:
-      "Dios juzgará a las naciones y traerá justicia a los oprimidos",
-    incorrect_answers: [
-      "Dios castigará a todos los pueblos sin distinción por su desobediencia",
-      "Dios solo juzgará a Israel, dejando a otras naciones sin juicio",
-      "Dios traerá paz y prosperidad a las naciones que no se arrepientan",
-    ],
-    justifications: {
-      correct_answer:
-        "El mensaje central es que Dios traerá juicio, pero también ofrecerá justicia a los que sufren injusticias.",
-      incorrect_answers: [
-        "El juicio de Dios no es indiscriminado, sino basado en la justicia divina.",
-        "El juicio incluye a todas las naciones, no solo a Israel.",
-        "La justicia de Dios no se traduce en paz para los injustos, sino en castigo.",
-      ],
-    },
-  },
-  {
-    id: 2031,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo describe Miqueas el futuro de Jerusalén y su papel en los últimos días?",
-    category: profetas,
-    correct_answer:
-      "Jerusalén será un centro de paz y enseñanza para todas las naciones",
-    incorrect_answers: [
-      "Jerusalén será destruida y no tendrá más importancia en los últimos días",
-      "Jerusalén será conquistada por naciones extranjeras en el futuro cercano",
-      "Jerusalén se convertirá en una ciudad de riquezas y poder sin justicia",
-    ],
-    justifications: {
-      correct_answer:
-        "Miqueas profetizó que Jerusalén jugará un papel crucial como centro espiritual y de enseñanza durante los últimos días.",
-      incorrect_answers: [
-        "La destrucción no es el mensaje, sino la transformación de Jerusalén en un lugar de enseñanza.",
-        "No se menciona conquista, sino restauración y paz para Jerusalén.",
-        "Jerusalén no se describe como un centro de riqueza, sino de paz y justicia.",
-      ],
-    },
-  },
-  {
-    id: 2032,
-    difficulty: "Media",
-    question:
-      "¿Qué debe hacer el pueblo de Israel, según Miqueas, para evitar el juicio divino?",
-    category: profetas,
-    correct_answer:
-      "Actuar con justicia, amar la misericordia y caminar humildemente con Dios",
-    incorrect_answers: [
-      "Obedecer todas las leyes al pie de la letra y ofrecer sacrificios continuos",
-      "Centrarse únicamente en las prácticas religiosas sin preocuparse por la justicia social",
-      "Seguir las riquezas y el poder sin importar las consecuencias espirituales",
-    ],
-    justifications: {
-      correct_answer:
-        "Miqueas enfatiza que la verdadera justicia divina se encuentra en la humildad, la misericordia y la justicia, no solo en rituales.",
-      incorrect_answers: [
-        "El enfoque no está en rituales, sino en el comportamiento justo y misericordioso.",
-        "Miqueas destaca la justicia y la misericordia, no la concentración en las prácticas religiosas sin un cambio de corazón.",
-        "El llamado es a la humildad y la justicia, no a la búsqueda de riquezas.",
-      ],
-    },
-  },
-  {
-    id: 2033,
-    difficulty: "Difícil",
-    question:
-      "¿Qué señala Miqueas sobre los líderes de Israel durante su tiempo?",
-    category: profetas,
-    correct_answer:
-      "Critica a los líderes corruptos que explotan a los pobres y a los débiles",
-    incorrect_answers: [
-      "Alaba a los líderes por su fidelidad a las leyes y su preocupación por el pueblo",
-      "Anuncia que los líderes serán perdonados sin importar sus acciones, por su estatus",
-      "Declara que los líderes de Israel serán destruidos por su falta de fe, pero no por sus injusticias",
-    ],
-    justifications: {
-      correct_answer:
-        "Miqueas denuncia la corrupción de los líderes que oprimen a los pobres y se aprovechan de su poder.",
-      incorrect_answers: [
-        "No hay alabanza a los líderes corruptos, sino una crítica a su comportamiento.",
-        "El perdón de los líderes no es condicionado solo a su estatus, sino a su arrepentimiento.",
-        "El juicio de Dios se basa en las injusticias cometidas, no solo en la falta de fe.",
-      ],
-    },
-  },
-  {
-    id: 2034,
-    difficulty: "Media",
-    question:
-      "¿Qué profecía de Miqueas se cumple con el nacimiento de Jesucristo?",
-    category: profetas,
-    correct_answer:
-      "El Mesías nacerá en Belén, a pesar de la humildad de la ciudad",
-    incorrect_answers: [
-      "El Mesías nacerá en Jerusalén, la ciudad más grande y poderosa",
-      "El Mesías será un líder político que traerá un reino terrenal",
-      "El Mesías nacerá en Nazaret, en una familia rica y poderosa",
-    ],
-    justifications: {
-      correct_answer:
-        "Miqueas profetizó que el Mesías nacería en Belén, un lugar humilde, lo cual se cumplió con el nacimiento de Jesús.",
-      incorrect_answers: [
-        "No se cumple la profecía en Jerusalén, sino en Belén, un lugar inesperado.",
-        "La profecía no habla de un líder político, sino de un Salvador espiritual.",
-        "Nazaret no es mencionado en la profecía, ni la riqueza es un factor en el nacimiento del Mesías.",
-      ],
-    },
-  },
-  {
-    id: 2035,
-    difficulty: "Difícil",
-    question: "¿Cómo se presenta la justicia de Dios en el libro de Miqueas?",
-    category: profetas,
-    correct_answer:
-      "La justicia de Dios será equilibrada, castigando a los malvados y protegiendo a los justos",
-    incorrect_answers: [
-      "La justicia de Dios es ciega y no diferencia entre los justos y los malvados",
-      "Dios no castigará a los malvados, sino que ofrecerá siempre perdón",
-      "La justicia de Dios solo se aplicará a los líderes y no al pueblo",
-    ],
-    justifications: {
-      correct_answer:
-        "Miqueas muestra que la justicia de Dios es equilibrada, abarcando tanto castigo para los malvados como protección para los justos.",
-      incorrect_answers: [
-        "La justicia de Dios no es ciega, sino que se aplica según la rectitud de cada uno.",
-        "Dios sí castiga a los malvados, aunque también ofrece oportunidades de arrepentimiento.",
-        "La justicia se aplica a todos, no solo a los líderes, sino a toda la nación.",
-      ],
-    },
-  },
+         
+          {
+            id: 2036,
+            difficulty: "Difícil",
+            question: "¿Qué evento profetizó Joel que ocurriría en los últimos días?",
+            category: profetas,
+            correct_answer: "El derramamiento del Espíritu Santo sobre toda carne.",
+            incorrect_answers: [
+              "La construcción de un nuevo templo en Jerusalén.",
+              "La llegada de un rey poderoso desde el este.",
+              "La destrucción completa de todas las naciones.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:28-29 habla del derramamiento del Espíritu Santo en los últimos días.",
+              incorrect_answers: [
+                "No se menciona la construcción de un nuevo templo.",
+                "No se profetiza la llegada de un rey desde el este.",
+                "No se habla de la destrucción completa de todas las naciones.",
+              ],
+            },
+          },
+          {
+            id: 2037,
+            difficulty: "Medio",
+            question: "¿Qué plaga describió Joel como un juicio de Dios?",
+            category: profetas,
+            correct_answer: "Una invasión de langostas que devoró los cultivos.",
+            incorrect_answers: [
+              "Una sequía prolongada que secó los ríos.",
+              "Una plaga de enfermedades en el ganado.",
+              "Un terremoto que destruyó las ciudades.",
+            ],
+            justifications: {
+              correct_answer: "Joel 1:4 describe la plaga de langostas como un juicio divino.",
+              incorrect_answers: [
+                "No se menciona una sequía prolongada.",
+                "No se habla de enfermedades en el ganado.",
+                "No se menciona un terremoto.",
+              ],
+            },
+          },
+          {
+            id: 2038,
+            difficulty: "Fácil",
+            question: "¿Qué llamamiento hizo Joel al pueblo de Judá?",
+            category: profetas,
+            correct_answer: "Arrepentirse y volverse a Dios con todo su corazón.",
+            incorrect_answers: [
+              "Construir un nuevo altar para sacrificios.",
+              "Buscar alianzas con otras naciones.",
+              "Celebrar fiestas en honor a Dios.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:12-13 insta al pueblo a arrepentirse de corazón.",
+              incorrect_answers: [
+                "No se menciona la construcción de un nuevo altar.",
+                "No se habla de alianzas con otras naciones.",
+                "No se enfoca en celebrar fiestas.",
+              ],
+            },
+          },
+          {
+            id: 2039,
+            difficulty: "Difícil",
+            question: "¿Qué prometió Dios a aquellos que se arrepintieran en el libro de Joel?",
+            category: profetas,
+            correct_answer: "Restauraría los años que la langosta había devorado.",
+            incorrect_answers: [
+              "Les daría riquezas ilimitadas.",
+              "Les otorgaría poder sobre otras naciones.",
+              "Les permitiría construir un gran imperio.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:25 promete la restauración de lo perdido.",
+              incorrect_answers: [
+                "No se mencionan riquezas ilimitadas.",
+                "No se habla de poder sobre otras naciones.",
+                "No se menciona la construcción de un imperio.",
+              ],
+            },
+          },
+          {
+            id: 2040,
+            difficulty: "Medio",
+            question: "¿Qué señal precede al día grande y terrible del Señor según Joel?",
+            category: profetas,
+            correct_answer: "El sol se oscurecerá y la luna se tornará en sangre.",
+            incorrect_answers: [
+              "Habrá un gran terremoto en Jerusalén.",
+              "Las estrellas caerán del cielo.",
+              "Un ángel proclamará el juicio final.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:31 describe estas señales antes del día del Señor.",
+              incorrect_answers: [
+                "No se menciona un terremoto específico.",
+                "No se habla de estrellas cayendo.",
+                "No se menciona un ángel proclamando el juicio.",
+              ],
+            },
+          },
+          {
+            id: 2041,
+            difficulty: "Fácil",
+            question: "¿Qué grupo de personas recibiría el Espíritu Santo según Joel?",
+            category: profetas,
+            correct_answer: "Todos, incluyendo hijos, hijas, ancianos y jóvenes.",
+            incorrect_answers: [
+              "Solo los sacerdotes y profetas.",
+              "Exclusivamente los líderes de Israel.",
+              "Únicamente los que hayan hecho sacrificios.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:28-29 menciona que el Espíritu sería derramado sobre todos.",
+              incorrect_answers: [
+                "No se limita a sacerdotes y profetas.",
+                "No es exclusivo para los líderes.",
+                "No depende de sacrificios.",
+              ],
+            },
+          },
+          {
+            id: 2042,
+            difficulty: "Difícil",
+            question: "¿Qué representa la plaga de langostas en el libro de Joel?",
+            category: profetas,
+            correct_answer: "Un juicio divino por el pecado del pueblo.",
+            incorrect_answers: [
+              "Un símbolo de prosperidad futura.",
+              "Una prueba de fe para los justos.",
+              "Un evento natural sin significado espiritual.",
+            ],
+            justifications: {
+              correct_answer: "Joel 1:4 y 2:11 describen la plaga como un juicio de Dios.",
+              incorrect_answers: [
+                "No simboliza prosperidad.",
+                "No es una prueba para los justos.",
+                "Tiene un significado espiritual profundo.",
+              ],
+            },
+          },
+          {
+            id: 2043,
+            difficulty: "Medio",
+            question: "¿Qué acción específica pidió Joel al pueblo para mostrar arrepentimiento?",
+            category: profetas,
+            correct_answer: "Rasgar sus corazones y no sus vestiduras.",
+            incorrect_answers: [
+              "Ofrecer sacrificios de animales sin defecto.",
+              "Ayunar durante cuarenta días.",
+              "Construir un nuevo templo en Jerusalén.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:13 enfatiza la necesidad de un arrepentimiento sincero.",
+              incorrect_answers: [
+                "No se mencionan sacrificios específicos.",
+                "No se habla de un ayuno de cuarenta días.",
+                "No se menciona la construcción de un templo.",
+              ],
+            },
+          },
+          {
+            id: 2044,
+            difficulty: "Fácil",
+            question: "¿Qué prometió Dios a Judá si se arrepentía?",
+            category: profetas,
+            correct_answer: "Les enviaría bendiciones materiales y espirituales.",
+            incorrect_answers: [
+              "Les daría victoria sobre todas las naciones.",
+              "Les permitiría gobernar el mundo.",
+              "Les otorgaría inmortalidad inmediata.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:23-27 promete bendiciones materiales y espirituales.",
+              incorrect_answers: [
+                "No se menciona una victoria sobre todas las naciones.",
+                "No se habla de gobernar el mundo.",
+                "No se promete inmortalidad inmediata.",
+              ],
+            },
+          },
+          {
+            id: 2045,
+            difficulty: "Difícil",
+            question: "¿Qué significa 'el día del Señor' en el libro de Joel?",
+            category: profetas,
+            correct_answer: "Un tiempo de juicio y restauración divina.",
+            incorrect_answers: [
+              "Un día de celebración y fiesta nacional.",
+              "El inicio de una nueva era de paz mundial.",
+              "El fin de todas las religiones.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:1-2 describe el día del Señor como un tiempo de juicio y restauración.",
+              incorrect_answers: [
+                "No es un día de celebración.",
+                "No se menciona una era de paz mundial.",
+                "No se habla del fin de las religiones.",
+              ],
+            },
+          },
+          {
+            id: 2046,
+            difficulty: "Medio",
+            question: "¿Qué simboliza el valle de Josafat en el libro de Joel?",
+            category: profetas,
+            correct_answer: "El lugar donde Dios juzgará a las naciones.",
+            incorrect_answers: [
+              "Un valle de prosperidad y abundancia.",
+              "El sitio donde se construirá el nuevo templo.",
+              "Un lugar de descanso para los justos.",
+            ],
+            justifications: {
+              correct_answer: "Joel 3:2 menciona el valle de Josafat como lugar de juicio.",
+              incorrect_answers: [
+                "No simboliza prosperidad.",
+                "No se menciona la construcción de un templo.",
+                "No es un lugar de descanso.",
+              ],
+            },
+          },
+          {
+            id: 2047,
+            difficulty: "Fácil",
+            question: "¿Qué prometió Dios a los justos en el libro de Joel?",
+            category: profetas,
+            correct_answer: "Serían protegidos y bendecidos en medio del juicio.",
+            incorrect_answers: [
+              "Recibirían riquezas ilimitadas.",
+              "Serían exentos de toda prueba.",
+              "Gozarían de inmortalidad terrenal.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:32 promete que los justos serán salvos.",
+              incorrect_answers: [
+                "No se mencionan riquezas ilimitadas.",
+                "No se habla de exención de pruebas.",
+                "No se promete inmortalidad terrenal.",
+              ],
+            },
+          },
+          {
+            id: 2048,
+            difficulty: "Difícil",
+            question: "¿Qué enseñanza principal se extrae del libro de Joel?",
+            category: profetas,
+            correct_answer: "El arrepentimiento sincero lleva a la restauración divina.",
+            incorrect_answers: [
+              "La prosperidad es señal del favor de Dios.",
+              "El juicio divino es irreversible.",
+              "La adoración idólatra es aceptable.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:12-13 y 2:25 enfatizan el arrepentimiento y la restauración.",
+              incorrect_answers: [
+                "No se enfoca en la prosperidad.",
+                "El juicio puede revertirse con arrepentimiento.",
+                "La idolatría es condenada.",
+              ],
+            },
+          },
+          {
+            id: 2049,
+            difficulty: "Medio",
+            question: "¿Qué simboliza el 'día grande y terrible del Señor' en Joel?",
+            category: profetas,
+            correct_answer: "Un tiempo de juicio y manifestación del poder de Dios.",
+            incorrect_answers: [
+              "El inicio de una era de paz universal.",
+              "El fin de todas las religiones.",
+              "La llegada de un nuevo rey terrenal.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:11 y 2:31 describen este día como un tiempo de juicio.",
+              incorrect_answers: [
+                "No se menciona una era de paz universal.",
+                "No se habla del fin de las religiones.",
+                "No se menciona un nuevo rey terrenal.",
+              ],
+            },
+          },
+          {
+            id: 2050,
+            difficulty: "Fácil",
+            question: "¿Qué hizo Joel para llamar la atención del pueblo?",
+            category: profetas,
+            correct_answer: "Proclamó un ayuno y una asamblea solemne.",
+            incorrect_answers: [
+              "Construyó un altar en Jerusalén.",
+              "Realizó milagros para convencerlos.",
+              "Escribió un libro de leyes.",
+            ],
+            justifications: {
+              correct_answer: "Joel 1:14 y 2:15-16 llaman a un ayuno y asamblea solemne.",
+              incorrect_answers: [
+                "No se menciona la construcción de un altar.",
+                "No se habla de milagros realizados por Joel.",
+                "No escribió un libro de leyes.",
+              ],
+            },
+          },
+          {
+            id: 2051,
+            difficulty: "Difícil",
+            question: "¿Qué prometió Dios a las naciones que oprimieron a Judá?",
+            category: profetas,
+            correct_answer: "Serían juzgadas en el valle de Josafat.",
+            incorrect_answers: [
+              "Serían bendecidas si se arrepentían.",
+              "Recibirían riquezas y poder.",
+              "Serían perdonadas sin consecuencias.",
+            ],
+            justifications: {
+              correct_answer: "Joel 3:2-12 describe el juicio de las naciones en el valle de Josafat.",
+              incorrect_answers: [
+                "No se menciona bendición para las naciones opresoras.",
+                "No se habla de riquezas o poder.",
+                "No se promete perdón sin consecuencias.",
+              ],
+            },
+          },
+          {
+            id: 2052,
+            difficulty: "Medio",
+            question: "¿Qué simboliza el derramamiento del Espíritu Santo en Joel?",
+            category: profetas,
+            correct_answer: "La restauración y renovación del pueblo de Dios.",
+            incorrect_answers: [
+              "El inicio de una nueva religión.",
+              "El fin de la profecía en Israel.",
+              "La llegada de un nuevo rey terrenal.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:28-29 conecta el derramamiento del Espíritu con la restauración.",
+              incorrect_answers: [
+                "No se menciona una nueva religión.",
+                "No se habla del fin de la profecía.",
+                "No se menciona un nuevo rey terrenal.",
+              ],
+            },
+          },
+          {
+            id: 2053,
+            difficulty: "Fácil",
+            question: "¿Qué pidió Joel al pueblo para evitar el juicio divino?",
+            category: profetas,
+            correct_answer: "Arrepentirse y volverse a Dios con sinceridad.",
+            incorrect_answers: [
+              "Ofrecer más sacrificios de animales.",
+              "Construir un nuevo templo en Jerusalén.",
+              "Buscar alianzas con otras naciones.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:12-13 enfatiza la necesidad de un arrepentimiento sincero.",
+              incorrect_answers: [
+                "No se mencionan más sacrificios.",
+                "No se habla de construir un templo.",
+                "No se mencionan alianzas con otras naciones.",
+              ],
+            },
+          },
+          {
+            id: 2054,
+            difficulty: "Difícil",
+            question: "¿Qué enseñanza principal se extrae de Joel 2:12-13?",
+            category: profetas,
+            correct_answer: "Dios prefiere la misericordia y el arrepentimiento sobre el castigo.",
+            incorrect_answers: [
+              "El juicio divino es inevitable e inescapable.",
+              "La prosperidad es señal del favor de Dios.",
+              "La adoración idólatra es aceptable si es sincera.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:12-13 muestra el deseo de Dios de misericordia y arrepentimiento.",
+              incorrect_answers: [
+                "El juicio puede evitarse con arrepentimiento.",
+                "No se enfoca en la prosperidad.",
+                "La idolatría es condenada.",
+              ],
+            },
+          },
+          {
+            id: 2055,
+            difficulty: "Medio",
+            question: "¿Qué prometió Dios a Judá si se arrepentía de sus pecados?",
+            category: profetas,
+            correct_answer: "Restauraría sus tierras y les daría abundancia.",
+            incorrect_answers: [
+              "Les otorgaría poder sobre todas las naciones.",
+              "Les permitiría construir un gran imperio.",
+              "Les daría inmortalidad terrenal.",
+            ],
+            justifications: {
+              correct_answer: "Joel 2:25-27 promete la restauración de las tierras y la abundancia.",
+              incorrect_answers: [
+                "No se menciona poder sobre todas las naciones.",
+                "No se habla de construir un imperio.",
+                "No se promete inmortalidad terrenal.",
+              ],
+            },
+          },
 
-  //Nahúm
 
-  {
-    id: 2036,
-    difficulty: "Media",
-    question:
-      "¿Qué mensaje principal transmite el libro de Nahúm sobre Nínive?",
-    category: profetas,
-    correct_answer:
-      "Nínive será destruida por su maldad y orgullo, sin posibilidad de escape",
-    incorrect_answers: [
-      "Nínive será perdonada por sus errores y convertida en un reino de justicia",
-      "La destrucción de Nínive se pospone hasta que se arrepientan completamente",
-      "Nínive será transformada en un centro de paz y prosperidad para todas las naciones",
-    ],
-    justifications: {
-      correct_answer:
-        "El mensaje de Nahúm es claro: la destrucción de Nínive es inevitable debido a su pecado y arrogancia.",
-      incorrect_answers: [
-        "Nínive no recibe perdón en este libro, sino una condena por sus maldades.",
-        "El juicio es inminente y no depende del arrepentimiento de la ciudad.",
-        "No hay mención de transformación en paz, sino en destrucción.",
-      ],
-    },
-  },
-  {
-    id: 2037,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo describe Nahúm la reacción de las naciones ante la caída de Nínive?",
-    category: profetas,
-    correct_answer:
-      "Las naciones se alegrarán al ver el castigo de Nínive, pues su opresión era grande",
-    incorrect_answers: [
-      "Las naciones lamentarán la caída de Nínive debido a su poder y grandeza",
-      "Las naciones ignorarán la caída de Nínive y no verán ningún cambio significativo",
-      "Las naciones harán alianzas con Nínive para evitar su caída y lograr la paz",
-    ],
-    justifications: {
-      correct_answer:
-        "Nahúm muestra que la opresión de Nínive había sido tan severa que las naciones se regocijarán por su caída.",
-      incorrect_answers: [
-        "No hay lamento, sino alegría por el fin de la opresión de Nínive.",
-        "La caída de Nínive tiene un impacto significativo en las naciones.",
-        "No hay alianzas con Nínive, sino que su juicio es final y decisivo.",
-      ],
-    },
-  },
-  {
-    id: 2038,
-    difficulty: "Media",
-    question: "¿Qué significa la metáfora de la 'leona' en el libro de Nahúm?",
-    category: profetas,
-    correct_answer:
-      "Simboliza a Nínive como un cazador feroz que devoró a muchas naciones",
-    incorrect_answers: [
-      "Representa el poder de Dios que arrasará con los malvados",
-      "La leona es una figura de protección y justicia para los pueblos oprimidos",
-      "La leona se refiere a una figura de prosperidad y riqueza que Nínive alcanzó",
-    ],
-    justifications: {
-      correct_answer:
-        "La leona simboliza la brutalidad y la violencia de Nínive, que destruyó a las naciones a su paso.",
-      incorrect_answers: [
-        "El poder de Dios no se representa con la leona, sino con el juicio sobre Nínive.",
-        "La leona no es un símbolo de protección, sino de devastación.",
-        "No hay prosperidad en Nínive, sino una condena por sus actos.",
-      ],
-    },
-  },
-  {
-    id: 2039,
-    difficulty: "Difícil",
-    question:
-      "¿Qué profecía de Nahúm se refiere al futuro del pueblo de Israel tras la caída de Nínive?",
-    category: profetas,
-    correct_answer:
-      "Israel será restaurado y libre de la opresión de Asiria tras la caída de Nínive",
-    incorrect_answers: [
-      "Israel será derrotado por Nínive en los próximos años como parte del juicio final",
-      "Israel se mantendrá cautivo bajo el dominio de Asiria, sin esperanza de restauración",
-      "La caída de Nínive traerá un periodo de caos y destrucción para Israel",
-    ],
-    justifications: {
-      correct_answer:
-        "Nahúm profetiza que la caída de Nínive liberará a Israel de la opresión asiria, marcando el comienzo de su restauración.",
-      incorrect_answers: [
-        "La derrota de Nínive es la clave para la liberación de Israel, no su caída.",
-        "El juicio de Asiria ya está decidido, y la restauración de Israel es el enfoque central.",
-        "La caída de Nínive trae esperanza, no caos, para Israel.",
-      ],
-    },
-  },
-  {
-    id: 2040,
-    difficulty: "Media",
-    question:
-      "¿Cómo describe Nahúm la velocidad y contundencia del juicio de Dios contra Nínive?",
-    category: profetas,
-    correct_answer:
-      "El juicio de Dios será veloz y devastador, sin oportunidad de escape para los culpables",
-    incorrect_answers: [
-      "El juicio de Dios será gradual y dará tiempo a los habitantes de Nínive para arrepentirse",
-      "El juicio de Dios se limitará a la ciudad de Nínive, dejando al resto de Asiria intacta",
-      "El juicio de Dios será leve y no afectará a los habitantes de Nínive de manera significativa",
-    ],
-    justifications: {
-      correct_answer:
-        "Nahúm describe el juicio como rápido y total, sin opción de escape para la ciudad de Nínive.",
-      incorrect_answers: [
-        "El juicio es decisivo y no se prolonga, lo que deja a Nínive sin tiempo para arrepentirse.",
-        "El juicio afecta a Nínive en su totalidad, no solo a la ciudad en sí.",
-        "No se trata de un juicio leve, sino de uno devastador.",
-      ],
-    },
-  },
-  {
-    id: 2041,
-    difficulty: "Difícil",
-    question: "¿Qué actitud muestra Nahúm hacia la justicia de Dios?",
-    category: profetas,
-    correct_answer:
-      "Nahúm expresa que la justicia de Dios es implacable con los malvados pero es un consuelo para los justos",
-    incorrect_answers: [
-      "Nahúm enseña que la justicia de Dios es severa y no ofrece consuelo a los justos",
-      "Nahúm sugiere que la justicia de Dios es negociable dependiendo de las circunstancias",
-      "Nahúm muestra que la justicia de Dios es arbitraria y no tiene en cuenta las acciones humanas",
-    ],
-    justifications: {
-      correct_answer:
-        "Nahúm presenta la justicia de Dios como justa y firme, trayendo consuelo a los justos y castigo a los malvados.",
-      incorrect_answers: [
-        "La justicia de Dios no es sin esperanza para los justos, sino una fuente de consuelo.",
-        "La justicia no es negociable, es inmutable y segura.",
-        "La justicia de Dios es justa y basada en la rectitud, no es arbitraria.",
-      ],
-    },
-  },
-  {
-    id: 2042,
-    difficulty: "Media",
-    question: "¿Dónde ocurrirá la destrucción final de Nínive según Nahúm?",
-    category: profetas,
-    correct_answer:
-      "La destrucción ocurrirá en las mismas puertas de Nínive, sin poder escapar",
-    incorrect_answers: [
-      "La destrucción ocurrirá en una batalla lejana, fuera de Nínive",
-      "La destrucción será tan grande que toda la ciudad desaparecerá bajo el mar",
-      "La destrucción de Nínive no se llevará a cabo, ya que se arrepentirán a tiempo",
-    ],
-    justifications: {
-      correct_answer:
-        "Nahúm profetiza que la destrucción será tan inminente que ocurrirá en las mismas puertas de la ciudad.",
-      incorrect_answers: [
-        "No hay mención de una batalla lejana, el juicio es sobre la ciudad misma.",
-        "La ciudad no desaparecerá bajo el mar, sino por la acción directa de Dios.",
-        "El arrepentimiento no se menciona, el juicio es irreversible.",
-      ],
-    },
-  },
 
-  //Habacuc
 
-  {
-    id: 2042,
-    difficulty: "Media",
-    question:
-      "¿Qué pregunta crucial plantea Habacuc al Señor sobre la injusticia?",
-    category: profetas,
-    correct_answer:
-      "¿Por qué permites que los malvados prosperen mientras los justos sufren?",
-    incorrect_answers: [
-      "¿Por qué los justos reciben recompensa y los malvados castigo?",
-      "¿Cómo puede un Dios justo permitir que los impíos sigan viviendo?",
-      "¿Cuál es la razón detrás de la victoria de los justos sobre los malvados?",
-    ],
-    justifications: {
-      correct_answer:
-        "Habacuc cuestiona la aparente prosperidad de los malvados mientras que los justos sufren.",
-      incorrect_answers: [
-        "La pregunta de Habacuc no se refiere a la recompensa de los justos, sino a la prosperidad de los malvados.",
-        "No se enfoca en cómo Dios permite a los malvados vivir, sino en la contradicción de la situación.",
-        "La cuestión de Habacuc es más acerca del sufrimiento de los justos que de la victoria.",
-      ],
-    },
-  },
-  {
-    id: 2043,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo responde el Señor a la queja de Habacuc sobre la injusticia en el mundo?",
-    category: profetas,
-    correct_answer:
-      "Dios le dice que la justicia se cumplirá a su debido tiempo, aunque no será en el momento esperado",
-    incorrect_answers: [
-      "Dios promete castigar a todos los malvados de inmediato, sin demora",
-      "El Señor responde que no hay razón para preocuparse, ya que todo estará bien",
-      "Dios le explica a Habacuc que la justicia es relativa y no siempre será comprendida",
-    ],
-    justifications: {
-      correct_answer:
-        "La respuesta de Dios es clara, indicando que la justicia llegará en su tiempo perfecto, aunque no de acuerdo con el tiempo humano.",
-      incorrect_answers: [
-        "No se promete un castigo inmediato, sino que la justicia es futura.",
-        "No hay una respuesta de indiferencia, sino una enseñanza sobre la paciencia en la justicia divina.",
-        "La justicia no es relativa; el tiempo de Dios es perfecto y justo.",
-      ],
-    },
-  },
-  {
-    id: 2044,
-    difficulty: "Media",
-    question:
-      "¿Qué visión tiene Habacuc sobre la intervención divina en la historia?",
-    category: profetas,
-    correct_answer:
-      "Habacuc ve que Dios usará a los babilonios para castigar a Israel, pero también juzgará a los babilonios",
-    incorrect_answers: [
-      "Habacuc ve que Dios no intervendrá y dejará que los hombres se enfrenten entre sí",
-      "Habacuc contempla que Dios solo castigará a los babilonios y no a Israel",
-      "La visión de Habacuc muestra que la intervención divina será temporal, sin consecuencias a largo plazo",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios usará a los babilonios como instrumento de juicio, pero al final, también juzgará a esas naciones por su maldad.",
-      incorrect_answers: [
-        "Dios sí interviene, y su intervención no es pasiva, sino activa en los juicios.",
-        "La visión no es solo un castigo a los babilonios, sino a todas las naciones malvadas.",
-        "La intervención de Dios tiene consecuencias permanentes para todos los pueblos, no solo temporalmente.",
-      ],
-    },
-  },
-  {
-    id: 2045,
-    difficulty: "Difícil",
-    question:
-      "¿Qué lección importante aprendió Habacuc sobre la fe durante su diálogo con Dios?",
-    category: profetas,
-    correct_answer:
-      "La fe es esencial para la justicia de Dios, incluso cuando no entendemos Su plan",
-    incorrect_answers: [
-      "La lección de Habacuc es que la justicia solo llegará cuando podamos entender todo el plan de Dios",
-      "Habacuc enseña que la fe no tiene importancia si no vemos los resultados inmediatos",
-      "Habacuc aprende que solo los sabios reciben la justicia y los justos deben esperar pacientemente",
-    ],
-    justifications: {
-      correct_answer:
-        "La lección clave de Habacuc es que, aunque no entendemos todo el plan de Dios, debemos confiar en Su justicia y tener fe en que todo tiene un propósito.",
-      incorrect_answers: [
-        "Habacuc no enseña que entender todo el plan es necesario, sino que la fe es suficiente.",
-        "La paciencia en la fe no depende de los resultados inmediatos, sino de la confianza en el plan divino.",
-        "Habacuc no habla de sabiduría, sino de la importancia de la fe en momentos difíciles.",
-      ],
-    },
-  },
-  {
-    id: 2046,
-    difficulty: "Media",
-    question:
-      "¿Cuál es la visión final de Habacuc sobre la obra de Dios en el futuro?",
-    category: profetas,
-    correct_answer:
-      "Habacuc visualiza un futuro donde el conocimiento de la gloria de Dios cubrirá la tierra",
-    incorrect_answers: [
-      "Habacuc predice que el futuro será lleno de caos y desesperación, sin esperanza de redención",
-      "La visión de Habacuc muestra una tierra destruida, sin posibilidad de restauración",
-      "Habacuc ve un futuro donde solo un pequeño grupo de justos vivirá en paz mientras el resto será condenado",
-    ],
-    justifications: {
-      correct_answer:
-        "Habacuc finalmente ve la esperanza en la gloria de Dios, que traerá paz y justicia al mundo entero.",
-      incorrect_answers: [
-        "No hay predicción de caos, sino de un futuro glorioso lleno de la gloria de Dios.",
-        "La restauración es parte de la visión, no la destrucción sin esperanza.",
-        "La visión de Habacuc no es limitada a un pequeño grupo, sino que es universal.",
-      ],
-    },
-  },
-  {
-    id: 2047,
-    difficulty: "Difícil",
-    question:
-      "¿Qué figura simbólica usa Habacuc para describir el juicio divino sobre los malvados?",
-    category: profetas,
-    correct_answer:
-      "Habacuc usa la figura de un guerrero poderoso que aplasta a sus enemigos sin compasión",
-    incorrect_answers: [
-      "Habacuc utiliza la figura de un juez que discierne pacíficamente entre lo bueno y lo malo",
-      "La figura utilizada es un árbol que crece lentamente, representando el juicio gradual",
-      "Habacuc describe el juicio divino como un río suave que limpia la tierra sin causar daño",
-    ],
-    justifications: {
-      correct_answer:
-        "La metáfora de un guerrero refleja el juicio severo y rápido que vendrá sobre los malvados, sin posibilidad de escape.",
-      incorrect_answers: [
-        "Habacuc no describe un juicio pacífico, sino uno devastador y directo.",
-        "El juicio de Dios no es gradual, sino inmediato y poderoso.",
-        "No se menciona un juicio suave, sino una acción contundente y efectiva.",
-      ],
-    },
-  },
-  {
-    id: 2048,
-    difficulty: "Media",
-    question:
-      "¿Cómo finaliza el libro de Habacuc, mostrando la actitud del profeta frente al juicio de Dios?",
-    category: profetas,
-    correct_answer:
-      "Habacuc termina con una oración de fe y confianza, aceptando que, a pesar del sufrimiento, Dios es su salvación",
-    incorrect_answers: [
-      "Habacuc termina con una queja final, reclamando que la justicia de Dios no fue cumplida",
-      "El libro de Habacuc termina con una bendición a las naciones, sin más referencias a la justicia",
-      "Habacuc cierra el libro con una declaración de desesperación, sin esperanza de restauración",
-    ],
-    justifications: {
-      correct_answer:
-        "El libro concluye con la fe de Habacuc en la salvación de Dios, reconociendo que, aunque el juicio es doloroso, Dios es justo y salvador.",
-      incorrect_answers: [
-        "No hay queja final, sino aceptación de la soberanía de Dios.",
-        "La bendición no es el enfoque final, sino la fe en la justicia divina.",
-        "Habacuc no se desespera, sino que mantiene su confianza en Dios a pesar de los juicios.",
-      ],
-    },
-  },
+      // Amós
+        
+      
 
-  //Sofonías
+    
+      
+        {
+          id: 2056,
+          difficulty: "Difícil",
+          question: "¿Cuál fue la principal advertencia de Amós a Israel?",
+          category: profetas,
+          correct_answer: "El juicio de Dios por su injusticia e idolatría.",
+          incorrect_answers: [
+            "La llegada de un rey poderoso desde el norte.",
+            "La destrucción completa de Jerusalén.",
+            "El fin de todas las profecías en Israel.",
+          ],
+          justifications: {
+            correct_answer: "Amós 2:6-8 denuncia la injusticia y la idolatría de Israel.",
+            incorrect_answers: [
+              "No se menciona un rey poderoso desde el norte.",
+              "No se habla de la destrucción de Jerusalén.",
+              "No se menciona el fin de las profecías.",
+            ],
+          },
+        },
+        {
+          id: 2057,
+          difficulty: "Medio",
+          question: "¿Qué oficio tenía Amós antes de ser profeta?",
+          category: profetas,
+          correct_answer: "Era pastor y cultivador de higos.",
+          incorrect_answers: [
+            "Era sacerdote en el templo de Betel.",
+            "Era un comerciante en Jerusalén.",
+            "Era un escriba real.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:14 menciona que Amós era pastor y cultivador de higos.",
+            incorrect_answers: [
+              "No era sacerdote en Betel.",
+              "No se menciona que fuera comerciante.",
+              "No era escriba real.",
+            ],
+          },
+        },
+        {
+          id: 2058,
+          difficulty: "Fácil",
+          question: "¿Qué ciudad era el centro de la adoración idolátrica en Israel?",
+          category: profetas,
+          correct_answer: "Betel.",
+          incorrect_answers: [
+            "Jerusalén.",
+            "Samaria.",
+            "Damasco.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:13 menciona a Betel como lugar de adoración idolátrica.",
+            incorrect_answers: [
+              "Jerusalén no era el centro de idolatría en Israel.",
+              "Samaria no es mencionada como centro de idolatría en este contexto.",
+              "Damasco no era parte de Israel.",
+            ],
+          },
+        },
+        {
+          id: 2059,
+          difficulty: "Difícil",
+          question: "¿Qué visión tuvo Amós sobre el juicio de Israel?",
+          category: profetas,
+          correct_answer: "Una plomada que indicaba que Israel no cumplía con los estándares de Dios.",
+          incorrect_answers: [
+            "Un ejército de langostas que devoraría la tierra.",
+            "Un terremoto que destruiría las ciudades.",
+            "Un fuego que consumiría el templo de Betel.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:7-8 describe la visión de la plomada como símbolo de juicio.",
+            incorrect_answers: [
+              "No se menciona un ejército de langostas.",
+              "No se habla de un terremoto en esta visión.",
+              "No se menciona un fuego consumiendo el templo.",
+            ],
+          },
+        },
+        {
+          id: 2060,
+          difficulty: "Medio",
+          question: "¿Qué pecado específico denunció Amós en Israel?",
+          category: profetas,
+          correct_answer: "La opresión a los pobres y la corrupción judicial.",
+          incorrect_answers: [
+            "La falta de sacrificios en el templo.",
+            "La adoración a dioses extranjeros exclusivamente.",
+            "El abandono completo de la ley mosaica.",
+          ],
+          justifications: {
+            correct_answer: "Amós 2:6-7 y 5:12 denuncian la opresión y la corrupción.",
+            incorrect_answers: [
+              "No se menciona la falta de sacrificios.",
+              "No se enfoca solo en dioses extranjeros.",
+              "No se habla del abandono completo de la ley.",
+            ],
+          },
+        },
+        {
+          id: 2061,
+          difficulty: "Fácil",
+          question: "¿Qué prometió Dios a Israel si se arrepentía?",
+          category: profetas,
+          correct_answer: "Les mostraría misericordia y los restauraría.",
+          incorrect_answers: [
+            "Les daría riquezas ilimitadas.",
+            "Les otorgaría poder sobre todas las naciones.",
+            "Les permitiría construir un gran imperio.",
+          ],
+          justifications: {
+            correct_answer: "Amós 5:4-6 insta al arrepentimiento y promete misericordia.",
+            incorrect_answers: [
+              "No se mencionan riquezas ilimitadas.",
+              "No se habla de poder sobre todas las naciones.",
+              "No se menciona la construcción de un imperio.",
+            ],
+          },
+        },
+        {
+          id: 2062,
+          difficulty: "Difícil",
+          question: "¿Qué simboliza la visión de la canasta de frutos de verano en Amós?",
+          category: profetas,
+          correct_answer: "El fin de Israel está cerca, como la cosecha madura.",
+          incorrect_answers: [
+            "La prosperidad futura de Israel.",
+            "La llegada de un nuevo rey justo.",
+            "El inicio de una era de paz.",
+          ],
+          justifications: {
+            correct_answer: "Amós 8:1-2 usa la canasta de frutos para simbolizar el fin cercano.",
+            incorrect_answers: [
+              "No simboliza prosperidad futura.",
+              "No se menciona un nuevo rey justo.",
+              "No se habla de una era de paz.",
+            ],
+          },
+        },
+        {
+          id: 2063,
+          difficulty: "Medio",
+          question: "¿Qué actitud mostró Amós hacia los líderes religiosos de su tiempo?",
+          category: profetas,
+          correct_answer: "Los criticó por su hipocresía y corrupción.",
+          incorrect_answers: [
+            "Los apoyó en sus esfuerzos por reformar el culto.",
+            "Los ignoró completamente.",
+            "Los alabó por su devoción.",
+          ],
+          justifications: {
+            correct_answer: "Amós 5:21-24 denuncia la hipocresía de los líderes religiosos.",
+            incorrect_answers: [
+              "No los apoyó en reformas.",
+              "No los ignoró, sino que los confrontó.",
+              "No los alabó, sino que los criticó.",
+            ],
+          },
+        },
+        {
+          id: 2064,
+          difficulty: "Fácil",
+          question: "¿Qué hizo Amós para llamar la atención del pueblo?",
+          category: profetas,
+          correct_answer: "Proclamó mensajes de juicio y llamó al arrepentimiento.",
+          incorrect_answers: [
+            "Realizó milagros para convencerlos.",
+            "Construyó un nuevo altar en Betel.",
+            "Escribió un libro de leyes.",
+          ],
+          justifications: {
+            correct_answer: "Amós 4:6-12 y 5:4-6 muestran su llamado al arrepentimiento.",
+            incorrect_answers: [
+              "No se mencionan milagros realizados por Amós.",
+              "No construyó un nuevo altar.",
+              "No escribió un libro de leyes.",
+            ],
+          },
+        },
+        {
+          id: 2065,
+          difficulty: "Difícil",
+          question: "¿Qué enseñanza principal se extrae del libro de Amós?",
+          category: profetas,
+          correct_answer: "La justicia social y la rectitud son esenciales para agradar a Dios.",
+          incorrect_answers: [
+            "La prosperidad es señal del favor de Dios.",
+            "El juicio divino es irreversible.",
+            "La adoración idólatra es aceptable si es sincera.",
+          ],
+          justifications: {
+            correct_answer: "Amós 5:24 enfatiza la justicia y la rectitud.",
+            incorrect_answers: [
+              "No se enfoca en la prosperidad.",
+              "El juicio puede evitarse con arrepentimiento.",
+              "La idolatría es condenada.",
+            ],
+          },
+        },
+        {
+          id: 2066,
+          difficulty: "Medio",
+          question: "¿Qué visión tuvo Amós sobre el futuro de Israel?",
+          category: profetas,
+          correct_answer: "Serían llevados al exilio por su pecado.",
+          incorrect_answers: [
+            "Serían bendecidos con riquezas y poder.",
+            "Serían liberados por un rey justo.",
+            "Serían perdonados sin consecuencias.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:17 predice el exilio de Israel.",
+            incorrect_answers: [
+              "No se mencionan bendiciones de riquezas.",
+              "No se habla de un rey justo liberador.",
+              "No se promete perdón sin consecuencias.",
+            ],
+          },
+        },
+        {
+          id: 2067,
+          difficulty: "Fácil",
+          question: "¿Qué hizo Amós cuando fue expulsado de Betel?",
+          category: profetas,
+          correct_answer: "Continuó proclamando el mensaje de Dios.",
+          incorrect_answers: [
+            "Se unió a los sacerdotes de Betel.",
+            "Abandonó su llamado profético.",
+            "Regresó a su vida como pastor.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:10-17 muestra que continuó su ministerio a pesar de la oposición.",
+            incorrect_answers: [
+              "No se unió a los sacerdotes de Betel.",
+              "No abandonó su llamado.",
+              "No regresó a su vida anterior.",
+            ],
+          },
+        },
+        {
+          id: 2068,
+          difficulty: "Difícil",
+          question: "¿Qué simboliza la visión del altar en Amós?",
+          category: profetas,
+          correct_answer: "El juicio inminente sobre Israel.",
+          incorrect_answers: [
+            "La restauración del templo de Jerusalén.",
+            "La llegada de un nuevo rey justo.",
+            "El inicio de una era de paz.",
+          ],
+          justifications: {
+            correct_answer: "Amós 9:1-4 describe el altar como símbolo de juicio.",
+            incorrect_answers: [
+              "No se menciona la restauración del templo.",
+              "No se habla de un nuevo rey justo.",
+              "No se menciona una era de paz.",
+            ],
+          },
+        },
+        {
+          id: 2069,
+          difficulty: "Medio",
+          question: "¿Qué prometió Dios a los justos en el libro de Amós?",
+          category: profetas,
+          correct_answer: "Serían preservados en medio del juicio.",
+          incorrect_answers: [
+            "Recibirían riquezas ilimitadas.",
+            "Serían exentos de toda prueba.",
+            "Gozarían de inmortalidad terrenal.",
+          ],
+          justifications: {
+            correct_answer: "Amós 5:14-15 promete que los justos serán preservados.",
+            incorrect_answers: [
+              "No se mencionan riquezas ilimitadas.",
+              "No se habla de exención de pruebas.",
+              "No se promete inmortalidad terrenal.",
+            ],
+          },
+        },
+        {
+          id: 2070,
+          difficulty: "Fácil",
+          question: "¿Qué hizo Amós para mostrar la seriedad del mensaje de Dios?",
+          category: profetas,
+          correct_answer: "Usó visiones y símbolos para comunicar el juicio divino.",
+          incorrect_answers: [
+            "Realizó milagros para convencer al pueblo.",
+            "Construyó un nuevo altar en Jerusalén.",
+            "Escribió un libro de leyes.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:1-9 y 8:1-3 muestran el uso de visiones y símbolos.",
+            incorrect_answers: [
+              "No se mencionan milagros realizados por Amós.",
+              "No construyó un nuevo altar.",
+              "No escribió un libro de leyes.",
+            ],
+          },
+        },
+        {
+          id: 2071,
+          difficulty: "Difícil",
+          question: "¿Qué enseñanza principal se extrae de Amós 5:24?",
+          category: profetas,
+          correct_answer: "Dios desea justicia y rectitud más que sacrificios rituales.",
+          incorrect_answers: [
+            "Los sacrificios son más importantes que la justicia.",
+            "La prosperidad es señal del favor de Dios.",
+            "La adoración idólatra es aceptable si es sincera.",
+          ],
+          justifications: {
+            correct_answer: "Amós 5:24 enfatiza la justicia y la rectitud sobre los rituales.",
+            incorrect_answers: [
+              "Dios valora más la justicia que los sacrificios.",
+              "No se enfoca en la prosperidad.",
+              "La idolatría es condenada.",
+            ],
+          },
+        },
+        {
+          id: 2072,
+          difficulty: "Medio",
+          question: "¿Qué simboliza la visión del enjambre de langostas en Amós?",
+          category: profetas,
+          correct_answer: "El juicio de Dios sobre Israel por su pecado.",
+          incorrect_answers: [
+            "La prosperidad futura de Israel.",
+            "La llegada de un nuevo rey justo.",
+            "El inicio de una era de paz.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:1-3 describe las langostas como símbolo de juicio.",
+            incorrect_answers: [
+              "No simboliza prosperidad futura.",
+              "No se menciona un nuevo rey justo.",
+              "No se habla de una era de paz.",
+            ],
+          },
+        },
+        {
+          id: 2073,
+          difficulty: "Fácil",
+          question: "¿Qué hizo Amós cuando el sacerdote de Betel lo confrontó?",
+          category: profetas,
+          correct_answer: "Defendió su llamado profético y continuó su mensaje.",
+          incorrect_answers: [
+            "Se retractó de sus palabras y se disculpó.",
+            "Abandonó su ministerio y regresó a casa.",
+            "Se unió al sacerdote en su adoración.",
+          ],
+          justifications: {
+            correct_answer: "Amós 7:10-17 muestra que Amós defendió su llamado.",
+            incorrect_answers: [
+              "No se retractó de sus palabras.",
+              "No abandonó su ministerio.",
+              "No se unió al sacerdote.",
+            ],
+          },
+        },
+        {
+          id: 2074,
+          difficulty: "Difícil",
+          question: "¿Qué prometió Dios a Israel si no se arrepentía?",
+          category: profetas,
+          correct_answer: "Serían llevados al exilio y sufrirían devastación.",
+          incorrect_answers: [
+            "Serían bendecidos con riquezas y poder.",
+            "Serían liberados por un rey justo.",
+            "Serían perdonados sin consecuencias.",
+          ],
+          justifications: {
+            correct_answer: "Amós 5:27 y 7:17 predicen el exilio y la devastación.",
+            incorrect_answers: [
+              "No se mencionan bendiciones de riquezas.",
+              "No se habla de un rey justo liberador.",
+              "No se promete perdón sin consecuencias.",
+            ],
+          },
+        },
+        {
+          id: 2075,
+          difficulty: "Medio",
+          question: "¿Qué enseñanza principal se extrae de Amós 3:7?",
+          category: profetas,
+          correct_answer: "Dios revela sus planes a través de los profetas.",
+          incorrect_answers: [
+            "Los profetas deben ser ricos y poderosos.",
+            "Las visiones proféticas son irrelevantes.",
+            "Dios no necesita profetas para comunicarse.",
+          ],
+          justifications: {
+            correct_answer: "Amós 3:7 enfatiza que Dios revela sus planes a los profetas.",
+            incorrect_answers: [
+              "No se menciona que los profetas deban ser ricos.",
+              "Las visiones proféticas son esenciales.",
+              "Dios usa profetas para comunicarse.",
+            ],
+          },
+        },
+      
+ //Abdías
 
-  {
-    id: 2049,
-    difficulty: "Media",
-    question: "¿Qué pueblo es llamado a arrepentirse en el libro de Sofonías?",
-    category: profetas,
-    correct_answer:
-      "El pueblo de Judá es llamado al arrepentimiento por sus maldades",
-    incorrect_answers: [
-      "El pueblo de Israel es llamado a arrepentirse por sus pecados",
-      "El pueblo de Egipto es llamado a arrepentirse por sus transgresiones",
-      "Las naciones extranjeras son llamadas a arrepentirse ante el juicio de Dios",
-    ],
-    justifications: {
-      correct_answer:
-        "Sofonías predica principalmente para el pueblo de Judá, llamándolos a arrepentirse de su idolatría y corrupción.",
-      incorrect_answers: [
-        "El enfoque de Sofonías es principalmente Judá, no Israel ni otras naciones.",
-        "Egipto no es el objetivo principal en el llamado al arrepentimiento de Sofonías.",
-        "El mensaje de Sofonías se centra en Judá, aunque menciona otras naciones.",
-      ],
-    },
-  },
-  {
-    id: 2050,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo describe Sofonías el juicio que vendrá sobre los pueblos impíos?",
-    category: profetas,
-    correct_answer:
-      "Sofonías lo describe como un día de ira y angustia, cuando el castigo será irreversible",
-    incorrect_answers: [
-      "El juicio será un proceso largo, pero finalmente habrá restauración para los impíos",
-      "El juicio se describirá como un castigo moderado, sin consecuencias definitivas",
-      "Sofonías menciona que el juicio será un evento que solo afectará a algunas personas",
-    ],
-    justifications: {
-      correct_answer:
-        "El juicio en Sofonías es contundente, con un enfoque en la ira de Dios que traerá sufrimiento irreversible a los impíos.",
-      incorrect_answers: [
-        "El juicio de Sofonías no es gradual ni restaurador, sino inmediato y severo.",
-        "No hay indicaciones de un juicio moderado en el libro de Sofonías, más bien es definitivo y total.",
-        "Sofonías no menciona que el juicio afecte solo a una parte, sino que es para todas las naciones corruptas.",
-      ],
-    },
-  },
-  {
-    id: 2051,
-    difficulty: "Media",
-    question:
-      "¿Qué aspecto de la justicia de Dios se enfatiza en el libro de Sofonías?",
-    category: profetas,
-    correct_answer:
-      "La justicia de Dios es justa y perfecta, no dejando a los malvados sin castigo",
-    incorrect_answers: [
-      "La justicia de Dios es parcial y depende de la situación de cada nación",
-      "Dios será justo solo con los pueblos que se arrepientan a tiempo",
-      "La justicia de Dios se enfoca principalmente en la misericordia, no en el juicio",
-    ],
-    justifications: {
-      correct_answer:
-        "Sofonías resalta que la justicia divina es inmutable, asegurando que todos los malvados recibirán su merecido castigo.",
-      incorrect_answers: [
-        "La justicia de Dios no es parcial, sino que es universal y perfecta.",
-        "El arrepentimiento no es lo único que garantiza la misericordia de Dios, ya que Él también es justo.",
-        "El énfasis de Sofonías no es en la misericordia, sino en la justicia y el castigo.",
-      ],
-    },
-  },
-  {
-    id: 2052,
-    difficulty: "Difícil",
-    question:
-      "¿Qué significa el término 'Día de la ira' en el contexto de Sofonías?",
-    category: profetas,
-    correct_answer:
-      "Es un tiempo de juicio inminente, donde Dios actuará con severidad contra los malvados",
-    incorrect_answers: [
-      "Es un tiempo de restauración, donde Dios traerá paz a todas las naciones",
-      "El 'Día de la ira' es un período de calma antes del castigo final",
-      "El 'Día de la ira' se refiere a un evento aislado, sin consecuencias duraderas",
-    ],
-    justifications: {
-      correct_answer:
-        "El 'Día de la ira' se refiere a un período de juicio absoluto, donde Dios ejecuta Su justicia sobre todos los malvados.",
-      incorrect_answers: [
-        "No es un tiempo de restauración, sino de juicio y destrucción.",
-        "El juicio no es temporal ni calmado, sino inmediato y severo.",
-        "El 'Día de la ira' tiene consecuencias permanentes, no un evento aislado.",
-      ],
-    },
-  },
-  {
-    id: 2053,
-    difficulty: "Media",
-    question: "¿Qué esperanza se presenta al final del libro de Sofonías?",
-    category: profetas,
-    correct_answer:
-      "La esperanza de restauración y paz para los que permanecen fieles a Dios",
-    incorrect_answers: [
-      "Sofonías presenta un futuro sin esperanza, donde no habrá ninguna restauración",
-      "Solo los pueblos que sean totalmente purificados podrán disfrutar de la paz de Dios",
-      "La esperanza de Sofonías es una restauración temporal, sin cambios permanentes",
-    ],
-    justifications: {
-      correct_answer:
-        "A pesar del juicio, Sofonías ofrece esperanza de restauración para los fieles y la promesa de la paz de Dios.",
-      incorrect_answers: [
-        "Sofonías sí presenta una esperanza para los justos, no un futuro sin restauración.",
-        "La paz de Dios no está limitada solo a los purificados, sino a los justos en general.",
-        "La restauración es duradera, no temporal.",
-      ],
-    },
-  },
-  {
-    id: 2054,
-    difficulty: "Difícil",
-    question:
-      "¿Qué actitud debe adoptar el pueblo de Dios frente al juicio inminente, según Sofonías?",
-    category: profetas,
-    correct_answer:
-      "Debe humillarse y buscar la justicia y humildad para evitar ser consumido en el juicio",
-    incorrect_answers: [
-      "Debe mantenerse indiferente, ya que el juicio no afectará a los justos",
-      "El pueblo debe rebelarse contra la injusticia y buscar una venganza contra los impíos",
-      "El pueblo debe esperar pacíficamente el juicio, sin cambiar su actitud",
-    ],
-    justifications: {
-      correct_answer:
-        "Sofonías llama a la humildad y al arrepentimiento, instando al pueblo a evitar el juicio mediante el cambio de actitud.",
-      incorrect_answers: [
-        "La indiferencia no es la actitud correcta; el arrepentimiento es necesario para evitar el juicio.",
-        "El pueblo no debe buscar venganza, sino justicia y arrepentimiento.",
-        "La pasividad no es una opción, se requiere acción a través del arrepentimiento y la humildad.",
-      ],
-    },
-  },
-  {
-    id: 2055,
-    difficulty: "Media",
-    question:
-      "¿Cómo se describen los castigos de Dios contra los pueblos que no se arrepienten en Sofonías?",
-    category: profetas,
-    correct_answer:
-      "Los castigos son devastadores, incluyendo la destrucción total de ciudades y naciones impías",
-    incorrect_answers: [
-      "Los castigos son moderados, con un enfoque en la corrección de los pueblos sin destrucción total",
-      "Los castigos son solo espirituales, sin efectos físicos o materiales",
-      "Dios solo castigará a los individuos, sin afectar a las naciones en su totalidad",
-    ],
-    justifications: {
-      correct_answer:
-        "Sofonías describe un juicio severo, con consecuencias físicas y materiales para las naciones malvadas.",
-      incorrect_answers: [
-        "El juicio no es moderado, sino extremo y destructivo.",
-        "Los castigos no son solo espirituales, sino también materiales y físicos.",
-        "El juicio es sobre naciones, no solo sobre individuos.",
-      ],
-    },
-  },
 
-  //Hageo
 
-  {
-    id: 2056,
-    difficulty: "Media",
-    question:
-      "¿Qué instrucción dio Hageo al pueblo respecto a la reconstrucción del templo?",
-    category: profetas,
-    correct_answer:
-      "Hageo les instó a ponerse a trabajar en la reconstrucción del templo de inmediato, porque la gloria de este será mayor que la primera",
-    incorrect_answers: [
-      "Hageo dijo que el pueblo debía esperar una señal divina antes de comenzar la reconstrucción",
-      "El profeta instruyó que la reconstrucción del templo se detuviera hasta recibir más revelación",
-      "Hageo alentó al pueblo a enfocarse primero en la prosperidad económica antes de la reconstrucción",
-    ],
-    justifications: {
-      correct_answer:
-        "Hageo motivó al pueblo a actuar rápidamente en la reconstrucción del templo, prometiendo una mayor gloria en comparación con el anterior.",
-      incorrect_answers: [
-        "Hageo no pidió esperar una señal, sino que exhortó a la acción inmediata.",
-        "La instrucción fue clara sobre la urgencia de reconstruir, no de detenerse.",
-        "La prioridad era la reconstrucción del templo, no la prosperidad económica primero.",
-      ],
-    },
-  },
-  {
-    id: 2057,
-    difficulty: "Difícil",
-    question:
-      "¿Cómo describe Hageo el estado de las riquezas del pueblo antes de la reconstrucción del templo?",
-    category: profetas,
-    correct_answer:
-      "Hageo los describe como desvaneciéndose, como si el pueblo pusiera su dinero en bolsas con agujeros",
-    incorrect_answers: [
-      "Hageo les habla de una abundancia que no puede ser retenida debido a la falta de fe",
-      "El profeta menciona que las riquezas se multiplicaron, pero el pueblo no las pudo disfrutar",
-      "Hageo describe cómo las riquezas fueron transferidas a otras naciones como castigo divino",
-    ],
-    justifications: {
-      correct_answer:
-        "Hageo utiliza una imagen metafórica para ilustrar cómo las riquezas del pueblo se desvanecen debido a su descuido en las cosas de Dios.",
-      incorrect_answers: [
-        "No se menciona una abundancia, sino una constante insatisfacción y pérdida.",
-        "Hageo no habla de multiplicación de riquezas sino de su desperdicio y pérdida.",
-        "El castigo divino no está relacionado con la transferencia de riquezas a otras naciones.",
-      ],
-    },
-  },
-  {
-    id: 2058,
-    difficulty: "Media",
-    question:
-      "¿Qué promesa hace Dios a los que colaboran en la reconstrucción del templo según Hageo?",
-    category: profetas,
-    correct_answer:
-      "Dios promete estar con ellos y bendecir su trabajo, asegurando que su obra será fructífera",
-    incorrect_answers: [
-      "Dios promete que no sufrirán dificultades económicas durante la reconstrucción",
-      "Los que colaboren serán exaltados a altos puestos de liderazgo y riqueza",
-      "Dios les asegura que el templo será completado sin ningún obstáculo",
-    ],
-    justifications: {
-      correct_answer:
-        "Dios garantiza su presencia y bendición sobre aquellos que colaboren en la obra del templo.",
-      incorrect_answers: [
-        "La promesa no está enfocada en la ausencia de dificultades económicas, sino en la bendición espiritual.",
-        "No se promete exaltación material, sino la prosperidad espiritual.",
-        "Aunque la obra es bendecida, no se asegura que no habrá obstáculos.",
-      ],
-    },
-  },
-  {
-    id: 2059,
-    difficulty: "Difícil",
-    question:
-      "¿Qué revelación fue dada a Hageo sobre el futuro del templo en el libro de Hageo?",
-    category: profetas,
-    correct_answer:
-      "Dios revela que la gloria de este templo será mayor que la del primero, y que la paz será otorgada",
-    incorrect_answers: [
-      "Dios revela que el templo nunca alcanzará la gloria del primero, pero que traerá prosperidad material",
-      "La revelación señala que el templo será destruido antes de ser completado",
-      "Dios dice que el templo será una obra temporal sin mucha relevancia futura",
-    ],
-    justifications: {
-      correct_answer:
-        "La promesa de una gloria mayor y paz divina es un mensaje clave en Hageo, mostrando la trascendencia del templo.",
-      incorrect_answers: [
-        "La gloria del templo no es menor, sino mayor, y no se relaciona solo con prosperidad material.",
-        "No se menciona que el templo será destruido, sino que será una obra gloriosa.",
-        "El templo tiene un propósito eterno y de paz, no es solo una obra temporal.",
-      ],
-    },
-  },
-  {
-    id: 2060,
-    difficulty: "Media",
-    question:
-      "¿Cuál es la razón principal por la que el pueblo de Israel experimentaba dificultades económicas según Hageo?",
-    category: profetas,
-    correct_answer:
-      "El pueblo había descuidado la construcción del templo de Dios y se enfocaba solo en sus propias casas",
-    incorrect_answers: [
-      "La economía sufría debido a la corrupción en el gobierno y las malas políticas",
-      "Las dificultades eran el resultado de una plaga que afectó los cultivos del pueblo",
-      "El pueblo estaba siendo castigado por sus pecados personales y su falta de fe",
-    ],
-    justifications: {
-      correct_answer:
-        "La falta de prioridad al templo de Dios era la causa de sus dificultades económicas según Hageo.",
-      incorrect_answers: [
-        "La causa no era la corrupción política, sino la negligencia religiosa.",
-        "Aunque hubo dificultades agrícolas, la causa principal era el descuido del templo.",
-        "La razón de las dificultades no era solo la falta de fe personal, sino el abandono de la obra de Dios.",
-      ],
-    },
-  },
-  {
-    id: 2061,
-    difficulty: "Difícil",
-    question:
-      "¿Qué simboliza la profecía de Hageo sobre el 'deseo de todas las naciones' que vendrán al templo?",
-    category: profetas,
-    correct_answer:
-      "Simboliza la venida del Mesías y la paz que Él traerá a todas las naciones",
-    incorrect_answers: [
-      "Simboliza una futura invasión de todas las naciones que destruirán el templo",
-      "Representa la creciente riqueza material que vendrá de todas las naciones",
-      "Es una referencia a las naciones que buscarán refugio en el templo durante tiempos de guerra",
-    ],
-    justifications: {
-      correct_answer:
-        "La profecía es una alusión al Mesías, quien traerá paz y atraerá a todas las naciones a la adoración.",
-      incorrect_answers: [
-        "La profecía no se refiere a una invasión, sino a una venida pacífica.",
-        "No se enfoca en la riqueza material, sino en la paz espiritual.",
-        "El simbolismo es de una invitación universal a la paz, no solo de refugio físico.",
-      ],
-    },
-  },
 
-  //Zacarías
 
-  {
-    id: 2062,
-    difficulty: "Media",
-    question:
-      "¿Qué mensaje recibe Zacarías sobre el futuro del templo en su visión?",
-    category: profetas,
-    correct_answer:
-      "Zacarías ve que el templo será restaurado y que la gloria de Dios llenará este lugar de manera aún mayor que antes",
-    incorrect_answers: [
-      "Zacarías recibe la visión de que el templo será destruido y no se reconstruirá jamás",
-      "El profeta ve que el templo no será restaurado, sino que quedará en ruinas como símbolo de castigo",
-      "La visión de Zacarías muestra que el templo será reemplazado por una nueva ciudad santa",
-    ],
-    justifications: {
-      correct_answer:
-        "La restauración del templo es un tema central en la visión de Zacarías, que anuncia una gloria aún mayor que la pasada.",
-      incorrect_answers: [
-        "Zacarías no ve la destrucción, sino la restauración del templo.",
-        "El mensaje no es de ruina, sino de renovación y bendición.",
-        "No se habla de una nueva ciudad reemplazante, sino de la restauración del templo.",
-      ],
-    },
-  },
-  {
-    id: 2063,
-    difficulty: "Difícil",
-    question:
-      "¿Quién es el líder que Zacarías menciona como símbolo de justicia y paz en su visión?",
-    category: profetas,
-    correct_answer:
-      "Zacarías menciona a un rey justo que vendrá, conocido como el Mesías, quien traerá justicia y paz a su pueblo",
-    incorrect_answers: [
-      "Zacarías menciona a un líder político que reunirá a todas las naciones para la guerra final",
-      "El profeta habla de un sacerdote que será exaltado por su sabiduría y justicia",
-      "Zacarías describe un líder militar que traerá la victoria final a Israel",
-    ],
-    justifications: {
-      correct_answer:
-        "El líder mencionado en Zacarías es una figura mesiánica que traerá paz y justicia, no solo un gobernante terrenal.",
-      incorrect_answers: [
-        "El líder no es político ni está asociado con la guerra, sino con la paz.",
-        "Zacarías no menciona a un sacerdote, sino a un rey mesiánico.",
-        "El enfoque de la profecía no está en la guerra, sino en la paz que traerá el Mesías.",
-      ],
-    },
-  },
-  {
-    id: 2064,
-    difficulty: "Media",
-    question:
-      "¿Qué simboliza el acto de Zacarías de poner una corona sobre la cabeza de Josué el sumo sacerdote?",
-    category: profetas,
-    correct_answer:
-      "El acto simboliza la unidad entre el sacerdocio y la realeza en la persona del Mesías futuro",
-    incorrect_answers: [
-      "Simboliza el comienzo de un reino terrenal y el fin del sacerdocio",
-      "Representa la coronación de un rey que gobernará con autoridad absoluta",
-      "Es un símbolo de la restauración del pueblo de Israel como nación independiente",
-    ],
-    justifications: {
-      correct_answer:
-        "La corona simboliza la unión de los roles sacerdotal y real que se cumplen en el Mesías.",
-      incorrect_answers: [
-        "El acto no está relacionado con el fin del sacerdocio, sino con su exaltación en el Mesías.",
-        "No se trata de un rey terrenal, sino de la figura mesiánica que fusiona realeza y sacerdocio.",
-        "La restauración no es solo política, sino espiritual a través del Mesías.",
-      ],
-    },
-  },
-  {
-    id: 2065,
-    difficulty: "Difícil",
-    question: "¿Qué rol desempeña el ángel en las visiones de Zacarías?",
-    category: profetas,
-    correct_answer:
-      "El ángel sirve de guía e intérprete de las visiones, explicando su significado y revelación divina",
-    incorrect_answers: [
-      "El ángel es un mensajero que entrega juicios divinos sin explicación",
-      "El ángel es un intermediario que reprende al pueblo por sus pecados sin dar detalles",
-      "El ángel es un protector del templo, pero no explica las visiones del profeta",
-    ],
-    justifications: {
-      correct_answer:
-        "El ángel en Zacarías es un intérprete clave que ayuda a comprender las visiones y sus implicaciones.",
-      incorrect_answers: [
-        "El ángel no solo entrega juicios, sino que guía e interpreta las visiones.",
-        "El ángel no se limita a reprender, sino a explicar el futuro glorioso.",
-        "El papel del ángel no es protector, sino revelador de los misterios divinos.",
-      ],
-    },
-  },
-  {
-    id: 2066,
-    difficulty: "Media",
-    question:
-      "¿Qué significa la visión de Zacarías sobre los cuatro caballos y los jinetes?",
-    category: profetas,
-    correct_answer:
-      "La visión simboliza el control divino sobre las naciones y los juicios que se derramarán sobre la tierra",
-    incorrect_answers: [
-      "La visión predice la llegada de un juicio solo para Israel, mientras las otras naciones quedan libres",
-      "Los caballos representan la expansión del reino de Israel sobre todos los pueblos",
-      "La visión es una advertencia de que un gran conflicto mundial ocurrirá en el futuro cercano",
-    ],
-    justifications: {
-      correct_answer:
-        "La visión muestra que Dios tiene soberanía sobre todas las naciones y traerá juicio a la tierra.",
-      incorrect_answers: [
-        "No es un juicio solo para Israel, sino para todas las naciones.",
-        "No se trata de expansión territorial de Israel, sino de juicio y control divino.",
-        "El conflicto no es específicamente mundial, sino un juicio divino sobre el mundo.",
-      ],
-    },
-  },
-  {
-    id: 2067,
-    difficulty: "Difícil",
-    question: "¿Qué profecía de Zacarías se refiere al 'Día del Señor'?",
-    category: profetas,
-    correct_answer:
-      "El 'Día del Señor' es el tiempo en que Dios juzgará a las naciones y traerá restauración a su pueblo elegido",
-    incorrect_answers: [
-      "El 'Día del Señor' es cuando el pueblo de Israel vencerá a todos sus enemigos y establecerá su dominio",
-      "El 'Día del Señor' es una referencia a la destrucción total de la tierra y su purificación",
-      "El 'Día del Señor' es un evento que sucederá cuando los gentiles se conviertan al judaísmo",
-    ],
-    justifications: {
-      correct_answer:
-        "El 'Día del Señor' es un tiempo de juicio y restauración, no de conquista inmediata o purificación total.",
-      incorrect_answers: [
-        "El 'Día del Señor' no es sobre la victoria militar de Israel, sino sobre el juicio divino.",
-        "No se trata de una destrucción total, sino de un juicio y restauración final.",
-        "No está relacionado con la conversión de gentiles, sino con el juicio divino sobre las naciones.",
-      ],
-    },
-  },
-
-  //Malaquías
-
-  {
-    id: 2069,
-    difficulty: "Media",
-    question:
-      "¿Qué mensaje importante transmite Malaquías sobre la relación de los sacerdotes con Dios?",
-    category: profetas,
-    correct_answer:
-      "Malaquías denuncia que los sacerdotes han profanado el altar de Dios al ofrecer sacrificios defectuosos y no han honrado su llamado correctamente",
-    incorrect_answers: [
-      "Malaquías alaba a los sacerdotes por mantener su fidelidad y reverencia en los sacrificios",
-      "El profeta predica la eliminación de los sacerdotes corruptos para purificar al pueblo",
-      "Los sacerdotes son elogiados por su dedicación, sin embargo, se les pide que renueven su compromiso con Dios",
-    ],
-    justifications: {
-      correct_answer:
-        "Malaquías reprende a los sacerdotes por no cumplir con su deber divino, lo que afecta la pureza de los sacrificios y la relación con Dios.",
-      incorrect_answers: [
-        "Malaquías no alaba a los sacerdotes, sino que los reprende por su corrupción.",
-        "El mensaje de Malaquías no habla de la eliminación de sacerdotes, sino de su arrepentimiento y corrección.",
-        "No se les elogia, sino que se les exhorta a corregir su falta de reverencia y compromiso.",
-      ],
-    },
-  },
-  {
-    id: 2070,
-    difficulty: "Difícil",
-    question:
-      "¿Qué profecía de Malaquías se refiere al envío de un mensajero antes de la venida del Mesías?",
-    category: profetas,
-    correct_answer:
-      "Malaquías profetiza el envío de Elías, el cual preparará el camino para la venida del Mesías, actuando como un precursor",
-    incorrect_answers: [
-      "Malaquías predice la llegada de un nuevo rey que gobernará con justicia sobre Israel",
-      "El profeta habla de la venida de un ángel que traerá la paz y restauración a toda la tierra",
-      "Malaquías describe un tiempo en que un líder militar destruirá a los enemigos de Israel",
-    ],
-    justifications: {
-      correct_answer:
-        "La profecía de Malaquías habla del envío de Elías como precursor, para preparar a la gente para la venida del Mesías.",
-      incorrect_answers: [
-        "No se refiere a un nuevo rey, sino al mensaje de Elías como precursor del Mesías.",
-        "La profecía no habla de un ángel, sino de la preparación de los corazones de las personas.",
-        "No se menciona la llegada de un líder militar, sino la preparación espiritual para el Mesías.",
-      ],
-    },
-  },
-  {
-    id: 2071,
-    difficulty: "Media",
-    question:
-      "¿Cómo describe Malaquías la relación entre el pueblo de Israel y su Dios?",
-    category: profetas,
-    correct_answer:
-      "Malaquías describe una relación deteriorada, en la que el pueblo ha desobedecido a Dios al no ofrecerle lo mejor de sus bienes y corazones",
-    incorrect_answers: [
-      "El profeta muestra una relación de estrecha comunión entre Dios y el pueblo, sin reproches",
-      "Malaquías afirma que el pueblo de Israel siempre ha sido fiel y ha seguido los mandamientos de Dios sin fallar",
-      "El mensaje de Malaquías habla de un pueblo que, aunque imperfecto, ha mantenido su devoción a Dios y sigue sus caminos",
-    ],
-    justifications: {
-      correct_answer:
-        "Malaquías reprende al pueblo por su desobediencia y por no dar lo mejor de sí mismos a Dios, reflejando una relación rota.",
-      incorrect_answers: [
-        "La relación entre Israel y Dios no es perfecta, sino que está marcada por la infidelidad y la corrupción.",
-        "El pueblo no ha sido fiel, y su devoción ha sido cuestionada por Dios a través de Malaquías.",
-        "El mensaje no es sobre devoción perfecta, sino sobre la necesidad de arrepentimiento y cambio.",
-      ],
-    },
-  },
-  {
-    id: 2072,
-    difficulty: "Difícil",
-    question:
-      "¿Qué lección importante sobre el diezmo se presenta en el libro de Malaquías?",
-    category: profetas,
-    correct_answer:
-      "Malaquías enseña que el pueblo debe traer todos los diezmos al alfolí, para que haya alimento en la casa de Dios y recibir las bendiciones prometidas por obedecer",
-    incorrect_answers: [
-      "Malaquías aconseja que el diezmo es opcional y depende de la disposición de cada uno",
-      "El profeta pide que el diezmo se entregue solo en tiempos de abundancia económica",
-      "Malaquías habla de que el diezmo es solo para los sacerdotes y no tiene una conexión directa con el pueblo",
-    ],
-    justifications: {
-      correct_answer:
-        "El mensaje de Malaquías enfatiza la obediencia al diezmo como un mandato para recibir las bendiciones de Dios.",
-      incorrect_answers: [
-        "El diezmo no es opcional según Malaquías, sino una obligación que trae bendiciones.",
-        "Malaquías no limita el diezmo a tiempos de abundancia, sino que es un acto constante de obediencia.",
-        "El diezmo es para todo el pueblo, no solo para los sacerdotes.",
-      ],
-    },
-  },
-  {
-    id: 2073,
-    difficulty: "Media",
-    question: "¿Qué condena Malaquías en relación al matrimonio en su mensaje?",
-    category: profetas,
-    correct_answer:
-      "Malaquías condena el matrimonio con personas fuera de la fe, ya que este acto es visto como una traición al pacto con Dios",
-    incorrect_answers: [
-      "El profeta alaba la práctica de casarse con personas fuera de la fe como una forma de expandir el reino de Israel",
-      "Malaquías solo habla de la fidelidad conyugal en el contexto de un matrimonio entre creyentes",
-      "No se menciona el tema del matrimonio en Malaquías, ya que se enfoca en otros aspectos del pueblo",
-    ],
-    justifications: {
-      correct_answer:
-        "Malaquías rechaza los matrimonios que quebrantan el pacto con Dios, especialmente aquellos con personas fuera de la fe.",
-      incorrect_answers: [
-        "No se alaba el matrimonio con no creyentes, sino que se denuncia como una traición al pacto.",
-        "El tema de la fidelidad conyugal no se limita a los matrimonios entre creyentes, sino a no quebrantar el pacto.",
-        "Malaquías aborda específicamente el tema del matrimonio y su relación con la fe y el pacto.",
-      ],
-    },
-  },
-  {
-    id: 2074,
-    difficulty: "Difícil",
-    question:
-      "¿Qué se promete a los que temen y honran el nombre de Dios en el libro de Malaquías?",
-    category: profetas,
-    correct_answer:
-      "Malaquías promete que los que temen y honran a Dios serán parte de un 'libro de recuerdos', siendo finalmente recompensados con justicia y liberación",
-    incorrect_answers: [
-      "Malaquías asegura que aquellos que honran a Dios recibirán riquezas materiales inmediatas",
-      "El profeta menciona que el pueblo que teme a Dios será liberado de todas las pruebas y tribulaciones de la vida",
-      "Malaquías promete que aquellos que temen a Dios serán olvidados y que no habrá consecuencias por su obediencia",
-    ],
-    justifications: {
-      correct_answer:
-        "El 'libro de recuerdos' es un símbolo de reconocimiento por parte de Dios hacia aquellos que honran su nombre, con la promesa de recompensas espirituales.",
-      incorrect_answers: [
-        "Malaquías no promete riquezas materiales, sino recompensas espirituales y justicia.",
-        "El enfoque no es la liberación inmediata de tribulaciones, sino el reconocimiento divino a largo plazo.",
-        "Los que temen a Dios son recordados, no olvidados, y recibirán su justa recompensa.",
-      ],
-    },
-  },
-
-  //David (considerado un profeta por su papel en la adoración y la escritura de muchos salmos)
-
-  {
-    id: 2075,
-    difficulty: "Media",
-    question:
-      "¿Qué importancia tiene David en la historia de la adoración a Dios según las escrituras?",
-    category: profetas,
-    correct_answer:
-      "David es fundamental en la historia de la adoración, ya que fue él quien organizó el culto en Jerusalén y escribió muchos salmos que siguen siendo usados en la adoración hoy",
-    incorrect_answers: [
-      "David fue conocido solo como un líder militar, sin influencia en la adoración a Dios",
-      "La principal contribución de David fue su reinado político, no su influencia espiritual en la adoración",
-      "David no tuvo un papel significativo en la adoración, ya que su enfoque principal era la expansión del reino",
-    ],
-    justifications: {
-      correct_answer:
-        "David desempeñó un rol crucial como líder espiritual al organizar la adoración a Dios y escribir muchos de los salmos que se utilizan en la liturgia.",
-      incorrect_answers: [
-        "David no solo fue un líder militar, sino también un gran adorador y líder espiritual.",
-        "Su contribución espiritual es tan importante como su reinado político.",
-        "David fue muy influyente en la adoración, más allá de su papel como rey.",
-      ],
-    },
-  },
+ 
   {
     id: 2076,
     difficulty: "Difícil",
-    question:
-      "¿Qué salmo específico de David refleja su profundo arrepentimiento tras el pecado con Betsabé?",
+    question: "¿Cuál fue el principal mensaje de Abdías hacia Edom?",
     category: profetas,
-    correct_answer:
-      "El Salmo 51 es el que expresa su arrepentimiento genuino y su súplica por la misericordia de Dios tras su pecado con Betsabé",
+    correct_answer: "Serían juzgados por su orgullo y violencia contra Israel.",
     incorrect_answers: [
-      "El Salmo 23 es el que refleja su arrepentimiento por ese pecado",
-      "El Salmo 19 es el más reconocido por su arrepentimiento tras el pecado con Betsabé",
-      "David no expresó su arrepentimiento en un salmo específico, sino en oraciones personales",
+      "Serían bendecidos por su alianza con Israel.",
+      "Recibirían riquezas y poder por su obediencia.",
+      "Serían exaltados como líderes entre las naciones.",
     ],
     justifications: {
-      correct_answer:
-        "El Salmo 51 es conocido como el salmo del arrepentimiento de David, donde clama por la misericordia y el perdón de Dios.",
+      correct_answer: "Abdías 1:3-4 y 1:10 denuncian el orgullo y la violencia de Edom.",
       incorrect_answers: [
-        "El Salmo 23 habla de la confianza en Dios, no del arrepentimiento por el pecado.",
-        "El Salmo 19 trata sobre la revelación de Dios a través de la creación, no el arrepentimiento.",
-        "David expresó su arrepentimiento de forma pública en el Salmo 51.",
+        "No se mencionan bendiciones para Edom.",
+        "No se habla de riquezas o poder para Edom.",
+        "No se promete exaltación para Edom.",
       ],
     },
   },
   {
     id: 2077,
-    difficulty: "Media",
-    question: "¿Cómo se caracteriza el reinado de David según las escrituras?",
+    difficulty: "Medio",
+    question: "¿Qué pecado específico cometió Edom contra Israel?",
     category: profetas,
-    correct_answer:
-      "El reinado de David es descrito como un período de unidad y expansión para Israel, en el que prevaleció la paz y la adoración a Dios",
+    correct_answer: "Se alegraron de la caída de Jerusalén y saquearon la ciudad.",
     incorrect_answers: [
-      "El reinado de David fue un tiempo de constantes conflictos y divisiones internas en Israel",
-      "David fue un rey inactivo que no logró consolidar el reino de Israel",
-      "El reinado de David se caracterizó por su indiferencia hacia las leyes de Dios",
+      "Adoraron ídolos en lugar de Dios.",
+      "Oprimieron a los pobres dentro de su propio pueblo.",
+      "Abandonaron el pacto con Dios voluntariamente.",
     ],
     justifications: {
-      correct_answer:
-        "David consolidó el reino y proporcionó un tiempo de paz y prosperidad, estableciendo una fuerte conexión con Dios.",
+      correct_answer: "Abdías 1:11-13 describe cómo Edom se alegró y participó en el saqueo.",
       incorrect_answers: [
-        "David fue un líder que unió a las tribus y expandió el reino, no un rey conflictivo.",
-        "David fue una figura clave para la unidad de Israel, con logros significativos durante su reinado.",
-        "David no fue indiferente, sino que fue un líder comprometido con Dios.",
+        "No se menciona la adoración de ídolos.",
+        "No se habla de opresión interna en Edom.",
+        "No se menciona el abandono del pacto.",
       ],
     },
   },
   {
     id: 2078,
-    difficulty: "Difícil",
-    question:
-      "¿Qué lección moral se puede aprender de la historia de David y Goliat?",
+    difficulty: "Fácil",
+    question: "¿Qué prometió Dios a Israel en contraste con el juicio a Edom?",
     category: profetas,
-    correct_answer:
-      "La lección principal es que con fe en Dios y valentía, uno puede enfrentar desafíos gigantescos, sin importar cuán pequeño o vulnerable se sienta",
+    correct_answer: "Serían restaurados y recuperarían sus tierras.",
     incorrect_answers: [
-      "La historia enseña que la violencia es la única solución ante los problemas difíciles",
-      "David demuestra que la victoria siempre llega solo por la fuerza física y el poder militar",
-      "El relato de David y Goliat enseña que se debe evitar enfrentarse a enemigos poderosos sin un ejército completo",
+      "Serían exiliados junto con Edom.",
+      "Recibirían riquezas ilimitadas de Edom.",
+      "Serían gobernados por un rey edomita.",
     ],
     justifications: {
-      correct_answer:
-        "El relato muestra cómo la fe en Dios, junto con la valentía, puede permitir a una persona vencer grandes desafíos, incluso cuando parece imposible.",
+      correct_answer: "Abdías 1:17-20 promete la restauración de Israel.",
       incorrect_answers: [
-        "La historia no promueve la violencia, sino que muestra que la fe en Dios puede traer la victoria.",
-        "David ganó no por su fuerza, sino por la confianza en Dios y la estrategia divina.",
-        "David no temía enfrentar dificultades, porque sabía que con Dios podía vencer cualquier obstáculo.",
+        "No se menciona un exilio para Israel.",
+        "No se habla de riquezas ilimitadas.",
+        "No se menciona un rey edomita.",
       ],
     },
   },
   {
     id: 2079,
-    difficulty: "Media",
-    question: "¿Quién fue el sucesor de David en el trono de Israel?",
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el monte de Sion en el libro de Abdías?",
     category: profetas,
-    correct_answer:
-      "El sucesor de David fue su hijo Salomón, quien heredó el trono y continuó la expansión y fortalecimiento del reino",
+    correct_answer: "El lugar de refugio y restauración para Israel.",
     incorrect_answers: [
-      "El sucesor de David fue su sobrino, que fue escogido por el pueblo debido a su destreza militar",
-      "David no tuvo sucesores y su reino se dividió entre varias tribus",
-      "El sucesor de David fue un general militar que lideró a Israel hacia la victoria final",
+      "El centro de adoración para todas las naciones.",
+      "El lugar del juicio final para Edom.",
+      "El sitio donde se construiría un nuevo templo.",
     ],
     justifications: {
-      correct_answer:
-        "Salomón, el hijo de David, fue elegido como su sucesor y gobernó después de la muerte de su padre, trayendo paz y prosperidad.",
+      correct_answer: "Abdías 1:17 menciona a Sion como lugar de refugio y santidad.",
       incorrect_answers: [
-        "David dejó a Salomón como sucesor, no a un sobrino.",
-        "El reino de Israel se mantuvo unido bajo Salomón, sin dividirse entre tribus.",
-        "Salomón fue el sucesor por derecho divino, no un general militar.",
+        "No se menciona como centro de adoración universal.",
+        "No es el lugar del juicio final para Edom.",
+        "No se habla de la construcción de un nuevo templo.",
       ],
     },
   },
   {
     id: 2080,
-    difficulty: "Difícil",
-    question:
-      "¿Qué significa que David sea considerado un profeta en el contexto de las escrituras?",
+    difficulty: "Medio",
+    question: "¿Qué actitud mostró Edom hacia Israel durante su calamidad?",
     category: profetas,
-    correct_answer:
-      "David es considerado un profeta porque, a través de los salmos que escribió, expresó la revelación de Dios y anticipó la venida del Mesías",
+    correct_answer: "Se alegraron y colaboraron con los enemigos de Israel.",
     incorrect_answers: [
-      "David es considerado un profeta solo por su habilidad para interpretar sueños",
-      "La consideración de David como profeta es solo un título honorífico debido a su rol como rey",
-      "David fue considerado profeta debido a su destreza en las artes y su contribución cultural",
+      "Ofrecieron ayuda y refugio a Israel.",
+      "Ignoraron completamente la situación.",
+      "Se arrepintieron de sus pecados.",
     ],
     justifications: {
-      correct_answer:
-        "Los salmos de David contienen muchas profecías sobre el Mesías, lo que le otorga el título de profeta.",
+      correct_answer: "Abdías 1:11-14 describe la actitud hostil de Edom.",
       incorrect_answers: [
-        "David no fue conocido principalmente por interpretar sueños, sino por sus salmos proféticos.",
-        "El título de profeta se basa en su rol como líder espiritual y sus escritos inspirados.",
-        "La consideración de David como profeta está relacionada con su papel en la revelación divina, no en su cultura.",
+        "No ofrecieron ayuda a Israel.",
+        "No ignoraron la situación, sino que participaron.",
+        "No se arrepintieron de sus pecados.",
+      ],
+    },
+  },
+  {
+    id: 2081,
+    difficulty: "Fácil",
+    question: "¿Qué dijo Abdías sobre el orgullo de Edom?",
+    category: profetas,
+    correct_answer: "Su orgullo los engañó y los llevó a la ruina.",
+    incorrect_answers: [
+      "Su orgullo los hizo invencibles.",
+      "Su orgullo fue recompensado por Dios.",
+      "Su orgullo los llevó a la prosperidad.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:3-4 advierte que el orgullo de Edom los llevaría a la caída.",
+      incorrect_answers: [
+        "No los hizo invencibles.",
+        "No fue recompensado por Dios.",
+        "No los llevó a la prosperidad.",
+      ],
+    },
+  },
+  {
+    id: 2082,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza principal se extrae del libro de Abdías?",
+    category: profetas,
+    correct_answer: "Dios juzga a las naciones por su maldad y defiende a su pueblo.",
+    incorrect_answers: [
+      "El orgullo es una virtud que Dios recompensa.",
+      "Las alianzas políticas son más importantes que la justicia.",
+      "La prosperidad es señal del favor de Dios.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:15-16 enfatiza el juicio divino sobre las naciones malvadas.",
+      incorrect_answers: [
+        "El orgullo es condenado, no recompensado.",
+        "No se mencionan alianzas políticas.",
+        "No se enfoca en la prosperidad como señal de favor.",
+      ],
+    },
+  },
+  {
+    id: 2083,
+    difficulty: "Medio",
+    question: "¿Qué prometió Dios a los enemigos de Israel?",
+    category: profetas,
+    correct_answer: "Serían juzgados y destruidos por su maldad.",
+    incorrect_answers: [
+      "Serían perdonados si se arrepentían.",
+      "Recibirían bendiciones por su obediencia.",
+      "Serían exaltados como líderes entre las naciones.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:15-16 promete juicio para los enemigos de Israel.",
+      incorrect_answers: [
+        "No se menciona perdón para los enemigos.",
+        "No se habla de bendiciones para ellos.",
+        "No se promete exaltación para los enemigos.",
+      ],
+    },
+  },
+  {
+    id: 2084,
+    difficulty: "Fácil",
+    question: "¿Qué hizo Edom cuando Israel fue invadido?",
+    category: profetas,
+    correct_answer: "Se alegró y colaboró con los invasores.",
+    incorrect_answers: [
+      "Ofreció refugio a los israelitas.",
+      "Ignoró la invasión por completo.",
+      "Se arrepintió de sus pecados.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:11-14 describe la actitud de Edom durante la invasión.",
+      incorrect_answers: [
+        "No ofreció refugio a Israel.",
+        "No ignoró la invasión, sino que participó.",
+        "No se arrepintió de sus pecados.",
+      ],
+    },
+  },
+  {
+    id: 2085,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la caída de Edom en el libro de Abdías?",
+    category: profetas,
+    correct_answer: "El juicio de Dios sobre las naciones orgullosas y malvadas.",
+    incorrect_answers: [
+      "El inicio de una era de paz universal.",
+      "La restauración del templo de Jerusalén.",
+      "La llegada de un nuevo rey justo.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:3-4 y 1:15-16 enfatizan el juicio sobre Edom.",
+      incorrect_answers: [
+        "No se menciona una era de paz universal.",
+        "No se habla de la restauración del templo.",
+        "No se menciona un nuevo rey justo.",
+      ],
+    },
+  },
+  {
+    id: 2086,
+    difficulty: "Medio",
+    question: "¿Qué prometió Dios a Israel en el libro de Abdías?",
+    category: profetas,
+    correct_answer: "Recuperarían sus tierras y serían restaurados.",
+    incorrect_answers: [
+      "Serían exiliados junto con Edom.",
+      "Recibirían riquezas ilimitadas de Edom.",
+      "Serían gobernados por un rey edomita.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:17-20 promete la restauración de Israel.",
+      incorrect_answers: [
+        "No se menciona un exilio para Israel.",
+        "No se habla de riquezas ilimitadas.",
+        "No se menciona un rey edomita.",
+      ],
+    },
+  },
+  {
+    id: 2087,
+    difficulty: "Fácil",
+    question: "¿Qué actitud mostró Edom hacia Israel según Abdías?",
+    category: profetas,
+    correct_answer: "Hostilidad y alegría por su sufrimiento.",
+    incorrect_answers: [
+      "Compasión y ayuda en tiempos de necesidad.",
+      "Indiferencia hacia su situación.",
+      "Admiración por su fortaleza.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:11-14 describe la hostilidad de Edom.",
+      incorrect_answers: [
+        "No mostraron compasión.",
+        "No fueron indiferentes, sino hostiles.",
+        "No admiraron a Israel.",
+      ],
+    },
+  },
+  {
+    id: 2088,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza principal se extrae de Abdías 1:15?",
+    category: profetas,
+    correct_answer: "El día del Señor está cerca para todas las naciones.",
+    incorrect_answers: [
+      "El orgullo es una virtud que Dios recompensa.",
+      "Las alianzas políticas son más importantes que la justicia.",
+      "La prosperidad es señal del favor de Dios.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:15 anuncia el juicio divino sobre todas las naciones.",
+      incorrect_answers: [
+        "El orgullo es condenado, no recompensado.",
+        "No se mencionan alianzas políticas.",
+        "No se enfoca en la prosperidad como señal de favor.",
+      ],
+    },
+  },
+  {
+    id: 2089,
+    difficulty: "Medio",
+    question: "¿Qué dijo Abdías sobre el futuro de Edom?",
+    category: profetas,
+    correct_answer: "Serían destruidos y no quedaría rastro de ellos.",
+    incorrect_answers: [
+      "Serían exaltados como líderes entre las naciones.",
+      "Recibirían bendiciones por su obediencia.",
+      "Serían perdonados si se arrepentían.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:18 promete la destrucción completa de Edom.",
+      incorrect_answers: [
+        "No se menciona exaltación para Edom.",
+        "No se habla de bendiciones para ellos.",
+        "No se menciona perdón para Edom.",
+      ],
+    },
+  },
+  {
+    id: 2090,
+    difficulty: "Fácil",
+    question: "¿Qué prometió Dios a Israel en contraste con el juicio a Edom?",
+    category: profetas,
+    correct_answer: "Serían restaurados y recuperarían sus tierras.",
+    incorrect_answers: [
+      "Serían exiliados junto con Edom.",
+      "Recibirían riquezas ilimitadas de Edom.",
+      "Serían gobernados por un rey edomita.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:17-20 promete la restauración de Israel.",
+      incorrect_answers: [
+        "No se menciona un exilio para Israel.",
+        "No se habla de riquezas ilimitadas.",
+        "No se menciona un rey edomita.",
+      ],
+    },
+  },
+  {
+    id: 2091,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la destrucción de Edom en el libro de Abdías?",
+    category: profetas,
+    correct_answer: "El juicio de Dios sobre las naciones orgullosas y malvadas.",
+    incorrect_answers: [
+      "El inicio de una era de paz universal.",
+      "La restauración del templo de Jerusalén.",
+      "La llegada de un nuevo rey justo.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:3-4 y 1:15-16 enfatizan el juicio sobre Edom.",
+      incorrect_answers: [
+        "No se menciona una era de paz universal.",
+        "No se habla de la restauración del templo.",
+        "No se menciona un nuevo rey justo.",
+      ],
+    },
+  },
+  {
+    id: 2092,
+    difficulty: "Medio",
+    question: "¿Qué actitud mostró Edom hacia Israel según Abdías?",
+    category: profetas,
+    correct_answer: "Hostilidad y alegría por su sufrimiento.",
+    incorrect_answers: [
+      "Compasión y ayuda en tiempos de necesidad.",
+      "Indiferencia hacia su situación.",
+      "Admiración por su fortaleza.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:11-14 describe la hostilidad de Edom.",
+      incorrect_answers: [
+        "No mostraron compasión.",
+        "No fueron indiferentes, sino hostiles.",
+        "No admiraron a Israel.",
+      ],
+    },
+  },
+  {
+    id: 2093,
+    difficulty: "Fácil",
+    question: "¿Qué prometió Dios a Israel en el libro de Abdías?",
+    category: profetas,
+    correct_answer: "Recuperarían sus tierras y serían restaurados.",
+    incorrect_answers: [
+      "Serían exiliados junto con Edom.",
+      "Recibirían riquezas ilimitadas de Edom.",
+      "Serían gobernados por un rey edomita.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:17-20 promete la restauración de Israel.",
+      incorrect_answers: [
+        "No se menciona un exilio para Israel.",
+        "No se habla de riquezas ilimitadas.",
+        "No se menciona un rey edomita.",
+      ],
+    },
+  },
+  {
+    id: 2094,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza principal se extrae de Abdías 1:15?",
+    category: profetas,
+    correct_answer: "El día del Señor está cerca para todas las naciones.",
+    incorrect_answers: [
+      "El orgullo es una virtud que Dios recompensa.",
+      "Las alianzas políticas son más importantes que la justicia.",
+      "La prosperidad es señal del favor de Dios.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:15 anuncia el juicio divino sobre todas las naciones.",
+      incorrect_answers: [
+        "El orgullo es condenado, no recompensado.",
+        "No se mencionan alianzas políticas.",
+        "No se enfoca en la prosperidad como señal de favor.",
+      ],
+    },
+  },
+  {
+    id: 2095,
+    difficulty: "Medio",
+    question: "¿Qué dijo Abdías sobre el futuro de Edom?",
+    category: profetas,
+    correct_answer: "Serían destruidos y no quedaría rastro de ellos.",
+    incorrect_answers: [
+      "Serían exaltados como líderes entre las naciones.",
+      "Recibirían bendiciones por su obediencia.",
+      "Serían perdonados si se arrepentían.",
+    ],
+    justifications: {
+      correct_answer: "Abdías 1:18 promete la destrucción completa de Edom.",
+      incorrect_answers: [
+        "No se menciona exaltación para Edom.",
+        "No se habla de bendiciones para ellos.",
+        "No se menciona perdón para Edom.",
       ],
     },
   },
 
-  //
+
+
+  // Jonás
+
+
+
+
+
+  {
+    id: 2096,
+    difficulty: "Difícil",
+    question: "¿Qué señal dio Jesús sobre Jonás en el Nuevo Testamento?",
+   category: profetas,
+    correct_answer: "Jonás fue una señal de la resurrección de Jesús",
+    incorrect_answers: [
+      "Jonás fue una señal del diluvio",
+      "Jonás fue una señal del juicio final",
+      "Jonás fue una señal del arrepentimiento",
+    ],
+    justifications: {
+      correct_answer: "Mateo 12:40 menciona que Jonás en el vientre del pez fue una señal de la resurrección de Jesús.",
+      incorrect_answers: [
+        "Jonás no está relacionado con el diluvio.",
+        "El juicio final no se asocia directamente con Jonás.",
+        "Aunque Jonás predicó el arrepentimiento, no fue la señal mencionada por Jesús.",
+      ],
+    },
+  },
+  {
+    id: 2097,
+    difficulty: "Medio",
+    question: "¿Cuánto tiempo estuvo Jonás en el vientre del gran pez?",
+   category: profetas,
+    correct_answer: "Tres días y tres noches",
+    incorrect_answers: [
+      "Siete días y siete noches",
+      "Un día y una noche",
+      "Cuarenta días y cuarenta noches",
+    ],
+    justifications: {
+      correct_answer: "Jonás 1:17 afirma que Jonás estuvo tres días y tres noches en el vientre del pez.",
+      incorrect_answers: [
+        "No hay evidencia bíblica que respalde siete días.",
+        "Un día y una noche no coincide con el relato bíblico.",
+        "Cuarenta días y noches se asocia con otros eventos bíblicos, como el diluvio.",
+      ],
+    },
+  },
+  {
+    id: 2098,
+    difficulty: "Fácil",
+    question: "¿A qué ciudad fue enviado Jonás a predicar?",
+   category: profetas,
+    correct_answer: "Nínive",
+    incorrect_answers: [
+      "Jerusalén",
+      "Babilonia",
+      "Sodoma",
+    ],
+    justifications: {
+      correct_answer: "Jonás 1:2 indica que Dios envió a Jonás a Nínive.",
+      incorrect_answers: [
+        "Jerusalén no fue el destino de Jonás.",
+        "Babilonia no está relacionada con la misión de Jonás.",
+        "Sodoma fue destruida antes del tiempo de Jonás.",
+      ],
+    },
+  },
+  {
+    id: 2099,
+    difficulty: "Difícil",
+    question: "¿Qué hizo Jonás después de que Nínive se arrepintió?",
+   category: profetas,
+    correct_answer: "Se enojó y le pidió a Dios que lo matara",
+    incorrect_answers: [
+      "Celebró con los ninivitas",
+      "Regresó inmediatamente a su hogar",
+      "Escribió un libro sobre su experiencia",
+    ],
+    justifications: {
+      correct_answer: "Jonás 4:1-3 describe cómo Jonás se enojó y deseó la muerte.",
+      incorrect_answers: [
+        "No hay evidencia de que celebrara con los ninivitas.",
+        "Jonás no regresó inmediatamente a su hogar.",
+        "No se menciona que escribiera un libro.",
+      ],
+    },
+  },
+  {
+    id: 2100,
+    difficulty: "Medio",
+    question: "¿Qué hizo Jonás para huir de la presencia de Dios?",
+   category: profetas,
+    correct_answer: "Subió a un barco con destino a Tarsis",
+    incorrect_answers: [
+      "Se escondió en una cueva",
+      "Se disfrazó para no ser reconocido",
+      "Se internó en el desierto",
+    ],
+    justifications: {
+      correct_answer: "Jonás 1:3 relata que Jonás tomó un barco a Tarsis para huir de Dios.",
+      incorrect_answers: [
+        "No hay registro de que se escondiera en una cueva.",
+        "Jonás no intentó disfrazarse.",
+        "No se internó en el desierto.",
+      ],
+    },
+  },
+  {
+    id: 2101,
+    difficulty: "Fácil",
+    question: "¿Qué le sucedió al barco en el que viajaba Jonás?",
+   category: profetas,
+    correct_answer: "Fue azotado por una gran tormenta",
+    incorrect_answers: [
+      "Navegó sin problemas hasta Tarsis",
+      "Se hundió inmediatamente",
+      "Fue atacado por piratas",
+    ],
+    justifications: {
+      correct_answer: "Jonás 1:4 describe que una gran tormenta azotó el barco.",
+      incorrect_answers: [
+        "El barco no llegó a Tarsis sin problemas.",
+        "No se hundió inmediatamente.",
+        "No hay mención de un ataque de piratas.",
+      ],
+    },
+  },
+  {
+    id: 2102,
+    difficulty: "Difícil",
+    question: "¿Qué hicieron los marineros cuando descubrieron que Jonás era la causa de la tormenta?",
+   category: profetas,
+    correct_answer: "Lo arrojaron al mar",
+    incorrect_answers: [
+      "Lo encadenaron en el barco",
+      "Rezaron por su seguridad",
+      "Lo abandonaron en una isla",
+    ],
+    justifications: {
+      correct_answer: "Jonás 1:15 relata que los marineros arrojaron a Jonás al mar.",
+      incorrect_answers: [
+        "No lo encadenaron en el barco.",
+        "Aunque rezaron, no fue por su seguridad.",
+        "No lo abandonaron en una isla.",
+      ],
+    },
+  },
+  {
+    id: 2103,
+    difficulty: "Medio",
+    question: "¿Qué hizo Dios después de que Jonás fue arrojado al mar?",
+   category: profetas,
+    correct_answer: "Envió un gran pez para que se lo tragara",
+    incorrect_answers: [
+      "Calmó la tormenta inmediatamente",
+      "Rescató a Jonás con un milagro",
+      "Permitió que Jonás nadara hasta la orilla",
+    ],
+    justifications: {
+      correct_answer: "Jonás 1:17 menciona que Dios envió un gran pez para tragar a Jonás.",
+      incorrect_answers: [
+        "La tormenta se calmó después de que Jonás fue arrojado al mar.",
+        "No hubo un rescate milagroso en ese momento.",
+        "Jonás no nadó hasta la orilla.",
+      ],
+    },
+  },
+  {
+    id: 2104,
+    difficulty: "Fácil",
+    question: "¿Qué hizo Jonás mientras estaba en el vientre del pez?",
+   category: profetas,
+    correct_answer: "Oró a Dios",
+    incorrect_answers: [
+      "Durmió profundamente",
+      "Intentó escapar",
+      "Escribió un salmo",
+    ],
+    justifications: {
+      correct_answer: "Jonás 2:1 describe que Jonás oró a Dios desde el vientre del pez.",
+      incorrect_answers: [
+        "No hay mención de que durmiera.",
+        "No intentó escapar.",
+        "No escribió un salmo en ese momento.",
+      ],
+    },
+  },
+  {
+    id: 2105,
+    difficulty: "Difícil",
+    question: "¿Qué le sucedió al pez después de que Jonás fue liberado?",
+   category: profetas,
+    correct_answer: "Vomitó a Jonás en tierra seca",
+    incorrect_answers: [
+      "Murió en el mar",
+      "Se convirtió en un símbolo divino",
+      "Desapareció misteriosamente",
+    ],
+    justifications: {
+      correct_answer: "Jonás 2:10 afirma que el pez vomitó a Jonás en tierra seca.",
+      incorrect_answers: [
+        "No hay mención de que el pez muriera.",
+        "No se convirtió en un símbolo divino.",
+        "No desapareció misteriosamente.",
+      ],
+    },
+  },
+  {
+    id: 2106,
+    difficulty: "Medio",
+    question: "¿Cuál fue el mensaje que Jonás predicó en Nínive?",
+   category: profetas,
+    correct_answer: "Que la ciudad sería destruida en cuarenta días",
+    incorrect_answers: [
+      "Que Dios los bendeciría",
+      "Que debían construir un templo",
+      "Que serían llevados cautivos",
+    ],
+    justifications: {
+      correct_answer: "Jonás 3:4 menciona que Jonás predicó la destrucción de Nínive en cuarenta días.",
+      incorrect_answers: [
+        "No predijo una bendición.",
+        "No mencionó la construcción de un templo.",
+        "No habló de cautiverio.",
+      ],
+    },
+  },
+  {
+    id: 2107,
+    difficulty: "Fácil",
+    question: "¿Cómo respondió la ciudad de Nínive al mensaje de Jonás?",
+   category: profetas,
+    correct_answer: "Se arrepintieron y ayunaron",
+    incorrect_answers: [
+      "Ignoraron el mensaje",
+      "Expulsaron a Jonás de la ciudad",
+      "Declararon guerra a Israel",
+    ],
+    justifications: {
+      correct_answer: "Jonás 3:5 describe que los ninivitas se arrepintieron y ayunaron.",
+      incorrect_answers: [
+        "No ignoraron el mensaje.",
+        "No expulsaron a Jonás.",
+        "No declararon guerra a Israel.",
+      ],
+    },
+  },
+  {
+    id: 2108,
+    difficulty: "Difícil",
+    question: "¿Qué hizo Dios cuando Nínive se arrepintió?",
+   category: profetas,
+    correct_answer: "No destruyó la ciudad",
+    incorrect_answers: [
+      "Destruyó la ciudad de todos modos",
+      "Envió otra plaga",
+      "Castigó a Jonás por su predicación",
+    ],
+    justifications: {
+      correct_answer: "Jonás 3:10 afirma que Dios no destruyó Nínive debido a su arrepentimiento.",
+      incorrect_answers: [
+        "No destruyó la ciudad.",
+        "No envió otra plaga.",
+        "No castigó a Jonás.",
+      ],
+    },
+  },
+  {
+    id: 2109,
+    difficulty: "Medio",
+    question: "¿Qué hizo Jonás después de que Dios no destruyó Nínive?",
+   category: profetas,
+    correct_answer: "Se sentó fuera de la ciudad para ver qué sucedía",
+    incorrect_answers: [
+      "Regresó a su hogar feliz",
+      "Predicó nuevamente en la ciudad",
+      "Escribió una queja a Dios",
+    ],
+    justifications: {
+      correct_answer: "Jonás 4:5 describe que Jonás se sentó fuera de la ciudad para observar.",
+      incorrect_answers: [
+        "No regresó feliz a su hogar.",
+        "No predicó nuevamente en la ciudad.",
+        "No escribió una queja.",
+      ],
+    },
+  },
+  {
+    id: 2110,
+    difficulty: "Fácil",
+    question: "¿Qué le proporcionó Dios a Jonás mientras esperaba fuera de Nínive?",
+   category: profetas,
+    correct_answer: "Una calabacera para darle sombra",
+    incorrect_answers: [
+      "Un manantial de agua",
+      "Un ángel para protegerlo",
+      "Un mensaje de consuelo",
+    ],
+    justifications: {
+      correct_answer: "Jonás 4:6 menciona que Dios hizo crecer una calabacera para dar sombra a Jonás.",
+      incorrect_answers: [
+        "No se menciona un manantial de agua.",
+        "No hubo un ángel protector.",
+        "No recibió un mensaje de consuelo.",
+      ],
+    },
+  },
+  {
+    id: 2111,
+    difficulty: "Difícil",
+    question: "¿Qué le sucedió a la calabacera que Dios proporcionó a Jonás?",
+   category: profetas,
+    correct_answer: "Se secó al día siguiente",
+    incorrect_answers: [
+      "Creció aún más grande",
+      "Fue arrancada por animales",
+      "Jonás la cortó",
+    ],
+    justifications: {
+      correct_answer: "Jonás 4:7 relata que la calabacera se secó al día siguiente.",
+      incorrect_answers: [
+        "No creció más grande.",
+        "No fue arrancada por animales.",
+        "Jonás no la cortó.",
+      ],
+    },
+  },
+  {
+    id: 2112,
+    difficulty: "Medio",
+    question: "¿Cómo reaccionó Jonás cuando la calabacera se secó?",
+   category: profetas,
+    correct_answer: "Se enojó y deseó morir",
+    incorrect_answers: [
+      "Se alegró por la sombra que tuvo",
+      "Oró por otra planta",
+      "Se fue de Nínive",
+    ],
+    justifications: {
+      correct_answer: "Jonás 4:8-9 describe que Jonás se enojó y deseó morir.",
+      incorrect_answers: [
+        "No se alegró por la sombra.",
+        "No oró por otra planta.",
+        "No se fue de Nínive.",
+      ],
+    },
+  },
+  {
+    id: 2113,
+    difficulty: "Fácil",
+    question: "¿Qué lección enseñó Dios a Jonás con la calabacera?",
+   category: profetas,
+    correct_answer: "Que Dios se preocupa por todas sus criaturas",
+    incorrect_answers: [
+      "Que Jonás debía ser más agradecido",
+      "Que las plantas son efímeras",
+      "Que Nínive merecía ser destruida",
+    ],
+    justifications: {
+      correct_answer: "Jonás 4:10-11 muestra que Dios enseñó a Jonás sobre su cuidado por todas las criaturas.",
+      incorrect_answers: [
+        "No fue una lección sobre gratitud.",
+        "No se centró en la naturaleza efímera de las plantas.",
+        "No afirmó que Nínive merecía ser destruida.",
+      ],
+    },
+  },
+  {
+    id: 2114,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la historia de Jonás en la tradición cristiana?",
+   category: profetas,
+    correct_answer: "La resurrección de Jesús",
+    incorrect_answers: [
+      "El juicio final",
+      "La importancia del ayuno",
+      "La obediencia inmediata a Dios",
+    ],
+    justifications: {
+      correct_answer: "Mateo 12:40 relaciona a Jonás con la resurrección de Jesús.",
+      incorrect_answers: [
+        "No simboliza el juicio final.",
+        "No se centra en el ayuno.",
+        "Jonás no obedeció inmediatamente a Dios.",
+      ],
+    },
+  },
+  {
+    id: 2115,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza principal se extrae del libro de Jonás?",
+   category: profetas,
+    correct_answer: "La misericordia de Dios hacia todos",
+    incorrect_answers: [
+      "La importancia de la justicia divina",
+      "La necesidad de sacrificios",
+      "El poder de la oración",
+    ],
+    justifications: {
+      correct_answer: "El libro de Jonás enfatiza la misericordia de Dios hacia Nínive.",
+      incorrect_answers: [
+        "No se centra en la justicia divina.",
+        "No habla de sacrificios.",
+        "Aunque la oración es importante, no es el tema principal.",
+      ],
+    },
+  },
+
+  
+
+// Miqueas
+
+
+  {
+    id: 2116,
+    difficulty: "Difícil",
+    question: "¿Qué profecía importante dio Miqueas sobre el lugar de nacimiento del Mesías?",
+    category: profetas,
+    correct_answer: "Que nacería en Belén",
+    incorrect_answers: [
+      "Que nacería en Jerusalén",
+      "Que nacería en Nazaret",
+      "Que nacería en Hebrón",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 5:2 profetiza que el Mesías nacería en Belén de Judá.",
+      incorrect_answers: [
+        "Jerusalén no es el lugar mencionado en la profecía.",
+        "Nazaret fue donde Jesús creció, no donde nació.",
+        "Hebrón no está relacionado con el nacimiento del Mesías.",
+      ],
+    },
+  },
+  {
+    id: 2117,
+    difficulty: "Medio",
+    question: "¿Qué denunció Miqueas acerca de los líderes de Israel?",
+    category: profetas,
+    correct_answer: "Que oprimían al pueblo y aceptaban sobornos",
+    incorrect_answers: [
+      "Que eran demasiado piadosos",
+      "Que no construían templos",
+      "Que ignoraban las festividades",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 3:9-11 critica a los líderes por su opresión y corrupción.",
+      incorrect_answers: [
+        "No se describe a los líderes como piadosos.",
+        "No se menciona la construcción de templos.",
+        "No se habla de la ignorancia de las festividades.",
+      ],
+    },
+  },
+  {
+    id: 2118,
+    difficulty: "Fácil",
+    question: "¿Qué ciudad fue el enfoque principal de las profecías de Miqueas?",
+    category: profetas,
+    correct_answer: "Jerusalén",
+    incorrect_answers: [
+      "Samaria",
+      "Babilonia",
+      "Damasco",
+    ],
+    justifications: {
+      correct_answer: "Miqueas dirigió muchas de sus profecías hacia Jerusalén.",
+      incorrect_answers: [
+        "Samaria fue mencionada, pero no fue el enfoque principal.",
+        "Babilonia no es el enfoque de Miqueas.",
+        "Damasco no es mencionada como enfoque principal.",
+      ],
+    },
+  },
+  {
+    id: 2119,
+    difficulty: "Difícil",
+    question: "¿Qué prometió Dios a través de Miqueas para el futuro de Israel?",
+    category: profetas,
+    correct_answer: "Restauraría a Sion y perdonaría a su pueblo",
+    incorrect_answers: [
+      "Destruiría completamente a Israel",
+      "Enviaría un diluvio como en tiempos de Noé",
+      "Castigaría a todas las naciones vecinas",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 7:18-20 habla de la misericordia y restauración de Dios.",
+      incorrect_answers: [
+        "Dios no prometió destruir completamente a Israel.",
+        "No se menciona un diluvio en las profecías de Miqueas.",
+        "El castigo a las naciones no es el enfoque principal.",
+      ],
+    },
+  },
+  {
+    id: 2120,
+    difficulty: "Medio",
+    question: "¿Qué dijo Miqueas que Dios requiere de los seres humanos?",
+    category: profetas,
+    correct_answer: "Hacer justicia, amar la misericordia y humillarse ante Dios",
+    incorrect_answers: [
+      "Ofrecer sacrificios diarios",
+      "Construir grandes templos",
+      "Guardar rigurosamente las festividades",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 6:8 resume lo que Dios requiere: justicia, misericordia y humildad.",
+      incorrect_answers: [
+        "No se enfoca en sacrificios diarios.",
+        "No menciona la construcción de templos.",
+        "No habla de guardar festividades rigurosamente.",
+      ],
+    },
+  },
+  {
+    id: 2121,
+    difficulty: "Fácil",
+    question: "¿Qué comparación usó Miqueas para describir la corrupción de los líderes?",
+    category: profetas,
+    correct_answer: "Que devoraban al pueblo como si fuera pan",
+    incorrect_answers: [
+      "Que eran como lobos feroces",
+      "Que construían casas con injusticia",
+      "Que robaban el ganado de los pobres",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 3:3 compara a los líderes corruptos con caníbales que devoran al pueblo.",
+      incorrect_answers: [
+        "No se usa la comparación con lobos.",
+        "No se menciona la construcción de casas.",
+        "No se habla de robar ganado.",
+      ],
+    },
+  },
+  {
+    id: 2122,
+    difficulty: "Difícil",
+    question: "¿Qué dijo Miqueas sobre los falsos profetas de su tiempo?",
+    category: profetas,
+    correct_answer: "Que predicaban por dinero y no por Dios",
+    incorrect_answers: [
+      "Que eran enviados por Dios",
+      "Que eran ignorantes de la ley",
+      "Que no tenían autoridad",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 3:5-7 denuncia a los falsos profetas que predicaban por ganancia personal.",
+      incorrect_answers: [
+        "No eran enviados por Dios.",
+        "No se menciona que fueran ignorantes de la ley.",
+        "No se habla de falta de autoridad.",
+      ],
+    },
+  },
+  {
+    id: 2123,
+    difficulty: "Medio",
+    question: "¿Qué prometió Miqueas que ocurriría en los últimos días?",
+    category: profetas,
+    correct_answer: "Que las naciones vendrían a Sion para aprender de Dios",
+    incorrect_answers: [
+      "Que Israel sería destruido para siempre",
+      "Que el templo sería reconstruido sin ayuda",
+      "Que los profetas dejarían de existir",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 4:2 habla de que las naciones vendrían a Sion para aprender de Dios.",
+      incorrect_answers: [
+        "No se promete la destrucción eterna de Israel.",
+        "No se menciona la reconstrucción del templo.",
+        "No se habla del fin de los profetas.",
+      ],
+    },
+  },
+  {
+    id: 2124,
+    difficulty: "Fácil",
+    question: "¿Qué dijo Miqueas sobre la idolatría en Israel?",
+    category: profetas,
+    correct_answer: "Que era una abominación ante Dios",
+    incorrect_answers: [
+      "Que era aceptable si se hacía en privado",
+      "Que no tenía consecuencias",
+      "Que era necesaria para la prosperidad",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 5:13-14 condena la idolatría como una abominación.",
+      incorrect_answers: [
+        "No se considera aceptable en ningún contexto.",
+        "Sí tenía consecuencias graves.",
+        "No se asocia con la prosperidad.",
+      ],
+    },
+  },
+  {
+    id: 2125,
+    difficulty: "Difícil",
+    question: "¿Qué dijo Miqueas sobre el juicio de Dios hacia las naciones?",
+    category: profetas,
+    correct_answer: "Que todas las naciones serían juzgadas por sus acciones",
+    incorrect_answers: [
+      "Que solo Israel sería juzgado",
+      "Que las naciones serían perdonadas sin juicio",
+      "Que el juicio sería solo simbólico",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 1:2 habla del juicio de Dios sobre todas las naciones.",
+      incorrect_answers: [
+        "No se limita solo a Israel.",
+        "No se menciona un perdón sin juicio.",
+        "El juicio no es simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2126,
+    difficulty: "Medio",
+    question: "¿Qué dijo Miqueas sobre la esperanza futura de Israel?",
+    category: profetas,
+    correct_answer: "Que Dios los reuniría como un rebaño",
+    incorrect_answers: [
+      "Que serían dispersados para siempre",
+      "Que perderían su identidad como pueblo",
+      "Que serían gobernados por otras naciones",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 2:12 habla de la reunión de Israel como un rebaño.",
+      incorrect_answers: [
+        "No se promete una dispersión eterna.",
+        "No perderían su identidad.",
+        "No serían gobernados por otras naciones.",
+      ],
+    },
+  },
+  {
+    id: 2127,
+    difficulty: "Fácil",
+    question: "¿Qué dijo Miqueas sobre la importancia de escuchar a los profetas?",
+    category: profetas,
+    correct_answer: "Que quienes los escuchan hallarán vida",
+    incorrect_answers: [
+      "Que no es necesario escucharlos",
+      "Que solo los ricos deben escucharlos",
+      "Que sus palabras no tienen valor",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 2:7 sugiere que escuchar a los profetas trae bendición.",
+      incorrect_answers: [
+        "Es necesario escucharlos.",
+        "No se limita a los ricos.",
+        "Sus palabras tienen gran valor.",
+      ],
+    },
+  },
+  {
+    id: 2128,
+    difficulty: "Difícil",
+    question: "¿Qué dijo Miqueas sobre la relación entre el pecado y el castigo?",
+    category: profetas,
+    correct_answer: "Que el pecado trae consecuencias inevitables",
+    incorrect_answers: [
+      "Que el pecado puede ser ignorado",
+      "Que el castigo es opcional",
+      "Que solo los pobres son castigados",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 1:5 muestra que el pecado de Israel traerá castigo.",
+      incorrect_answers: [
+        "El pecado no puede ser ignorado.",
+        "El castigo no es opcional.",
+        "No se limita a los pobres.",
+      ],
+    },
+  },
+  {
+    id: 2129,
+    difficulty: "Medio",
+    question: "¿Qué dijo Miqueas sobre la importancia de la humildad?",
+    category: profetas,
+    correct_answer: "Que es más valiosa que los sacrificios",
+    incorrect_answers: [
+      "Que no tiene importancia espiritual",
+      "Que solo los líderes deben ser humildes",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 6:8 enfatiza la humildad como un valor central.",
+      incorrect_answers: [
+        "Tiene gran importancia espiritual.",
+        "No se limita a los líderes.",
+        "No es un signo de debilidad.",
+      ],
+    },
+  },
+  {
+    id: 2130,
+    difficulty: "Fácil",
+    question: "¿Qué dijo Miqueas sobre la restauración de Sion?",
+    category: profetas,
+    correct_answer: "Que sería exaltada sobre los montes",
+    incorrect_answers: [
+      "Que sería destruida para siempre",
+      "Que perdería su importancia",
+      "Que sería gobernada por extranjeros",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 4:1-2 habla de la exaltación futura de Sion.",
+      incorrect_answers: [
+        "No será destruida para siempre.",
+        "No perderá su importancia.",
+        "No será gobernada por extranjeros.",
+      ],
+    },
+  },
+  {
+    id: 2131,
+    difficulty: "Difícil",
+    question: "¿Qué dijo Miqueas sobre la venida del Mesías?",
+    category: profetas,
+    correct_answer: "Que gobernaría con justicia y paz",
+    incorrect_answers: [
+      "Que sería un guerrero conquistador",
+      "Que no tendría autoridad sobre Israel",
+      "Que sería rechazado por todas las naciones",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 5:4 describe al Mesías como un gobernante justo y pacífico.",
+      incorrect_answers: [
+        "No se describe como un guerrero.",
+        "Tendría autoridad sobre Israel.",
+        "No sería rechazado por todas las naciones.",
+      ],
+    },
+  },
+  {
+    id: 2132,
+    difficulty: "Medio",
+    question: "¿Qué dijo Miqueas sobre la importancia de la justicia social?",
+    category: profetas,
+    correct_answer: "Que es fundamental para agradar a Dios",
+    incorrect_answers: [
+      "Que no es relevante para la fe",
+      "Que solo los ricos deben practicarla",
+      "Que es un concepto moderno",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 6:8 enfatiza la justicia como un requisito divino.",
+      incorrect_answers: [
+        "Es muy relevante para la fe.",
+        "No se limita a los ricos.",
+        "No es un concepto moderno.",
+      ],
+    },
+  },
+  {
+    id: 2133,
+    difficulty: "Fácil",
+    question: "¿Qué dijo Miqueas sobre la idolatría en Judá?",
+    category: profetas,
+    correct_answer: "Que provocaría la ira de Dios",
+    incorrect_answers: [
+      "Que sería recompensada",
+      "Que no tendría consecuencias",
+      "Que era necesaria para la paz",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 1:5-7 muestra que la idolatría traería juicio.",
+      incorrect_answers: [
+        "No sería recompensada.",
+        "Sí tendría consecuencias.",
+        "No es necesaria para la paz.",
+      ],
+    },
+  },
+  {
+    id: 2134,
+    difficulty: "Difícil",
+    question: "¿Qué dijo Miqueas sobre el futuro de las naciones enemigas de Israel?",
+    category: profetas,
+    correct_answer: "Que serían humilladas y juzgadas",
+    incorrect_answers: [
+      "Que serían bendecidas por Dios",
+      "Que gobernarían sobre Israel",
+      "Que desaparecerían sin consecuencias",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 4:11-13 habla del juicio sobre las naciones enemigas.",
+      incorrect_answers: [
+        "No serían bendecidas.",
+        "No gobernarían sobre Israel.",
+        "No desaparecerían sin consecuencias.",
+      ],
+    },
+  },
+  {
+    id: 2135,
+    difficulty: "Medio",
+    question: "¿Qué dijo Miqueas sobre la importancia de la misericordia?",
+    category: profetas,
+    correct_answer: "Que es un requisito para agradar a Dios",
+    incorrect_answers: [
+      "Que es opcional para los creyentes",
+      "Que solo los sacerdotes deben practicarla",
+      "Que no tiene valor espiritual",
+    ],
+    justifications: {
+      correct_answer: "Miqueas 6:8 incluye la misericordia como un requisito divino.",
+      incorrect_answers: [
+        "No es opcional.",
+        "No se limita a los sacerdotes.",
+        "Tiene gran valor espiritual.",
+      ],
+    },
+  },
+
+
+
+//Nahúm
+
+
+
+  {
+    id: 2136,
+    difficulty: "Difícil",
+    question: "¿Cuál es el tema principal del libro de Nahúm en el Antiguo Testamento?",
+    category: profetas,
+    correct_answer: "La caída de Nínive y el juicio de Dios sobre Asiria",
+    incorrect_answers: [
+      "La restauración del templo de Jerusalén",
+      "La vida y milagros del profeta Nahúm",
+      "El llamado al arrepentimiento de Israel",
+    ],
+    justifications: {
+      correct_answer: "Nahúm profetiza la destrucción de Nínive como juicio divino (Nahúm 1:1).",
+      incorrect_answers: [
+        "El templo de Jerusalén no es el enfoque del libro.",
+        "Nahúm no relata su vida personal.",
+        "El arrepentimiento de Israel no es el tema central.",
+      ],
+    },
+  },
+  {
+    id: 2137,
+    difficulty: "Medio",
+    question: "¿Qué atributo de Dios se destaca en Nahúm 1:3?",
+    category: profetas,
+    correct_answer: "La paciencia y el poder de Dios",
+    incorrect_answers: [
+      "La creación del universo",
+      "La promesa de un Mesías",
+      "La importancia de la oración",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 1:3 menciona que Dios es lento para la ira y grande en poder.",
+      incorrect_answers: [
+        "La creación no es el tema en este versículo.",
+        "El Mesías no se menciona aquí.",
+        "La oración no es el enfoque.",
+      ],
+    },
+  },
+  {
+    id: 2138,
+    difficulty: "Fácil",
+    question: "¿Contra qué ciudad profetizó Nahúm?",
+    category: profetas,
+    correct_answer: "Nínive",
+    incorrect_answers: [
+      "Jerusalén",
+      "Babilonia",
+      "Samaria",
+    ],
+    justifications: {
+      correct_answer: "Nahúm profetizó la caída de Nínive (Nahúm 1:1).",
+      incorrect_answers: [
+        "Jerusalén no es el enfoque de Nahúm.",
+        "Babilonia es mencionada en otros libros.",
+        "Samaria no es el tema principal.",
+      ],
+    },
+  },
+  {
+    id: 2139,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la inundación en Nahúm 1:8?",
+    category: profetas,
+    correct_answer: "El juicio destructivo de Dios",
+    incorrect_answers: [
+      "La purificación del pueblo",
+      "La bendición de la lluvia",
+      "El diluvio universal",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 1:8 describe la inundación como juicio divino.",
+      incorrect_answers: [
+        "No se refiere a purificación.",
+        "No es una bendición de lluvia.",
+        "No está relacionado con el diluvio universal.",
+      ],
+    },
+  },
+  {
+    id: 2140,
+    difficulty: "Medio",
+    question: "¿Qué reino era enemigo de Judá y es mencionado en Nahúm?",
+    category: profetas,
+    correct_answer: "Asiria",
+    incorrect_answers: [
+      "Egipto",
+      "Babilonia",
+      "Persia",
+    ],
+    justifications: {
+      correct_answer: "Asiria y su capital, Nínive, son el enfoque de Nahúm.",
+      incorrect_answers: [
+        "Egipto no es el enemigo principal aquí.",
+        "Babilonia es mencionada en otros libros.",
+        "Persia no es relevante en Nahúm.",
+      ],
+    },
+  },
+  {
+    id: 2141,
+    difficulty: "Fácil",
+    question: "¿Qué sentimiento expresa Nahúm hacia Nínive?",
+    category: profetas,
+    correct_answer: "Juicio y destrucción",
+    incorrect_answers: [
+      "Compasión y perdón",
+      "Alegría y celebración",
+      "Indiferencia y neutralidad",
+    ],
+    justifications: {
+      correct_answer: "Nahúm anuncia el juicio divino sobre Nínive (Nahúm 3:1-7).",
+      incorrect_answers: [
+        "No hay compasión hacia Nínive.",
+        "No hay alegría en el mensaje.",
+        "Nahúm no es indiferente.",
+      ],
+    },
+  },
+  {
+    id: 2142,
+    difficulty: "Difícil",
+    question: "¿Qué figura literaria se usa en Nahúm 1:2 para describir a Dios?",
+    category: profetas,
+    correct_answer: "Dios como un guerrero vengador",
+    incorrect_answers: [
+      "Dios como un pastor amoroso",
+      "Dios como un juez imparcial",
+      "Dios como un rey benevolente",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 1:2 describe a Dios como celoso y vengador.",
+      incorrect_answers: [
+        "No se usa la figura de pastor aquí.",
+        "No se enfoca en la imparcialidad.",
+        "No se describe como un rey benevolente.",
+      ],
+    },
+  },
+  {
+    id: 2143,
+    difficulty: "Medio",
+    question: "¿Qué evento histórico cumplió la profecía de Nahúm?",
+    category: profetas,
+    correct_answer: "La caída de Nínive en el 612 a.C.",
+    incorrect_answers: [
+      "El exilio de Judá a Babilonia",
+      "La construcción del segundo templo",
+      "El nacimiento de Jesucristo",
+    ],
+    justifications: {
+      correct_answer: "Nahúm profetizó la caída de Nínive, que ocurrió en el 612 a.C.",
+      incorrect_answers: [
+        "El exilio de Judá no es el enfoque.",
+        "El segundo templo no está relacionado.",
+        "El nacimiento de Jesús no es mencionado.",
+      ],
+    },
+  },
+  {
+    id: 2144,
+    difficulty: "Fácil",
+    question: "¿Qué animal se menciona en Nahúm 2:11-12 como símbolo de Nínive?",
+    category: profetas,
+    correct_answer: "El león",
+    incorrect_answers: [
+      "El águila",
+      "El toro",
+      "El cordero",
+    ],
+    justifications: {
+      correct_answer: "Nínive es comparada con un león en Nahúm 2:11-12.",
+      incorrect_answers: [
+        "El águila no es el símbolo usado.",
+        "El toro no es mencionado.",
+        "El cordero no representa a Nínive.",
+      ],
+    },
+  },
+  {
+    id: 2145,
+    difficulty: "Difícil",
+    question: "¿Qué significa el nombre 'Nahúm' en hebreo?",
+    category: profetas,
+    correct_answer: "Consuelo",
+    incorrect_answers: [
+      "Fuerza",
+      "Justicia",
+      "Paz",
+    ],
+    justifications: {
+      correct_answer: "El nombre Nahúm significa 'consuelo' en hebreo.",
+      incorrect_answers: [
+        "No significa 'fuerza'.",
+        "No significa 'justicia'.",
+        "No significa 'paz'.",
+      ],
+    },
+  },
+  {
+    id: 2146,
+    difficulty: "Medio",
+    question: "¿Qué río se menciona en relación con Nínive en Nahúm?",
+    category: profetas,
+    correct_answer: "El río Tigris",
+    incorrect_answers: [
+      "El río Éufrates",
+      "El río Jordán",
+      "El río Nilo",
+    ],
+    justifications: {
+      correct_answer: "Nínive estaba cerca del río Tigris.",
+      incorrect_answers: [
+        "El Éufrates no es el río mencionado.",
+        "El Jordán no está relacionado.",
+        "El Nilo no es relevante aquí.",
+      ],
+    },
+  },
+  {
+    id: 2147,
+    difficulty: "Fácil",
+    question: "¿Qué sentimiento expresa Nahúm hacia Judá en su libro?",
+    category: profetas,
+    correct_answer: "Esperanza y consuelo",
+    incorrect_answers: [
+      "Ira y condena",
+      "Tristeza y lamento",
+      "Indiferencia",
+    ],
+    justifications: {
+      correct_answer: "Nahúm ofrece consuelo a Judá (Nahúm 1:15).",
+      incorrect_answers: [
+        "No expresa ira hacia Judá.",
+        "No hay tristeza hacia Judá.",
+        "No es indiferente.",
+      ],
+    },
+  },
+  {
+    id: 2148,
+    difficulty: "Difícil",
+    question: "¿Qué frase de Nahúm 1:7 es citada a menudo para mostrar la bondad de Dios?",
+    category: profetas,
+    correct_answer: "Dios es bueno, fortaleza en el día de la angustia",
+    incorrect_answers: [
+      "Dios es fuego consumidor",
+      "Dios es juez justo",
+      "Dios es refugio eterno",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 1:7 destaca la bondad de Dios.",
+      incorrect_answers: [
+        "No es la frase más citada.",
+        "No es el enfoque principal.",
+        "No es la cita más conocida.",
+      ],
+    },
+  },
+  {
+    id: 2149,
+    difficulty: "Medio",
+    question: "¿Qué imagen usa Nahúm para describir la destrucción de Nínive?",
+    category: profetas,
+    correct_answer: "Un fuego consumidor",
+    incorrect_answers: [
+      "Un diluvio devastador",
+      "Un terremoto destructivo",
+      "Una sequía prolongada",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 3:15 describe la destrucción como un fuego consumidor.",
+      incorrect_answers: [
+        "No se usa la imagen de diluvio.",
+        "No se menciona un terremoto.",
+        "No se habla de sequía.",
+      ],
+    },
+  },
+  {
+    id: 2150,
+    difficulty: "Fácil",
+    question: "¿Qué otro profeta también profetizó contra Nínive?",
+    category: profetas,
+    correct_answer: "Jonás",
+    incorrect_answers: [
+      "Isaías",
+      "Jeremías",
+      "Ezequiel",
+    ],
+    justifications: {
+      correct_answer: "Jonás también profetizó contra Nínive (Jonás 1:2).",
+      incorrect_answers: [
+        "Isaías no se enfocó en Nínive.",
+        "Jeremías no profetizó contra Nínive.",
+        "Ezequiel no menciona a Nínive.",
+      ],
+    },
+  },
+  {
+    id: 2151,
+    difficulty: "Difícil",
+    question: "¿Qué significa la frase 'pies hermosos' en Nahúm 1:15?",
+    category: profetas,
+    correct_answer: "La llegada de buenas noticias",
+    incorrect_answers: [
+      "La belleza de la creación",
+      "La santidad del templo",
+      "La victoria en la batalla",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 1:15 se refiere a los pies de quienes traen buenas nuevas.",
+      incorrect_answers: [
+        "No se refiere a la creación.",
+        "No está relacionado con el templo.",
+        "No es sobre victoria militar.",
+      ],
+    },
+  },
+  {
+    id: 2152,
+    difficulty: "Medio",
+    question: "¿Qué aspecto de Nínive es criticado en Nahúm 3:1?",
+    category: profetas,
+    correct_answer: "Su violencia y opresión",
+    incorrect_answers: [
+      "Su idolatría",
+      "Su riqueza excesiva",
+      "Su falta de justicia",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 3:1 critica la violencia de Nínive.",
+      incorrect_answers: [
+        "No se enfoca en la idolatría.",
+        "No se menciona su riqueza.",
+        "No es el enfoque principal.",
+      ],
+    },
+  },
+  {
+    id: 2153,
+    difficulty: "Fácil",
+    question: "¿Qué promesa hace Dios a Judá en Nahúm 1:15?",
+    category: profetas,
+    correct_answer: "Liberación de sus enemigos",
+    incorrect_answers: [
+      "Prosperidad económica",
+      "Un nuevo templo",
+      "Un rey poderoso",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 1:15 promete liberación para Judá.",
+      incorrect_answers: [
+        "No se menciona prosperidad económica.",
+        "No se habla de un nuevo templo.",
+        "No se promete un rey poderoso.",
+      ],
+    },
+  },
+  {
+    id: 2154,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la 'ciudad sanguinaria' en Nahúm 3:1?",
+    category: profetas,
+    correct_answer: "Nínive y su violencia",
+    incorrect_answers: [
+      "Jerusalén y su pecado",
+      "Babilonia y su opresión",
+      "Sodoma y su maldad",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 3:1 describe a Nínive como una ciudad sanguinaria.",
+      incorrect_answers: [
+        "No se refiere a Jerusalén.",
+        "No es Babilonia.",
+        "No es Sodoma.",
+      ],
+    },
+  },
+  {
+    id: 2155,
+    difficulty: "Medio",
+    question: "¿Qué frase de Nahúm 1:3 se usa para describir la ira de Dios?",
+    category: profetas,
+    correct_answer: "Dios es tardo para la ira",
+    incorrect_answers: [
+      "Dios es rápido para castigar",
+      "Dios es indiferente al pecado",
+      "Dios es impredecible",
+    ],
+    justifications: {
+      correct_answer: "Nahúm 1:3 describe a Dios como lento para la ira.",
+      incorrect_answers: [
+        "No se dice que sea rápido para castigar.",
+        "No es indiferente al pecado.",
+        "No se describe como impredecible.",
+      ],
+    },
+  },
+
+
+
+
+//Habacuc
+
+
+
+
+
+  {
+    id: 2156,
+    difficulty: "Difícil",
+    question: "¿Cuál es el tema principal del libro de Habacuc en el Antiguo Testamento?",
+    category: profetas,
+    correct_answer: "El diálogo de Habacuc con Dios sobre la justicia y el sufrimiento",
+    incorrect_answers: [
+      "La construcción del templo de Jerusalén",
+      "La vida y milagros del profeta Habacuc",
+      "El llamado al arrepentimiento de Judá",
+    ],
+    justifications: {
+      correct_answer: "Habacuc cuestiona a Dios sobre la justicia y recibe respuestas (Habacuc 1:2-4).",
+      incorrect_answers: [
+        "El templo no es el enfoque del libro.",
+        "Habacuc no relata su vida personal.",
+        "El arrepentimiento de Judá no es el tema central.",
+      ],
+    },
+  },
+  {
+    id: 2157,
+    difficulty: "Medio",
+    question: "¿Qué pregunta hace Habacuc a Dios al inicio de su libro?",
+    category: profetas,
+    correct_answer: "¿Por qué permites la injusticia?",
+    incorrect_answers: [
+      "¿Cuándo será reconstruido el templo?",
+      "¿Por qué hay sequía en la tierra?",
+      "¿Cuándo vendrá el Mesías?",
+    ],
+    justifications: {
+      correct_answer: "Habacuc cuestiona a Dios sobre la injusticia (Habacuc 1:2-4).",
+      incorrect_answers: [
+        "El templo no es mencionado al inicio.",
+        "La sequía no es el tema principal.",
+        "El Mesías no es mencionado aquí.",
+      ],
+    },
+  },
+  {
+    id: 2158,
+    difficulty: "Fácil",
+    question: "¿Qué nación usa Dios para castigar a Judá según Habacuc?",
+    category: profetas,
+    correct_answer: "Los caldeos (babilonios)",
+    incorrect_answers: [
+      "Los asirios",
+      "Los egipcios",
+      "Los persas",
+    ],
+    justifications: {
+      correct_answer: "Dios usa a los caldeos para castigar a Judá (Habacuc 1:6).",
+      incorrect_answers: [
+        "Los asirios no son mencionados aquí.",
+        "Los egipcios no son el instrumento de castigo.",
+        "Los persas no son relevantes en este contexto.",
+      ],
+    },
+  },
+  {
+    id: 2159,
+    difficulty: "Difícil",
+    question: "¿Qué significa la frase 'el justo por su fe vivirá' en Habacuc 2:4?",
+    category: profetas,
+    correct_answer: "La salvación viene por la fe en Dios",
+    incorrect_answers: [
+      "La fe no tiene importancia en la vida",
+      "La justicia se alcanza por obras",
+      "La fe es solo para los profetas",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 2:4 enfatiza que la fe es esencial para la vida justa.",
+      incorrect_answers: [
+        "La fe es fundamental, no irrelevante.",
+        "No se mencionan las obras como medio de salvación.",
+        "La fe no es exclusiva de los profetas.",
+      ],
+    },
+  },
+  {
+    id: 2160,
+    difficulty: "Medio",
+    question: "¿Qué promesa hace Dios a Habacuc en respuesta a sus quejas?",
+    category: profetas,
+    correct_answer: "La justicia divina se manifestará en su tiempo",
+    incorrect_answers: [
+      "El templo será reconstruido pronto",
+      "Los caldeos serán destruidos inmediatamente",
+      "Habacuc será el próximo rey de Judá",
+    ],
+    justifications: {
+      correct_answer: "Dios asegura que la justicia prevalecerá (Habacuc 2:3).",
+      incorrect_answers: [
+        "El templo no es mencionado en esta promesa.",
+        "Los caldeos no serán destruidos de inmediato.",
+        "Habacuc no es prometido como rey.",
+      ],
+    },
+  },
+  {
+    id: 2161,
+    difficulty: "Fácil",
+    question: "¿Qué sentimiento expresa Habacuc hacia Dios al inicio de su libro?",
+    category: profetas,
+    correct_answer: "Confusión y angustia",
+    incorrect_answers: [
+      "Alegría y gratitud",
+      "Ira y resentimiento",
+      "Indiferencia",
+    ],
+    justifications: {
+      correct_answer: "Habacuc expresa confusión por la injusticia (Habacuc 1:2-4).",
+      incorrect_answers: [
+        "No hay alegría al inicio.",
+        "No expresa ira hacia Dios.",
+        "No es indiferente.",
+      ],
+    },
+  },
+  {
+    id: 2162,
+    difficulty: "Difícil",
+    question: "¿Qué figura literaria se usa en Habacuc 3:19 para describir la fe?",
+    category: profetas,
+    correct_answer: "Los pies como de ciervo en lugares altos",
+    incorrect_answers: [
+      "Un árbol plantado junto a corrientes de agua",
+      "Un león rugiente",
+      "Un fuego consumidor",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 3:19 usa la imagen de los pies de ciervo para simbolizar la fe firme.",
+      incorrect_answers: [
+        "No se usa la figura del árbol.",
+        "No se menciona un león.",
+        "No se usa la imagen de fuego.",
+      ],
+    },
+  },
+  {
+    id: 2163,
+    difficulty: "Medio",
+    question: "¿Qué evento histórico cumple la profecía de Habacuc sobre los caldeos?",
+    category: profetas,
+    correct_answer: "La invasión de Judá por Babilonia",
+    incorrect_answers: [
+      "El exilio de Israel a Asiria",
+      "La caída de Jerusalén a manos de Roma",
+      "La liberación de Egipto",
+    ],
+    justifications: {
+      correct_answer: "Habacuc profetiza la invasión de Judá por Babilonia (Habacuc 1:6).",
+      incorrect_answers: [
+        "El exilio de Israel no es el enfoque.",
+        "Roma no es mencionada en Habacuc.",
+        "La liberación de Egipto no es relevante aquí.",
+      ],
+    },
+  },
+  {
+    id: 2164,
+    difficulty: "Fácil",
+    question: "¿Qué actitud muestra Habacuc al final de su libro?",
+    category: profetas,
+    correct_answer: "Confianza en Dios a pesar de las circunstancias",
+    incorrect_answers: [
+      "Desesperación y derrota",
+      "Ira hacia los caldeos",
+      "Indiferencia hacia el futuro",
+    ],
+    justifications: {
+      correct_answer: "Habacuc termina con una declaración de fe (Habacuc 3:17-19).",
+      incorrect_answers: [
+        "No hay desesperación al final.",
+        "No expresa ira hacia los caldeos.",
+        "No es indiferente.",
+      ],
+    },
+  },
+  {
+    id: 2165,
+    difficulty: "Difícil",
+    question: "¿Qué significa el nombre 'Habacuc' en hebreo?",
+    category: profetas,
+    correct_answer: "Abrazo",
+    incorrect_answers: [
+      "Fuerza",
+      "Justicia",
+      "Paz",
+    ],
+    justifications: {
+      correct_answer: "El nombre Habacuc significa 'abrazo' en hebreo.",
+      incorrect_answers: [
+        "No significa 'fuerza'.",
+        "No significa 'justicia'.",
+        "No significa 'paz'.",
+      ],
+    },
+  },
+  {
+    id: 2166,
+    difficulty: "Medio",
+    question: "¿Qué frase de Habacuc 2:20 es citada a menudo para mostrar la santidad de Dios?",
+    category: profetas,
+    correct_answer: "El Señor está en su santo templo; calle delante de él toda la tierra",
+    incorrect_answers: [
+      "Dios es fuego consumidor",
+      "Dios es juez justo",
+      "Dios es refugio eterno",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 2:20 destaca la santidad de Dios.",
+      incorrect_answers: [
+        "No es la frase más citada.",
+        "No es el enfoque principal.",
+        "No es la cita más conocida.",
+      ],
+    },
+  },
+  {
+    id: 2167,
+    difficulty: "Fácil",
+    question: "¿Qué sentimiento expresa Habacuc hacia Judá en su libro?",
+    category: profetas,
+    correct_answer: "Preocupación por la injusticia",
+    incorrect_answers: [
+      "Alegría por la prosperidad",
+      "Ira hacia los pecadores",
+      "Indiferencia hacia el pueblo",
+    ],
+    justifications: {
+      correct_answer: "Habacuc expresa preocupación por la injusticia en Judá (Habacuc 1:2-4).",
+      incorrect_answers: [
+        "No hay alegría por la prosperidad.",
+        "No expresa ira hacia los pecadores.",
+        "No es indiferente.",
+      ],
+    },
+  },
+  {
+    id: 2168,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la visión de Habacuc en el capítulo 3?",
+    category: profetas,
+    correct_answer: "El poder y la gloria de Dios",
+    incorrect_answers: [
+      "La destrucción del templo",
+      "La llegada del Mesías",
+      "El juicio final",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 3 describe una visión del poder y la gloria de Dios.",
+      incorrect_answers: [
+        "No se menciona la destrucción del templo.",
+        "No se habla del Mesías.",
+        "No es el juicio final.",
+      ],
+    },
+  },
+  {
+    id: 2169,
+    difficulty: "Medio",
+    question: "¿Qué frase de Habacuc 3:17-18 muestra su fe en medio de la adversidad?",
+    category: profetas,
+    correct_answer: "Aunque la higuera no florezca, me gozaré en el Señor",
+    incorrect_answers: [
+      "Dios es fuego consumidor",
+      "Dios es juez justo",
+      "Dios es refugio eterno",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 3:17-18 muestra su fe a pesar de las dificultades.",
+      incorrect_answers: [
+        "No es la frase más citada.",
+        "No es el enfoque principal.",
+        "No es la cita más conocida.",
+      ],
+    },
+  },
+  {
+    id: 2170,
+    difficulty: "Fácil",
+    question: "¿Qué otro profeta también cuestionó a Dios sobre la justicia?",
+    category: profetas,
+    correct_answer: "Jeremías",
+    incorrect_answers: [
+      "Isaías",
+      "Ezequiel",
+      "Amós",
+    ],
+    justifications: {
+      correct_answer: "Jeremías también cuestionó a Dios sobre la justicia (Jeremías 12:1).",
+      incorrect_answers: [
+        "Isaías no se enfocó en este tema.",
+        "Ezequiel no cuestionó a Dios de esta manera.",
+        "Amós no es mencionado en este contexto.",
+      ],
+    },
+  },
+  {
+    id: 2171,
+    difficulty: "Difícil",
+    question: "¿Qué significa la frase 'escribe la visión' en Habacuc 2:2?",
+    category: profetas,
+    correct_answer: "Registrar la revelación para futuras generaciones",
+    incorrect_answers: [
+      "Escribir un libro de leyes",
+      "Documentar la historia de Judá",
+      "Crear un poema sobre Dios",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 2:2 instruye a registrar la visión para el futuro.",
+      incorrect_answers: [
+        "No se refiere a un libro de leyes.",
+        "No es sobre la historia de Judá.",
+        "No es un poema sobre Dios.",
+      ],
+    },
+  },
+  {
+    id: 2172,
+    difficulty: "Medio",
+    question: "¿Qué aspecto de los caldeos es criticado en Habacuc 2:5-8?",
+    category: profetas,
+    correct_answer: "Su orgullo y violencia",
+    incorrect_answers: [
+      "Su idolatría",
+      "Su riqueza excesiva",
+      "Su falta de justicia",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 2:5-8 critica el orgullo y la violencia de los caldeos.",
+      incorrect_answers: [
+        "No se enfoca en la idolatría.",
+        "No se menciona su riqueza.",
+        "No es el enfoque principal.",
+      ],
+    },
+  },
+  {
+    id: 2173,
+    difficulty: "Fácil",
+    question: "¿Qué promesa hace Dios a Habacuc en relación con los caldeos?",
+    category: profetas,
+    correct_answer: "Serán juzgados por su maldad",
+    incorrect_answers: [
+      "Serán bendecidos por su poder",
+      "Serán convertidos al judaísmo",
+      "Serán destruidos por Egipto",
+    ],
+    justifications: {
+      correct_answer: "Dios promete juzgar a los caldeos (Habacuc 2:8).",
+      incorrect_answers: [
+        "No serán bendecidos por su poder.",
+        "No se menciona su conversión.",
+        "No serán destruidos por Egipto.",
+      ],
+    },
+  },
+  {
+    id: 2174,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la 'visión' en Habacuc 2:2-3?",
+    category: profetas,
+    correct_answer: "La revelación divina sobre el futuro",
+    incorrect_answers: [
+      "Un sueño profético personal",
+      "Una advertencia sobre el templo",
+      "Un mensaje para los caldeos",
+    ],
+    justifications: {
+      correct_answer: "La visión es una revelación divina sobre el futuro (Habacuc 2:2-3).",
+      incorrect_answers: [
+        "No es un sueño personal.",
+        "No es una advertencia sobre el templo.",
+        "No es un mensaje exclusivo para los caldeos.",
+      ],
+    },
+  },
+  {
+    id: 2175,
+    difficulty: "Medio",
+    question: "¿Qué frase de Habacuc 3:2 se usa para mostrar la reverencia del profeta?",
+    category: profetas,
+    correct_answer: "Oh Señor, he oído tu palabra y temí",
+    incorrect_answers: [
+      "Dios es fuego consumidor",
+      "Dios es juez justo",
+      "Dios es refugio eterno",
+    ],
+    justifications: {
+      correct_answer: "Habacuc 3:2 muestra la reverencia del profeta hacia Dios.",
+      incorrect_answers: [
+        "No es la frase más citada.",
+        "No es el enfoque principal.",
+        "No es la cita más conocida.",
+      ],
+    },
+  },
+
+
+
+  //Sofonías
+
+
+  
+
+
+
+
+
+
+      
+  
 ];
