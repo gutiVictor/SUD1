@@ -43232,12 +43232,7708 @@ export const questions = [
 
 
   
+  
+  {
+    id: 2176,
+    difficulty: "Medio",
+    question: "¿Qué naciones son mencionadas específicamente en Sofonías 2?",
+    category: profetas,
+    correct_answer: "Moab, Amón y Asiria",
+    incorrect_answers: ["Egipto, Babilonia y Persia", "Grecia, Roma y Edom", "Fenicia, Siria y Filistea"],
+    justifications: {
+      correct_answer: "Sofonías 2:4-15 condena a Moab, Amón y Asiria por su soberbia y crueldad :cite[3]:cite[8].",
+      incorrect_answers: [
+        "Babilonia y Persia surgieron después del ministerio de Sofonías.",
+        "Edom y Grecia no son mencionados en este capítulo.",
+        "Filistea fue juzgada por otros profetas como Amós."
+      ]
+    }
+  },
+  {
+    id: 2177,
+    difficulty: "Fácil",
+    question: "¿Qué significa el nombre 'Sofonías' en hebreo?",
+    category: profetas,
+    correct_answer: "Yahvé ha escondido/protegido",
+    incorrect_answers: ["Mensajero de Dios", "Fuerza del Señor", "Consagrado a Dios"],
+    justifications: {
+      correct_answer: "Su nombre deriva de la raíz hebrea 'tsafan' (esconder), reflejando protección divina :cite[5].",
+      incorrect_answers: [
+        "Mensajero de Dios se traduce como 'Malaquías'.",
+        "Fuerza del Señor corresponde a 'Gabriel'.",
+        "Consagrado a Dios sería 'Nazareo'."
+      ]
+    }
+  },
+  
+  {
+    id: 2178,
+    difficulty: "Difícil",
+    question: "¿Qué práctica religiosa específica condena Sofonías en Judá?",
+    category: profetas,
+    correct_answer: "Adoración de los astros y Baal",
+    incorrect_answers: ["Sacrificios humanos", "Uso del incienso profano", "Profanación del sábado"],
+    justifications: {
+      correct_answer: "Sofonías 1:4-6 denuncia la idolatría a Baal y cuerpos celestes :cite[3]:cite[8].",
+      incorrect_answers: [
+        "Los sacrificios humanos fueron condenados por Miqueas y Jeremías.",
+        "El incienso profano no se menciona explícitamente.",
+        "La profanación del sábado es tema de Ezequiel."
+      ]
+    }
+  },
+  {
+    id: 2179,
+    difficulty: "Medio",
+    question: "¿Qué grupo social es descrito como 'lobos nocturnos' en Sofonías 3?",
+    category: profetas,
+    correct_answer: "Los jueces corruptos",
+    incorrect_answers: ["Los sacerdotes idólatras", "Los comerciantes deshonestos", "Los líderes militares"],
+    justifications: {
+      correct_answer: "Sofonías 3:3 compara a los jueces con lobos que destruyen a su pueblo :cite[1]:cite[3].",
+      incorrect_answers: [
+        "Los sacerdotes son criticados por falsificar la ley.",
+        "Los comerciantes aparecen en Sofonías 1:11.",
+        "Los líderes militares no son mencionados con esta metáfora."
+      ]
+    }
+  },
+  {
+    id: 2180,
+    difficulty: "Fácil",
+    question: "¿Qué promete Dios para el remanente fiel en Sofonías 3?",
+    category: profetas,
+    correct_answer: "Un pueblo humilde que confía en Dios",
+    incorrect_answers: ["Riquezas materiales abundantes", "Dominio político sobre naciones", "Inmunidad a enfermedades"],
+    justifications: {
+      correct_answer: "Sofonías 3:12-13 describe un remanente transformado espiritualmente :cite[1]:cite[8].",
+      incorrect_answers: [
+        "Las promesas son espirituales, no materiales.",
+        "El dominio político corresponde al Mesías futuro.",
+        "No se menciona salud física como recompensa."
+      ]
+    }
+  },
+ 
+  {
+    id: 2194,
+    difficulty: "Difícil",
+    question: "¿Qué evento histórico influyó en el mensaje de Sofonías según los estudiosos?",
+    category: profetas,
+    correct_answer: "El declive del Imperio Asirio",
+    incorrect_answers: ["El exilio babilónico", "La construcción del Segundo Templo", "La división del reino"],
+    justifications: {
+      correct_answer: "El vacío de poder tras el declive asirio creó inestabilidad regional :cite[5].",
+      incorrect_answers: [
+        "El exilio ocurrió después de su ministerio.",
+        "El Segundo Templo se construyó siglos después.",
+        "La división del reino fue en 931 a.C."
+      ]
+    }
+  },
+  {
+    id: 2195,
+    difficulty: "Medio",
+    question: "¿Qué símbolo usa Sofonías para describir el Día de Jehová?",
+    category: profetas,
+    correct_answer: "Fuego consumidor",
+    incorrect_answers: ["Diluvio universal", "Terremoto devastador", "Sequía prolongada"],
+    justifications: {
+      correct_answer: "Sofonías 1:18 y 3:8 mencionan el fuego de la ira divina :cite[1]:cite[5].",
+      incorrect_answers: [
+        "El diluvio es símbolo de Noé.",
+        "Terremotos se asocian a Amós.",
+        "Sequías aparecen en 1 Reyes."
+      ]
+    }
+  },
 
 
+//Hageo
+
+  {
+    id: 2196,
+    difficulty: "Difícil",
+    question: "¿Qué mensaje principal entregó Hageo al pueblo de Judá?",
+    category: profetas,
+    correct_answer: "Reconstruir el templo para restaurar la bendición divina",
+    incorrect_answers: [
+      "Abandonar Jerusalén y buscar nuevas tierras",
+      "Enfocarse en la riqueza personal y el comercio",
+      "Rendirse ante los imperios extranjeros",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:8 dice: 'Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré glorificado', indicando la importancia de reconstruir el templo.",
+      incorrect_answers: [
+        "Hageo nunca sugirió abandonar Jerusalén.",
+        "El profeta criticó la obsesión con las riquezas materiales.",
+        "No hubo mensaje de rendición, sino de acción y fe.",
+      ],
+    },
+  },
+  {
+    id: 2197,
+    difficulty: "Medio",
+    question: "¿Qué reprochó Hageo al pueblo de Judá?",
+    category: profetas,
+    correct_answer: "Priorizar sus casas sobre la casa de Dios",
+    incorrect_answers: [
+      "No pagar impuestos al imperio persa",
+      "Adorar ídolos en lugar de a Dios",
+      "Abandonar completamente la fe judía",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:4 menciona: '¿Es para vosotros tiempo de habitar en vuestras casas artesonadas, y esta casa está desierta?'",
+      incorrect_answers: [
+        "No hay mención de impuestos en el libro de Hageo.",
+        "El pueblo no adoraba ídolos, sino que descuidaba el templo.",
+        "No abandonaron la fe, pero sí descuidaron su práctica.",
+      ],
+    },
+  },
+  {
+    id: 2198,
+    difficulty: "Fácil",
+    question: "¿Qué prometió Dios si el pueblo reconstruía el templo?",
+    category: profetas,
+    correct_answer: "Su presencia y bendición",
+    incorrect_answers: [
+      "Riquezas ilimitadas de inmediato",
+      "Victoria sobre los persas",
+      "Un nuevo rey para Israel",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:13 dice: 'Yo estoy con vosotros, dice Jehová', prometiendo su presencia.",
+      incorrect_answers: [
+        "Dios no prometió riquezas inmediatas.",
+        "No se menciona una victoria militar.",
+        "No hubo promesa de un nuevo rey.",
+      ],
+    },
+  },
+  {
+    id: 2199,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la gloria del segundo templo según Hageo?",
+    category: profetas,
+    correct_answer: "Sería mayor que la del primero",
+    incorrect_answers: [
+      "Sería igual que la del primero",
+      "Sería menor que la del primero",
+      "No tendría gloria alguna",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 2:9 afirma: 'La gloria postrera de esta casa será mayor que la primera'.",
+      incorrect_answers: [
+        "No se menciona que sería igual.",
+        "No se dice que sería menor.",
+        "Dios prometió gloria, no su ausencia.",
+      ],
+    },
+  },
+  {
+    id: 2200,
+    difficulty: "Medio",
+    question: "¿Qué comparación hizo Hageo sobre la situación del pueblo?",
+    category: profetas,
+    correct_answer: "Sembrar mucho y cosechar poco",
+    incorrect_answers: [
+      "Ganar batallas sin esfuerzo",
+      "Construir sin herramientas",
+      "Vivir en paz sin enemigos",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:6 dice: 'Sembráis mucho, y recogéis poco', reflejando la falta de bendición.",
+      incorrect_answers: [
+        "No se mencionan batallas en este contexto.",
+        "No se habla de construcción sin herramientas.",
+        "El pueblo no vivía en paz plena.",
+      ],
+    },
+  },
+  {
+    id: 2201,
+    difficulty: "Fácil",
+    question: "¿Qué hizo el pueblo después de escuchar a Hageo?",
+    category: profetas,
+    correct_answer: "Comenzaron a reconstruir el templo",
+    incorrect_answers: [
+      "Abandonaron Jerusalén",
+      "Se rebelaron contra el imperio persa",
+      "Ignoraron el mensaje del profeta",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:14 menciona: 'Y despertó Jehová el espíritu de Zorobabel... y el espíritu de todo el resto del pueblo, y vinieron y trabajaron en la casa de Jehová'.",
+      incorrect_answers: [
+        "No abandonaron Jerusalén.",
+        "No hubo rebelión contra los persas.",
+        "El pueblo obedeció al profeta.",
+      ],
+    },
+  },
+  {
+    id: 2202,
+    difficulty: "Difícil",
+    question: "¿Qué prometió Dios a Zorobabel según Hageo?",
+    category: profetas,
+    correct_answer: "Sería como un anillo de sellar",
+    incorrect_answers: [
+      "Sería rey de Israel",
+      "Recibiría riquezas incalculables",
+      "Conquistaría nuevos territorios",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 2:23 dice: 'Te tomaré, oh Zorobabel... y te pondré como anillo de sellar'.",
+      incorrect_answers: [
+        "No se menciona que sería rey.",
+        "No se prometen riquezas materiales.",
+        "No se habla de conquistas territoriales.",
+      ],
+    },
+  },
+  {
+    id: 2203,
+    difficulty: "Medio",
+    question: "¿Qué actitud mostró el pueblo ante el mensaje de Hageo?",
+    category: profetas,
+    correct_answer: "Obedecieron y temieron a Dios",
+    incorrect_answers: [
+      "Se burlaron del profeta",
+      "Ignoraron completamente el mensaje",
+      "Abandonaron sus creencias",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:12 dice: 'Y oyó Zorobabel... y todo el resto del pueblo, la voz de Jehová su Dios'.",
+      incorrect_answers: [
+        "No se menciona burla hacia Hageo.",
+        "El pueblo no ignoró el mensaje.",
+        "No abandonaron sus creencias.",
+      ],
+    },
+  },
+  {
+    id: 2204,
+    difficulty: "Fácil",
+    question: "¿Qué problema enfrentaba el pueblo según Hageo?",
+    category: profetas,
+    correct_answer: "Sequía y escasez de alimentos",
+    incorrect_answers: [
+      "Invasiones extranjeras constantes",
+      "Enfermedades graves",
+      "Falta de líderes políticos",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:11 menciona: 'Y llamé la sequía sobre esta tierra'.",
+      incorrect_answers: [
+        "No se mencionan invasiones en este contexto.",
+        "No se habla de enfermedades.",
+        "El pueblo tenía líderes como Zorobabel.",
+      ],
+    },
+  },
+  {
+    id: 2205,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el templo en el mensaje de Hageo?",
+    category: profetas,
+    correct_answer: "La presencia y bendición de Dios",
+    incorrect_answers: [
+      "El poder político de Judá",
+      "La riqueza del pueblo",
+      "La independencia de Israel",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:8 enfatiza la reconstrucción del templo para restaurar la relación con Dios.",
+      incorrect_answers: [
+        "No se menciona como símbolo de poder político.",
+        "No representa riqueza material.",
+        "No simboliza independencia nacional.",
+      ],
+    },
+  },
+  {
+    id: 2206,
+    difficulty: "Medio",
+    question: "¿Qué dijo Hageo sobre la importancia de la obediencia?",
+    category: profetas,
+    correct_answer: "Traería bendiciones divinas",
+    incorrect_answers: [
+      "Garantizaría victorias militares",
+      "Aseguraría riquezas inmediatas",
+      "Eliminaría a los enemigos",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:12-13 muestra que la obediencia activó la presencia de Dios.",
+      incorrect_answers: [
+        "No se mencionan victorias militares.",
+        "No se prometen riquezas inmediatas.",
+        "No se habla de eliminar enemigos.",
+      ],
+    },
+  },
+  {
+    id: 2207,
+    difficulty: "Fácil",
+    question: "¿Qué hizo Dios para motivar al pueblo según Hageo?",
+    category: profetas,
+    correct_answer: "Envió sequía y escasez",
+    incorrect_answers: [
+      "Envió profetas adicionales",
+      "Envió un ejército protector",
+      "Envió riquezas inesperadas",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:11 dice: 'Y llamé la sequía sobre esta tierra' para llamar su atención.",
+      incorrect_answers: [
+        "No se mencionan más profetas.",
+        "No se envió un ejército.",
+        "No se enviaron riquezas.",
+      ],
+    },
+  },
+  {
+    id: 2208,
+    difficulty: "Difícil",
+    question: "¿Qué prometió Dios sobre el futuro del templo?",
+    category: profetas,
+    correct_answer: "Sería lleno de gloria",
+    incorrect_answers: [
+      "Sería destruido nuevamente",
+      "Sería ignorado por el pueblo",
+      "Sería convertido en un mercado",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 2:7-9 promete que 'llenaré de gloria esta casa'.",
+      incorrect_answers: [
+        "No se menciona destrucción futura.",
+        "No sería ignorado, sino central.",
+        "No se convirtió en un mercado.",
+      ],
+    },
+  },
+  {
+    id: 2209,
+    difficulty: "Medio",
+    question: "¿Qué actitud tuvo Zorobabel ante el mensaje de Hageo?",
+    category: profetas,
+    correct_answer: "Obedeció y lideró la reconstrucción",
+    incorrect_answers: [
+      "Ignoró al profeta",
+      "Se opuso abiertamente",
+      "Abandonó Jerusalén",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:14 muestra que Zorobabel obedeció y trabajó en el templo.",
+      incorrect_answers: [
+        "No ignoró el mensaje.",
+        "No se opuso al profeta.",
+        "No abandonó la ciudad.",
+      ],
+    },
+  },
+  {
+    id: 2210,
+    difficulty: "Fácil",
+    question: "¿Qué dijo Hageo sobre las prioridades del pueblo?",
+    category: profetas,
+    correct_answer: "Debían poner a Dios en primer lugar",
+    incorrect_answers: [
+      "Debían buscar riquezas materiales",
+      "Debían enfocarse en la política",
+      "Debían abandonar Jerusalén",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:8 enfatiza la reconstrucción del templo como prioridad.",
+      incorrect_answers: [
+        "No promovió la búsqueda de riquezas.",
+        "No se enfocó en la política.",
+        "No sugirió abandonar la ciudad.",
+      ],
+    },
+  },
+  {
+    id: 2211,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el anillo de sellar en Hageo?",
+    category: profetas,
+    correct_answer: "La elección y protección de Zorobabel",
+    incorrect_answers: [
+      "La riqueza del pueblo",
+      "La destrucción del templo",
+      "La independencia de Judá",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 2:23 usa el anillo de sellar como símbolo de elección divina.",
+      incorrect_answers: [
+        "No simboliza riqueza.",
+        "No representa destrucción.",
+        "No simboliza independencia.",
+      ],
+    },
+  },
+  {
+    id: 2212,
+    difficulty: "Medio",
+    question: "¿Qué dijo Hageo sobre la relación entre trabajo y bendición?",
+    category: profetas,
+    correct_answer: "Sin obediencia, el trabajo no sería bendecido",
+    incorrect_answers: [
+      "El trabajo duro siempre trae riquezas",
+      "La bendición es independiente del trabajo",
+      "Solo el trabajo espiritual es importante",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:6-9 muestra que sin obediencia, el trabajo no prospera.",
+      incorrect_answers: [
+        "No se prometen riquezas por el trabajo duro.",
+        "La bendición depende de la obediencia.",
+        "No se limita al trabajo espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2213,
+    difficulty: "Fácil",
+    question: "¿Qué prometió Dios si el pueblo obedecía?",
+    category: profetas,
+    correct_answer: "Estaría con ellos",
+    incorrect_answers: [
+      "Les daría tierras nuevas",
+      "Les enviaría un nuevo rey",
+      "Les daría riquezas inmediatas",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 1:13 dice: 'Yo estoy con vosotros, dice Jehová'.",
+      incorrect_answers: [
+        "No se prometen tierras nuevas.",
+        "No se menciona un nuevo rey.",
+        "No se prometen riquezas inmediatas.",
+      ],
+    },
+  },
+  {
+    id: 2214,
+    difficulty: "Difícil",
+    question: "¿Qué dijo Hageo sobre la gloria futura del templo?",
+    category: profetas,
+    correct_answer: "Superaría la gloria del primer templo",
+    incorrect_answers: [
+      "Sería igual que la del primer templo",
+      "Sería menor que la del primer templo",
+      "No tendría gloria alguna",
+    ],
+    justifications: {
+      correct_answer:
+        "Hageo 2:9 afirma: 'La gloria postrera de esta casa será mayor que la primera'.",
+      incorrect_answers: [
+        "No se menciona que sería igual.",
+        "No se dice que sería menor.",
+        "Dios prometió gloria, no su ausencia.",
+      ],
+    },
+  },
+  
 
 
-
-
+    //Zacarías   
+    
+    
+      {
+        id: 2215,
+        difficulty: "Difícil",
+        question: "¿Qué visión tuvo Zacarías sobre el sumo sacerdote Josué?",
+        category: profetas,
+        correct_answer: "Fue vestido con ropas limpias ante el ángel",
+        incorrect_answers: [
+          "Fue reprendido por su falta de fe",
+          "Fue coronado como rey de Judá",
+          "Fue enviado al exilio en Babilonia",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 3:3-5 describe cómo Josué fue vestido con ropas limpias, simbolizando la purificación.",
+          incorrect_answers: [
+            "No se menciona una reprensión por falta de fe.",
+            "No fue coronado como rey.",
+            "No fue enviado al exilio.",
+          ],
+        },
+      },
+      {
+        id: 2216,
+        difficulty: "Medio",
+        question: "¿Qué simbolizaba el candelabro de oro en la visión de Zacarías?",
+        category: profetas,
+        correct_answer: "El Espíritu de Dios y su provisión",
+        incorrect_answers: [
+          "La riqueza del templo",
+          "La gloria del rey David",
+          "La destrucción de Jerusalén",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 4:2-6 explica que el candelabro representa el Espíritu de Dios y su provisión para la obra.",
+          incorrect_answers: [
+            "No simboliza la riqueza del templo.",
+            "No está relacionado con el rey David.",
+            "No representa destrucción.",
+          ],
+        },
+      },
+      {
+        id: 2217,
+        difficulty: "Fácil",
+        question: "¿Qué prometió Dios a través de Zacarías sobre Jerusalén?",
+        category: profetas,
+        correct_answer: "Sería habitada como aldeas sin muros",
+        incorrect_answers: [
+          "Sería destruida por completo",
+          "Sería gobernada por un rey extranjero",
+          "Sería abandonada para siempre",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 2:4 dice: 'Jerusalén será habitada como aldeas sin muros'.",
+          incorrect_answers: [
+            "No se promete destrucción.",
+            "No se menciona un rey extranjero.",
+            "No se habla de abandono.",
+          ],
+        },
+      },
+      {
+        id: 2218,
+        difficulty: "Difícil",
+        question: "¿Qué representaban los dos olivos en la visión de Zacarías?",
+        category: profetas,
+        correct_answer: "Los dos ungidos que están delante de Dios",
+        incorrect_answers: [
+          "Los dos reinos de Israel y Judá",
+          "Los dos templos de Jerusalén",
+          "Los dos profetas anteriores a Zacarías",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 4:14 explica que los dos olivos son 'los dos ungidos que están delante del Señor'.",
+          incorrect_answers: [
+            "No representan reinos.",
+            "No simbolizan templos.",
+            "No se refieren a profetas anteriores.",
+          ],
+        },
+      },
+      {
+        id: 2219,
+        difficulty: "Medio",
+        question: "¿Qué mensaje dio Zacarías sobre el ayuno?",
+        category: profetas,
+        correct_answer: "El ayuno debe acompañarse de justicia y misericordia",
+        incorrect_answers: [
+          "El ayuno debe ser constante y riguroso",
+          "El ayuno no es necesario para Dios",
+          "El ayuno debe hacerse en secreto",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 7:9-10 dice: 'Ejecutad juicio verdadero, y haced misericordia'.",
+          incorrect_answers: [
+            "No se enfatiza el rigor constante.",
+            "No se dice que no sea necesario.",
+            "No se menciona hacerlo en secreto.",
+          ],
+        },
+      },
+      {
+        id: 2220,
+        difficulty: "Fácil",
+        question: "¿Qué vio Zacarías en su visión de los cuatro cuernos?",
+        category: profetas,
+        correct_answer: "Los poderes que dispersaron a Judá",
+        incorrect_answers: [
+          "Los cuatro ríos del Edén",
+          "Los cuatro evangelios",
+          "Los cuatro jinetes del apocalipsis",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 1:18-19 describe los cuatro cuernos como los poderes que dispersaron a Judá.",
+          incorrect_answers: [
+            "No se relacionan con los ríos del Edén.",
+            "No tienen conexión con los evangelios.",
+            "No son los jinetes del apocalipsis.",
+          ],
+        },
+      },
+      {
+        id: 2221,
+        difficulty: "Difícil",
+        question: "¿Qué prometió Dios a través de Zacarías sobre el futuro de Sion?",
+        category: profetas,
+        correct_answer: "Sería protegida como un muro de fuego",
+        incorrect_answers: [
+          "Sería conquistada por enemigos",
+          "Sería abandonada por Dios",
+          "Sería dividida en dos reinos",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 2:5 dice: 'Yo seré para ella muro de fuego en derredor'.",
+          incorrect_answers: [
+            "No se promete conquista.",
+            "No se habla de abandono.",
+            "No se menciona división.",
+          ],
+        },
+      },
+      {
+        id: 2222,
+        difficulty: "Medio",
+        question: "¿Qué simbolizaba el rollo volador en la visión de Zacarías?",
+        category: profetas,
+        correct_answer: "La maldición sobre los ladrones y los que juran falsamente",
+        incorrect_answers: [
+          "La restauración del templo",
+          "La llegada del Mesías",
+          "La destrucción de Babilonia",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 5:3 dice: 'Esta es la maldición que sale sobre la faz de toda la tierra'.",
+          incorrect_answers: [
+            "No simboliza la restauración del templo.",
+            "No representa la llegada del Mesías.",
+            "No se refiere a Babilonia.",
+          ],
+        },
+      },
+      {
+        id: 2223,
+        difficulty: "Fácil",
+        question: "¿Qué vio Zacarías en su visión de un hombre con un cordel de medir?",
+        category: profetas,
+        correct_answer: "La futura expansión de Jerusalén",
+        incorrect_answers: [
+          "La destrucción del templo",
+          "La llegada de un rey poderoso",
+          "La construcción de un muro",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 2:1-2 describe al hombre midiendo Jerusalén para su expansión.",
+          incorrect_answers: [
+            "No se menciona destrucción.",
+            "No se habla de un rey.",
+            "No se refiere a un muro.",
+          ],
+        },
+      },
+      {
+        id: 2224,
+        difficulty: "Difícil",
+        question: "¿Qué prometió Dios a través de Zacarías sobre el Mesías?",
+        category: profetas,
+        correct_answer: "Vendría humilde y montado en un asno",
+        incorrect_answers: [
+          "Vendría como un guerrero poderoso",
+          "Vendría en medio de un ejército",
+          "Vendría como un rey conquistador",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 9:9 dice: 'He aquí tu rey vendrá a ti, justo y salvador, humilde'.",
+          incorrect_answers: [
+            "No se describe como un guerrero.",
+            "No se menciona un ejército.",
+            "No se presenta como conquistador.",
+          ],
+        },
+      },
+      {
+        id: 2225,
+        difficulty: "Medio",
+        question: "¿Qué mensaje dio Zacarías sobre la reconstrucción del templo?",
+        category: profetas,
+        correct_answer: "Sería completada por el Espíritu de Dios",
+        incorrect_answers: [
+          "Sería imposible de completar",
+          "Sería destruida nuevamente",
+          "Sería ignorada por el pueblo",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 4:6 dice: 'No con ejército, ni con fuerza, sino con mi Espíritu'.",
+          incorrect_answers: [
+            "No se dice que sería imposible.",
+            "No se menciona destrucción.",
+            "No se habla de ignorancia.",
+          ],
+        },
+      },
+      {
+        id: 2226,
+        difficulty: "Fácil",
+        question: "¿Qué vio Zacarías en su visión de la mujer en el efa?",
+        category: profetas,
+        correct_answer: "La maldad siendo llevada a Babilonia",
+        incorrect_answers: [
+          "La gloria de Dios en el templo",
+          "La restauración de Israel",
+          "La llegada del Mesías",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 5:7-8 describe a la mujer como la maldad siendo llevada a Babilonia.",
+          incorrect_answers: [
+            "No se relaciona con la gloria de Dios.",
+            "No simboliza restauración.",
+            "No representa al Mesías.",
+          ],
+        },
+      },
+      {
+        id: 2227,
+        difficulty: "Difícil",
+        question: "¿Qué prometió Dios a través de Zacarías sobre las naciones?",
+        category: profetas,
+        correct_answer: "Se unirían al pueblo de Dios",
+        incorrect_answers: [
+          "Serían destruidas por completo",
+          "Dominarían a Israel para siempre",
+          "Ignorarían a Jerusalén",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 2:11 dice: 'Muchas naciones se unirán a Jehová'.",
+          incorrect_answers: [
+            "No se promete destrucción total.",
+            "No se dice que dominarían a Israel.",
+            "No se menciona ignorancia.",
+          ],
+        },
+      },
+      {
+        id: 2228,
+        difficulty: "Medio",
+        question: "¿Qué simbolizaban los carros en la visión de Zacarías?",
+        category: profetas,
+        correct_answer: "Los cuatro vientos del cielo",
+        incorrect_answers: [
+          "Los cuatro reinos de la tierra",
+          "Los cuatro profetas mayores",
+          "Los cuatro elementos de la creación",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 6:5 explica que los carros son 'los cuatro vientos del cielo'.",
+          incorrect_answers: [
+            "No representan reinos.",
+            "No se refieren a profetas.",
+            "No simbolizan elementos.",
+          ],
+        },
+      },
+      {
+        id: 2229,
+        difficulty: "Fácil",
+        question: "¿Qué prometió Dios a través de Zacarías sobre el futuro de Judá?",
+        category: profetas,
+        correct_answer: "Sería restaurada y bendecida",
+        incorrect_answers: [
+          "Sería destruida por enemigos",
+          "Sería gobernada por extranjeros",
+          "Sería abandonada por Dios",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 8:13 dice: 'Como fuisteis maldición entre las naciones, os salvaré'.",
+          incorrect_answers: [
+            "No se promete destrucción.",
+            "No se menciona gobierno extranjero.",
+            "No se habla de abandono.",
+          ],
+        },
+      },
+      {
+        id: 2230,
+        difficulty: "Difícil",
+        question: "¿Qué dijo Zacarías sobre el papel del sumo sacerdote Josué?",
+        category: profetas,
+        correct_answer: "Sería un símbolo de la obra futura del Mesías",
+        incorrect_answers: [
+          "Sería rey de Israel",
+          "Sería destruido por sus enemigos",
+          "Sería olvidado por el pueblo",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 3:8-9 muestra a Josué como un símbolo del Mesías venidero.",
+          incorrect_answers: [
+            "No se menciona que sería rey.",
+            "No se habla de destrucción.",
+            "No se dice que sería olvidado.",
+          ],
+        },
+      },
+      {
+        id: 2231,
+        difficulty: "Medio",
+        question: "¿Qué visión tuvo Zacarías sobre la restauración de Jerusalén?",
+        category: profetas,
+        correct_answer: "Sería una ciudad sin muros por su gran población",
+        incorrect_answers: [
+          "Sería una ciudad fortificada e inexpugnable",
+          "Sería una ciudad abandonada y en ruinas",
+          "Sería una ciudad gobernada por extranjeros",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 2:4 dice: 'Jerusalén será habitada como aldeas sin muros'.",
+          incorrect_answers: [
+            "No se describe como inexpugnable.",
+            "No se habla de abandono.",
+            "No se menciona gobierno extranjero.",
+          ],
+        },
+      },
+      {
+        id: 2232,
+        difficulty: "Fácil",
+        question: "¿Qué prometió Dios a través de Zacarías sobre el templo?",
+        category: profetas,
+        correct_answer: "Sería lleno de la gloria de Dios",
+        incorrect_answers: [
+          "Sería destruido por enemigos",
+          "Sería ignorado por el pueblo",
+          "Sería convertido en un mercado",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 2:5 dice: 'Yo seré para ella muro de fuego en derredor'.",
+          incorrect_answers: [
+            "No se promete destrucción.",
+            "No se habla de ignorancia.",
+            "No se menciona un mercado.",
+          ],
+        },
+      },
+      {
+        id: 2233,
+        difficulty: "Difícil",
+        question: "¿Qué simbolizaba la piedra con siete ojos en la visión de Zacarías?",
+        category: profetas,
+        correct_answer: "La omnisciencia y provisión de Dios",
+        incorrect_answers: [
+          "La destrucción de Jerusalén",
+          "La llegada del Mesías",
+          "La restauración del reino de David",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 3:9 describe la piedra como un símbolo de la omnisciencia de Dios.",
+          incorrect_answers: [
+            "No simboliza destrucción.",
+            "No representa al Mesías directamente.",
+            "No se refiere al reino de David.",
+          ],
+        },
+      },
+      {
+        id: 2234,
+        difficulty: "Medio",
+        question: "¿Qué mensaje dio Zacarías sobre la importancia de la obediencia?",
+        category: profetas,
+        correct_answer: "La obediencia trae bendición y restauración",
+        incorrect_answers: [
+          "La obediencia no es necesaria para Dios",
+          "La obediencia garantiza riquezas materiales",
+          "La obediencia es solo para los líderes",
+        ],
+        justifications: {
+          correct_answer:
+            "Zacarías 6:15 dice: 'Y esto sucederá si oyereis obedientes la voz de Jehová'.",
+          incorrect_answers: [
+            "No se dice que no sea necesaria.",
+            "No se prometen riquezas materiales.",
+            "No es exclusiva para líderes.",
+          ],
+        },
+      },
+    
+      //Malaquías
       
+        {
+          id: 2235,
+          difficulty: "Difícil",
+          question: "¿Qué reprochó Malaquías a los sacerdotes en su mensaje?",
+          category: profetas,
+          correct_answer: "Ofrecer sacrificios imperfectos y deshonrar a Dios",
+          incorrect_answers: [
+            "No predicar con suficiente frecuencia",
+            "No construir templos nuevos",
+            "No liderar ejércitos contra enemigos",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 1:7-8 dice: 'Ofrecéis sobre mi altar pan inmundo... ¿y no lo desecharéis?'",
+            incorrect_answers: [
+              "No se menciona falta de predicación.",
+              "No se habla de construir templos.",
+              "No se refiere a liderar ejércitos.",
+            ],
+          },
+        },
+        {
+          id: 2236,
+          difficulty: "Medio",
+          question: "¿Qué prometió Dios a través de Malaquías sobre los diezmos?",
+          category: profetas,
+          correct_answer: "Abrir las ventanas de los cielos y derramar bendiciones",
+          incorrect_answers: [
+            "Enviar sequía sobre la tierra",
+            "Destruir a los que no diezman",
+            "Ignorar a quienes diezman fielmente",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:10 dice: 'Traed todos los diezmos al alfolí... y probadme ahora en esto'.",
+            incorrect_answers: [
+              "No se promete sequía por no diezmar.",
+              "No se menciona destrucción.",
+              "Dios no ignora a los fieles.",
+            ],
+          },
+        },
+        {
+          id: 2237,
+          difficulty: "Fácil",
+          question: "¿Qué dijo Malaquías sobre el amor de Dios hacia Israel?",
+          category: profetas,
+          correct_answer: "Dios siempre ha amado a Israel",
+          incorrect_answers: [
+            "Dios ha rechazado a Israel para siempre",
+            "Dios solo ama a las naciones extranjeras",
+            "Dios nunca ha mostrado amor a Israel",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 1:2 dice: 'Os he amado, dice Jehová; y dijisteis: ¿En qué nos amaste?'",
+            incorrect_answers: [
+              "No se dice que Dios haya rechazado a Israel.",
+              "No se menciona preferencia por naciones extranjeras.",
+              "Dios siempre ha mostrado amor a Israel.",
+            ],
+          },
+        },
+        {
+          id: 2238,
+          difficulty: "Difícil",
+          question: "¿Qué advirtió Malaquías sobre el día de Jehová?",
+          category: profetas,
+          correct_answer: "Será un día grande y terrible",
+          incorrect_answers: [
+            "Será un día de fiesta y celebración",
+            "Será un día sin importancia",
+            "Será un día de paz universal",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 4:5 dice: 'He aquí, yo os envío el profeta Elías... antes que venga el día de Jehová, grande y terrible'.",
+            incorrect_answers: [
+              "No se describe como un día de fiesta.",
+              "No se dice que sea sin importancia.",
+              "No se menciona paz universal.",
+            ],
+          },
+        },
+        {
+          id: 2239,
+          difficulty: "Medio",
+          question: "¿Qué dijo Malaquías sobre los matrimonios con extranjeros?",
+          category: profetas,
+          correct_answer: "Dios los rechaza porque profanan su pacto",
+          incorrect_answers: [
+            "Dios los aprueba para unir naciones",
+            "Dios los ignora porque no le importan",
+            "Dios los celebra como muestra de amor",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 2:11 dice: 'Ha profanado Judá la santidad de Jehová... casándose con hija de dios extraño'.",
+            incorrect_answers: [
+              "No se aprueban para unir naciones.",
+              "No se dice que Dios los ignore.",
+              "No se celebran como muestra de amor.",
+            ],
+          },
+        },
+        {
+          id: 2240,
+          difficulty: "Fácil",
+          question: "¿Qué prometió Dios a través de Malaquías sobre los justos?",
+          category: profetas,
+          correct_answer: "Serán guardados como un tesoro especial",
+          incorrect_answers: [
+            "Serán castigados por sus pecados",
+            "Serán olvidados por Dios",
+            "Serán enviados al exilio",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:17 dice: 'Y serán para mí especial tesoro... en el día en que yo actúe'.",
+            incorrect_answers: [
+              "No se promete castigo para los justos.",
+              "No se dice que serán olvidados.",
+              "No se menciona exilio.",
+            ],
+          },
+        },
+        {
+          id: 2241,
+          difficulty: "Difícil",
+          question: "¿Qué dijo Malaquías sobre el mensajero que prepararía el camino?",
+          category: profetas,
+          correct_answer: "Prepararía el camino antes del día de Jehová",
+          incorrect_answers: [
+            "Sería un rey poderoso",
+            "Destruiría a los enemigos de Israel",
+            "Traería paz inmediata al mundo",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:1 dice: 'He aquí, yo envío mi mensajero... el cual preparará el camino delante de mí'.",
+            incorrect_answers: [
+              "No se describe como un rey.",
+              "No se menciona destrucción de enemigos.",
+              "No se habla de paz inmediata.",
+            ],
+          },
+        },
+        {
+          id: 2242,
+          difficulty: "Medio",
+          question: "¿Qué reprochó Malaquías al pueblo sobre sus ofrendas?",
+          category: profetas,
+          correct_answer: "Ofrecían lo peor en lugar de lo mejor",
+          incorrect_answers: [
+            "No ofrecían nada en absoluto",
+            "Ofrecían demasiado y se empobrecían",
+            "Ofrecían solo en días festivos",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 1:8 dice: 'Cuando ofrecéis el animal ciego para sacrificio, ¿no es malo?'",
+            incorrect_answers: [
+              "No se dice que no ofrecieran nada.",
+              "No se menciona que se empobrecieran.",
+              "No se limita a días festivos.",
+            ],
+          },
+        },
+        {
+          id: 2243,
+          difficulty: "Fácil",
+          question: "¿Qué prometió Dios a través de Malaquías sobre los que temen su nombre?",
+          category: profetas,
+          correct_answer: "Nacerá el sol de justicia con salvación",
+          incorrect_answers: [
+            "Serán castigados por sus pecados",
+            "Serán olvidados por Dios",
+            "Serán enviados al exilio",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 4:2 dice: 'Nacerá el sol de justicia, y en sus alas traerá salvación'.",
+            incorrect_answers: [
+              "No se promete castigo para los que temen a Dios.",
+              "No se dice que serán olvidados.",
+              "No se menciona exilio.",
+            ],
+          },
+        },
+        {
+          id: 2244,
+          difficulty: "Difícil",
+          question: "¿Qué dijo Malaquías sobre el pacto de Dios con Leví?",
+          category: profetas,
+          correct_answer: "Fue un pacto de vida y paz",
+          incorrect_answers: [
+            "Fue un pacto de riqueza y poder",
+            "Fue un pacto de guerra y conquista",
+            "Fue un pacto olvidado por Dios",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 2:5 dice: 'Mi pacto con él fue de vida y paz'.",
+            incorrect_answers: [
+              "No se menciona riqueza o poder.",
+              "No se habla de guerra o conquista.",
+              "No se dice que fuera olvidado.",
+            ],
+          },
+        },
+        {
+          id: 2245,
+          difficulty: "Medio",
+          question: "¿Qué advirtió Malaquías sobre el juicio de Dios?",
+          category: profetas,
+          correct_answer: "Dios juzgará a los que no le temen",
+          incorrect_answers: [
+            "Dios no juzgará a nadie",
+            "Dios solo juzgará a las naciones extranjeras",
+            "Dios juzgará solo a los sacerdotes",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:5 dice: 'Y vendré a vosotros para juicio... contra los que oprimen al jornalero'.",
+            incorrect_answers: [
+              "No se dice que Dios no juzgará a nadie.",
+              "No se limita a naciones extranjeras.",
+              "No se limita solo a los sacerdotes.",
+            ],
+          },
+        },
+        {
+          id: 2246,
+          difficulty: "Fácil",
+          question: "¿Qué dijo Malaquías sobre la fidelidad de Dios?",
+          category: profetas,
+          correct_answer: "Dios no cambia y siempre cumple sus promesas",
+          incorrect_answers: [
+            "Dios cambia de opinión frecuentemente",
+            "Dios solo es fiel a los sacerdotes",
+            "Dios no cumple sus promesas",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:6 dice: 'Porque yo Jehová no cambio; por esto, hijos de Jacob, no habéis sido consumidos'.",
+            incorrect_answers: [
+              "No se dice que Dios cambie de opinión.",
+              "No se limita a los sacerdotes.",
+              "Dios siempre cumple sus promesas.",
+            ],
+          },
+        },
+        {
+          id: 2247,
+          difficulty: "Difícil",
+          question: "¿Qué dijo Malaquías sobre el papel de Elías antes del día de Jehová?",
+          category: profetas,
+          correct_answer: "Restauraría el corazón de los padres hacia los hijos",
+          incorrect_answers: [
+            "Destruiría a los enemigos de Israel",
+            "Traería riquezas a Jerusalén",
+            "Establecería un nuevo templo",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 4:6 dice: 'El hará volver el corazón de los padres hacia los hijos'.",
+            incorrect_answers: [
+              "No se menciona destrucción de enemigos.",
+              "No se habla de riquezas.",
+              "No se refiere a un nuevo templo.",
+            ],
+          },
+        },
+        {
+          id: 2248,
+          difficulty: "Medio",
+          question: "¿Qué reprochó Malaquías sobre los juramentos del pueblo?",
+          category: profetas,
+          correct_answer: "Juraban en falso y profanaban el nombre de Dios",
+          incorrect_answers: [
+            "No hacían juramentos en absoluto",
+            "Juraban solo en días festivos",
+            "Juraban en nombre de ídolos",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:5 dice: 'Contra los que juran mentira'.",
+            incorrect_answers: [
+              "No se dice que no hicieran juramentos.",
+              "No se limita a días festivos.",
+              "No se menciona ídolos.",
+            ],
+          },
+        },
+        {
+          id: 2249,
+          difficulty: "Fácil",
+          question: "¿Qué prometió Dios a través de Malaquías sobre los que guardan su pacto?",
+          category: profetas,
+          correct_answer: "Serán bendecidos y protegidos",
+          incorrect_answers: [
+            "Serán castigados por sus pecados",
+            "Serán olvidados por Dios",
+            "Serán enviados al exilio",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:10 dice: 'Derramaré bendición hasta que sobreabunde'.",
+            incorrect_answers: [
+              "No se promete castigo para los fieles.",
+              "No se dice que serán olvidados.",
+              "No se menciona exilio.",
+            ],
+          },
+        },
+        {
+          id: 2250,
+          difficulty: "Difícil",
+          question: "¿Qué dijo Malaquías sobre la ofrenda de los gentiles?",
+          category: profetas,
+          correct_answer: "Sería aceptable a Dios como ofrenda pura",
+          incorrect_answers: [
+            "Sería rechazada por ser impura",
+            "Sería ignorada por Dios",
+            "Sería destruida en el templo",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 1:11 dice: 'Desde donde el sol nace hasta donde se pone... ofrecerán incienso a mi nombre'.",
+            incorrect_answers: [
+              "No se dice que sería rechazada.",
+              "No se menciona que sería ignorada.",
+              "No se habla de destrucción.",
+            ],
+          },
+        },
+        {
+          id: 2251,
+          difficulty: "Medio",
+          question: "¿Qué dijo Malaquías sobre el corazón de los padres y los hijos?",
+          category: profetas,
+          correct_answer: "Deben volverse el uno al otro",
+          incorrect_answers: [
+            "Deben permanecer separados",
+            "Deben ignorarse mutuamente",
+            "Deben competir entre sí",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 4:6 dice: 'El hará volver el corazón de los padres hacia los hijos'.",
+            incorrect_answers: [
+              "No se dice que deban permanecer separados.",
+              "No se menciona que deban ignorarse.",
+              "No se habla de competencia.",
+            ],
+          },
+        },
+        {
+          id: 2252,
+          difficulty: "Fácil",
+          question: "¿Qué dijo Malaquías sobre el día que viene?",
+          category: profetas,
+          correct_answer: "Será ardiente como un horno",
+          incorrect_answers: [
+            "Será frío y oscuro",
+            "Será un día de fiesta",
+            "Será un día sin importancia",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 4:1 dice: 'He aquí, viene el día ardiente como un horno'.",
+            incorrect_answers: [
+              "No se describe como frío y oscuro.",
+              "No se menciona como un día de fiesta.",
+              "No se dice que sea sin importancia.",
+            ],
+          },
+        },
+        {
+          id: 2253,
+          difficulty: "Difícil",
+          question: "¿Qué dijo Malaquías sobre los que hacen maldad?",
+          category: profetas,
+          correct_answer: "Serán como paja quemada en el día de Jehová",
+          incorrect_answers: [
+            "Serán perdonados sin consecuencias",
+            "Serán recompensados con riquezas",
+            "Serán olvidados por Dios",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 4:1 dice: 'Serán como paja, y los quemará el día que vendrá'.",
+            incorrect_answers: [
+              "No se dice que serán perdonados sin consecuencias.",
+              "No se menciona recompensa con riquezas.",
+              "No se habla de ser olvidados.",
+            ],
+          },
+        },
+        {
+          id: 2254,
+          difficulty: "Medio",
+          question: "¿Qué dijo Malaquías sobre la importancia de guardar los mandamientos?",
+          category: profetas,
+          correct_answer: "Traería bendiciones y protección divina",
+          incorrect_answers: [
+            "No tendría ningún efecto",
+            "Traería castigo y dolor",
+            "Sería ignorado por Dios",
+          ],
+          justifications: {
+            correct_answer:
+              "Malaquías 3:10 dice: 'Traed todos los diezmos al alfolí... y probadme ahora en esto'.",
+            incorrect_answers: [
+              "No se dice que no tenga efecto.",
+              "No se menciona castigo o dolor.",
+              "No se habla de ser ignorado.",
+            ],
+          },
+        },
+      
+
+       //David (considerado un profeta por su papel en la adoración y la escritura de muchos salmos)
+
+       
+        {
+          id: 2255,
+          difficulty: "Difícil",
+          question: "¿Qué instrumento tocaba David para calmar a Saúl?",
+          category: profetas,
+          correct_answer: "El arpa",
+          incorrect_answers: [
+            "La flauta",
+            "El tambor",
+            "La lira",
+          ],
+          justifications: {
+            correct_answer: "1 Samuel 16:23 menciona que David tocaba el arpa para calmar a Saúl.",
+            incorrect_answers: [
+              "No hay registro bíblico de que David usara una flauta.",
+              "El tambor no se menciona en este contexto.",
+              "La lira no es el instrumento específico que se describe.",
+            ],
+          },
+        },
+        {
+          id: 2256,
+          difficulty: "Medio",
+          question: "¿Qué hizo David antes de enfrentarse a Goliat?",
+          category: profetas,
+          correct_answer: "Recogió cinco piedras lisas del arroyo",
+          incorrect_answers: [
+            "Oró en silencio durante una hora",
+            "Se puso una armadura prestada",
+            "Ayunó durante tres días",
+          ],
+          justifications: {
+            correct_answer: "1 Samuel 17:40 describe cómo David recogió cinco piedras lisas.",
+            incorrect_answers: [
+              "No hay registro de que David orara en silencio antes de la batalla.",
+              "La armadura fue ofrecida, pero David la rechazó.",
+              "No hay mención de un ayuno previo.",
+            ],
+          },
+        },
+        {
+          id: 2257,
+          difficulty: "Fácil",
+          question: "¿Quién fue el padre de David?",
+          category: profetas,
+          correct_answer: "Isaí",
+          incorrect_answers: [
+            "Abraham",
+            "Jacob",
+            "Saúl",
+          ],
+          justifications: {
+            correct_answer: "1 Samuel 16:1 identifica a Isaí como el padre de David.",
+            incorrect_answers: [
+              "Abraham es un antepasado lejano, no su padre.",
+              "Jacob es un antepasado, no su padre.",
+              "Saúl fue el primer rey de Israel, no su padre.",
+            ],
+          },
+        },
+        {
+          id: 2258,
+          difficulty: "Difícil",
+          question: "¿Qué promesa hizo Dios a David a través del profeta Natán?",
+          category: profetas,
+          correct_answer: "Que su descendencia establecería un reino eterno",
+          incorrect_answers: [
+            "Que conquistaría todas las naciones vecinas",
+            "Que viviría para siempre",
+            "Que sería el más rico de todos los reyes",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 7:16 habla de la promesa de un reino eterno para la descendencia de David.",
+            incorrect_answers: [
+              "No hay promesa de conquistar todas las naciones.",
+              "No se promete que David viviría para siempre.",
+              "No se menciona riqueza en esta promesa.",
+            ],
+          },
+        },
+        {
+          id: 2259,
+          difficulty: "Medio",
+          question: "¿Qué hizo David cuando supo de la muerte de Saúl y Jonatán?",
+          category: profetas,
+          correct_answer: "Lamentó y compuso un canto fúnebre",
+          incorrect_answers: [
+            "Celebró su ascenso al trono",
+            "Se escondió por miedo a los filisteos",
+            "Declaró guerra a los amalecitas",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 1:17-27 describe el lamento de David por Saúl y Jonatán.",
+            incorrect_answers: [
+              "David no celebró, sino que lamentó.",
+              "No hay registro de que se escondiera.",
+              "No declaró guerra inmediatamente.",
+            ],
+          },
+        },
+        {
+          id: 2260,
+          difficulty: "Fácil",
+          question: "¿Qué ciudad convirtió David en la capital de su reino?",
+          category: profetas,
+          correct_answer: "Jerusalén",
+          incorrect_answers: [
+            "Belén",
+            "Hebrón",
+            "Samaria",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 5:6-10 describe cómo David conquistó Jerusalén y la hizo su capital.",
+            incorrect_answers: [
+              "Belén fue su ciudad natal, no la capital.",
+              "Hebrón fue una capital temporal, no la definitiva.",
+              "Samaria fue capital del reino del norte, no de David.",
+            ],
+          },
+        },
+        {
+          id: 2261,
+          difficulty: "Difícil",
+          question: "¿Qué pecado cometió David con Betsabé?",
+          category: profetas,
+          correct_answer: "Adulterio y asesinato",
+          incorrect_answers: [
+            "Robo y mentira",
+            "Idolatría y blasfemia",
+            "Codicia y envidia",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 11:2-17 describe el adulterio de David con Betsabé y el asesinato de Urías.",
+            incorrect_answers: [
+              "No se menciona robo o mentira en este contexto.",
+              "No hay registro de idolatría o blasfemia.",
+              "La codicia y envidia no son los pecados principales aquí.",
+            ],
+          },
+        },
+        {
+          id: 2262,
+          difficulty: "Medio",
+          question: "¿Qué hizo David después de ser reprendido por Natán?",
+          category: profetas,
+          correct_answer: "Se arrepintió y confesó su pecado",
+          incorrect_answers: [
+            "Negó haber hecho algo malo",
+            "Se enfureció y desterró a Natán",
+            "Continuó como si nada hubiera pasado",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 12:13 muestra el arrepentimiento de David.",
+            incorrect_answers: [
+              "David no negó su pecado.",
+              "No hay registro de que desterrara a Natán.",
+              "David no ignoró la reprensión.",
+            ],
+          },
+        },
+        {
+          id: 2263,
+          difficulty: "Fácil",
+          question: "¿Cuántos hijos tuvo David?",
+          category: profetas,
+          correct_answer: "Al menos 19 hijos",
+          incorrect_answers: [
+            "5 hijos",
+            "12 hijos",
+            "25 hijos",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 3:2-5 y 1 Crónicas 3:1-9 enumeran al menos 19 hijos de David.",
+            incorrect_answers: [
+              "5 hijos es un número demasiado bajo.",
+              "12 hijos no cubre a todos los mencionados.",
+              "25 hijos excede el número registrado.",
+            ],
+          },
+        },
+        {
+          id: 2264,
+          difficulty: "Difícil",
+          question: "¿Qué profeta reprendió a David por su pecado con Betsabé?",
+          category: profetas,
+          correct_answer: "Natán",
+          incorrect_answers: [
+            "Samuel",
+            "Elías",
+            "Isaías",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 12:1-14 describe cómo Natán reprendió a David.",
+            incorrect_answers: [
+              "Samuel ya había muerto para ese entonces.",
+              "Elías vivió en una época posterior.",
+              "Isaías también vivió mucho después.",
+            ],
+          },
+        },
+        {
+          id: 2265,
+          difficulty: "Medio",
+          question: "¿Qué hizo David con el manto de Saúl cuando tuvo la oportunidad de matarlo?",
+          category: profetas,
+          correct_answer: "Cortó una esquina del manto pero no lo mató",
+          incorrect_answers: [
+            "Lo tomó como trofeo",
+            "Lo devolvió intacto",
+            "Lo usó para cubrirse",
+          ],
+          justifications: {
+            correct_answer: "1 Samuel 24:4-5 describe cómo David cortó el manto pero no hizo daño a Saúl.",
+            incorrect_answers: [
+              "No tomó el manto como trofeo.",
+              "No lo devolvió intacto.",
+              "No usó el manto para cubrirse.",
+            ],
+          },
+        },
+        {
+          id: 2266,
+          difficulty: "Fácil",
+          question: "¿Qué oficio tenía David antes de ser rey?",
+          category: profetas,
+          correct_answer: "Pastor de ovejas",
+          incorrect_answers: [
+            "Carpintero",
+            "Pescador",
+            "Soldado",
+          ],
+          justifications: {
+            correct_answer: "1 Samuel 16:11 menciona que David era pastor.",
+            incorrect_answers: [
+              "No hay registro de que fuera carpintero.",
+              "No se menciona que fuera pescador.",
+              "Aunque luchó, no era su oficio principal.",
+            ],
+          },
+        },
+        {
+          id: 2267,
+          difficulty: "Difícil",
+          question: "¿Qué promesa hizo David a Jonatán?",
+          category: profetas,
+          correct_answer: "Mostrar bondad a su descendencia",
+          incorrect_answers: [
+            "Hacerlo su sucesor",
+            "Darle la mitad de su reino",
+            "Protegerlo de Saúl",
+          ],
+          justifications: {
+            correct_answer: "1 Samuel 20:14-15 registra la promesa de David a Jonatán.",
+            incorrect_answers: [
+              "No prometió hacerlo su sucesor.",
+              "No ofreció la mitad de su reino.",
+              "No era necesario proteger a Jonatán de Saúl.",
+            ],
+          },
+        },
+        {
+          id: 2268,
+          difficulty: "Medio",
+          question: "¿Qué hizo David cuando el arca fue llevada a Jerusalén?",
+          category: profetas,
+          correct_answer: "Bailó con toda su fuerza delante del arca",
+          incorrect_answers: [
+            "Se postró en silencio",
+            "Ordenó un sacrificio masivo",
+            "Se escondió por temor",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 6:14-16 describe cómo David bailó delante del arca.",
+            incorrect_answers: [
+              "No se postró en silencio.",
+              "No ordenó un sacrificio masivo en ese momento.",
+              "No hay registro de que se escondiera.",
+            ],
+          },
+        },
+        {
+          id: 2269,
+          difficulty: "Fácil",
+          question: "¿Qué famoso descendiente de David es considerado el Mesías?",
+          category: profetas,
+          correct_answer: "Jesús",
+          incorrect_answers: [
+            "Salomón",
+            "Isaías",
+            "Ezequías",
+          ],
+          justifications: {
+            correct_answer: "Mateo 1:1-16 traza el linaje de Jesús hasta David.",
+            incorrect_answers: [
+              "Salomón fue hijo de David, no el Mesías.",
+              "Isaías fue un profeta, no el Mesías.",
+              "Ezequías fue un rey, no el Mesías.",
+            ],
+          },
+        },
+        {
+          id: 2270,
+          difficulty: "Difícil",
+          question: "¿Qué escribió David después de ser perdonado por su pecado?",
+          category: profetas,
+          correct_answer: "El Salmo 51",
+          incorrect_answers: [
+            "El Salmo 23",
+            "El Salmo 100",
+            "El Salmo 150",
+          ],
+          justifications: {
+            correct_answer: "El Salmo 51 es conocido como el salmo de arrepentimiento de David.",
+            incorrect_answers: [
+              "El Salmo 23 es sobre la confianza en Dios.",
+              "El Salmo 100 es un canto de alabanza.",
+              "El Salmo 150 es un salmo de adoración.",
+            ],
+          },
+        },
+        {
+          id: 2271,
+          difficulty: "Medio",
+          question: "¿Qué hizo David cuando su hijo Absalón se rebeló contra él?",
+          category: profetas,
+          correct_answer: "Huyó de Jerusalén",
+          incorrect_answers: [
+            "Lo enfrentó en batalla inmediatamente",
+            "Lo perdonó sin condiciones",
+            "Se escondió en el templo",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 15:14-16 describe cómo David huyó de Jerusalén.",
+            incorrect_answers: [
+              "No enfrentó a Absalón de inmediato.",
+              "No lo perdonó sin condiciones.",
+              "No se escondió en el templo.",
+            ],
+          },
+        },
+        {
+          id: 2272,
+          difficulty: "Fácil",
+          question: "¿Qué nombre recibió el hijo de David y Betsabé que sobrevivió?",
+          category: profetas,
+          correct_answer: "Salomón",
+          incorrect_answers: [
+            "Amnón",
+            "Absalón",
+            "Adonías",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 12:24 menciona que Salomón fue el hijo de David y Betsabé.",
+            incorrect_answers: [
+              "Amnón fue otro hijo de David, pero no de Betsabé.",
+              "Absalón fue hijo de David, pero no de Betsabé.",
+              "Adonías fue otro hijo de David, pero no de Betsabé.",
+            ],
+          },
+        },
+        {
+          id: 2273,
+          difficulty: "Difícil",
+          question: "¿Qué hizo David con los huesos de Saúl y Jonatán?",
+          category: profetas,
+          correct_answer: "Los enterró en la tumba de su padre",
+          incorrect_answers: [
+            "Los quemó como ofrenda",
+            "Los colocó en el templo",
+            "Los dejó en el campo de batalla",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 21:12-14 describe cómo David enterró los huesos de Saúl y Jonatán.",
+            incorrect_answers: [
+              "No hay registro de que los quemara.",
+              "No los colocó en el templo.",
+              "No los dejó en el campo de batalla.",
+            ],
+          },
+        },
+        {
+          id: 2274,
+          difficulty: "Medio",
+          question: "¿Qué prometió David hacer por Mefiboset?",
+          category: profetas,
+          correct_answer: "Restaurarle las tierras de su abuelo Saúl",
+          incorrect_answers: [
+            "Hacerlo su consejero principal",
+            "Darle un puesto en el ejército",
+            "Casarlo con una de sus hijas",
+          ],
+          justifications: {
+            correct_answer: "2 Samuel 9:7 registra la promesa de David a Mefiboset.",
+            incorrect_answers: [
+              "No lo hizo su consejero principal.",
+              "No le dio un puesto en el ejército.",
+              "No hay registro de que lo casara con una de sus hijas.",
+            ],
+          },
+        },
+        {
+          id: 2275,
+          difficulty: "Fácil",
+          question: "¿Qué ciudad natal de David es conocida como la ciudad de David?",
+          category: profetas,
+          correct_answer: "Belén",
+          incorrect_answers: [
+            "Jerusalén",
+            "Hebrón",
+            "Samaria",
+          ],
+          justifications: {
+            correct_answer: "Lucas 2:4 menciona que Belén es la ciudad de David.",
+            incorrect_answers: [
+              "Jerusalén fue su capital, no su ciudad natal.",
+              "Hebrón fue una capital temporal, no su ciudad natal.",
+              "Samaria no está relacionada con David.",
+            ],
+          },
+        },
+      
+       
+  // Salomón (también considerado un profeta por su sabiduría y escritos)
+  
+    {
+      id: 2276,
+      difficulty: "Difícil",
+      question: "¿Qué sabiduría demostró Salomón en el juicio de las dos mujeres que reclamaban a un mismo niño?",
+      category: profetas,
+      correct_answer: "Propuso dividir al niño en dos para descubrir a la verdadera madre",
+      incorrect_answers: [
+        "Ordenó que ambas mujeres fueran castigadas",
+        "Decidió que ninguna de las dos era la madre",
+        "Consultó a un oráculo para resolver el conflicto"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 3:25-27 describe cómo Salomón usó su sabiduría para discernir la verdadera madre.",
+        incorrect_answers: [
+          "No hay registro de que Salomón castigara a ambas mujeres.",
+          "Salomón no descartó a ambas mujeres como madres.",
+          "Salomón no consultó oráculos, sino que usó su discernimiento."
+        ]
+      }
+    },
+    {
+      id: 2277,
+      difficulty: "Medio",
+      question: "¿Qué construyó Salomón como casa para el nombre de Jehová?",
+      category: profetas,
+      correct_answer: "El Templo de Jerusalén",
+      incorrect_answers: [
+        "El Palacio Real",
+        "El Jardín del Edén",
+        "La Torre de Babel"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 6:1-2 menciona que Salomón construyó el Templo para el nombre de Jehová.",
+        incorrect_answers: [
+          "El Palacio Real fue construido para Salomón, no para Dios.",
+          "El Jardín del Edén no fue construido por Salomón.",
+          "La Torre de Babel fue construida antes del tiempo de Salomón."
+        ]
+      }
+    },
+    {
+      id: 2278,
+      difficulty: "Fácil",
+      question: "¿Qué pidió Salomón a Dios cuando se le apareció en un sueño?",
+      category: profetas,
+      correct_answer: "Un corazón entendido para juzgar al pueblo",
+      incorrect_answers: [
+        "Riquezas y poder",
+        "Larga vida y salud",
+        "Victoria sobre sus enemigos"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 3:9 registra que Salomón pidió sabiduría para gobernar.",
+        incorrect_answers: [
+          "Salomón no pidió riquezas ni poder.",
+          "No solicitó larga vida ni salud.",
+          "No pidió victoria sobre sus enemigos."
+        ]
+      }
+    },
+    {
+      id: 2279,
+      difficulty: "Difícil",
+      question: "¿Qué reina visitó a Salomón para probar su sabiduría?",
+      category: profetas,
+      correct_answer: "La reina de Saba",
+      incorrect_answers: [
+        "La reina de Egipto",
+        "La reina de Persia",
+        "La reina de Asiria"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 10:1 describe la visita de la reina de Saba para probar la sabiduría de Salomón.",
+        incorrect_answers: [
+          "No hay registro de una visita de la reina de Egipto.",
+          "La reina de Persia no visitó a Salomón.",
+          "La reina de Asiria no es mencionada en este contexto."
+        ]
+      }
+    },
+    {
+      id: 2280,
+      difficulty: "Medio",
+      question: "¿Cuántos años tardó Salomón en construir el Templo de Jerusalén?",
+      category: profetas,
+      correct_answer: "Siete años",
+      incorrect_answers: [
+        "Diez años",
+        "Doce años",
+        "Cinco años"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 6:38 indica que la construcción del Templo tomó siete años.",
+        incorrect_answers: [
+          "No tomó diez años.",
+          "No fueron doce años.",
+          "No se completó en cinco años."
+        ]
+      }
+    },
+    {
+      id: 2281,
+      difficulty: "Fácil",
+      question: "¿Qué regalo le dio la reina de Saba a Salomón?",
+      category: profetas,
+      correct_answer: "Oro, especias y piedras preciosas",
+      incorrect_answers: [
+        "Caballos y carros",
+        "Libros de sabiduría",
+        "Ropas de lino fino"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 10:10 menciona que la reina de Saba trajo oro, especias y piedras preciosas.",
+        incorrect_answers: [
+          "No se menciona que trajera caballos y carros.",
+          "No se registra que trajera libros de sabiduría.",
+          "No se mencionan ropas de lino fino."
+        ]
+      }
+    },
+    {
+      id: 2282,
+      difficulty: "Difícil",
+      question: "¿Qué pecado llevó a Salomón a apartarse de Dios en sus últimos años?",
+      category: profetas,
+      correct_answer: "Adorar a los dioses de sus esposas extranjeras",
+      incorrect_answers: [
+        "Robar el tesoro del Templo",
+        "Matar a sus enemigos injustamente",
+        "Abandonar la construcción del Templo"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 11:4 describe cómo Salomón siguió a otros dioses debido a sus esposas.",
+        incorrect_answers: [
+          "No hay registro de que robara el tesoro del Templo.",
+          "No se menciona que matara a sus enemigos injustamente.",
+          "No abandonó la construcción del Templo."
+        ]
+      }
+    },
+    {
+      id: 2283,
+      difficulty: "Medio",
+      question: "¿Cuántos cantares compuso Salomón según la Biblia?",
+      category: profetas,
+      correct_answer: "Mil cinco",
+      incorrect_answers: [
+        "Cien",
+        "Trescientos",
+        "Quinientos"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 4:32 menciona que Salomón compuso mil cinco cantares.",
+        incorrect_answers: [
+          "No compuso solo cien cantares.",
+          "No fueron trescientos.",
+          "No compuso quinientos."
+        ]
+      }
+    },
+    {
+      id: 2284,
+      difficulty: "Fácil",
+      question: "¿Qué animal usó Salomón como símbolo de sabiduría en sus proverbios?",
+      category: profetas,
+      correct_answer: "La hormiga",
+      incorrect_answers: [
+        "El león",
+        "El águila",
+        "El buey"
+      ],
+      justifications: {
+        correct_answer: "Proverbios 6:6 menciona a la hormiga como ejemplo de sabiduría.",
+        incorrect_answers: [
+          "El león no es usado como símbolo de sabiduría en este contexto.",
+          "El águila no es mencionada como símbolo de sabiduría.",
+          "El buey no es usado como ejemplo de sabiduría."
+        ]
+      }
+    },
+    {
+      id: 2285,
+      difficulty: "Difícil",
+      question: "¿Qué promesa hizo Dios a Salomón si seguía Sus mandamientos?",
+      category: profetas,
+      correct_answer: "Establecería su trono para siempre",
+      incorrect_answers: [
+        "Le daría riquezas ilimitadas",
+        "Le concedería victoria sobre todos sus enemigos",
+        "Le aseguraría una larga vida sin enfermedades"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 9:5 registra la promesa de Dios de establecer el trono de Salomón.",
+        incorrect_answers: [
+          "Dios no prometió riquezas ilimitadas.",
+          "No se menciona una promesa de victoria sobre todos los enemigos.",
+          "No se prometió una vida sin enfermedades."
+        ]
+      }
+    },
+    {
+      id: 2286,
+      difficulty: "Medio",
+      question: "¿Qué material se usó para recubrir el interior del Templo construido por Salomón?",
+      category: profetas,
+      correct_answer: "Madera de cedro",
+      incorrect_answers: [
+        "Mármol",
+        "Oro",
+        "Bronce"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 6:15 menciona que el interior del Templo fue recubierto con madera de cedro.",
+        incorrect_answers: [
+          "No se usó mármol para el interior.",
+          "El oro se usó en otras partes, pero no para recubrir el interior.",
+          "El bronce no fue usado para recubrir el interior."
+        ]
+      }
+    },
+    {
+      id: 2287,
+      difficulty: "Fácil",
+      question: "¿Qué escribió Salomón además de los Proverbios?",
+      category: profetas,
+      correct_answer: "El Cantar de los Cantares",
+      incorrect_answers: [
+        "El Libro de Job",
+        "El Libro de Isaías",
+        "El Libro de Ezequiel"
+      ],
+      justifications: {
+        correct_answer: "El Cantar de los Cantares es atribuido a Salomón.",
+        incorrect_answers: [
+          "El Libro de Job no fue escrito por Salomón.",
+          "El Libro de Isaías no es obra de Salomón.",
+          "El Libro de Ezequiel no fue escrito por Salomón."
+        ]
+      }
+    },
+    {
+      id: 2288,
+      difficulty: "Difícil",
+      question: "¿Qué castigo anunció Dios para el reino de Salomón debido a su desobediencia?",
+      category: profetas,
+      correct_answer: "El reino sería dividido después de su muerte",
+      incorrect_answers: [
+        "El Templo sería destruido",
+        "Salomón perdería su sabiduría",
+        "El pueblo sería llevado cautivo"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 11:11-13 describe cómo el reino sería dividido.",
+        incorrect_answers: [
+          "El Templo no fue destruido durante la vida de Salomón.",
+          "No se menciona que Salomón perdiera su sabiduría.",
+          "El pueblo no fue llevado cautivo durante su reinado."
+        ]
+      }
+    },
+    {
+      id: 2289,
+      difficulty: "Medio",
+      question: "¿Qué ofrenda hizo Salomón al dedicar el Templo?",
+      category: profetas,
+      correct_answer: "Veintidós mil bueyes y ciento veinte mil ovejas",
+      incorrect_answers: [
+        "Cien talentos de oro",
+        "Mil caballos",
+        "Diez mil sacrificios de aves"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 8:63 menciona la gran ofrenda de Salomón al dedicar el Templo.",
+        incorrect_answers: [
+          "No se menciona una ofrenda de cien talentos de oro.",
+          "No se registra una ofrenda de caballos.",
+          "No se menciona una ofrenda de aves."
+        ]
+      }
+    },
+    {
+      id: 2290,
+      difficulty: "Fácil",
+      question: "¿Qué nombre recibió el hijo de Salomón que lo sucedió en el trono?",
+      category: profetas,
+      correct_answer: "Roboam",
+      incorrect_answers: [
+        "Jeroboam",
+        "Abías",
+        "Asa"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 11:43 menciona que Roboam sucedió a Salomón.",
+        incorrect_answers: [
+          "Jeroboam no fue el hijo de Salomón.",
+          "Abías no fue el sucesor directo.",
+          "Asa no fue el hijo de Salomón."
+        ]
+      }
+    },
+    {
+      id: 2291,
+      difficulty: "Difícil",
+      question: "¿Qué profeta anunció la división del reino de Salomón?",
+      category: profetas,
+      correct_answer: "Ahías",
+      incorrect_answers: [
+        "Elías",
+        "Isaías",
+        "Jeremías"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 11:29-31 registra que Ahías profetizó la división del reino.",
+        incorrect_answers: [
+          "Elías no anunció la división del reino.",
+          "Isaías no vivió en esa época.",
+          "Jeremías no profetizó sobre la división del reino de Salomón."
+        ]
+      }
+    },
+    {
+      id: 2292,
+      difficulty: "Medio",
+      question: "¿Qué rey extranjero ayudó a Salomón con materiales para construir el Templo?",
+      category: profetas,
+      correct_answer: "Hiram de Tiro",
+      incorrect_answers: [
+        "Faraón de Egipto",
+        "Nabucodonosor de Babilonia",
+        "Darío de Persia"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 5:1-10 menciona que Hiram de Tiro proveyó madera y otros materiales.",
+        incorrect_answers: [
+          "El Faraón de Egipto no ayudó en la construcción del Templo.",
+          "Nabucodonosor vivió mucho después de Salomón.",
+          "Darío de Persia no estuvo involucrado."
+        ]
+      }
+    },
+    {
+      id: 2293,
+      difficulty: "Fácil",
+      question: "¿Qué famoso juicio realizó Salomón para resolver una disputa entre dos mujeres?",
+      category: profetas,
+      correct_answer: "El juicio del niño reclamado por dos madres",
+      incorrect_answers: [
+        "El juicio de la tierra disputada",
+        "El juicio del tesoro escondido",
+        "El juicio del siervo fugitivo"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 3:16-28 describe el juicio de Salomón sobre el niño reclamado por dos mujeres.",
+        incorrect_answers: [
+          "No hay registro de un juicio sobre tierra disputada.",
+          "No se menciona un juicio sobre un tesoro escondido.",
+          "No hay registro de un juicio sobre un siervo fugitivo."
+        ]
+      }
+    },
+    {
+      id: 2294,
+      difficulty: "Difícil",
+      question: "¿Qué escribió Salomón en Eclesiastés sobre la vida?",
+      category: profetas,
+      correct_answer: "Todo es vanidad",
+      incorrect_answers: [
+        "La vida es eterna",
+        "La riqueza es el fin último",
+        "El placer es el sentido de la vida"
+      ],
+      justifications: {
+        correct_answer: "Eclesiastés 1:2 declara que todo es vanidad.",
+        incorrect_answers: [
+          "No se afirma que la vida sea eterna en Eclesiastés.",
+          "No se promueve la riqueza como fin último.",
+          "No se afirma que el placer sea el sentido de la vida."
+        ]
+      }
+    },
+    {
+      id: 2295,
+      difficulty: "Medio",
+      question: "¿Qué regalo recibió Salomón de Dios además de sabiduría?",
+      category: profetas,
+      correct_answer: "Riquezas y honor",
+      incorrect_answers: [
+        "Poder militar",
+        "Larga vida",
+        "Hijos numerosos"
+      ],
+      justifications: {
+        correct_answer: "1 Reyes 3:13 menciona que Dios le dio riquezas y honor además de sabiduría.",
+        incorrect_answers: [
+          "No se menciona que recibiera poder militar.",
+          "No se prometió larga vida en ese momento.",
+          "No se menciona que recibiera hijos numerosos."
+        ]
+      }
+    },
+  
+   // Nuevo Testamento: Juan el Bautista
+   
+    {
+      id: 2296,
+      difficulty: "Difícil",
+      question: "¿Qué profecía del Antiguo Testamento se cumplió con la llegada de Juan el Bautista?",
+     category: profetas,
+      correct_answer: "Una voz clama en el desierto: Preparad el camino del Señor",
+      incorrect_answers: [
+        "El Mesías nacerá en Belén de Judea",
+        "Un niño nos es nacido, hijo nos es dado",
+        "He aquí que la virgen concebirá y dará a luz un hijo"
+      ],
+      justifications: {
+        correct_answer: "Isaías 40:3 y Mateo 3:3 mencionan que Juan el Bautista cumplió esta profecía.",
+        incorrect_answers: [
+          "Esta profecía se refiere al nacimiento de Jesús, no a Juan el Bautista.",
+          "Esta profecía se refiere a Jesús, no a Juan el Bautista.",
+          "Esta profecía se refiere al nacimiento de Jesús, no a Juan el Bautista."
+        ]
+      }
+    },
+    {
+      id: 2297,
+      difficulty: "Medio",
+      question: "¿Qué vestimenta usaba Juan el Bautista en el desierto?",
+     category: profetas,
+      correct_answer: "Un manto de pelo de camello y un cinturón de cuero",
+      incorrect_answers: [
+        "Un manto de lino fino y sandalias",
+        "Una túnica blanca y un cinturón de oro",
+        "Un manto púrpura y un cinturón de seda"
+      ],
+      justifications: {
+        correct_answer: "Mateo 3:4 describe la vestimenta de Juan el Bautista.",
+        incorrect_answers: [
+          "No hay registro de que usara lino fino.",
+          "No se menciona una túnica blanca ni un cinturón de oro.",
+          "No se menciona un manto púrpura ni un cinturón de seda."
+        ]
+      }
+    },
+    {
+      id: 2298,
+      difficulty: "Fácil",
+      question: "¿Qué comía Juan el Bautista en el desierto?",
+     category: profetas,
+      correct_answer: "Langostas y miel silvestre",
+      incorrect_answers: [
+        "Pan y pescado",
+        "Frutas y verduras",
+        "Carne de cordero y vino"
+      ],
+      justifications: {
+        correct_answer: "Mateo 3:4 menciona que Juan comía langostas y miel silvestre.",
+        incorrect_answers: [
+          "No hay registro de que comiera pan y pescado.",
+          "No se menciona que comiera frutas y verduras.",
+          "No se menciona que comiera carne de cordero ni vino."
+        ]
+      }
+    },
+    {
+      id: 2299,
+      difficulty: "Difícil",
+      question: "¿Qué simbolizaba el bautismo que Juan el Bautista administraba?",
+     category: profetas,
+      correct_answer: "Arrepentimiento para el perdón de los pecados",
+      incorrect_answers: [
+        "La entrada al reino de los cielos",
+        "La purificación ritual según la ley mosaica",
+        "La aceptación como discípulo de Juan"
+      ],
+      justifications: {
+        correct_answer: "Marcos 1:4 menciona que el bautismo de Juan era para arrepentimiento.",
+        incorrect_answers: [
+          "El bautismo de Juan no garantizaba la entrada al reino de los cielos.",
+          "No era una purificación ritual según la ley mosaica.",
+          "No era un rito de aceptación como discípulo."
+        ]
+      }
+    },
+    {
+      id: 2300,
+      difficulty: "Medio",
+      question: "¿Qué le respondió Juan el Bautista cuando le preguntaron si él era el Cristo?",
+     category: profetas,
+      correct_answer: "Yo no soy el Cristo, pero soy enviado delante de él",
+      incorrect_answers: [
+        "Soy el Hijo de Dios",
+        "Yo soy la luz del mundo",
+        "El reino de Dios está cerca"
+      ],
+      justifications: {
+        correct_answer: "Juan 1:20-23 registra la respuesta de Juan el Bautista.",
+        incorrect_answers: [
+          "Juan nunca afirmó ser el Hijo de Dios.",
+          "No dijo ser la luz del mundo.",
+          "No usó esa frase en su respuesta."
+        ]
+      }
+    },
+    {
+      id: 2301,
+      difficulty: "Fácil",
+      question: "¿Dónde bautizaba Juan el Bautista?",
+     category: profetas,
+      correct_answer: "En el río Jordán",
+      incorrect_answers: [
+        "En el mar de Galilea",
+        "En el pozo de Jacob",
+        "En el desierto de Judea"
+      ],
+      justifications: {
+        correct_answer: "Mateo 3:6 menciona que Juan bautizaba en el río Jordán.",
+        incorrect_answers: [
+          "No hay registro de que bautizara en el mar de Galilea.",
+          "No bautizaba en el pozo de Jacob.",
+          "El desierto de Judea no era un lugar de bautismo."
+        ]
+      }
+    },
+    {
+      id: 2302,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Juan el Bautista cuando vio a Jesús acercarse para ser bautizado?",
+     category: profetas,
+      correct_answer: "He aquí el Cordero de Dios, que quita el pecado del mundo",
+      incorrect_answers: [
+        "Este es mi Hijo amado, en quien tengo complacencia",
+        "Tú eres el Rey de Israel",
+        "El reino de los cielos se ha acercado"
+      ],
+      justifications: {
+        correct_answer: "Juan 1:29 registra las palabras de Juan el Bautista.",
+        incorrect_answers: [
+          "Esta frase fue dicha por Dios, no por Juan.",
+          "No se menciona que Juan dijera esto.",
+          "No usó esa frase en ese momento."
+        ]
+      }
+    },
+    {
+      id: 2303,
+      difficulty: "Medio",
+      question: "¿Qué señal ocurrió cuando Juan bautizó a Jesús?",
+     category: profetas,
+      correct_answer: "El Espíritu Santo descendió como paloma",
+      incorrect_answers: [
+        "Se abrieron los cielos y cayó fuego",
+        "Una voz dijo: Este es el profeta esperado",
+        "La tierra tembló y las aguas se dividieron"
+      ],
+      justifications: {
+        correct_answer: "Mateo 3:16 describe la señal del Espíritu Santo descendiendo como paloma.",
+        incorrect_answers: [
+          "No hay registro de que cayera fuego.",
+          "No se menciona esa frase en ese momento.",
+          "No hubo un terremoto ni división de aguas."
+        ]
+      }
+    },
+    {
+      id: 2304,
+      difficulty: "Fácil",
+      question: "¿Quién encarceló a Juan el Bautista?",
+     category: profetas,
+      correct_answer: "Herodes Antipas",
+      incorrect_answers: [
+        "Poncio Pilato",
+        "Herodes el Grande",
+        "Caifás"
+      ],
+      justifications: {
+        correct_answer: "Mateo 14:3 menciona que Herodes Antipas encarceló a Juan.",
+        incorrect_answers: [
+          "Poncio Pilato no encarceló a Juan.",
+          "Herodes el Grande ya había muerto para entonces.",
+          "Caifás no encarceló a Juan."
+        ]
+      }
+    },
+    {
+      id: 2305,
+      difficulty: "Difícil",
+      question: "¿Qué pecado denunció Juan el Bautista que llevó a su encarcelamiento?",
+     category: profetas,
+      correct_answer: "El matrimonio ilegítimo de Herodes con Herodías",
+      incorrect_answers: [
+        "La corrupción de los fariseos",
+        "La opresión de los romanos",
+        "La idolatría en el templo"
+      ],
+      justifications: {
+        correct_answer: "Marcos 6:18 menciona que Juan denunció el matrimonio de Herodes con Herodías.",
+        incorrect_answers: [
+          "No se menciona que denunciara la corrupción de los fariseos.",
+          "No denunció la opresión de los romanos.",
+          "No se menciona que denunciara la idolatría en el templo."
+        ]
+      }
+    },
+    {
+      id: 2306,
+      difficulty: "Medio",
+      question: "¿Qué hizo Herodes con Juan el Bautista después de encarcelarlo?",
+     category: profetas,
+      correct_answer: "Lo decapitó por petición de Herodías",
+      incorrect_answers: [
+        "Lo liberó después de un tiempo",
+        "Lo exilió a una isla",
+        "Lo condenó a trabajos forzados"
+      ],
+      justifications: {
+        correct_answer: "Marcos 6:27-28 describe la decapitación de Juan.",
+        incorrect_answers: [
+          "No fue liberado, sino ejecutado.",
+          "No fue exiliado a una isla.",
+          "No fue condenado a trabajos forzados."
+        ]
+      }
+    },
+    {
+      id: 2307,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Jesús cuando supo que Juan el Bautista había sido encarcelado?",
+     category: profetas,
+      correct_answer: "Se retiró a Galilea y comenzó a predicar",
+      incorrect_answers: [
+        "Fue a visitarlo a la cárcel",
+        "Envió a sus discípulos a rescatarlo",
+        "Declaró luto público"
+      ],
+      justifications: {
+        correct_answer: "Mateo 4:12 menciona que Jesús se retiró a Galilea.",
+        incorrect_answers: [
+          "No hay registro de que Jesús visitara a Juan en la cárcel.",
+          "No envió a sus discípulos a rescatarlo.",
+          "No declaró luto público."
+        ]
+      }
+    },
+    {
+      id: 2308,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Jesús sobre Juan el Bautista en Mateo 11:11?",
+     category: profetas,
+      correct_answer: "Entre los nacidos de mujer no se ha levantado otro mayor que Juan",
+      incorrect_answers: [
+        "Juan es el profeta más humilde",
+        "Juan es el precursor del reino de Dios",
+        "Juan es el último de los profetas"
+      ],
+      justifications: {
+        correct_answer: "Mateo 11:11 registra las palabras de Jesús sobre Juan.",
+        incorrect_answers: [
+          "No se menciona que Jesús dijera esto.",
+          "No usó esa frase en ese contexto.",
+          "No se menciona que Jesús dijera esto."
+        ]
+      }
+    },
+    {
+      id: 2309,
+      difficulty: "Medio",
+      question: "¿Qué preguntaron los discípulos de Juan el Bautista a Jesús?",
+     category: profetas,
+      correct_answer: "¿Eres tú el que ha de venir, o esperaremos a otro?",
+      incorrect_answers: [
+        "¿Cuándo será el fin del mundo?",
+        "¿Por qué tus discípulos no ayunan?",
+        "¿Cómo podemos entrar en el reino de los cielos?"
+      ],
+      justifications: {
+        correct_answer: "Mateo 11:3 registra la pregunta de los discípulos de Juan.",
+        incorrect_answers: [
+          "No se menciona que hicieran esta pregunta.",
+          "No se menciona que hicieran esta pregunta.",
+          "No se menciona que hicieran esta pregunta."
+        ]
+      }
+    },
+    {
+      id: 2310,
+      difficulty: "Fácil",
+      question: "¿Qué profeta del Antiguo Testamento fue comparado con Juan el Bautista?",
+     category: profetas,
+      correct_answer: "Elías",
+      incorrect_answers: [
+        "Isaías",
+        "Jeremías",
+        "Ezequiel"
+      ],
+      justifications: {
+        correct_answer: "Mateo 11:14 menciona que Juan era el Elías que había de venir.",
+        incorrect_answers: [
+          "No se compara a Juan con Isaías.",
+          "No se compara a Juan con Jeremías.",
+          "No se compara a Juan con Ezequiel."
+        ]
+      }
+    },
+    {
+      id: 2311,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Juan el Bautista sobre su relación con Jesús?",
+     category: profetas,
+      correct_answer: "Es necesario que él crezca, y que yo mengüe",
+      incorrect_answers: [
+        "Yo soy su profeta y precursor",
+        "Él es mi maestro y guía",
+        "Yo soy su siervo y mensajero"
+      ],
+      justifications: {
+        correct_answer: "Juan 3:30 registra las palabras de Juan sobre Jesús.",
+        incorrect_answers: [
+          "No se menciona que Juan dijera esto.",
+          "No usó esa frase en ese contexto.",
+          "No se menciona que Juan dijera esto."
+        ]
+      }
+    },
+    {
+      id: 2312,
+      difficulty: "Medio",
+      question: "¿Qué dijo Jesús sobre Juan el Bautista en Mateo 11:9?",
+     category: profetas,
+      correct_answer: "Más que profeta es Juan",
+      incorrect_answers: [
+        "Juan es el último de los profetas",
+        "Juan es el mensajero del reino",
+        "Juan es el siervo fiel de Dios"
+      ],
+      justifications: {
+        correct_answer: "Mateo 11:9 registra las palabras de Jesús sobre Juan.",
+        incorrect_answers: [
+          "No se menciona que Jesús dijera esto.",
+          "No usó esa frase en ese contexto.",
+          "No se menciona que Jesús dijera esto."
+        ]
+      }
+    },
+    {
+      id: 2313,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Juan el Bautista antes de comenzar su ministerio?",
+     category: profetas,
+      correct_answer: "Vivió en el desierto hasta su manifestación a Israel",
+      incorrect_answers: [
+        "Estudió en el templo de Jerusalén",
+        "Trabajó como pescador en Galilea",
+        "Sirvió como sacerdote en el templo"
+      ],
+      justifications: {
+        correct_answer: "Lucas 1:80 menciona que Juan vivió en el desierto.",
+        incorrect_answers: [
+          "No hay registro de que estudiara en el templo.",
+          "No trabajó como pescador.",
+          "No sirvió como sacerdote en el templo."
+        ]
+      }
+    },
+    {
+      id: 2314,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Juan el Bautista sobre el bautismo que Jesús administraría?",
+     category: profetas,
+      correct_answer: "Él os bautizará con Espíritu Santo y fuego",
+      incorrect_answers: [
+        "Él os bautizará en el nombre del Padre",
+        "Él os bautizará para la remisión de los pecados",
+        "Él os bautizará en aguas vivas"
+      ],
+      justifications: {
+        correct_answer: "Mateo 3:11 registra las palabras de Juan sobre el bautismo de Jesús.",
+        incorrect_answers: [
+          "No se menciona que Juan dijera esto.",
+          "No usó esa frase en ese contexto.",
+          "No se menciona que Juan dijera esto."
+        ]
+      }
+    },
+    {
+      id: 2315,
+      difficulty: "Medio",
+      question: "¿Qué actitud mostró Juan el Bautista hacia los fariseos y saduceos?",
+     category: profetas,
+      correct_answer: "Los llamó generación de víboras",
+      incorrect_answers: [
+        "Los invitó a unirse a su ministerio",
+        "Los elogió por su conocimiento de la ley",
+        "Los ignoró por completo"
+      ],
+      justifications: {
+        correct_answer: "Mateo 3:7 menciona que Juan los llamó generación de víboras.",
+        incorrect_answers: [
+          "No los invitó a unirse a su ministerio.",
+          "No los elogió por su conocimiento.",
+          "No los ignoró, sino que los confrontó."
+        ]
+      }
+    },
+  
+    //Jesucristo 
+    {
+      id: 2316,
+      difficulty: "Difícil",
+      question: "¿Qué profecía del Antiguo Testamento se cumplió con el nacimiento virginal de Jesús?",
+      category:  profetas ,
+      correct_answer: "He aquí, la virgen concebirá y dará a luz un hijo",
+      incorrect_answers: [
+        "Un niño nos es nacido, hijo nos es dado",
+        "De Egipto llamé a mi hijo",
+        "Será llamado Nazareno"
+      ],
+      justifications: {
+        correct_answer: "Isaías 7:14 y Mateo 1:23 mencionan esta profecía.",
+        incorrect_answers: [
+          "Esta profecía se refiere al nacimiento de Jesús, pero no al nacimiento virginal.",
+          "Esta profecía se refiere a la huida a Egipto, no al nacimiento virginal.",
+          "Esta profecía se refiere a Jesús siendo llamado Nazareno, no al nacimiento virginal."
+        ]
+      }
+    },
+    {
+      id: 2317,
+      difficulty: "Medio",
+      question: "¿Qué dijo Jesús sobre sí mismo en Juan 14:6?",
+      category:  profetas ,
+      correct_answer: "Yo soy el camino, la verdad y la vida",
+      incorrect_answers: [
+        "Yo soy la luz del mundo",
+        "Yo soy el pan de vida",
+        "Yo soy la resurrección y la vida"
+      ],
+      justifications: {
+        correct_answer: "Juan 14:6 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Esta frase fue dicha por Jesús en otro contexto (Juan 8:12).",
+          "Esta frase fue dicha por Jesús en otro contexto (Juan 6:35).",
+          "Esta frase fue dicha por Jesús en otro contexto (Juan 11:25)."
+        ]
+      }
+    },
+    {
+      id: 2318,
+      difficulty: "Fácil",
+      question: "¿Dónde nació Jesús según las Escrituras?",
+      category:  profetas ,
+      correct_answer: "Belén de Judea",
+      incorrect_answers: [
+        "Nazaret",
+        "Jerusalén",
+        "Egipto"
+      ],
+      justifications: {
+        correct_answer: "Mateo 2:1 menciona que Jesús nació en Belén.",
+        incorrect_answers: [
+          "Nazaret fue donde Jesús creció, no donde nació.",
+          "Jerusalén no es el lugar de nacimiento de Jesús.",
+          "Egipto fue donde Jesús vivió temporalmente, no donde nació."
+        ]
+      }
+    },
+    {
+      id: 2319,
+      difficulty: "Difícil",
+      question: "¿Qué señal dio Jesús para probar su autoridad cuando lo cuestionaron?",
+      category:  profetas ,
+      correct_answer: "Destruyan este templo y en tres días lo levantaré",
+      incorrect_answers: [
+        "Multiplicaré panes y peces",
+        "Sanaré a un ciego de nacimiento",
+        "Echaré fuera demonios"
+      ],
+      justifications: {
+        correct_answer: "Juan 2:19 registra las palabras de Jesús sobre el templo de su cuerpo.",
+        incorrect_answers: [
+          "Este milagro fue realizado, pero no como señal de autoridad.",
+          "Este milagro fue realizado, pero no como señal de autoridad.",
+          "Este acto fue realizado, pero no como señal de autoridad."
+        ]
+      }
+    },
+    {
+      id: 2320,
+      difficulty: "Medio",
+      question: "¿Qué dijo Jesús sobre el mayor mandamiento?",
+      category:  profetas ,
+      correct_answer: "Amarás al Señor tu Dios con todo tu corazón",
+      incorrect_answers: [
+        "Honra a tu padre y a tu madre",
+        "No matarás",
+        "Amarás a tu prójimo como a ti mismo"
+      ],
+      justifications: {
+        correct_answer: "Mateo 22:37 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Este es un mandamiento, pero no el mayor.",
+          "Este es un mandamiento, pero no el mayor.",
+          "Este es el segundo mandamiento, no el primero."
+        ]
+      }
+    },
+    {
+      id: 2321,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Jesús en las bodas de Caná?",
+      category:  profetas ,
+      correct_answer: "Convirtió agua en vino",
+      incorrect_answers: [
+        "Sanó a un enfermo",
+        "Predicó sobre el reino de Dios",
+        "Multiplicó panes y peces"
+      ],
+      justifications: {
+        correct_answer: "Juan 2:1-11 describe el primer milagro de Jesús.",
+        incorrect_answers: [
+          "No se menciona que sanara a un enfermo en Caná.",
+          "No se menciona que predicara en Caná.",
+          "Este milagro ocurrió en otro lugar."
+        ]
+      }
+    },
+    {
+      id: 2322,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Jesús sobre la oración en Mateo 6:6?",
+      category:  profetas ,
+      correct_answer: "Ora a tu Padre en secreto",
+      incorrect_answers: [
+        "Ora con muchas palabras",
+        "Ora en público para ser visto",
+        "Ora solo en el templo"
+      ],
+      justifications: {
+        correct_answer: "Mateo 6:6 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no enseñó a orar con muchas palabras.",
+          "Jesús criticó a quienes oran para ser vistos.",
+          "Jesús no limitó la oración al templo."
+        ]
+      }
+    },
+    {
+      id: 2323,
+      difficulty: "Medio",
+      question: "¿Qué parábola enseñó Jesús sobre el perdón?",
+      category:  profetas ,
+      correct_answer: "El siervo que no quiso perdonar",
+      incorrect_answers: [
+        "El buen samaritano",
+        "El hijo pródigo",
+        "La oveja perdida"
+      ],
+      justifications: {
+        correct_answer: "Mateo 18:23-35 describe esta parábola.",
+        incorrect_answers: [
+          "Esta parábola trata sobre la misericordia, no el perdón.",
+          "Esta parábola trata sobre el arrepentimiento, no el perdón.",
+          "Esta parábola trata sobre la búsqueda de lo perdido."
+        ]
+      }
+    },
+    {
+      id: 2324,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Jesús antes de ser arrestado en el huerto de Getsemaní?",
+      category:  profetas ,
+      correct_answer: "Oró intensamente",
+      incorrect_answers: [
+        "Predicó a sus discípulos",
+        "Multiplicó panes y peces",
+        "Sanó a un enfermo"
+      ],
+      justifications: {
+        correct_answer: "Mateo 26:36-46 describe la oración de Jesús en Getsemaní.",
+        incorrect_answers: [
+          "No se menciona que predicara en Getsemaní.",
+          "Este milagro ocurrió en otro lugar.",
+          "No se menciona que sanara a un enfermo en Getsemaní."
+        ]
+      }
+    },
+    {
+      id: 2325,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Jesús sobre la cruz en Mateo 16:24?",
+      category:  profetas ,
+      correct_answer: "Tome su cruz y sígame",
+      incorrect_answers: [
+        "La cruz es el fin de todo sufrimiento",
+        "La cruz es un símbolo de poder",
+        "La cruz es solo para los débiles"
+      ],
+      justifications: {
+        correct_answer: "Mateo 16:24 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no enseñó esto sobre la cruz.",
+          "Jesús no enseñó esto sobre la cruz.",
+          "Jesús no enseñó esto sobre la cruz."
+        ]
+      }
+    },
+    {
+      id: 2326,
+      difficulty: "Medio",
+      question: "¿Qué dijo Jesús sobre el juicio en Mateo 7:1?",
+      category:  profetas ,
+      correct_answer: "No juzguéis, para que no seáis juzgados",
+      incorrect_answers: [
+        "Juzguen con justicia",
+        "El juicio es solo para los pecadores",
+        "Juzguen con misericordia"
+      ],
+      justifications: {
+        correct_answer: "Mateo 7:1 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no enseñó a juzgar con justicia.",
+          "Jesús no limitó el juicio a los pecadores.",
+          "Jesús no enseñó a juzgar con misericordia."
+        ]
+      }
+    },
+    {
+      id: 2327,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Jesús después de resucitar?",
+      category:  profetas ,
+      correct_answer: "Se apareció a sus discípulos",
+      incorrect_answers: [
+        "Subió inmediatamente al cielo",
+        "Predicó en el templo",
+        "Sanó a un enfermo"
+      ],
+      justifications: {
+        correct_answer: "Juan 20:19-20 describe las apariciones de Jesús.",
+        incorrect_answers: [
+          "Jesús no subió inmediatamente al cielo.",
+          "No se menciona que predicara en el templo después de resucitar.",
+          "No se menciona que sanara a un enfermo después de resucitar."
+        ]
+      }
+    },
+    {
+      id: 2328,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Jesús sobre el fin del mundo en Mateo 24:36?",
+      category:  profetas ,
+      correct_answer: "Nadie sabe el día ni la hora",
+      incorrect_answers: [
+        "El fin vendrá en esta generación",
+        "El fin será precedido por señales claras",
+        "El fin ocurrirá en invierno"
+      ],
+      justifications: {
+        correct_answer: "Mateo 24:36 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no dijo que el fin vendría en esa generación.",
+          "Jesús no dijo que las señales serían claras.",
+          "Jesús no mencionó el invierno en relación con el fin."
+        ]
+      }
+    },
+    {
+      id: 2329,
+      difficulty: "Medio",
+      question: "¿Qué dijo Jesús sobre la riqueza en Mateo 19:24?",
+      category:  profetas ,
+      correct_answer: "Es más fácil que un camello pase por el ojo de una aguja",
+      incorrect_answers: [
+        "La riqueza es una bendición de Dios",
+        "La riqueza es necesaria para la salvación",
+        "La riqueza es un signo de justicia"
+      ],
+      justifications: {
+        correct_answer: "Mateo 19:24 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no enseñó que la riqueza es una bendición.",
+          "Jesús no enseñó que la riqueza es necesaria para la salvación.",
+          "Jesús no enseñó que la riqueza es un signo de justicia."
+        ]
+      }
+    },
+    {
+      id: 2330,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Jesús antes de ascender al cielo?",
+      category:  profetas ,
+      correct_answer: "Bendijo a sus discípulos",
+      incorrect_answers: [
+        "Predicó en el templo",
+        "Sanó a un enfermo",
+        "Multiplicó panes y peces"
+      ],
+      justifications: {
+        correct_answer: "Lucas 24:50-51 describe la bendición de Jesús antes de ascender.",
+        incorrect_answers: [
+          "No se menciona que predicara en el templo antes de ascender.",
+          "No se menciona que sanara a un enfermo antes de ascender.",
+          "Este milagro ocurrió en otro lugar."
+        ]
+      }
+    },
+    {
+      id: 2331,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Jesús sobre el amor a los enemigos en Mateo 5:44?",
+      category:  profetas ,
+      correct_answer: "Amad a vuestros enemigos",
+      incorrect_answers: [
+        "Evitad a vuestros enemigos",
+        "Juzgad a vuestros enemigos",
+        "Ignorad a vuestros enemigos"
+      ],
+      justifications: {
+        correct_answer: "Mateo 5:44 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no enseñó a evitar a los enemigos.",
+          "Jesús no enseñó a juzgar a los enemigos.",
+          "Jesús no enseñó a ignorar a los enemigos."
+        ]
+      }
+    },
+    {
+      id: 2332,
+      difficulty: "Medio",
+      question: "¿Qué dijo Jesús sobre la oración en Mateo 6:9-13?",
+      category:  profetas ,
+      correct_answer: "Padre nuestro que estás en los cielos",
+      incorrect_answers: [
+        "Señor, ten misericordia de mí",
+        "Dios mío, Dios mío, ¿por qué me has desamparado?",
+        "Hágase tu voluntad en la tierra como en el cielo"
+      ],
+      justifications: {
+        correct_answer: "Mateo 6:9-13 registra el Padre Nuestro.",
+        incorrect_answers: [
+          "Esta frase no es parte del Padre Nuestro.",
+          "Esta frase no es parte del Padre Nuestro.",
+          "Esta frase es parte del Padre Nuestro, pero no es el inicio."
+        ]
+      }
+    },
+    {
+      id: 2333,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Jesús en la última cena?",
+      category:  profetas ,
+      correct_answer: "Instituyó la Santa Cena",
+      incorrect_answers: [
+        "Predicó sobre el reino de Dios",
+        "Sanó a un enfermo",
+        "Multiplicó panes y peces"
+      ],
+      justifications: {
+        correct_answer: "Mateo 26:26-28 describe la institución de la Santa Cena.",
+        incorrect_answers: [
+          "No se menciona que predicara en la última cena.",
+          "No se menciona que sanara a un enfermo en la última cena.",
+          "Este milagro ocurrió en otro lugar."
+        ]
+      }
+    },
+    {
+      id: 2334,
+      difficulty: "Difícil",
+      question: "¿Qué dijo Jesús sobre la verdad en Juan 8:32?",
+      category:  profetas ,
+      correct_answer: "Conoceréis la verdad, y la verdad os hará libres",
+      incorrect_answers: [
+        "La verdad es relativa",
+        "La verdad es difícil de entender",
+        "La verdad es solo para los sabios"
+      ],
+      justifications: {
+        correct_answer: "Juan 8:32 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no enseñó que la verdad es relativa.",
+          "Jesús no enseñó que la verdad es difícil de entender.",
+          "Jesús no limitó la verdad a los sabios."
+        ]
+      }
+    },
+    {
+      id: 2335,
+      difficulty: "Medio",
+      question: "¿Qué dijo Jesús sobre la fe en Mateo 17:20?",
+      category:  profetas ,
+      correct_answer: "Si tuvierais fe como un grano de mostaza",
+      incorrect_answers: [
+        "La fe es solo para los justos",
+        "La fe no mueve montañas",
+        "La fe es innecesaria"
+      ],
+      justifications: {
+        correct_answer: "Mateo 17:20 registra las palabras de Jesús.",
+        incorrect_answers: [
+          "Jesús no limitó la fe a los justos.",
+          "Jesús enseñó que la fe puede mover montañas.",
+          "Jesús no enseñó que la fe es innecesaria."
+        ]
+      }
+    },
+    {
+      id: 2336,
+      difficulty: "Fácil",
+      question: "¿Qué hizo Jesús en el monte de los Olivos?",
+      category:  profetas ,
+      correct_answer: "Oró antes de su arresto",
+      incorrect_answers: [
+        "Predicó sobre el reino de Dios",
+        "Sanó a un enfermo",
+        "Multiplicó panes y peces"
+      ],
+      justifications: {
+        correct_answer: "Mateo 26:36-46 describe la oración de Jesús en el monte de los Olivos.",
+        incorrect_answers: [
+          "No se menciona que predicara en el monte de los Olivos.",
+          "No se menciona que sanara a un enfermo en el monte de los Olivos.",
+          "Este milagro ocurrió en otro lugar."
+        ]
+      }
+    },
+      /* José Smith (1805-1844)
+
+     José Smith (23 de diciembre de 1805 – 27 de junio de 1844)
+
+Duración: 6 de abril de 1830 – 27 de junio de 1844
+
+Fundador de la iglesia y primer profeta. */
+
+
+  {
+    id: 2337,
+    difficulty: "Difícil",
+    question: "¿En qué año José Smith recibió la Primera Visión?",
+    category:  profetas ,
+    correct_answer: "1820",
+    incorrect_answers: ["1830", "1815", "1844"],
+    justifications: {
+      correct_answer: "José Smith relató que la Primera Visión ocurrió en la primavera de 1820.",
+      incorrect_answers: [
+        "1830 es el año en que se organizó la Iglesia.",
+        "1815 es antes de que José Smith tuviera la visión.",
+        "1844 es el año del martirio de José Smith."
+      ]
+    }
+  },
+  {
+    id: 2338,
+    difficulty: "Medio",
+    question: "¿Qué libro tradujo José Smith por el don y poder de Dios?",
+    category:  profetas ,
+    correct_answer: "El Libro de Mormón",
+    incorrect_answers: ["La Biblia", "Doctrina y Convenios", "La Perla de Gran Precio"],
+    justifications: {
+      correct_answer: "José Smith tradujo el Libro de Mormón usando los instrumentos divinos proporcionados.",
+      incorrect_answers: [
+        "La Biblia fue revisada por José Smith, no traducida de nuevo.",
+        "Doctrina y Convenios es una colección de revelaciones.",
+        "La Perla de Gran Precio incluye escritos de José Smith, pero no fue traducida."
+      ]
+    }
+  },
+  {
+    id: 2339,
+    difficulty: "Fácil",
+    question: "¿Cuál fue el nombre del ángel que visitó a José Smith?",
+    category:  profetas ,
+    correct_answer: "Moroni",
+    incorrect_answers: ["Gabriel", "Miguel", "Rafael"],
+    justifications: {
+      correct_answer: "Moroni visitó a José Smith para guiarlo hacia las planchas de oro.",
+      incorrect_answers: [
+        "Gabriel es un ángel mencionado en la Biblia, pero no visitó a José Smith.",
+        "Miguel es otro nombre para Adán, no el ángel que visitó a José.",
+        "Rafael es un ángel mencionado en textos apócrifos, no en las escrituras SUD."
+      ]
+    }
+  },
+  {
+    id: 2340,
+    difficulty: "Difícil",
+    question: "¿En qué lugar se encontraba José Smith cuando recibió las planchas de oro?",
+    category:  profetas ,
+    correct_answer: "Colina de Cumorah",
+    incorrect_answers: ["Kirtland", "Nauvoo", "Fayette"],
+    justifications: {
+      correct_answer: "Las planchas de oro fueron enterradas en la Colina de Cumorah, donde José las recuperó.",
+      incorrect_answers: [
+        "Kirtland fue un lugar importante para la Iglesia, pero no donde se encontraron las planchas.",
+        "Nauvoo fue donde José Smith vivió más tarde.",
+        "Fayette es donde se organizó la Iglesia."
+      ]
+    }
+  },
+  {
+    id: 2341,
+    difficulty: "Medio",
+    question: "¿Cuál fue el primer nombre de la Iglesia organizada por José Smith?",
+    category:  profetas ,
+    correct_answer: "Iglesia de Cristo",
+    incorrect_answers: ["Iglesia de los Santos de los Últimos Días", "Iglesia de Jesucristo", "Iglesia de los Mormones"],
+    justifications: {
+      correct_answer: "La Iglesia se organizó inicialmente como la Iglesia de Cristo en 1830.",
+      incorrect_answers: [
+        "El nombre actual incluye 'Santos de los Últimos Días', pero no fue el primero.",
+        "El nombre actual es 'La Iglesia de Jesucristo de los Santos de los Últimos Días'.",
+        "El término 'mormones' es un apodo, no el nombre oficial."
+      ]
+    }
+  },
+  {
+    id: 2342,
+    difficulty: "Fácil",
+    question: "¿Cuántos testigos vieron las planchas de oro?",
+    category:  profetas ,
+    correct_answer: "12",
+    incorrect_answers: ["3", "8", "15"],
+    justifications: {
+      correct_answer: "Hubo 3 testigos principales y 8 adicionales, haciendo un total de 12.",
+      incorrect_answers: [
+        "3 fueron los testigos principales, pero hubo más.",
+        "8 fueron los testigos adicionales, pero no el total.",
+        "15 no es el número correcto."
+      ]
+    }
+  },
+  {
+    id: 2343,
+    difficulty: "Difícil",
+    question: "¿Qué evento ocurrió en la Cárcel de Carthage?",
+    category:  profetas ,
+    correct_answer: "El martirio de José Smith",
+    incorrect_answers: ["La traducción del Libro de Mormón", "La organización de la Iglesia", "La dedicación del Templo de Kirtland"],
+    justifications: {
+      correct_answer: "José Smith y su hermano Hyrum fueron martirizados en la Cárcel de Carthage en 1844.",
+      incorrect_answers: [
+        "El Libro de Mormón fue traducido antes de este evento.",
+        "La Iglesia se organizó en 1830.",
+        "El Templo de Kirtland fue dedicado en 1836."
+      ]
+    }
+  },
+  {
+    id: 2344,
+    difficulty: "Medio",
+    question: "¿Qué profeta del Libro de Mormón fue comparado con José Smith?",
+    category:  profetas ,
+    correct_answer: "José de Egipto",
+    incorrect_answers: ["Nefi", "Alma", "Mormón"],
+    justifications: {
+      correct_answer: "José Smith fue comparado con José de Egipto por su papel como vidente.",
+      incorrect_answers: [
+        "Nefi fue un gran líder, pero no se le compara directamente con José Smith.",
+        "Alma fue un profeta importante, pero no en este contexto.",
+        "Mormón fue el compilador del registro, no una comparación directa."
+      ]
+    }
+  },
+  {
+    id: 2345,
+    difficulty: "Fácil",
+    question: "¿Qué edad tenía José Smith cuando recibió la Primera Visión?",
+    category:  profetas ,
+    correct_answer: "14 años",
+    incorrect_answers: ["12 años", "16 años", "18 años"],
+    justifications: {
+      correct_answer: "José Smith tenía 14 años en la primavera de 1820 cuando recibió la Primera Visión.",
+      incorrect_answers: [
+        "12 años es antes de la Primera Visión.",
+        "16 años es después de la Primera Visión.",
+        "18 años es incorrecto."
+      ]
+    }
+  },
+  {
+    id: 2346,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la oración dedicatoria del Templo de Kirtland?",
+    category:  profetas ,
+    correct_answer: "Sección 109",
+    incorrect_answers: ["Sección 76", "Sección 89", "Sección 121"],
+    justifications: {
+      correct_answer: "La Sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      incorrect_answers: [
+        "La Sección 76 contiene la visión de los tres grados de gloria.",
+        "La Sección 89 es la Palabra de Sabiduría.",
+        "La Sección 121 contiene enseñanzas sobre el sacerdocio."
+      ]
+    }
+  },
+  {
+    id: 2347,
+    difficulty: "Medio",
+    question: "¿Qué nombre recibió el primer templo construido por la Iglesia bajo la dirección de José Smith?",
+    category:  profetas ,
+    correct_answer: "Templo de Kirtland",
+    incorrect_answers: ["Templo de Nauvoo", "Templo de Salt Lake", "Templo de Fayette"],
+    justifications: {
+      correct_answer: "El Templo de Kirtland fue el primer templo construido por la Iglesia.",
+      incorrect_answers: [
+        "El Templo de Nauvoo fue construido después.",
+        "El Templo de Salt Lake fue construido mucho después.",
+        "Fayette no tiene un templo construido en ese entonces."
+      ]
+    }
+  },
+  {
+    id: 2348,
+    difficulty: "Fácil",
+    question: "¿Quién fue el primer profeta y presidente de la Iglesia después de José Smith?",
+    category:  profetas ,
+    correct_answer: "Brigham Young",
+    incorrect_answers: ["Hyrum Smith", "Sidney Rigdon", "John Taylor"],
+    justifications: {
+      correct_answer: "Brigham Young fue el sucesor de José Smith como presidente de la Iglesia.",
+      incorrect_answers: [
+        "Hyrum Smith fue el hermano de José, pero no su sucesor.",
+        "Sidney Rigdon fue un líder, pero no el sucesor.",
+        "John Taylor fue el tercer presidente de la Iglesia."
+      ]
+    }
+  },
+  {
+    id: 2349,
+    difficulty: "Difícil",
+    question: "¿Qué revelación recibió José Smith en la Cárcel de Liberty?",
+    category:  profetas ,
+    correct_answer: "Doctrina y Convenios 121-123",
+    incorrect_answers: ["Doctrina y Convenios 76", "Doctrina y Convenios 89", "Doctrina y Convenios 132"],
+    justifications: {
+      correct_answer: "Las secciones 121-123 contienen las revelaciones recibidas en la Cárcel de Liberty.",
+      incorrect_answers: [
+        "La Sección 76 contiene la visión de los tres grados de gloria.",
+        "La Sección 89 es la Palabra de Sabiduría.",
+        "La Sección 132 trata sobre el matrimonio eterno."
+      ]
+    }
+  },
+  {
+    id: 2350,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el inicio de la restauración del sacerdocio?",
+    category:  profetas ,
+    correct_answer: "La visita de Juan el Bautista",
+    incorrect_answers: ["La Primera Visión", "La publicación del Libro de Mormón", "La organización de la Iglesia"],
+    justifications: {
+      correct_answer: "Juan el Bautista restauró el Sacerdocio Aarónico en 1829.",
+      incorrect_answers: [
+        "La Primera Visión ocurrió antes de la restauración del sacerdocio.",
+        "El Libro de Mormón fue publicado después.",
+        "La organización de la Iglesia ocurrió después."
+      ]
+    }
+  },
+  {
+    id: 2351,
+    difficulty: "Fácil",
+    question: "¿Qué libro de escritura fue publicado primero bajo la dirección de José Smith?",
+    category:  profetas ,
+    correct_answer: "El Libro de Mormón",
+    incorrect_answers: ["Doctrina y Convenios", "La Perla de Gran Precio", "La Traducción de la Biblia"],
+    justifications: {
+      correct_answer: "El Libro de Mormón fue publicado en 1830, antes que otros libros de escritura.",
+      incorrect_answers: [
+        "Doctrina y Convenios se compiló después.",
+        "La Perla de Gran Precio se publicó más tarde.",
+        "La Traducción de la Biblia no se publicó como un libro completo."
+      ]
+    }
+  },
+  {
+    id: 2352,
+    difficulty: "Difícil",
+    question: "¿Qué ciudad fue designada como 'Sion' por José Smith?",
+    category:  profetas ,
+    correct_answer: "Independence, Misuri",
+    incorrect_answers: ["Nauvoo, Illinois", "Kirtland, Ohio", "Salt Lake City, Utah"],
+    justifications: {
+      correct_answer: "Independence, Misuri, fue designada como el lugar central de Sion.",
+      incorrect_answers: [
+        "Nauvoo fue un lugar importante, pero no designado como Sion.",
+        "Kirtland fue un lugar de reunión, pero no Sion.",
+        "Salt Lake City fue establecida después del tiempo de José Smith."
+      ]
+    }
+  },
+  {
+    id: 2353,
+    difficulty: "Medio",
+    question: "¿Qué principio fue restaurado a través de la revelación sobre el matrimonio eterno?",
+    category:  profetas ,
+    correct_answer: "La unión familiar eterna",
+    incorrect_answers: ["La Palabra de Sabiduría", "La organización del sacerdocio", "La ley del diezmo"],
+    justifications: {
+      correct_answer: "El matrimonio eterno permite que las familias estén unidas más allá de la muerte.",
+      incorrect_answers: [
+        "La Palabra de Sabiduría es una ley de salud.",
+        "El sacerdocio fue restaurado antes.",
+        "El diezmo es una ley financiera."
+      ]
+    }
+  },
+  {
+    id: 2354,
+    difficulty: "Fácil",
+    question: "¿Qué nombre recibió el primer periódico publicado por la Iglesia bajo la dirección de José Smith?",
+    category:  profetas ,
+    correct_answer: "The Evening and the Morning Star",
+    incorrect_answers: ["The Deseret News", "The Latter-day Saints' Messenger and Advocate", "The Times and Seasons"],
+    justifications: {
+      correct_answer: "The Evening and the Morning Star fue el primer periódico de la Iglesia.",
+      incorrect_answers: [
+        "The Deseret News se publicó más tarde en Utah.",
+        "The Latter-day Saints' Messenger and Advocate fue posterior.",
+        "The Times and Seasons se publicó después."
+      ]
+    }
+  },
+  {
+    id: 2355,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a José Smith a recibir la revelación conocida como la Palabra de Sabiduría?",
+    category:  profetas ,
+    correct_answer: "Una reunión de la Escuela de los Profetas",
+    incorrect_answers: ["La persecución en Misuri", "La construcción del Templo de Kirtland", "La traducción del Libro de Mormón"],
+    justifications: {
+      correct_answer: "La Palabra de Sabiduría fue revelada durante una reunión de la Escuela de los Profetas en 1833.",
+      incorrect_answers: [
+        "La persecución en Misuri ocurrió después.",
+        "El Templo de Kirtland se construyó después.",
+        "El Libro de Mormón fue traducido antes."
+      ]
+    }
+  },
+  {
+    id: 2356,
+    difficulty: "Medio",
+    question: "¿Qué profeta del Antiguo Testamento fue comparado con José Smith en cuanto a su llamamiento?",
+    category:  profetas ,
+    correct_answer: "Jeremías",
+    incorrect_answers: ["Isaías", "Ezequiel", "Daniel"],
+    justifications: {
+      correct_answer: "José Smith fue comparado con Jeremías por ser llamado en su juventud.",
+      incorrect_answers: [
+        "Isaías fue un gran profeta, pero no en este contexto.",
+        "Ezequiel tuvo visiones, pero no es la comparación principal.",
+        "Daniel fue un profeta, pero no se le compara directamente con José Smith."
+      ]
+    }
+  },
+
+
+
+
+
+/* Brigham Young (1 de junio de 1801 – 29 de agosto de 1877)
+
+Duración: 27 de diciembre de 1847 – 29 de agosto de 1877
+
+Lideró a los pioneros mormones al oeste, hacia el Valle del Lago Salado. */
+
+
+
+  {
+    id: 2357,
+    difficulty: "Difícil",
+    question: "¿Qué cargo ocupó Brigham Young antes de convertirse en presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Presidente del Quórum de los Doce Apóstoles",
+    incorrect_answers: [
+      "Obispo Presidente",
+      "Presidente de la Estaca de Nauvoo",
+      "Secretario de la Primera Presidencia"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young fue presidente del Quórum de los Doce Apóstoles antes de ser sostenido como presidente de la Iglesia.",
+      incorrect_answers: [
+        "No hubo un 'Obispo Presidente' en ese entonces.",
+        "No fue presidente de la Estaca de Nauvoo.",
+        "No sirvió como secretario de la Primera Presidencia."
+      ]
+    }
+  },
+  {
+    id: 2358,
+    difficulty: "Medio",
+    question: "¿Qué año fue sostenido Brigham Young como presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "1847",
+    incorrect_answers: ["1844", "1850", "1835"],
+    justifications: {
+      correct_answer: "Brigham Young fue sostenido formalmente como presidente de la Iglesia en diciembre de 1847.",
+      incorrect_answers: [
+        "1844 fue el año del martirio de José Smith.",
+        "1850 es después de su llamamiento.",
+        "1835 es cuando se organizó el Quórum de los Doce Apóstoles."
+      ]
+    }
+  },
+  {
+    id: 2359,
+    difficulty: "Fácil",
+    question: "¿A qué estado lideró Brigham Young a los santos para escapar de la persecución?",
+    category:  profetas ,
+    correct_answer: "Utah",
+    incorrect_answers: ["Misuri", "Illinois", "Ohio"],
+    justifications: {
+      correct_answer: "Brigham Young guio a los santos al Valle del Lago Salado en Utah.",
+      incorrect_answers: [
+        "Misuri fue un lugar de persecución, no de refugio.",
+        "Illinois fue donde los santos estuvieron antes de ir a Utah.",
+        "Ohio fue un lugar temporal para los santos."
+      ]
+    }
+  },
+  {
+    id: 2360,
+    difficulty: "Difícil",
+    question: "¿Qué principio organizativo implementó Brigham Young en Utah para gestionar las comunidades?",
+    category:  profetas ,
+    correct_answer: "El Sistema de la Cosecha Común",
+    incorrect_answers: [
+      "La Ley de Consagración",
+      "El Orden Unido",
+      "La Cooperativa de Siervos"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young implementó el Sistema de la Cosecha Común para gestionar recursos y comunidades en Utah.",
+      incorrect_answers: [
+        "La Ley de Consagración fue una práctica anterior.",
+        "El Orden Unido no fue implementado en Utah.",
+        "La Cooperativa de Siervos no es un término correcto."
+      ]
+    }
+  },
+  {
+    id: 2361,
+    difficulty: "Medio",
+    question: "¿Qué edificio icónico fue construido bajo la dirección de Brigham Young?",
+    category:  profetas ,
+    correct_answer: "El Templo de Salt Lake",
+    incorrect_answers: [
+      "El Templo de Kirtland",
+      "El Templo de Nauvoo",
+      "El Templo de St. George"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young inició la construcción del Templo de Salt Lake en 1853.",
+      incorrect_answers: [
+        "El Templo de Kirtland fue construido antes de su liderazgo.",
+        "El Templo de Nauvoo fue construido antes de su liderazgo.",
+        "El Templo de St. George fue construido después."
+      ]
+    }
+  },
+  {
+    id: 2362,
+    difficulty: "Fácil",
+    question: "¿Cuántos años sirvió Brigham Young como presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "30 años",
+    incorrect_answers: ["20 años", "10 años", "40 años"],
+    justifications: {
+      correct_answer: "Brigham Young sirvió como presidente de la Iglesia desde 1847 hasta 1877, un total de 30 años.",
+      incorrect_answers: [
+        "20 años es incorrecto.",
+        "10 años es incorrecto.",
+        "40 años es incorrecto."
+      ]
+    }
+  },
+  {
+    id: 2363,
+    difficulty: "Difícil",
+    question: "¿Qué revelación guio a Brigham Young en la organización de las compañías de pioneros?",
+    category:  profetas ,
+    correct_answer: "Doctrina y Convenios 136",
+    incorrect_answers: [
+      "Doctrina y Convenios 89",
+      "Doctrina y Convenios 76",
+      "Doctrina y Convenios 121"
+    ],
+    justifications: {
+      correct_answer: "Doctrina y Convenios 136 contiene instrucciones para la organización de las compañías de pioneros.",
+      incorrect_answers: [
+        "Doctrina y Convenios 89 es la Palabra de Sabiduría.",
+        "Doctrina y Convenios 76 contiene la visión de los tres grados de gloria.",
+        "Doctrina y Convenios 121 contiene enseñanzas sobre el sacerdocio."
+      ]
+    }
+  },
+  {
+    id: 2364,
+    difficulty: "Medio",
+    question: "¿Qué nombre recibió el primer asentamiento permanente en Utah bajo la dirección de Brigham Young?",
+    category:  profetas ,
+    correct_answer: "Salt Lake City",
+    incorrect_answers: ["Provo", "Ogden", "Logan"],
+    justifications: {
+      correct_answer: "Salt Lake City fue el primer asentamiento permanente establecido por los pioneros en 1847.",
+      incorrect_answers: [
+        "Provo fue fundada después.",
+        "Ogden fue fundada después.",
+        "Logan fue fundada después."
+      ]
+    }
+  },
+  {
+    id: 2365,
+    difficulty: "Fácil",
+    question: "¿Qué apodo se le dio a Brigham Young por su liderazgo en la colonización del Oeste?",
+    category:  profetas ,
+    correct_answer: "El Moisés Americano",
+    incorrect_answers: [
+      "El Profeta del Desierto",
+      "El Guía de Sion",
+      "El Constructor de Templos"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young fue llamado 'El Moisés Americano' por guiar a los santos a través del desierto.",
+      incorrect_answers: [
+        "No se le conoce como 'El Profeta del Desierto'.",
+        "No se le conoce como 'El Guía de Sion'.",
+        "No se le conoce como 'El Constructor de Templos'."
+      ]
+    }
+  },
+  {
+    id: 2366,
+    difficulty: "Difícil",
+    question: "¿Qué principio económico promovió Brigham Young para fortalecer la autosuficiencia en Utah?",
+    category:  profetas ,
+    correct_answer: "La Cooperativa de Comercio",
+    incorrect_answers: [
+      "La Ley de Consagración",
+      "El Sistema de Diezmos",
+      "El Orden Unido"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la Cooperativa de Comercio para fomentar la autosuficiencia.",
+      incorrect_answers: [
+        "La Ley de Consagración fue una práctica anterior.",
+        "El Sistema de Diezmos no es específico de Utah.",
+        "El Orden Unido no fue implementado en Utah."
+      ]
+    }
+  },
+  {
+    id: 2367,
+    difficulty: "Medio",
+    question: "¿Qué evento llevó a Brigham Young a ser reconocido como líder de la Iglesia después de la muerte de José Smith?",
+    category:  profetas ,
+    correct_answer: "El Discurso del 'Manto de José'",
+    incorrect_answers: [
+      "La Revelación de la Sucesión",
+      "La Organización del Quórum de los Doce",
+      "La Llegada a Utah"
+    ],
+    justifications: {
+      correct_answer: "El discurso de Brigham Young en Nauvoo, donde muchos testificaron que parecía y sonaba como José Smith, lo consolidó como líder.",
+      incorrect_answers: [
+        "No hubo una 'Revelación de la Sucesión' específica.",
+        "El Quórum de los Doce ya estaba organizado.",
+        "La llegada a Utah ocurrió después."
+      ]
+    }
+  },
+  {
+    id: 2368,
+    difficulty: "Fácil",
+    question: "¿Cuántas esposas tuvo Brigham Young?",
+    category:  profetas ,
+    correct_answer: "55",
+    incorrect_answers: ["10", "25", "40"],
+    justifications: {
+      correct_answer: "Brigham Young tuvo 55 esposas, según registros históricos.",
+      incorrect_answers: [
+        "10 es un número incorrecto.",
+        "25 es un número incorrecto.",
+        "40 es un número incorrecto."
+      ]
+    }
+  },
+  {
+    id: 2369,
+    difficulty: "Difícil",
+    question: "¿Qué proyecto de construcción fue iniciado por Brigham Young pero no completado durante su vida?",
+    category:  profetas ,
+    correct_answer: "El Templo de Salt Lake",
+    incorrect_answers: [
+      "El Templo de St. George",
+      "El Templo de Logan",
+      "El Templo de Manti"
+    ],
+    justifications: {
+      correct_answer: "El Templo de Salt Lake fue iniciado por Brigham Young pero no se completó hasta 1893, después de su muerte.",
+      incorrect_answers: [
+        "El Templo de St. George fue completado durante su vida.",
+        "El Templo de Logan fue completado después.",
+        "El Templo de Manti fue completado después."
+      ]
+    }
+  },
+  {
+    id: 2370,
+    difficulty: "Medio",
+    question: "¿Qué organización fundó Brigham Young para apoyar a las mujeres de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "La Sociedad de Socorro",
+    incorrect_answers: [
+      "La Asociación de Mujeres Jóvenes",
+      "La Liga de Damas de Sion",
+      "El Círculo de Mujeres"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young apoyó la fundación de la Sociedad de Socorro en 1842.",
+      incorrect_answers: [
+        "La Asociación de Mujeres Jóvenes se organizó después.",
+        "No existió la 'Liga de Damas de Sion'.",
+        "No existió el 'Círculo de Mujeres'."
+      ]
+    }
+  },
+  {
+    id: 2371,
+    difficulty: "Fácil",
+    question: "¿Qué cargo adicional ocupó Brigham Young además de presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Gobernador de Utah",
+    incorrect_answers: [
+      "Alcalde de Salt Lake City",
+      "Senador de los Estados Unidos",
+      "Juez de la Corte Suprema"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young fue gobernador del Territorio de Utah desde 1851 hasta 1858.",
+      incorrect_answers: [
+        "No fue alcalde de Salt Lake City.",
+        "No fue senador de los Estados Unidos.",
+        "No fue juez de la Corte Suprema."
+      ]
+    }
+  },
+  {
+    id: 2372,
+    difficulty: "Difícil",
+    question: "¿Qué conflicto enfrentó Brigham Young con el gobierno de los Estados Unidos?",
+    category:  profetas ,
+    correct_answer: "La Guerra de Utah",
+    incorrect_answers: [
+      "La Guerra de Nauvoo",
+      "La Guerra de Misuri",
+      "La Guerra de Illinois"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young enfrentó la Guerra de Utah (1857-1858) con el gobierno federal.",
+      incorrect_answers: [
+        "No hubo una 'Guerra de Nauvoo'.",
+        "La Guerra de Misuri ocurrió antes de su liderazgo.",
+        "No hubo una 'Guerra de Illinois'."
+      ]
+    }
+  },
+  {
+    id: 2373,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó Brigham Young sobre la relación entre la ciencia y la religión?",
+    category:  profetas ,
+    correct_answer: "Ambas son verdades que se complementan",
+    incorrect_answers: [
+      "La ciencia es contraria a la religión",
+      "La religión debe dominar sobre la ciencia",
+      "La ciencia es innecesaria para la fe"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young enseñó que la ciencia y la religión son verdades que se complementan.",
+      incorrect_answers: [
+        "No enseñó que la ciencia es contraria a la religión.",
+        "No enseñó que la religión debe dominar sobre la ciencia.",
+        "No enseñó que la ciencia es innecesaria para la fe."
+      ]
+    }
+  },
+  {
+    id: 2374,
+    difficulty: "Fácil",
+    question: "¿Qué frase famosa se atribuye a Brigham Young sobre la construcción del Templo de Salt Lake?",
+    category:  profetas ,
+    correct_answer: "No tendremos prisa, pero construiremos con calidad",
+    incorrect_answers: [
+      "Construiremos rápido y eficientemente",
+      "El templo debe ser modesto y sencillo",
+      "No importa cuánto tiempo tome, lo terminaremos"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young enfatizó la calidad sobre la rapidez en la construcción del Templo de Salt Lake.",
+      incorrect_answers: [
+        "No promovió la construcción rápida.",
+        "No abogó por un templo modesto.",
+        "No dijo exactamente esa frase."
+      ]
+    }
+  },
+  {
+    id: 2375,
+    difficulty: "Difícil",
+    question: "¿Qué innovación en la agricultura promovió Brigham Young en Utah?",
+    category:  profetas ,
+    correct_answer: "El sistema de riego por canales",
+    incorrect_answers: [
+      "El cultivo de trigo en terrazas",
+      "La rotación de cultivos intensiva",
+      "El uso de fertilizantes químicos"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió el sistema de riego por canales para hacer fértil el desierto.",
+      incorrect_answers: [
+        "No se enfocó en el cultivo de trigo en terrazas.",
+        "No promovió la rotación de cultivos intensiva.",
+        "No usó fertilizantes químicos en ese entonces."
+      ]
+    }
+  },
+  {
+    id: 2376,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de Brigham Young destacó la importancia de la educación?",
+    category:  profetas ,
+    correct_answer: "La educación es el poder para salvar al mundo",
+    incorrect_answers: [
+      "La educación es innecesaria para la salvación",
+      "La educación debe ser solo religiosa",
+      "La educación es secundaria al trabajo manual"
+    ],
+    justifications: {
+      correct_answer: "Brigham Young enseñó que la educación es esencial para el progreso y la salvación.",
+      incorrect_answers: [
+        "No enseñó que la educación es innecesaria.",
+        "No limitó la educación a lo religioso.",
+        "No consideró la educación como secundaria."
+      ]
+    }
+  },
+
+
+
+
+
+/* John Taylor (1 de noviembre de 1808 – 25 de julio de 1887)
+
+Duración: 10 de octubre de 1880 – 25 de julio de 1887
+
+Presidió durante un período de persecución y la implementación de las leyes antipoligamia. */
+
+
+
+  {
+    id: 2377,
+    difficulty: "Difícil",
+    question: "¿Qué papel desempeñó John Taylor en la redacción de Doctrina y Convenios 135?",
+    category:  profetas ,
+    correct_answer: "Fue uno de los testigos y escribió el relato del martirio de José Smith",
+    incorrect_answers: [
+      "Fue el compilador principal de Doctrina y Convenios",
+      "Fue el editor de la primera edición de Doctrina y Convenios",
+      "Fue el traductor de las revelaciones al español"
+    ],
+    justifications: {
+      correct_answer: "John Taylor fue testigo del martirio de José Smith y escribió el relato que se encuentra en Doctrina y Convenios 135.",
+      incorrect_answers: [
+        "No fue el compilador principal de Doctrina y Convenios.",
+        "No fue el editor de la primera edición.",
+        "No tradujo las revelaciones al español."
+      ]
+    }
+  },
+  {
+    id: 2378,
+    difficulty: "Medio",
+    question: "¿Qué cargo ocupó John Taylor antes de ser presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Miembro del Quórum de los Doce Apóstoles",
+    incorrect_answers: [
+      "Obispo Presidente",
+      "Presidente de la Estaca de Nauvoo",
+      "Secretario de la Primera Presidencia"
+    ],
+    justifications: {
+      correct_answer: "John Taylor fue miembro del Quórum de los Doce Apóstoles antes de ser presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue Obispo Presidente.",
+        "No fue presidente de la Estaca de Nauvoo.",
+        "No sirvió como secretario de la Primera Presidencia."
+      ]
+    }
+  },
+  {
+    id: 2379,
+    difficulty: "Fácil",
+    question: "¿En qué año fue sostenido John Taylor como presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "1880",
+    incorrect_answers: ["1877", "1885", "1890"],
+    justifications: {
+      correct_answer: "John Taylor fue sostenido como presidente de la Iglesia en 1880.",
+      incorrect_answers: [
+        "1877 fue el año de la muerte de Brigham Young.",
+        "1885 es después de su llamamiento.",
+        "1890 es después de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2380,
+    difficulty: "Difícil",
+    question: "¿Qué principio defendió John Taylor durante su presidencia que llevó a la persecución de los santos?",
+    category:  profetas ,
+    correct_answer: "La práctica del matrimonio plural",
+    incorrect_answers: [
+      "La construcción de templos",
+      "La Palabra de Sabiduría",
+      "La Ley de Consagración"
+    ],
+    justifications: {
+      correct_answer: "John Taylor defendió la práctica del matrimonio plural, lo que llevó a una mayor persecución de los santos.",
+      incorrect_answers: [
+        "La construcción de templos no fue la causa principal de la persecución.",
+        "La Palabra de Sabiduría no fue el enfoque principal de la persecución.",
+        "La Ley de Consagración no fue el motivo de la persecución."
+      ]
+    }
+  },
+  {
+    id: 2381,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el inicio de la presidencia de John Taylor?",
+    category:  profetas ,
+    correct_answer: "La muerte de Brigham Young",
+    incorrect_answers: [
+      "La finalización del Templo de Salt Lake",
+      "La publicación del Manifiesto",
+      "La llegada a Utah"
+    ],
+    justifications: {
+      correct_answer: "John Taylor asumió la presidencia de la Iglesia después de la muerte de Brigham Young en 1877.",
+      incorrect_answers: [
+        "El Templo de Salt Lake no se completó durante su presidencia.",
+        "El Manifiesto fue publicado durante la presidencia de Wilford Woodruff.",
+        "La llegada a Utah ocurrió antes de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2382,
+    difficulty: "Fácil",
+    question: "¿Qué apodo se le dio a John Taylor debido a su firmeza en defender sus creencias?",
+    category:  profetas ,
+    correct_answer: "El Testigo Fiel",
+    incorrect_answers: [
+      "El Defensor de Sion",
+      "El Profeta del Desierto",
+      "El Constructor de Templos"
+    ],
+    justifications: {
+      correct_answer: "John Taylor fue llamado 'El Testigo Fiel' por su firmeza en defender sus creencias.",
+      incorrect_answers: [
+        "No se le conoce como 'El Defensor de Sion'.",
+        "No se le conoce como 'El Profeta del Desierto'.",
+        "No se le conoce como 'El Constructor de Templos'."
+      ]
+    }
+  },
+  {
+    id: 2383,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de John Taylor destacó la importancia de la libertad religiosa?",
+    category:  profetas ,
+    correct_answer: "El gobierno no debe interferir en asuntos de conciencia",
+    incorrect_answers: [
+      "La religión debe ser controlada por el estado",
+      "La libertad religiosa es secundaria a la ley civil",
+      "La iglesia debe tener poder político"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que el gobierno no debe interferir en asuntos de conciencia.",
+      incorrect_answers: [
+        "No enseñó que la religión debe ser controlada por el estado.",
+        "No enseñó que la libertad religiosa es secundaria.",
+        "No enseñó que la iglesia debe tener poder político."
+      ]
+    }
+  },
+  {
+    id: 2384,
+    difficulty: "Medio",
+    question: "¿Qué principio económico promovió John Taylor durante su presidencia?",
+    category:  profetas ,
+    correct_answer: "La autosuficiencia y la cooperación",
+    incorrect_answers: [
+      "La dependencia del gobierno federal",
+      "La expansión de la deuda pública",
+      "La privatización de los recursos"
+    ],
+    justifications: {
+      correct_answer: "John Taylor promovió la autosuficiencia y la cooperación entre los santos.",
+      incorrect_answers: [
+        "No promovió la dependencia del gobierno federal.",
+        "No promovió la expansión de la deuda pública.",
+        "No promovió la privatización de los recursos."
+      ]
+    }
+  },
+  {
+    id: 2385,
+    difficulty: "Fácil",
+    question: "¿Qué evento llevó a John Taylor a esconderse y gobernar la Iglesia en la clandestinidad?",
+    category:  profetas ,
+    correct_answer: "La persecución por la práctica del matrimonio plural",
+    incorrect_answers: [
+      "La construcción del Templo de Salt Lake",
+      "La publicación del Manifiesto",
+      "La llegada a Utah"
+    ],
+    justifications: {
+      correct_answer: "John Taylor se escondió debido a la persecución por la práctica del matrimonio plural.",
+      incorrect_answers: [
+        "La construcción del Templo de Salt Lake no fue la causa.",
+        "El Manifiesto fue publicado después.",
+        "La llegada a Utah ocurrió antes."
+      ]
+    }
+  },
+  {
+    id: 2386,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de John Taylor destacó la importancia de la revelación continua?",
+    category:  profetas ,
+    correct_answer: "La Iglesia debe ser guiada por revelación divina",
+    incorrect_answers: [
+      "La revelación es innecesaria en la actualidad",
+      "La revelación solo ocurrió en el pasado",
+      "La revelación es solo para los profetas"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la Iglesia debe ser guiada por revelación divina.",
+      incorrect_answers: [
+        "No enseñó que la revelación es innecesaria.",
+        "No enseñó que la revelación solo ocurrió en el pasado.",
+        "No enseñó que la revelación es solo para los profetas."
+      ]
+    }
+  },
+  {
+    id: 2387,
+    difficulty: "Medio",
+    question: "¿Qué principio defendió John Taylor sobre la relación entre la Iglesia y el estado?",
+    category:  profetas ,
+    correct_answer: "La separación entre la Iglesia y el estado",
+    incorrect_answers: [
+      "La unión entre la Iglesia y el estado",
+      "El control de la Iglesia sobre el estado",
+      "La sumisión de la Iglesia al estado"
+    ],
+    justifications: {
+      correct_answer: "John Taylor defendió la separación entre la Iglesia y el estado.",
+      incorrect_answers: [
+        "No defendió la unión entre la Iglesia y el estado.",
+        "No defendió el control de la Iglesia sobre el estado.",
+        "No defendió la sumisión de la Iglesia al estado."
+      ]
+    }
+  },
+  {
+    id: 2388,
+    difficulty: "Fácil",
+    question: "¿Qué frase famosa se atribuye a John Taylor sobre la verdad?",
+    category:  profetas ,
+    correct_answer: "La verdad es la verdad, y permanece para siempre",
+    incorrect_answers: [
+      "La verdad es relativa y cambia con el tiempo",
+      "La verdad es solo para los sabios",
+      "La verdad es innecesaria para la salvación"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que 'La verdad es la verdad, y permanece para siempre'.",
+      incorrect_answers: [
+        "No enseñó que la verdad es relativa.",
+        "No enseñó que la verdad es solo para los sabios.",
+        "No enseñó que la verdad es innecesaria."
+      ]
+    }
+  },
+  {
+    id: 2389,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de John Taylor destacó la importancia de la familia?",
+    category:  profetas ,
+    correct_answer: "La familia es fundamental para la salvación",
+    incorrect_answers: [
+      "La familia es secundaria a la iglesia",
+      "La familia no es necesaria para la exaltación",
+      "La familia es solo para esta vida"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la familia es fundamental para la salvación.",
+      incorrect_answers: [
+        "No enseñó que la familia es secundaria.",
+        "No enseñó que la familia no es necesaria.",
+        "No enseñó que la familia es solo para esta vida."
+      ]
+    }
+  },
+  {
+    id: 2390,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó John Taylor sobre la obediencia a las leyes de Dios?",
+    category:  profetas ,
+    correct_answer: "La obediencia trae bendiciones",
+    incorrect_answers: [
+      "La obediencia es innecesaria para la salvación",
+      "La obediencia es solo para los líderes",
+      "La obediencia no tiene recompensa"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la obediencia a las leyes de Dios trae bendiciones.",
+      incorrect_answers: [
+        "No enseñó que la obediencia es innecesaria.",
+        "No enseñó que la obediencia es solo para los líderes.",
+        "No enseñó que la obediencia no tiene recompensa."
+      ]
+    }
+  },
+  {
+    id: 2391,
+    difficulty: "Fácil",
+    question: "¿Qué evento marcó el final de la presidencia de John Taylor?",
+    category:  profetas ,
+    correct_answer: "Su muerte en 1887",
+    incorrect_answers: [
+      "La publicación del Manifiesto",
+      "La finalización del Templo de Salt Lake",
+      "La llegada a Utah"
+    ],
+    justifications: {
+      correct_answer: "La presidencia de John Taylor terminó con su muerte en 1887.",
+      incorrect_answers: [
+        "El Manifiesto fue publicado después de su muerte.",
+        "El Templo de Salt Lake no se completó durante su presidencia.",
+        "La llegada a Utah ocurrió antes de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2392,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de John Taylor destacó la importancia de la expiación de Jesucristo?",
+    category:  profetas ,
+    correct_answer: "La expiación es el centro del plan de salvación",
+    incorrect_answers: [
+      "La expiación es solo para los pecadores",
+      "La expiación no es necesaria para la salvación",
+      "La expiación es solo simbólica"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la expiación de Jesucristo es el centro del plan de salvación.",
+      incorrect_answers: [
+        "No enseñó que la expiación es solo para los pecadores.",
+        "No enseñó que la expiación no es necesaria.",
+        "No enseñó que la expiación es solo simbólica."
+      ]
+    }
+  },
+  {
+    id: 2393,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó John Taylor sobre la importancia de la oración?",
+    category:  profetas ,
+    correct_answer: "La oración es esencial para recibir guía divina",
+    incorrect_answers: [
+      "La oración es innecesaria para los justos",
+      "La oración es solo para los líderes",
+      "La oración no tiene poder real"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la oración es esencial para recibir guía divina.",
+      incorrect_answers: [
+        "No enseñó que la oración es innecesaria.",
+        "No enseñó que la oración es solo para los líderes.",
+        "No enseñó que la oración no tiene poder."
+      ]
+    }
+  },
+  {
+    id: 2394,
+    difficulty: "Fácil",
+    question: "¿Qué frase famosa se atribuye a John Taylor sobre la libertad?",
+    category:  profetas ,
+    correct_answer: "La libertad es un don divino que debe protegerse",
+    incorrect_answers: [
+      "La libertad es solo para los fuertes",
+      "La libertad es innecesaria para la salvación",
+      "La libertad es solo un concepto terrenal"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que 'La libertad es un don divino que debe protegerse'.",
+      incorrect_answers: [
+        "No enseñó que la libertad es solo para los fuertes.",
+        "No enseñó que la libertad es innecesaria.",
+        "No enseñó que la libertad es solo un concepto terrenal."
+      ]
+    }
+  },
+  {
+    id: 2395,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de John Taylor destacó la importancia de la perseverancia?",
+    category:  profetas ,
+    correct_answer: "La perseverancia es clave para superar las pruebas",
+    incorrect_answers: [
+      "La perseverancia es innecesaria para los justos",
+      "La perseverancia es solo para los líderes",
+      "La perseverancia no tiene recompensa"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la perseverancia es clave para superar las pruebas.",
+      incorrect_answers: [
+        "No enseñó que la perseverancia es innecesaria.",
+        "No enseñó que la perseverancia es solo para los líderes.",
+        "No enseñó que la perseverancia no tiene recompensa."
+      ]
+    }
+  },
+  {
+    id: 2396,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó John Taylor sobre la importancia de la humildad?",
+    category:  profetas ,
+    correct_answer: "La humildad es esencial para recibir revelación",
+    incorrect_answers: [
+      "La humildad es innecesaria para los justos",
+      "La humildad es solo para los líderes",
+      "La humildad no tiene poder real"
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la humildad es esencial para recibir revelación.",
+      incorrect_answers: [
+        "No enseñó que la humildad es innecesaria.",
+        "No enseñó que la humildad es solo para los líderes.",
+        "No enseñó que la humildad no tiene poder."
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+/* Wilford Woodruff (1 de marzo de 1807 – 2 de septiembre de 1898)
+
+Duración: 7 de abril de 1889 – 2 de septiembre de 1898
+
+Emitió el Manifiesto de 1890, que puso fin a la práctica de la poligamia. */
+
+
+
+
+
+  {
+    id: 2397,
+    difficulty: "Difícil",
+    question: "¿Qué evento histórico marcó el final de la práctica del matrimonio plural bajo la dirección de Wilford Woodruff?",
+    category:  profetas ,
+    correct_answer: "La publicación del Manifiesto",
+    incorrect_answers: [
+      "La finalización del Templo de Salt Lake",
+      "La llegada a Utah",
+      "La organización de la Sociedad de Socorro"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff publicó el Manifiesto en 1890, que puso fin a la práctica del matrimonio plural.",
+      incorrect_answers: [
+        "El Templo de Salt Lake no se completó hasta 1893.",
+        "La llegada a Utah ocurrió antes de su presidencia.",
+        "La Sociedad de Socorro se organizó antes de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2398,
+    difficulty: "Medio",
+    question: "¿Qué cargo ocupó Wilford Woodruff antes de ser presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Miembro del Quórum de los Doce Apóstoles",
+    incorrect_answers: [
+      "Obispo Presidente",
+      "Presidente de la Estaca de Nauvoo",
+      "Secretario de la Primera Presidencia"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff fue miembro del Quórum de los Doce Apóstoles antes de ser presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue Obispo Presidente.",
+        "No fue presidente de la Estaca de Nauvoo.",
+        "No sirvió como secretario de la Primera Presidencia."
+      ]
+    }
+  },
+  {
+    id: 2399,
+    difficulty: "Fácil",
+    question: "¿En qué año fue sostenido Wilford Woodruff como presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "1889",
+    incorrect_answers: ["1887", "1890", "1895"],
+    justifications: {
+      correct_answer: "Wilford Woodruff fue sostenido como presidente de la Iglesia en 1889.",
+      incorrect_answers: [
+        "1887 fue el año de la muerte de John Taylor.",
+        "1890 es el año del Manifiesto.",
+        "1895 es después de su llamamiento."
+      ]
+    }
+  },
+  {
+    id: 2400,
+    difficulty: "Difícil",
+    question: "¿Qué principio defendió Wilford Woodruff durante su presidencia que llevó a cambios significativos en la Iglesia?",
+    category:  profetas ,
+    correct_answer: "El fin de la práctica del matrimonio plural",
+    incorrect_answers: [
+      "La construcción de templos",
+      "La Palabra de Sabiduría",
+      "La Ley de Consagración"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff defendió el fin de la práctica del matrimonio plural, lo que llevó a cambios significativos en la Iglesia.",
+      incorrect_answers: [
+        "La construcción de templos no fue el enfoque principal de su presidencia.",
+        "La Palabra de Sabiduría no fue el enfoque principal de su presidencia.",
+        "La Ley de Consagración no fue el enfoque principal de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2401,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el inicio de la presidencia de Wilford Woodruff?",
+    category:  profetas ,
+    correct_answer: "La muerte de John Taylor",
+    incorrect_answers: [
+      "La finalización del Templo de Salt Lake",
+      "La publicación del Manifiesto",
+      "La llegada a Utah"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff asumió la presidencia de la Iglesia después de la muerte de John Taylor en 1887.",
+      incorrect_answers: [
+        "El Templo de Salt Lake no se completó durante su presidencia.",
+        "El Manifiesto fue publicado durante su presidencia, pero no marcó su inicio.",
+        "La llegada a Utah ocurrió antes de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2402,
+    difficulty: "Fácil",
+    question: "¿Qué apodo se le dio a Wilford Woodruff debido a su dedicación a la obra misional?",
+    category:  profetas ,
+    correct_answer: "El Misionero Infatigable",
+    incorrect_answers: [
+      "El Defensor de Sion",
+      "El Profeta del Desierto",
+      "El Constructor de Templos"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff fue llamado 'El Misionero Infatigable' por su dedicación a la obra misional.",
+      incorrect_answers: [
+        "No se le conoce como 'El Defensor de Sion'.",
+        "No se le conoce como 'El Profeta del Desierto'.",
+        "No se le conoce como 'El Constructor de Templos'."
+      ]
+    }
+  },
+  {
+    id: 2403,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Wilford Woodruff destacó la importancia de la revelación continua?",
+    category:  profetas ,
+    correct_answer: "La Iglesia debe ser guiada por revelación divina",
+    incorrect_answers: [
+      "La revelación es innecesaria en la actualidad",
+      "La revelación solo ocurrió en el pasado",
+      "La revelación es solo para los profetas"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la Iglesia debe ser guiada por revelación divina.",
+      incorrect_answers: [
+        "No enseñó que la revelación es innecesaria.",
+        "No enseñó que la revelación solo ocurrió en el pasado.",
+        "No enseñó que la revelación es solo para los profetas."
+      ]
+    }
+  },
+  {
+    id: 2404,
+    difficulty: "Medio",
+    question: "¿Qué principio económico promovió Wilford Woodruff durante su presidencia?",
+    category:  profetas ,
+    correct_answer: "La autosuficiencia y la cooperación",
+    incorrect_answers: [
+      "La dependencia del gobierno federal",
+      "La expansión de la deuda pública",
+      "La privatización de los recursos"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff promovió la autosuficiencia y la cooperación entre los santos.",
+      incorrect_answers: [
+        "No promovió la dependencia del gobierno federal.",
+        "No promovió la expansión de la deuda pública.",
+        "No promovió la privatización de los recursos."
+      ]
+    }
+  },
+  {
+    id: 2405,
+    difficulty: "Fácil",
+    question: "¿Qué evento llevó a Wilford Woodruff a publicar el Manifiesto?",
+    category:  profetas ,
+    correct_answer: "La presión del gobierno de los Estados Unidos",
+    incorrect_answers: [
+      "La construcción del Templo de Salt Lake",
+      "La publicación de Doctrina y Convenios",
+      "La llegada a Utah"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff publicó el Manifiesto debido a la presión del gobierno de los Estados Unidos.",
+      incorrect_answers: [
+        "La construcción del Templo de Salt Lake no fue la causa.",
+        "Doctrina y Convenios fue publicada antes.",
+        "La llegada a Utah ocurrió antes."
+      ]
+    }
+  },
+  {
+    id: 2406,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Wilford Woodruff destacó la importancia de la familia?",
+    category:  profetas ,
+    correct_answer: "La familia es fundamental para la salvación",
+    incorrect_answers: [
+      "La familia es secundaria a la iglesia",
+      "La familia no es necesaria para la exaltación",
+      "La familia es solo para esta vida"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la familia es fundamental para la salvación.",
+      incorrect_answers: [
+        "No enseñó que la familia es secundaria.",
+        "No enseñó que la familia no es necesaria.",
+        "No enseñó que la familia es solo para esta vida."
+      ]
+    }
+  },
+  {
+    id: 2407,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó Wilford Woodruff sobre la obediencia a las leyes de Dios?",
+    category:  profetas ,
+    correct_answer: "La obediencia trae bendiciones",
+    incorrect_answers: [
+      "La obediencia es innecesaria para la salvación",
+      "La obediencia es solo para los líderes",
+      "La obediencia no tiene recompensa"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la obediencia a las leyes de Dios trae bendiciones.",
+      incorrect_answers: [
+        "No enseñó que la obediencia es innecesaria.",
+        "No enseñó que la obediencia es solo para los líderes.",
+        "No enseñó que la obediencia no tiene recompensa."
+      ]
+    }
+  },
+  {
+    id: 2408,
+    difficulty: "Fácil",
+    question: "¿Qué evento marcó el final de la presidencia de Wilford Woodruff?",
+    category:  profetas ,
+    correct_answer: "Su muerte en 1898",
+    incorrect_answers: [
+      "La publicación del Manifiesto",
+      "La finalización del Templo de Salt Lake",
+      "La llegada a Utah"
+    ],
+    justifications: {
+      correct_answer: "La presidencia de Wilford Woodruff terminó con su muerte en 1898.",
+      incorrect_answers: [
+        "El Manifiesto fue publicado durante su presidencia.",
+        "El Templo de Salt Lake no se completó durante su presidencia.",
+        "La llegada a Utah ocurrió antes de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2409,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Wilford Woodruff destacó la importancia de la expiación de Jesucristo?",
+    category:  profetas ,
+    correct_answer: "La expiación es el centro del plan de salvación",
+    incorrect_answers: [
+      "La expiación es solo para los pecadores",
+      "La expiación no es necesaria para la salvación",
+      "La expiación es solo simbólica"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la expiación de Jesucristo es el centro del plan de salvación.",
+      incorrect_answers: [
+        "No enseñó que la expiación es solo para los pecadores.",
+        "No enseñó que la expiación no es necesaria.",
+        "No enseñó que la expiación es solo simbólica."
+      ]
+    }
+  },
+  {
+    id: 2410,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó Wilford Woodruff sobre la importancia de la oración?",
+    category:  profetas ,
+    correct_answer: "La oración es esencial para recibir guía divina",
+    incorrect_answers: [
+      "La oración es innecesaria para los justos",
+      "La oración es solo para los líderes",
+      "La oración no tiene poder real"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la oración es esencial para recibir guía divina.",
+      incorrect_answers: [
+        "No enseñó que la oración es innecesaria.",
+        "No enseñó que la oración es solo para los líderes.",
+        "No enseñó que la oración no tiene poder."
+      ]
+    }
+  },
+  {
+    id: 2411,
+    difficulty: "Fácil",
+    question: "¿Qué frase famosa se atribuye a Wilford Woodruff sobre la libertad?",
+    category:  profetas ,
+    correct_answer: "La libertad es un don divino que debe protegerse",
+    incorrect_answers: [
+      "La libertad es solo para los fuertes",
+      "La libertad es innecesaria para la salvación",
+      "La libertad es solo un concepto terrenal"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que 'La libertad es un don divino que debe protegerse'.",
+      incorrect_answers: [
+        "No enseñó que la libertad es solo para los fuertes.",
+        "No enseñó que la libertad es innecesaria.",
+        "No enseñó que la libertad es solo un concepto terrenal."
+      ]
+    }
+  },
+  {
+    id: 2412,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Wilford Woodruff destacó la importancia de la perseverancia?",
+    category:  profetas ,
+    correct_answer: "La perseverancia es clave para superar las pruebas",
+    incorrect_answers: [
+      "La perseverancia es innecesaria para los justos",
+      "La perseverancia es solo para los líderes",
+      "La perseverancia no tiene recompensa"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la perseverancia es clave para superar las pruebas.",
+      incorrect_answers: [
+        "No enseñó que la perseverancia es innecesaria.",
+        "No enseñó que la perseverancia es solo para los líderes.",
+        "No enseñó que la perseverancia no tiene recompensa."
+      ]
+    }
+  },
+  {
+    id: 2413,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó Wilford Woodruff sobre la importancia de la humildad?",
+    category:  profetas ,
+    correct_answer: "La humildad es esencial para recibir revelación",
+    incorrect_answers: [
+      "La humildad es innecesaria para los justos",
+      "La humildad es solo para los líderes",
+      "La humildad no tiene poder real"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la humildad es esencial para recibir revelación.",
+      incorrect_answers: [
+        "No enseñó que la humildad es innecesaria.",
+        "No enseñó que la humildad es solo para los líderes.",
+        "No enseñó que la humildad no tiene poder."
+      ]
+    }
+  },
+  {
+    id: 2414,
+    difficulty: "Fácil",
+    question: "¿Qué evento llevó a Wilford Woodruff a ser conocido como un gran misionero?",
+    category:  profetas ,
+    correct_answer: "Su trabajo misional en Inglaterra",
+    incorrect_answers: [
+      "Su liderazgo en la construcción de templos",
+      "Su participación en la Guerra de Utah",
+      "Su trabajo en la Sociedad de Socorro"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff fue conocido por su trabajo misional en Inglaterra, donde bautizó a muchas personas.",
+      incorrect_answers: [
+        "No fue conocido principalmente por la construcción de templos.",
+        "No participó directamente en la Guerra de Utah.",
+        "No fue conocido por su trabajo en la Sociedad de Socorro."
+      ]
+    }
+  },
+  {
+    id: 2415,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Wilford Woodruff destacó la importancia de la obra vicaria?",
+    category:  profetas ,
+    correct_answer: "La obra vicaria es esencial para la salvación de los muertos",
+    incorrect_answers: [
+      "La obra vicaria es innecesaria para la salvación",
+      "La obra vicaria es solo para los líderes",
+      "La obra vicaria no tiene poder real"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la obra vicaria es esencial para la salvación de los muertos.",
+      incorrect_answers: [
+        "No enseñó que la obra vicaria es innecesaria.",
+        "No enseñó que la obra vicaria es solo para los líderes.",
+        "No enseñó que la obra vicaria no tiene poder."
+      ]
+    }
+  },
+  {
+    id: 2416,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó Wilford Woodruff sobre la importancia de la gratitud?",
+    category:  profetas ,
+    correct_answer: "La gratitud es esencial para recibir bendiciones",
+    incorrect_answers: [
+      "La gratitud es innecesaria para los justos",
+      "La gratitud es solo para los líderes",
+      "La gratitud no tiene poder real"
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la gratitud es esencial para recibir bendiciones.",
+      incorrect_answers: [
+        "No enseñó que la gratitud es innecesaria.",
+        "No enseñó que la gratitud es solo para los líderes.",
+        "No enseñó que la gratitud no tiene poder."
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+/* 
+Lorenzo Snow (3 de abril de 1814 – 10 de octubre de 1901)
+
+Duración: 13 de septiembre de 1898 – 10 de octubre de 1901
+
+Enfatizó el diezmo y la autosuficiencia. */
+
+
+{
+  id: 2417,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza clave enfatizó Lorenzo Snow sobre la relación entre la obediencia y las bendiciones?",
+  category:  profetas ,
+  correct_answer: "La obediencia precede a las bendiciones, y estas dependen de la ley sobre la cual se basan.",
+  incorrect_answers: [
+    "Las bendiciones son aleatorias y no dependen de la obediencia.",
+    "La obediencia es opcional para recibir bendiciones espirituales.",
+    "Las bendiciones son solo materiales y no están relacionadas con la obediencia."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow enseñó: 'Así como la lluvia desciende del cielo, así las bendiciones dependen de la obediencia a las leyes de Dios' (Doctrina y Convenios 130:20-21).",
+    incorrect_answers: [
+      "Las bendiciones no son aleatorias; están vinculadas a la obediencia.",
+      "La obediencia es esencial para recibir bendiciones espirituales.",
+      "Las bendiciones incluyen tanto aspectos materiales como espirituales."
+    ]
+  }
+},
+{
+  id: 2418,
+  difficulty: "Medio",
+  question: "¿Qué frase es más conocida de Lorenzo Snow y resume su enfoque sobre la vida cristiana?",
+  category:  profetas ,
+  correct_answer: "Como ahora es el hombre, Dios una vez fue; como Dios es ahora, el hombre puede llegar a ser.",
+  incorrect_answers: [
+    "La fe sin obras es suficiente para la salvación.",
+    "El arrepentimiento es innecesario para la redención.",
+    "La vida eterna se obtiene solo mediante el bautismo."
+  ],
+  justifications: {
+    correct_answer: "Esta frase refleja la doctrina de la exaltación y la naturaleza divina del hombre (Doctrina y Convenios 132:20).",
+    incorrect_answers: [
+      "La fe sin obras está muerta (Santiago 2:17).",
+      "El arrepentimiento es esencial para la redención (Alma 34:15).",
+      "El bautismo es necesario, pero no es el único requisito para la vida eterna (2 Nefi 31:17)."
+    ]
+  }
+},
+{
+  id: 2419,
+  difficulty: "Fácil",
+  question: "¿En qué año fue ordenado Lorenzo Snow como presidente de La Iglesia de Jesucristo de los Santos de los Últimos Días?",
+  category:  profetas ,
+  correct_answer: "1898",
+  incorrect_answers: [
+    "1889",
+    "1901",
+    "1877"
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow fue ordenado presidente de la Iglesia el 13 de septiembre de 1898.",
+    incorrect_answers: [
+      "1889 fue el año en que fue llamado al Quórum de los Doce Apóstoles.",
+      "1901 fue el año de su fallecimiento.",
+      "1877 fue el año en que se dedicó el Templo de St. George."
+    ]
+  }
+},
+{
+  id: 2420,
+  difficulty: "Difícil",
+  question: "¿Qué principio enseñó Lorenzo Snow sobre la importancia de la educación secular y espiritual?",
+  category:  profetas ,
+  correct_answer: "La educación secular y espiritual deben equilibrarse para el desarrollo completo del individuo.",
+  incorrect_answers: [
+    "La educación secular es innecesaria para la salvación.",
+    "La educación espiritual es secundaria a la secular.",
+    "Solo la educación espiritual es esencial para la vida eterna."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow enseñó que 'la mente debe cultivarse tanto en lo secular como en lo espiritual' (Doctrina y Convenios 88:118).",
+    incorrect_answers: [
+      "La educación secular puede ser una herramienta para el progreso espiritual.",
+      "La educación espiritual es tan importante como la secular.",
+      "Ambas formas de educación son necesarias para el progreso eterno."
+    ]
+  }
+},
+{
+  id: 2421,
+  difficulty: "Medio",
+  question: "¿Qué reforma financiera implementó Lorenzo Snow para ayudar a la Iglesia a salir de la deuda?",
+  category:  profetas ,
+  correct_answer: "Enfatizó el pago de diezmos completos por parte de los miembros.",
+  incorrect_answers: [
+    "Vendió propiedades de la Iglesia para cubrir gastos.",
+    "Redujo los programas de bienestar de la Iglesia.",
+    "Implementó impuestos adicionales a los miembros."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow promovió el pago de diezmos completos, lo que ayudó a la Iglesia a salir de la deuda (Malaquías 3:10).",
+    incorrect_answers: [
+      "No vendió propiedades, sino que confió en la obediencia de los miembros.",
+      "No redujo los programas de bienestar.",
+      "No implementó impuestos adicionales."
+    ]
+  }
+},
+{
+  id: 2422,
+  difficulty: "Fácil",
+  question: "¿Cuál fue el lugar de nacimiento de Lorenzo Snow?",
+  category:  profetas ,
+  correct_answer: "Mantua, Ohio",
+  incorrect_answers: [
+    "Salt Lake City, Utah",
+    "Nauvoo, Illinois",
+    "Palmyra, Nueva York"
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow nació el 3 de abril de 1814 en Mantua, Ohio.",
+    incorrect_answers: [
+      "Salt Lake City fue donde sirvió como presidente de la Iglesia.",
+      "Nauvoo fue un lugar importante en la historia de la Iglesia, pero no su lugar de nacimiento.",
+      "Palmyra es conocido por la publicación del Libro de Mormón."
+    ]
+  }
+},
+{
+  id: 2423,
+  difficulty: "Difícil",
+  question: "¿Qué visión tuvo Lorenzo Snow en el Templo de Salt Lake que reforzó su testimonio de Jesucristo?",
+  category:  profetas ,
+  correct_answer: "Vio a Jesucristo en el Templo de Salt Lake.",
+  incorrect_answers: [
+    "Recibió una revelación sobre la construcción de nuevos templos.",
+    "Tuvo una visión de los cielos abiertos y ángeles descendiendo.",
+    "Vio una visión simbólica del futuro de la Iglesia."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow testificó haber visto a Jesucristo en el Templo de Salt Lake, lo que fortaleció su testimonio.",
+    incorrect_answers: [
+      "No recibió una revelación sobre nuevos templos en esa ocasión.",
+      "No mencionó una visión de ángeles descendiendo.",
+      "No describió una visión simbólica del futuro de la Iglesia."
+    ]
+  }
+},
+{
+  id: 2424,
+  difficulty: "Medio",
+  question: "¿Qué papel desempeñó Lorenzo Snow en la colonización de Utah?",
+  category:  profetas ,
+  correct_answer: "Fue un líder en la colonización y establecimiento de comunidades en Utah.",
+  incorrect_answers: [
+    "Se opuso a la colonización de Utah.",
+    "Fue enviado a misiones fuera de Utah durante ese período.",
+    "No participó activamente en la colonización."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow ayudó a establecer varias comunidades en Utah, incluyendo Brigham City.",
+    incorrect_answers: [
+      "No se opuso a la colonización; fue un defensor activo.",
+      "Aunque sirvió en misiones, también participó en la colonización.",
+      "Fue un líder activo en la colonización."
+    ]
+  }
+},
+{
+  id: 2425,
+  difficulty: "Fácil",
+  question: "¿Cuántos años tenía Lorenzo Snow cuando falleció?",
+  category:  profetas ,
+  correct_answer: "87 años",
+  incorrect_answers: [
+    "78 años",
+    "92 años",
+    "81 años"
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow falleció el 10 de octubre de 1901 a la edad de 87 años.",
+    incorrect_answers: [
+      "78 años no corresponde a su edad al fallecer.",
+      "92 años es incorrecto.",
+      "81 años no es correcto."
+    ]
+  }
+},
+{
+  id: 2426,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Lorenzo Snow destaca la importancia de la familia en el plan de salvación?",
+  category:  profetas ,
+  correct_answer: "La familia es central en el plan de Dios y las relaciones familiares pueden ser eternas.",
+  incorrect_answers: [
+    "La familia es temporal y no tiene relevancia en la eternidad.",
+    "La salvación es individual y no involucra a la familia.",
+    "Las relaciones familiares terminan con la muerte."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow enseñó que 'la familia es la unidad central en el plan de Dios' (Doctrina y Convenios 131:1-4).",
+    incorrect_answers: [
+      "La familia es eterna y no temporal.",
+      "La salvación incluye a la familia.",
+      "Las relaciones familiares pueden ser eternas."
+    ]
+  }
+},
+{
+  id: 2427,
+  difficulty: "Medio",
+  question: "¿Qué cargo eclesiástico ocupó Lorenzo Snow antes de ser presidente de la Iglesia?",
+  category:  profetas ,
+  correct_answer: "Fue miembro del Quórum de los Doce Apóstoles.",
+  incorrect_answers: [
+    "Fue presidente de estaca.",
+    "Fue obispo de una congregación local.",
+    "Fue setenta presidente."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow fue llamado al Quórum de los Doce Apóstoles en 1849.",
+    incorrect_answers: [
+      "No fue presidente de estaca antes de ser apóstol.",
+      "No sirvió como obispo antes de ser apóstol.",
+      "No fue setenta presidente antes de ser apóstol."
+    ]
+  }
+},
+{
+  id: 2428,
+  difficulty: "Fácil",
+  question: "¿En qué año Lorenzo Snow fue bautizado en La Iglesia de Jesucristo de los Santos de los Últimos Días?",
+  category:  profetas ,
+  correct_answer: "1836",
+  incorrect_answers: [
+    "1840",
+    "1832",
+    "1844"
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow fue bautizado en junio de 1836.",
+    incorrect_answers: [
+      "1840 no es el año correcto.",
+      "1832 es incorrecto.",
+      "1844 no corresponde."
+    ]
+  }
+},
+{
+  id: 2429,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Lorenzo Snow destaca la importancia de la autosuficiencia?",
+  category:  profetas ,
+  correct_answer: "Enfatizó la necesidad de ser autosuficientes tanto espiritual como temporalmente.",
+  incorrect_answers: [
+    "Enseñó que la autosuficiencia no es necesaria para la salvación.",
+    "Dijo que la autosuficiencia es solo temporal y no espiritual.",
+    "Afirmó que la autosuficiencia es imposible de alcanzar."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow enseñó que 'la autosuficiencia es un principio divino' (Doctrina y Convenios 78:13-14).",
+    incorrect_answers: [
+      "La autosuficiencia es importante tanto temporal como espiritualmente.",
+      "Es un principio aplicable en ambos aspectos.",
+      "Es un objetivo alcanzable con esfuerzo."
+    ]
+  }
+},
+{
+  id: 2430,
+  difficulty: "Medio",
+  question: "¿Qué misión cumplió Lorenzo Snow en Inglaterra?",
+  category:  profetas ,
+  correct_answer: "Sirvió como presidente de la misión británica.",
+  incorrect_answers: [
+    "Fue enviado como misionero regular.",
+    "No sirvió en Inglaterra.",
+    "Fue llamado a servir en Escocia."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow presidió la misión británica de 1840 a 1843.",
+    incorrect_answers: [
+      "No fue un misionero regular, sino presidente de la misión.",
+      "Sí sirvió en Inglaterra.",
+      "No fue llamado específicamente a Escocia."
+    ]
+  }
+},
+{
+  id: 2431,
+  difficulty: "Fácil",
+  question: "¿Cuál fue el nombre de la esposa de Lorenzo Snow?",
+  category:  profetas ,
+  correct_answer: "Charlotte Squires",
+  incorrect_answers: [
+    "Emma Smith",
+    "Eliza R. Snow",
+    "Lucy Mack Smith"
+  ],
+  justifications: {
+    correct_answer: "Charlotte Squires fue una de las esposas de Lorenzo Snow.",
+    incorrect_answers: [
+      "Emma Smith fue la esposa de José Smith.",
+      "Eliza R. Snow fue su hermana, no su esposa.",
+      "Lucy Mack Smith fue la madre de José Smith."
+    ]
+  }
+},
+{
+  id: 2432,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Lorenzo Snow destaca la importancia de la humildad en el liderazgo?",
+  category:  profetas ,
+  correct_answer: "Enseñó que los líderes deben ser siervos humildes y seguir el ejemplo de Cristo.",
+  incorrect_answers: [
+    "Dijo que el liderazgo debe ser autoritario y firme.",
+    "Enseñó que la humildad no es necesaria para los líderes.",
+    "Afirmó que el liderazgo debe basarse en el poder y la influencia."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow enseñó que 'el liderazgo verdadero se basa en la humildad y el servicio' (Mateo 20:26-28).",
+    incorrect_answers: [
+      "El liderazgo no debe ser autoritario, sino servicial.",
+      "La humildad es esencial para los líderes.",
+      "El liderazgo no se basa en el poder, sino en el servicio."
+    ]
+  }
+},
+{
+  id: 2433,
+  difficulty: "Medio",
+  question: "¿Qué contribución hizo Lorenzo Snow a la educación en Utah?",
+  category:  profetas ,
+  correct_answer: "Fundó la Academia Brigham Young en Brigham City.",
+  incorrect_answers: [
+    "Estableció la Universidad de Utah.",
+    "Creó el primer sistema escolar público en Utah.",
+    "No participó en la educación en Utah."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow fundó la Academia Brigham Young, que más tarde se convirtió en la Universidad Brigham Young.",
+    incorrect_answers: [
+      "No estableció la Universidad de Utah.",
+      "No creó el primer sistema escolar público.",
+      "Fue un defensor activo de la educación."
+    ]
+  }
+},
+{
+  id: 2434,
+  difficulty: "Fácil",
+  question: "¿En qué año Lorenzo Snow fue llamado como apóstol?",
+  category:  profetas ,
+  correct_answer: "1849",
+  incorrect_answers: [
+    "1835",
+    "1851",
+    "1860"
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow fue llamado al Quórum de los Doce Apóstoles el 12 de febrero de 1849.",
+    incorrect_answers: [
+      "1835 no es el año correcto.",
+      "1851 es incorrecto.",
+      "1860 no corresponde."
+    ]
+  }
+},
+{
+  id: 2435,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Lorenzo Snow destaca la importancia de la perseverancia en la fe?",
+  category:  profetas ,
+  correct_answer: "Enseñó que la perseverancia en la fe es esencial para superar las pruebas y alcanzar la exaltación.",
+  incorrect_answers: [
+    "Dijo que la fe no necesita ser probada para ser válida.",
+    "Enseñó que la perseverancia es innecesaria si se tiene fe.",
+    "Afirmó que las pruebas son un signo de falta de fe."
+  ],
+  justifications: {
+    correct_answer: "Lorenzo Snow enseñó que 'la perseverancia en la fe nos prepara para la exaltación' (2 Nefi 31:20).",
+    incorrect_answers: [
+      "La fe es probada para fortalecerse.",
+      "La perseverancia es necesaria junto con la fe.",
+      "Las pruebas son parte del crecimiento espiritual."
+    ]
+  }
+},
+
+
+
+
+
+/* Joseph F. Smith (13 de noviembre de 1838 – 19 de noviembre de 1918)
+
+Duración: 17 de octubre de 1901 – 19 de noviembre de 1918
+
+Hijo de Hyrum Smith, sobrino de José Smith. */
+
+
+  {
+    id: 2437,
+    difficulty: "Difícil",
+    question: "¿En qué año Joseph F. Smith recibió la visión conocida como 'La Visión de la Redención de los Muertos'?",
+    category:  profetas ,
+    correct_answer: "1918",
+    incorrect_answers: ["1904", "1925", "1899"],
+    justifications: {
+      correct_answer: "Joseph F. Smith recibió esta visión el 3 de octubre de 1918, como se registra en Doctrina y Convenios 138.",
+      incorrect_answers: [
+        "1904 fue un año significativo, pero no está relacionado con esta visión.",
+        "1925 es posterior al fallecimiento de Joseph F. Smith.",
+        "1899 no coincide con el año de la visión."
+      ]
+    }
+  },
+  {
+    id: 2438,
+    difficulty: "Medio",
+    question: "¿Cuál fue el cargo eclesiástico más importante que Joseph F. Smith ocupó en la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Presidente de La Iglesia de Jesucristo de los Santos de los Últimos Días",
+    incorrect_answers: [
+      "Apóstol",
+      "Setenta",
+      "Obispo Presidente"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith fue el sexto Presidente de la Iglesia, sirviendo desde 1901 hasta 1918.",
+      incorrect_answers: [
+        "Fue apóstol, pero su cargo más alto fue el de Presidente.",
+        "No sirvió como Setenta Presidente.",
+        "El Obispo Presidente es un cargo diferente."
+      ]
+    }
+  },
+  {
+    id: 2439,
+    difficulty: "Fácil",
+    question: "¿Quién fue el padre de Joseph F. Smith?",
+    category:  profetas ,
+    correct_answer: "Hyrum Smith",
+    incorrect_answers: [
+      "Joseph Smith Sr.",
+      "Brigham Young",
+      "John Smith"
+    ],
+    justifications: {
+      correct_answer: "Hyrum Smith, hermano de José Smith, fue el padre de Joseph F. Smith.",
+      incorrect_answers: [
+        "Joseph Smith Sr. fue el abuelo de Joseph F. Smith.",
+        "Brigham Young no era su padre.",
+        "John Smith fue un líder de la Iglesia, pero no su padre."
+      ]
+    }
+  },
+  {
+    id: 2440,
+    difficulty: "Difícil",
+    question: "¿Qué evento histórico ocurrió durante la presidencia de Joseph F. Smith que afectó a la Iglesia mundialmente?",
+    category:  profetas ,
+    correct_answer: "La publicación del Manifiesto que puso fin a la práctica del matrimonio plural",
+    incorrect_answers: [
+      "La construcción del Templo de Salt Lake",
+      "El éxodo de los Santos de Nauvoo",
+      "La organización de la Primera Presidencia"
+    ],
+    justifications: {
+      correct_answer: "El Manifiesto fue publicado en 1890, pero su impacto continuó durante la presidencia de Joseph F. Smith.",
+      incorrect_answers: [
+        "El Templo de Salt Lake se completó antes de su presidencia.",
+        "El éxodo de Nauvoo ocurrió décadas antes.",
+        "La Primera Presidencia se organizó antes de su tiempo."
+      ]
+    }
+  },
+  {
+    id: 2441,
+    difficulty: "Medio",
+    question: "¿Cuántos años tenía Joseph F. Smith cuando fue ordenado apóstol?",
+    category:  profetas ,
+    correct_answer: "27 años",
+    incorrect_answers: [
+      "35 años",
+      "40 años",
+      "22 años"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith fue ordenado apóstol el 1 de julio de 1866, a la edad de 27 años.",
+      incorrect_answers: [
+        "35 años no coincide con su edad en ese momento.",
+        "40 años es posterior a su ordenación.",
+        "22 años es demasiado joven para su ordenación."
+      ]
+    }
+  },
+  {
+    id: 2442,
+    difficulty: "Fácil",
+    question: "¿En qué ciudad nació Joseph F. Smith?",
+    category:  profetas ,
+    correct_answer: "Far West, Misuri",
+    incorrect_answers: [
+      "Nauvoo, Illinois",
+      "Salt Lake City, Utah",
+      "Kirtland, Ohio"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith nació en Far West, Misuri, el 13 de noviembre de 1838.",
+      incorrect_answers: [
+        "Nauvoo fue un lugar importante, pero no su lugar de nacimiento.",
+        "Salt Lake City no es su lugar de nacimiento.",
+        "Kirtland fue significativo, pero no es donde nació."
+      ]
+    }
+  },
+  {
+    id: 2443,
+    difficulty: "Difícil",
+    question: "¿Qué libro de escrituras modernas contiene la visión de Joseph F. Smith sobre la redención de los muertos?",
+    category:  profetas ,
+    correct_answer: "Doctrina y Convenios",
+    incorrect_answers: [
+      "El Libro de Mormón",
+      "La Perla de Gran Precio",
+      "La Biblia"
+    ],
+    justifications: {
+      correct_answer: "La visión se encuentra en Doctrina y Convenios, sección 138.",
+      incorrect_answers: [
+        "El Libro de Mormón no contiene esta visión.",
+        "La Perla de Gran Precio no incluye esta revelación.",
+        "La Biblia no tiene registros de esta visión."
+      ]
+    }
+  },
+  {
+    id: 2444,
+    difficulty: "Medio",
+    question: "¿Cuántos hijos tuvo Joseph F. Smith?",
+    category:  profetas ,
+    correct_answer: "45 hijos",
+    incorrect_answers: [
+      "12 hijos",
+      "30 hijos",
+      "50 hijos"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith tuvo 45 hijos con sus esposas.",
+      incorrect_answers: [
+        "12 hijos es un número incorrecto.",
+        "30 hijos no coincide con los registros históricos.",
+        "50 hijos es una exageración."
+      ]
+    }
+  },
+  {
+    id: 2445,
+    difficulty: "Fácil",
+    question: "¿Qué edad tenía Joseph F. Smith cuando su padre, Hyrum Smith, fue martirizado?",
+    category:  profetas ,
+    correct_answer: "5 años",
+    incorrect_answers: [
+      "10 años",
+      "15 años",
+      "20 años"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith tenía solo 5 años cuando su padre fue martirizado en 1844.",
+      incorrect_answers: [
+        "10 años no coincide con su edad en ese momento.",
+        "15 años es incorrecto.",
+        "20 años es demasiado mayor."
+      ]
+    }
+  },
+  {
+    id: 2446,
+    difficulty: "Difícil",
+    question: "¿Qué título oficial tenía Joseph F. Smith cuando fue llamado a ser apóstol?",
+    category:  profetas ,
+    correct_answer: "No tenía un título oficial antes de ser apóstol",
+    incorrect_answers: [
+      "Setenta",
+      "Obispo",
+      "Presidente de Estaca"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith no tenía un título oficial antes de ser llamado como apóstol.",
+      incorrect_answers: [
+        "No era Setenta antes de ser apóstol.",
+        "No sirvió como obispo antes de su llamamiento.",
+        "No fue presidente de estaca antes de ser apóstol."
+      ]
+    }
+  },
+  {
+    id: 2447,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el final de la presidencia de Joseph F. Smith?",
+    category:  profetas ,
+    correct_answer: "Su fallecimiento en 1918",
+    incorrect_answers: [
+      "La finalización del Templo de Salt Lake",
+      "El fin de la práctica del matrimonio plural",
+      "La organización de la Primera Presidencia"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith falleció el 19 de noviembre de 1918, marcando el final de su presidencia.",
+      incorrect_answers: [
+        "El Templo de Salt Lake se completó antes de su presidencia.",
+        "El fin del matrimonio plural ocurrió antes.",
+        "La Primera Presidencia ya estaba organizada."
+      ]
+    }
+  },
+  {
+    id: 2448,
+    difficulty: "Fácil",
+    question: "¿Qué relación tenía Joseph F. Smith con el profeta José Smith?",
+    category:  profetas ,
+    correct_answer: "Era su sobrino",
+    incorrect_answers: [
+      "Era su hermano",
+      "Era su primo",
+      "Era su hijo"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith era el sobrino de José Smith, hijo de Hyrum Smith.",
+      incorrect_answers: [
+        "No era su hermano.",
+        "No era su primo.",
+        "No era su hijo."
+      ]
+    }
+  },
+  {
+    id: 2449,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza clave de Joseph F. Smith se enfocó en la redención de los muertos?",
+    category:  profetas ,
+    correct_answer: "La importancia de las ordenanzas vicarias",
+    incorrect_answers: [
+      "La necesidad de predicar el evangelio",
+      "La construcción de templos",
+      "La obediencia a la ley del diezmo"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith enfatizó la importancia de las ordenanzas vicarias para la redención de los muertos.",
+      incorrect_answers: [
+        "Predicar el evangelio es importante, pero no es el enfoque de esta enseñanza.",
+        "La construcción de templos es crucial, pero no es el tema central.",
+        "El diezmo es importante, pero no está relacionado con esta enseñanza."
+      ]
+    }
+  },
+  {
+    id: 2450,
+    difficulty: "Medio",
+    question: "¿Qué edad tenía Joseph F. Smith cuando fue llamado como apóstol?",
+    category:  profetas ,
+    correct_answer: "27 años",
+    incorrect_answers: [
+      "35 años",
+      "40 años",
+      "22 años"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith fue llamado como apóstol a la edad de 27 años en 1866.",
+      incorrect_answers: [
+        "35 años no coincide con su edad en ese momento.",
+        "40 años es incorrecto.",
+        "22 años es demasiado joven."
+      ]
+    }
+  },
+  {
+    id: 2451,
+    difficulty: "Fácil",
+    question: "¿Qué cargo ocupó Joseph F. Smith antes de ser Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Setenta",
+      "Obispo",
+      "Presidente de Estaca"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith sirvió como apóstol antes de ser Presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue Setenta antes de ser Presidente.",
+        "No sirvió como obispo antes de ser Presidente.",
+        "No fue presidente de estaca antes de ser Presidente."
+      ]
+    }
+  },
+  {
+    id: 2452,
+    difficulty: "Difícil",
+    question: "¿Qué evento importante ocurrió en 1901 relacionado con Joseph F. Smith?",
+    category:  profetas ,
+    correct_answer: "Fue sostenido como Presidente de la Iglesia",
+    incorrect_answers: [
+      "Recibió la visión de la redención de los muertos",
+      "Se completó el Templo de Salt Lake",
+      "Se publicó el Manifiesto"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith fue sostenido como Presidente de la Iglesia en 1901.",
+      incorrect_answers: [
+        "La visión de la redención de los muertos ocurrió en 1918.",
+        "El Templo de Salt Lake se completó en 1893.",
+        "El Manifiesto se publicó en 1890."
+      ]
+    }
+  },
+  {
+    id: 2453,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de Joseph F. Smith se centró en la familia?",
+    category:  profetas ,
+    correct_answer: "La importancia de la unidad familiar eterna",
+    incorrect_answers: [
+      "La necesidad de la obediencia estricta",
+      "La importancia del estudio de las escrituras",
+      "La práctica del ayuno regular"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith enseñó sobre la unidad familiar eterna como un principio central.",
+      incorrect_answers: [
+        "La obediencia es importante, pero no es el enfoque de esta enseñanza.",
+        "El estudio de las escrituras es crucial, pero no es el tema central.",
+        "El ayuno es una práctica importante, pero no está relacionado con esta enseñanza."
+      ]
+    }
+  },
+  {
+    id: 2454,
+    difficulty: "Fácil",
+    question: "¿En qué año falleció Joseph F. Smith?",
+    category:  profetas ,
+    correct_answer: "1918",
+    incorrect_answers: [
+      "1901",
+      "1925",
+      "1930"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith falleció el 19 de noviembre de 1918.",
+      incorrect_answers: [
+        "1901 fue el año en que fue sostenido como Presidente.",
+        "1925 es posterior a su fallecimiento.",
+        "1930 no coincide con el año de su muerte."
+      ]
+    }
+  },
+  {
+    id: 2455,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Joseph F. Smith se relaciona con la expiación de Jesucristo?",
+    category:  profetas ,
+    correct_answer: "La redención de los muertos a través de la expiación",
+    incorrect_answers: [
+      "La necesidad de bautizarse por inmersión",
+      "La importancia de guardar el día de reposo",
+      "La práctica de la oración constante"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith enseñó que la expiación de Jesucristo hace posible la redención de los muertos.",
+      incorrect_answers: [
+        "El bautismo es importante, pero no es el enfoque de esta enseñanza.",
+        "Guardar el día de reposo es crucial, pero no está relacionado con esta enseñanza.",
+        "La oración es una práctica vital, pero no es el tema central."
+      ]
+    }
+  },
+  {
+    id: 2456,
+    difficulty: "Medio",
+    question: "¿Qué papel jugó Joseph F. Smith en la expansión de la Iglesia fuera de los Estados Unidos?",
+    category:  profetas ,
+    correct_answer: "Promovió la obra misional internacional",
+    incorrect_answers: [
+      "Envió a los primeros misioneros a Europa",
+      "Construyó templos en Asia",
+      "Organizó la Primera Presidencia en el extranjero"
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith promovió la obra misional internacional durante su presidencia.",
+      incorrect_answers: [
+        "Los primeros misioneros a Europa fueron enviados antes de su presidencia.",
+        "No se construyeron templos en Asia durante su tiempo.",
+        "La Primera Presidencia no se organizó en el extranjero."
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+/* 
+Heber J. Grant (22 de noviembre de 1856 – 14 de mayo de 1945)
+
+Duración: 23 de noviembre de 1918 – 14 de mayo de 1945
+
+Enfatizó la abstinencia de alcohol, tabaco y café. */
+
+
+
+  {
+    id: 2477,
+    difficulty: "Difícil",
+    question: "¿Qué principio enfatizó Heber J. Grant durante su presidencia para fortalecer a los miembros económicamente?",
+    category:  profetas ,
+    correct_answer: "La práctica de la autosuficiencia y el ahorro",
+    incorrect_answers: [
+      "La construcción de más templos",
+      "La expansión de la obra misional",
+      "La obediencia a la ley del diezmo"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant promovió la autosuficiencia y el ahorro durante la Gran Depresión para ayudar a los miembros a superar dificultades económicas.",
+      incorrect_answers: [
+        "La construcción de templos fue importante, pero no fue su enfoque principal en este aspecto.",
+        "La obra misional se expandió, pero no fue el énfasis económico.",
+        "El diezmo es importante, pero no fue el enfoque principal para la autosuficiencia."
+      ]
+    }
+  },
+  {
+    id: 2478,
+    difficulty: "Medio",
+    question: "¿Qué desafío personal superó Heber J. Grant que lo inspiró a enseñar sobre la perseverancia?",
+    category:  profetas ,
+    correct_answer: "Aprendió a jugar béisbol a pesar de su falta de habilidad inicial",
+    incorrect_answers: [
+      "Aprendió a tocar el piano en su vejez",
+      "Superó una enfermedad grave en su infancia",
+      "Ganó una competencia de oratoria"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant practicó incansablemente para jugar béisbol, demostrando que la perseverancia puede superar las limitaciones.",
+      incorrect_answers: [
+        "No hay registros de que aprendiera a tocar el piano en su vejez.",
+        "No se enfocó en superar una enfermedad grave como ejemplo de perseverancia.",
+        "No ganó una competencia de oratoria como parte de su enseñanza."
+      ]
+    }
+  },
+  {
+    id: 2479,
+    difficulty: "Fácil",
+    question: "¿En qué año nació Heber J. Grant?",
+    category:  profetas ,
+    correct_answer: "1856",
+    incorrect_answers: [
+      "1865",
+      "1840",
+      "1870"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant nació el 22 de noviembre de 1856 en Salt Lake City, Utah.",
+      incorrect_answers: [
+        "1865 es incorrecto, ya que es posterior a su nacimiento.",
+        "1840 es anterior a su nacimiento.",
+        "1870 es incorrecto, ya que es posterior a su nacimiento."
+      ]
+    }
+  },
+  {
+    id: 2480,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Heber J. Grant se relaciona con la importancia de la oración constante?",
+    category:  profetas ,
+    correct_answer: "La oración es la llave para recibir guía divina en tiempos difíciles",
+    incorrect_answers: [
+      "La oración debe hacerse solo en el templo",
+      "La oración es innecesaria si se tiene fe",
+      "La oración debe ser breve y concisa"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la oración constante es esencial para recibir guía divina, especialmente en momentos de adversidad.",
+      incorrect_answers: [
+        "La oración no está limitada al templo.",
+        "La oración es fundamental, incluso con fe.",
+        "La oración no tiene que ser breve para ser efectiva."
+      ]
+    }
+  },
+  {
+    id: 2481,
+    difficulty: "Medio",
+    question: "¿Qué cargo ocupó Heber J. Grant antes de ser Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Setenta",
+      "Obispo",
+      "Presidente de Estaca"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant sirvió como apóstol antes de ser llamado como Presidente de la Iglesia en 1918.",
+      incorrect_answers: [
+        "No fue Setenta antes de ser Presidente.",
+        "No sirvió como obispo antes de ser Presidente.",
+        "No fue presidente de estaca antes de ser Presidente."
+      ]
+    }
+  },
+  {
+    id: 2482,
+    difficulty: "Fácil",
+    question: "¿Cuántos años sirvió Heber J. Grant como Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "27 años",
+    incorrect_answers: [
+      "15 años",
+      "20 años",
+      "30 años"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant sirvió como Presidente de la Iglesia desde 1918 hasta 1945, un total de 27 años.",
+      incorrect_answers: [
+        "15 años es incorrecto, ya que sirvió más tiempo.",
+        "20 años no coincide con su tiempo de servicio.",
+        "30 años es una exageración."
+      ]
+    }
+  },
+  {
+    id: 2483,
+    difficulty: "Difícil",
+    question: "¿Qué evento histórico ocurrió durante la presidencia de Heber J. Grant que afectó a la Iglesia mundialmente?",
+    category:  profetas ,
+    correct_answer: "La Gran Depresión y sus efectos económicos en los miembros",
+    incorrect_answers: [
+      "La construcción del Templo de Salt Lake",
+      "El éxodo de los Santos de Nauvoo",
+      "La organización de la Primera Presidencia"
+    ],
+    justifications: {
+      correct_answer: "La Gran Depresión (1929-1939) ocurrió durante su presidencia, y él enfatizó la autosuficiencia para ayudar a los miembros.",
+      incorrect_answers: [
+        "El Templo de Salt Lake se completó antes de su presidencia.",
+        "El éxodo de Nauvoo ocurrió décadas antes.",
+        "La Primera Presidencia ya estaba organizada."
+      ]
+    }
+  },
+  {
+    id: 2484,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de Heber J. Grant se centró en la importancia de la honestidad en los negocios?",
+    category:  profetas ,
+    correct_answer: "La honestidad es fundamental para la integridad personal y espiritual",
+    incorrect_answers: [
+      "Los negocios deben ser manejados por líderes de la Iglesia",
+      "La honestidad no es necesaria si se obtienen ganancias",
+      "Los negocios deben evitarse por completo"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la honestidad en los negocios es esencial para mantener la integridad personal y espiritual.",
+      incorrect_answers: [
+        "No enseñó que los negocios debían ser manejados exclusivamente por líderes.",
+        "La honestidad siempre es necesaria, independientemente de las ganancias.",
+        "No promovió evitar los negocios por completo."
+      ]
+    }
+  },
+  {
+    id: 2485,
+    difficulty: "Fácil",
+    question: "¿En qué ciudad nació Heber J. Grant?",
+    category:  profetas ,
+    correct_answer: "Salt Lake City, Utah",
+    incorrect_answers: [
+      "Nauvoo, Illinois",
+      "Kirtland, Ohio",
+      "Far West, Misuri"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant nació en Salt Lake City, Utah, el 22 de noviembre de 1856.",
+      incorrect_answers: [
+        "Nauvoo no es su lugar de nacimiento.",
+        "Kirtland no es su lugar de nacimiento.",
+        "Far West no es su lugar de nacimiento."
+      ]
+    }
+  },
+  {
+    id: 2486,
+    difficulty: "Difícil",
+    question: "¿Qué principio enseñó Heber J. Grant sobre la superación personal?",
+    category:  profetas ,
+    correct_answer: "La perseverancia y el esfuerzo constante conducen al éxito",
+    incorrect_answers: [
+      "El éxito depende únicamente de la suerte",
+      "La superación personal no es necesaria",
+      "El éxito se logra sin esfuerzo"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la perseverancia y el esfuerzo constante son clave para superar desafíos y alcanzar el éxito.",
+      incorrect_answers: [
+        "No enseñó que el éxito depende de la suerte.",
+        "Enfatizó la importancia de la superación personal.",
+        "El éxito requiere esfuerzo, según sus enseñanzas."
+      ]
+    }
+  },
+  {
+    id: 2487,
+    difficulty: "Medio",
+    question: "¿Qué papel jugó Heber J. Grant en la expansión de la obra misional?",
+    category:  profetas ,
+    correct_answer: "Promovió la obra misional en todo el mundo",
+    incorrect_answers: [
+      "Limitó la obra misional a los Estados Unidos",
+      "Envió misioneros solo a Europa",
+      "No se enfocó en la obra misional"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant promovió la expansión de la obra misional a nivel mundial durante su presidencia.",
+      incorrect_answers: [
+        "No limitó la obra misional a los Estados Unidos.",
+        "No envió misioneros solo a Europa.",
+        "La obra misional fue una prioridad durante su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2488,
+    difficulty: "Fácil",
+    question: "¿En qué año falleció Heber J. Grant?",
+    category:  profetas ,
+    correct_answer: "1945",
+    incorrect_answers: [
+      "1930",
+      "1950",
+      "1960"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant falleció el 14 de mayo de 1945.",
+      incorrect_answers: [
+        "1930 es incorrecto, ya que es anterior a su fallecimiento.",
+        "1950 es posterior a su fallecimiento.",
+        "1960 es incorrecto, ya que es posterior a su fallecimiento."
+      ]
+    }
+  },
+  {
+    id: 2489,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Heber J. Grant se relaciona con la importancia de la gratitud?",
+    category:  profetas ,
+    correct_answer: "La gratitud atrae bendiciones y fortalece la fe",
+    incorrect_answers: [
+      "La gratitud no es necesaria si se tiene éxito",
+      "La gratitud debe expresarse solo en privado",
+      "La gratitud es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la gratitud es esencial para atraer bendiciones y fortalecer la fe en Dios.",
+      incorrect_answers: [
+        "La gratitud es importante, independientemente del éxito.",
+        "La gratitud puede expresarse tanto en público como en privado.",
+        "La gratitud es fundamental en la vida espiritual."
+      ]
+    }
+  },
+  {
+    id: 2490,
+    difficulty: "Medio",
+    question: "¿Qué desafío económico enfrentó Heber J. Grant durante su presidencia?",
+    category:  profetas ,
+    correct_answer: "La Gran Depresión",
+    incorrect_answers: [
+      "La Guerra Civil",
+      "La Guerra de Utah",
+      "La crisis del petróleo"
+    ],
+    justifications: {
+      correct_answer: "La Gran Depresión (1929-1939) fue un desafío económico clave durante su presidencia.",
+      incorrect_answers: [
+        "La Guerra Civil ocurrió antes de su presidencia.",
+        "La Guerra de Utah no fue un desafío económico.",
+        "La crisis del petróleo ocurrió después de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2491,
+    difficulty: "Fácil",
+    question: "¿Qué principio enseñó Heber J. Grant sobre el diezmo?",
+    category:  profetas ,
+    correct_answer: "El diezmo es una ley eterna que trae bendiciones",
+    incorrect_answers: [
+      "El diezmo es opcional para los miembros",
+      "El diezmo solo debe pagarse en tiempos de prosperidad",
+      "El diezmo no es necesario para la salvación"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que el diezmo es una ley eterna que trae bendiciones a quienes lo obedecen.",
+      incorrect_answers: [
+        "El diezmo no es opcional, es un mandamiento.",
+        "El diezmo debe pagarse en todo momento, no solo en tiempos de prosperidad.",
+        "El diezmo es una parte importante de la obediencia y la salvación."
+      ]
+    }
+  },
+  {
+    id: 2492,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Heber J. Grant se relaciona con la importancia de la familia?",
+    category:  profetas ,
+    correct_answer: "La familia es fundamental para la felicidad eterna",
+    incorrect_answers: [
+      "La familia no es necesaria para la salvación",
+      "La familia debe evitarse en la vida espiritual",
+      "La familia es secundaria en el plan de Dios"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la familia es esencial para la felicidad eterna y el plan de salvación.",
+      incorrect_answers: [
+        "La familia es fundamental para la salvación.",
+        "La familia no debe evitarse en la vida espiritual.",
+        "La familia es central en el plan de Dios."
+      ]
+    }
+  },
+  {
+    id: 2493,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de Heber J. Grant se centró en la importancia de la educación?",
+    category:  profetas ,
+    correct_answer: "La educación es clave para el progreso personal y espiritual",
+    incorrect_answers: [
+      "La educación no es necesaria para la salvación",
+      "La educación debe limitarse a lo secular",
+      "La educación es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la educación es esencial para el progreso personal y espiritual.",
+      incorrect_answers: [
+        "La educación es importante para la salvación.",
+        "La educación no debe limitarse a lo secular.",
+        "La educación es relevante en la vida espiritual."
+      ]
+    }
+  },
+  {
+    id: 2494,
+    difficulty: "Fácil",
+    question: "¿Qué edad tenía Heber J. Grant cuando fue llamado como apóstol?",
+    category:  profetas ,
+    correct_answer: "25 años",
+    incorrect_answers: [
+      "30 años",
+      "35 años",
+      "40 años"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant fue llamado como apóstol a la edad de 25 años en 1882.",
+      incorrect_answers: [
+        "30 años no coincide con su edad en ese momento.",
+        "35 años es incorrecto.",
+        "40 años es demasiado mayor."
+      ]
+    }
+  },
+  {
+    id: 2495,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Heber J. Grant se relaciona con la importancia de la humildad?",
+    category:  profetas ,
+    correct_answer: "La humildad es esencial para recibir guía divina",
+    incorrect_answers: [
+      "La humildad no es necesaria para el éxito",
+      "La humildad debe evitarse en la vida espiritual",
+      "La humildad es irrelevante en el plan de Dios"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la humildad es fundamental para recibir guía divina y bendiciones.",
+      incorrect_answers: [
+        "La humildad es necesaria para el éxito espiritual.",
+        "La humildad no debe evitarse en la vida espiritual.",
+        "La humildad es relevante en el plan de Dios."
+      ]
+    }
+  },
+  {
+    id: 2496,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de Heber J. Grant se centró en la importancia de la caridad?",
+    category:  profetas ,
+    correct_answer: "La caridad es el amor puro de Cristo y debe practicarse siempre",
+    incorrect_answers: [
+      "La caridad no es necesaria para la salvación",
+      "La caridad debe limitarse a los miembros de la Iglesia",
+      "La caridad es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la caridad, como el amor puro de Cristo, es esencial para la vida espiritual.",
+      incorrect_answers: [
+        "La caridad es necesaria para la salvación.",
+        "La caridad no debe limitarse a los miembros de la Iglesia.",
+        "La caridad es relevante en la vida espiritual."
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+/* George Albert Smith (4 de abril de 1870 – 4 de abril de 1951)
+
+Duración: 21 de mayo de 1945 – 4 de abril de 1951
+
+Promovió la caridad y la ayuda humanitaria. */
+
+
+
+
+  {
+    id: 2497,
+    difficulty: "Difícil",
+    question: "¿Qué principio enfatizó George Albert Smith durante su presidencia para promover la paz mundial?",
+    category:  profetas ,
+    correct_answer: "La importancia de la caridad y el amor al prójimo",
+    incorrect_answers: [
+      "La necesidad de construir más templos",
+      "La expansión de la obra misional",
+      "La obediencia estricta a las leyes civiles"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la caridad y el amor al prójimo son esenciales para promover la paz mundial, basándose en Mateo 22:39.",
+      incorrect_answers: [
+        "La construcción de templos fue importante, pero no fue su enfoque principal para la paz.",
+        "La obra misional se expandió, pero no fue el énfasis para la paz.",
+        "La obediencia a las leyes civiles es importante, pero no fue su enfoque principal."
+      ]
+    }
+  },
+  {
+    id: 2498,
+    difficulty: "Medio",
+    question: "¿Qué desafío personal enfrentó George Albert Smith que influyó en su enfoque compasivo hacia los demás?",
+    category:  profetas ,
+    correct_answer: "Luchó con problemas de salud durante gran parte de su vida",
+    incorrect_answers: [
+      "Enfrentó dificultades económicas en su juventud",
+      "Tuvo conflictos familiares graves",
+      "Experimentó persecución religiosa"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith luchó con problemas de salud crónicos, lo que le permitió desarrollar una gran compasión por los que sufren.",
+      incorrect_answers: [
+        "No hay registros de que enfrentara dificultades económicas graves.",
+        "No se enfocó en conflictos familiares como influencia principal.",
+        "No experimentó persecución religiosa personalmente."
+      ]
+    }
+  },
+  {
+    id: 2499,
+    difficulty: "Fácil",
+    question: "¿En qué año nació George Albert Smith?",
+    category:  profetas ,
+    correct_answer: "1870",
+    incorrect_answers: [
+      "1865",
+      "1880",
+      "1875"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith nació el 4 de abril de 1870 en Salt Lake City, Utah.",
+      incorrect_answers: [
+        "1865 es anterior a su nacimiento.",
+        "1880 es posterior a su nacimiento.",
+        "1875 no coincide con el año de su nacimiento."
+      ]
+    }
+  },
+  {
+    id: 2500,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de George Albert Smith se relaciona con la importancia de la gratitud?",
+    category:  profetas ,
+    correct_answer: "La gratitud atrae bendiciones y fortalece la fe en Dios",
+    incorrect_answers: [
+      "La gratitud no es necesaria si se tiene éxito",
+      "La gratitud debe expresarse solo en privado",
+      "La gratitud es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la gratitud es esencial para atraer bendiciones y fortalecer la fe, basándose en Doctrina y Convenios 59:7.",
+      incorrect_answers: [
+        "La gratitud es importante, independientemente del éxito.",
+        "La gratitud puede expresarse tanto en público como en privado.",
+        "La gratitud es fundamental en la vida espiritual."
+      ]
+    }
+  },
+  {
+    id: 2501,
+    difficulty: "Medio",
+    question: "¿Qué cargo ocupó George Albert Smith antes de ser Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Setenta",
+      "Obispo",
+      "Presidente de Estaca"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith sirvió como apóstol antes de ser llamado como Presidente de la Iglesia en 1945.",
+      incorrect_answers: [
+        "No fue Setenta antes de ser Presidente.",
+        "No sirvió como obispo antes de ser Presidente.",
+        "No fue presidente de estaca antes de ser Presidente."
+      ]
+    }
+  },
+  {
+    id: 2502,
+    difficulty: "Fácil",
+    question: "¿Cuántos años sirvió George Albert Smith como Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "6 años",
+    incorrect_answers: [
+      "10 años",
+      "15 años",
+      "20 años"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith sirvió como Presidente de la Iglesia desde 1945 hasta 1951, un total de 6 años.",
+      incorrect_answers: [
+        "10 años es incorrecto, ya que sirvió menos tiempo.",
+        "15 años no coincide con su tiempo de servicio.",
+        "20 años es una exageración."
+      ]
+    }
+  },
+  {
+    id: 2503,
+    difficulty: "Difícil",
+    question: "¿Qué evento histórico ocurrió durante la presidencia de George Albert Smith que afectó a la Iglesia mundialmente?",
+    category:  profetas ,
+    correct_answer: "El final de la Segunda Guerra Mundial y sus efectos en la Iglesia",
+    incorrect_answers: [
+      "La construcción del Templo de Salt Lake",
+      "El éxodo de los Santos de Nauvoo",
+      "La organización de la Primera Presidencia"
+    ],
+    justifications: {
+      correct_answer: "La Segunda Guerra Mundial terminó en 1945, y George Albert Smith enfatizó la reconstrucción y la ayuda humanitaria.",
+      incorrect_answers: [
+        "El Templo de Salt Lake se completó antes de su presidencia.",
+        "El éxodo de Nauvoo ocurrió décadas antes.",
+        "La Primera Presidencia ya estaba organizada."
+      ]
+    }
+  },
+  {
+    id: 2504,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de George Albert Smith se centró en la importancia de la honestidad?",
+    category:  profetas ,
+    correct_answer: "La honestidad es fundamental para la integridad personal y espiritual",
+    incorrect_answers: [
+      "La honestidad no es necesaria si se obtienen ganancias",
+      "La honestidad debe evitarse en los negocios",
+      "La honestidad es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la honestidad es esencial para mantener la integridad personal y espiritual.",
+      incorrect_answers: [
+        "La honestidad siempre es necesaria, independientemente de las ganancias.",
+        "La honestidad no debe evitarse en los negocios.",
+        "La honestidad es relevante en la vida espiritual."
+      ]
+    }
+  },
+  {
+    id: 2505,
+    difficulty: "Fácil",
+    question: "¿En qué ciudad nació George Albert Smith?",
+    category:  profetas ,
+    correct_answer: "Salt Lake City, Utah",
+    incorrect_answers: [
+      "Nauvoo, Illinois",
+      "Kirtland, Ohio",
+      "Far West, Misuri"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith nació en Salt Lake City, Utah, el 4 de abril de 1870.",
+      incorrect_answers: [
+        "Nauvoo no es su lugar de nacimiento.",
+        "Kirtland no es su lugar de nacimiento.",
+        "Far West no es su lugar de nacimiento."
+      ]
+    }
+  },
+  {
+    id: 2506,
+    difficulty: "Difícil",
+    question: "¿Qué principio enseñó George Albert Smith sobre la superación personal?",
+    category:  profetas ,
+    correct_answer: "La perseverancia y el esfuerzo constante conducen al éxito",
+    incorrect_answers: [
+      "El éxito depende únicamente de la suerte",
+      "La superación personal no es necesaria",
+      "El éxito se logra sin esfuerzo"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la perseverancia y el esfuerzo constante son clave para superar desafíos y alcanzar el éxito.",
+      incorrect_answers: [
+        "No enseñó que el éxito depende de la suerte.",
+        "Enfatizó la importancia de la superación personal.",
+        "El éxito requiere esfuerzo, según sus enseñanzas."
+      ]
+    }
+  },
+  {
+    id: 2507,
+    difficulty: "Medio",
+    question: "¿Qué papel jugó George Albert Smith en la expansión de la obra misional?",
+    category:  profetas ,
+    correct_answer: "Promovió la obra misional en todo el mundo",
+    incorrect_answers: [
+      "Limitó la obra misional a los Estados Unidos",
+      "Envió misioneros solo a Europa",
+      "No se enfocó en la obra misional"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith promovió la expansión de la obra misional a nivel mundial durante su presidencia.",
+      incorrect_answers: [
+        "No limitó la obra misional a los Estados Unidos.",
+        "No envió misioneros solo a Europa.",
+        "La obra misional fue una prioridad durante su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2508,
+    difficulty: "Fácil",
+    question: "¿En qué año falleció George Albert Smith?",
+    category:  profetas ,
+    correct_answer: "1951",
+    incorrect_answers: [
+      "1945",
+      "1960",
+      "1970"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith falleció el 4 de abril de 1951.",
+      incorrect_answers: [
+        "1945 es incorrecto, ya que es anterior a su fallecimiento.",
+        "1960 es posterior a su fallecimiento.",
+        "1970 es incorrecto, ya que es posterior a su fallecimiento."
+      ]
+    }
+  },
+  {
+    id: 2509,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de George Albert Smith se relaciona con la importancia de la humildad?",
+    category:  profetas ,
+    correct_answer: "La humildad es esencial para recibir guía divina",
+    incorrect_answers: [
+      "La humildad no es necesaria para el éxito",
+      "La humildad debe evitarse en la vida espiritual",
+      "La humildad es irrelevante en el plan de Dios"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la humildad es fundamental para recibir guía divina y bendiciones.",
+      incorrect_answers: [
+        "La humildad es necesaria para el éxito espiritual.",
+        "La humildad no debe evitarse en la vida espiritual.",
+        "La humildad es relevante en el plan de Dios."
+      ]
+    }
+  },
+  {
+    id: 2510,
+    difficulty: "Medio",
+    question: "¿Qué desafío económico enfrentó George Albert Smith durante su presidencia?",
+    category:  profetas ,
+    correct_answer: "La reconstrucción post Segunda Guerra Mundial",
+    incorrect_answers: [
+      "La Gran Depresión",
+      "La Guerra Civil",
+      "La crisis del petróleo"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enfrentó la reconstrucción económica y social después de la Segunda Guerra Mundial.",
+      incorrect_answers: [
+        "La Gran Depresión ocurrió antes de su presidencia.",
+        "La Guerra Civil no fue un desafío durante su tiempo.",
+        "La crisis del petróleo ocurrió después de su presidencia."
+      ]
+    }
+  },
+  {
+    id: 2511,
+    difficulty: "Fácil",
+    question: "¿Qué principio enseñó George Albert Smith sobre el diezmo?",
+    category:  profetas ,
+    correct_answer: "El diezmo es una ley eterna que trae bendiciones",
+    incorrect_answers: [
+      "El diezmo es opcional para los miembros",
+      "El diezmo solo debe pagarse en tiempos de prosperidad",
+      "El diezmo no es necesario para la salvación"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que el diezmo es una ley eterna que trae bendiciones a quienes lo obedecen.",
+      incorrect_answers: [
+        "El diezmo no es opcional, es un mandamiento.",
+        "El diezmo debe pagarse en todo momento, no solo en tiempos de prosperidad.",
+        "El diezmo es una parte importante de la obediencia y la salvación."
+      ]
+    }
+  },
+  {
+    id: 2512,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de George Albert Smith se relaciona con la importancia de la familia?",
+    category:  profetas ,
+    correct_answer: "La familia es fundamental para la felicidad eterna",
+    incorrect_answers: [
+      "La familia no es necesaria para la salvación",
+      "La familia debe evitarse en la vida espiritual",
+      "La familia es secundaria en el plan de Dios"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la familia es esencial para la felicidad eterna y el plan de salvación.",
+      incorrect_answers: [
+        "La familia es fundamental para la salvación.",
+        "La familia no debe evitarse en la vida espiritual.",
+        "La familia es central en el plan de Dios."
+      ]
+    }
+  },
+  {
+    id: 2513,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de George Albert Smith se centró en la importancia de la educación?",
+    category:  profetas ,
+    correct_answer: "La educación es clave para el progreso personal y espiritual",
+    incorrect_answers: [
+      "La educación no es necesaria para la salvación",
+      "La educación debe limitarse a lo secular",
+      "La educación es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la educación es esencial para el progreso personal y espiritual.",
+      incorrect_answers: [
+        "La educación es importante para la salvación.",
+        "La educación no debe limitarse a lo secular.",
+        "La educación es relevante en la vida espiritual."
+      ]
+    }
+  },
+  {
+    id: 2514,
+    difficulty: "Fácil",
+    question: "¿Qué edad tenía George Albert Smith cuando fue llamado como apóstol?",
+    category:  profetas ,
+    correct_answer: "33 años",
+    incorrect_answers: [
+      "25 años",
+      "40 años",
+      "50 años"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith fue llamado como apóstol a la edad de 33 años en 1903.",
+      incorrect_answers: [
+        "25 años no coincide con su edad en ese momento.",
+        "40 años es incorrecto.",
+        "50 años es demasiado mayor."
+      ]
+    }
+  },
+  {
+    id: 2515,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de George Albert Smith se relaciona con la importancia de la caridad?",
+    category:  profetas ,
+    correct_answer: "La caridad es el amor puro de Cristo y debe practicarse siempre",
+    incorrect_answers: [
+      "La caridad no es necesaria para la salvación",
+      "La caridad debe limitarse a los miembros de la Iglesia",
+      "La caridad es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la caridad, como el amor puro de Cristo, es esencial para la vida espiritual.",
+      incorrect_answers: [
+        "La caridad es necesaria para la salvación.",
+        "La caridad no debe limitarse a los miembros de la Iglesia.",
+        "La caridad es relevante en la vida espiritual."
+      ]
+    }
+  },
+  {
+    id: 2516,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de George Albert Smith se centró en la importancia de la gratitud?",
+    category:  profetas ,
+    correct_answer: "La gratitud atrae bendiciones y fortalece la fe en Dios",
+    incorrect_answers: [
+      "La gratitud no es necesaria si se tiene éxito",
+      "La gratitud debe expresarse solo en privado",
+      "La gratitud es irrelevante en la vida espiritual"
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la gratitud es esencial para atraer bendiciones y fortalecer la fe, basándose en Doctrina y Convenios 59:7.",
+      incorrect_answers: [
+        "La gratitud es importante, independientemente del éxito.",
+        "La gratitud puede expresarse tanto en público como en privado.",
+        "La gratitud es fundamental en la vida espiritual."
+      ]
+    }
+  },
+
+
+
+
+
+
+
+
+
+/* David O. McKay (8 de septiembre de 1873 – 18 de enero de 1970)
+
+Duración: 9 de abril de 1951 – 18 de enero de 1970
+
+Enfatizó la importancia de la educación y la expansión de la iglesia.
+ */
+
+
+
+  {
+    id: 2517,
+    difficulty: "Difícil",
+    question: "¿Qué principio enfatizó David O. McKay en relación con la educación?",
+    category:  profetas ,
+    correct_answer: "La educación es el desarrollo armonioso de todas las facultades",
+    incorrect_answers: [
+      "La educación debe centrarse solo en lo académico",
+      "La educación es responsabilidad exclusiva del gobierno",
+      "La educación no es esencial para el crecimiento espiritual",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay enseñó que la educación debe abarcar el desarrollo físico, mental y espiritual.",
+      incorrect_answers: [
+        "Él no limitó la educación a lo académico.",
+        "Enfatizó la responsabilidad personal y familiar en la educación.",
+        "Consideraba la educación esencial para el progreso espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2518,
+    difficulty: "Medio",
+    question: "¿Qué frase famosa asociada con David O. McKay refleja su visión de la vida?",
+    category:  profetas ,
+    correct_answer: "“Cada miembro un misionero”",
+    incorrect_answers: [
+      "“La obediencia es la clave del éxito”",
+      "“La fe sin obras está muerta”",
+      "“El conocimiento es poder”",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay promovió activamente la participación de todos los miembros en la obra misional.",
+      incorrect_answers: [
+        "Aunque valoraba la obediencia, no es su frase más conocida.",
+        "Esta frase es bíblica, no específica de McKay.",
+        "No es una frase asociada directamente con él.",
+      ],
+    },
+  },
+  {
+    id: 2519,
+    difficulty: "Fácil",
+    question: "¿Qué cargo ocupó David O. McKay antes de ser presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Obispo",
+      "Setenta",
+      "Presidente de misión",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay fue ordenado apóstol en 1906, décadas antes de ser presidente.",
+      incorrect_answers: [
+        "Nunca sirvió como obispo.",
+        "No fue miembro del Quórum de los Setenta.",
+        "No fue presidente de misión antes de ser apóstol.",
+      ],
+    },
+  },
+  {
+    id: 2520,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de David O. McKay se relaciona con el libre albedrío?",
+    category:  profetas ,
+    correct_answer: "El libre albedrío es un don divino que debe usarse sabiamente",
+    incorrect_answers: [
+      "El libre albedrío es una ilusión",
+      "El libre albedrío solo aplica en asuntos espirituales",
+      "El libre albedrío no tiene consecuencias eternas",
+    ],
+    justifications: {
+      correct_answer: "McKay enseñó que el libre albedrío es sagrado y esencial para el progreso eterno.",
+      incorrect_answers: [
+        "Nunca sugirió que el libre albedrío fuera una ilusión.",
+        "Enseñó que aplica en todos los aspectos de la vida.",
+        "Enfatizó las consecuencias eternas de nuestras decisiones.",
+      ],
+    },
+  },
+  {
+    id: 2521,
+    difficulty: "Medio",
+    question: "¿Qué evento histórico ocurrió durante la presidencia de David O. McKay?",
+    category:  profetas ,
+    correct_answer: "La dedicación del Templo de Suiza",
+    incorrect_answers: [
+      "La restauración del sacerdocio",
+      "La publicación del Libro de Mormón",
+      "La organización de la Sociedad de Socorro",
+    ],
+    justifications: {
+      correct_answer: "El Templo de Suiza fue el primer templo en Europa, dedicado en 1955.",
+      incorrect_answers: [
+        "La restauración del sacerdocio ocurrió en 1829.",
+        "El Libro de Mormón se publicó en 1830.",
+        "La Sociedad de Socorro se organizó en 1842.",
+      ],
+    },
+  },
+  {
+    id: 2522,
+    difficulty: "Fácil",
+    question: "¿Qué libro de escrituras citaba frecuentemente David O. McKay?",
+    category:  profetas ,
+    correct_answer: "El Nuevo Testamento",
+    incorrect_answers: [
+      "El Libro de Abraham",
+      "Doctrina y Convenios",
+      "El Libro de Moisés",
+    ],
+    justifications: {
+      correct_answer: "McKay usaba el Nuevo Testamento para enseñar sobre la vida y ministerio de Cristo.",
+      incorrect_answers: [
+        "No es conocido por citar frecuentemente el Libro de Abraham.",
+        "Aunque usaba Doctrina y Convenios, no era su principal referencia.",
+        "El Libro de Moisés no era su fuente principal.",
+      ],
+    },
+  },
+  {
+    id: 2523,
+    difficulty: "Difícil",
+    question: "¿Qué principio enseñó David O. McKay sobre la familia?",
+    category:  profetas ,
+    correct_answer: "El hogar es la base de una vida recta",
+    incorrect_answers: [
+      "La familia es secundaria a la carrera profesional",
+      "Los hijos deben ser educados solo en escuelas religiosas",
+      "El matrimonio no es esencial para la felicidad",
+    ],
+    justifications: {
+      correct_answer: "McKay enfatizó que el hogar es fundamental para el desarrollo espiritual y moral.",
+      incorrect_answers: [
+        "Nunca minimizó la importancia de la familia.",
+        "No abogó por la educación exclusivamente religiosa.",
+        "Enseñó que el matrimonio es esencial para la plenitud.",
+      ],
+    },
+  },
+  {
+    id: 2524,
+    difficulty: "Medio",
+    question: "¿Qué característica definía el liderazgo de David O. McKay?",
+    category:  profetas ,
+    correct_answer: "Su enfoque en la individualidad y el amor",
+    incorrect_answers: [
+      "Su estilo autoritario y estricto",
+      "Su preferencia por la administración burocrática",
+      "Su desinterés por la obra misional",
+    ],
+    justifications: {
+      correct_answer: "McKay era conocido por su amor y preocupación por cada individuo.",
+      incorrect_answers: [
+        "No era autoritario ni estricto.",
+        "No favorecía la burocracia.",
+        "Fue un gran promotor de la obra misional.",
+      ],
+    },
+  },
+  {
+    id: 2525,
+    difficulty: "Fácil",
+    question: "¿Cuántos años sirvió David O. McKay como presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "19 años",
+    incorrect_answers: [
+      "10 años",
+      "25 años",
+      "5 años",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay sirvió como presidente desde 1951 hasta 1970.",
+      incorrect_answers: [
+        "No sirvió 10 años.",
+        "No alcanzó los 25 años.",
+        "Su servicio fue mucho más largo que 5 años.",
+      ],
+    },
+  },
+  {
+    id: 2526,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de David O. McKay se relaciona con la gratitud?",
+    category:  profetas ,
+    correct_answer: "La gratitud es una manifestación de madurez espiritual",
+    incorrect_answers: [
+      "La gratitud es innecesaria en la vida diaria",
+      "La gratitud solo debe expresarse en oración",
+      "La gratitud no tiene impacto en la felicidad",
+    ],
+    justifications: {
+      correct_answer: "McKay enseñó que la gratitud es esencial para una vida plena y espiritual.",
+      incorrect_answers: [
+        "Nunca minimizó la importancia de la gratitud.",
+        "Enseñó que debe expresarse en todas las acciones.",
+        "Enfatizó su impacto en la felicidad.",
+      ],
+    },
+  },
+  {
+    id: 2527,
+    difficulty: "Medio",
+    question: "¿Qué innovación se implementó durante la presidencia de David O. McKay?",
+    category:  profetas ,
+    correct_answer: "El programa de seminarios e institutos",
+    incorrect_answers: [
+      "La creación de la Sociedad de Socorro",
+      "La organización de los Setenta",
+      "La construcción del Templo de Kirtland",
+    ],
+    justifications: {
+      correct_answer: "El programa de seminarios e institutos se expandió significativamente bajo su liderazgo.",
+      incorrect_answers: [
+        "La Sociedad de Socorro se organizó en 1842.",
+        "Los Setenta se organizaron en 1835.",
+        "El Templo de Kirtland se construyó en 1836.",
+      ],
+    },
+  },
+  {
+    id: 2528,
+    difficulty: "Fácil",
+    question: "¿Qué país natal de David O. McKay influyó en su visión global?",
+    category:  profetas ,
+    correct_answer: "Estados Unidos",
+    incorrect_answers: [
+      "Canadá",
+      "México",
+      "Inglaterra",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay nació en Utah, Estados Unidos, y su liderazgo reflejó una visión global.",
+      incorrect_answers: [
+        "No nació en Canadá.",
+        "No nació en México.",
+        "No nació en Inglaterra.",
+      ],
+    },
+  },
+  {
+    id: 2529,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de David O. McKay se relaciona con la oración?",
+    category:  profetas ,
+    correct_answer: "La oración sincera abre las ventanas de los cielos",
+    incorrect_answers: [
+      "La oración es solo para momentos de crisis",
+      "La oración no requiere fe para ser efectiva",
+      "La oración es una práctica opcional",
+    ],
+    justifications: {
+      correct_answer: "McKay enseñó que la oración sincera es poderosa y conecta con Dios.",
+      incorrect_answers: [
+        "Enseñó que la oración debe ser constante, no solo en crisis.",
+        "Enfatizó que la oración requiere fe.",
+        "Nunca consideró la oración como opcional.",
+      ],
+    },
+  },
+  {
+    id: 2530,
+    difficulty: "Medio",
+    question: "¿Qué frase usaba David O. McKay para describir el propósito de la vida?",
+    category:  profetas ,
+    correct_answer: "“El desarrollo del carácter es el propósito de la vida”",
+    incorrect_answers: [
+      "“La acumulación de riquezas es la meta principal”",
+      "“El placer personal es el fin último”",
+      "“La fama y el reconocimiento son esenciales”",
+    ],
+    justifications: {
+      correct_answer: "McKay enfatizó que el carácter es fundamental para el progreso eterno.",
+      incorrect_answers: [
+        "Nunca promovió la riqueza como meta.",
+        "No consideraba el placer personal como fin último.",
+        "No valoraba la fama como esencial.",
+      ],
+    },
+  },
+  {
+    id: 2531,
+    difficulty: "Fácil",
+    question: "¿Qué deporte practicaba David O. McKay en su juventud?",
+    category:  profetas ,
+    correct_answer: "Fútbol americano",
+    incorrect_answers: [
+      "Baloncesto",
+      "Béisbol",
+      "Tenis",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay jugó fútbol americano en la Universidad de Utah.",
+      incorrect_answers: [
+        "No es conocido por jugar baloncesto.",
+        "No es conocido por jugar béisbol.",
+        "No es conocido por jugar tenis.",
+      ],
+    },
+  },
+  {
+    id: 2532,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de David O. McKay se relaciona con la humildad?",
+    category:  profetas ,
+    correct_answer: "La humildad es la base de la verdadera grandeza",
+    incorrect_answers: [
+      "La humildad es un signo de debilidad",
+      "La humildad no es necesaria para el liderazgo",
+      "La humildad es irrelevante en la vida espiritual",
+    ],
+    justifications: {
+      correct_answer: "McKay enseñó que la humildad es esencial para el crecimiento espiritual y personal.",
+      incorrect_answers: [
+        "Nunca consideró la humildad como debilidad.",
+        "Enseñó que es crucial para el liderazgo.",
+        "Enfatizó su importancia en la vida espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2533,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó David O. McKay sobre el servicio?",
+    category:  profetas ,
+    correct_answer: "El servicio desinteresado acerca al hombre a Dios",
+    incorrect_answers: [
+      "El servicio solo beneficia al receptor",
+      "El servicio no tiene impacto espiritual",
+      "El servicio es una pérdida de tiempo",
+    ],
+    justifications: {
+      correct_answer: "McKay enseñó que el servicio es una forma de acercarse a Dios.",
+      incorrect_answers: [
+        "Enseñó que el servicio beneficia tanto al dador como al receptor.",
+        "Enfatizó su impacto espiritual.",
+        "Nunca consideró el servicio como una pérdida de tiempo.",
+      ],
+    },
+  },
+  {
+    id: 2534,
+    difficulty: "Fácil",
+    question: "¿Qué título académico obtuvo David O. McKay?",
+    category:  profetas ,
+    correct_answer: "Maestría en Educación",
+    incorrect_answers: [
+      "Doctorado en Teología",
+      "Licenciatura en Derecho",
+      "Bachillerato en Ciencias",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay obtuvo una maestría en educación de la Universidad de Utah.",
+      incorrect_answers: [
+        "No obtuvo un doctorado en teología.",
+        "No estudió derecho.",
+        "No se enfocó en ciencias.",
+      ],
+    },
+  },
+  {
+    id: 2535,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de David O. McKay se relaciona con la perseverancia?",
+    category:  profetas ,
+    correct_answer: "La perseverancia es clave para superar las adversidades",
+    incorrect_answers: [
+      "La perseverancia no es necesaria para el éxito",
+      "La perseverancia solo aplica en lo espiritual",
+      "La perseverancia es un signo de terquedad",
+    ],
+    justifications: {
+      correct_answer: "McKay enseñó que la perseverancia es esencial para el éxito en la vida.",
+      incorrect_answers: [
+        "Nunca minimizó la importancia de la perseverancia.",
+        "Enseñó que aplica en todos los aspectos de la vida.",
+        "No consideró la perseverancia como terquedad.",
+      ],
+    },
+  },
+  {
+    id: 2536,
+    difficulty: "Medio",
+    question: "¿Qué mensaje central compartió David O. McKay sobre el amor?",
+    category:  profetas ,
+    correct_answer: "El amor es el principio más grande del evangelio",
+    incorrect_answers: [
+      "El amor es secundario a la obediencia",
+      "El amor no tiene lugar en la doctrina",
+      "El amor es solo para la familia",
+    ],
+    justifications: {
+      correct_answer: "McKay enseñó que el amor es el fundamento de todas las acciones cristianas.",
+      incorrect_answers: [
+        "Nunca consideró el amor como secundario.",
+        "Enfatizó su lugar central en la doctrina.",
+        "Enseñó que el amor debe extenderse a todos.",
+      ],
+    },
+  },
+
+
+
+
+
+
+
+
+
+
+/* Joseph Fielding Smith (19 de julio de 1876 – 2 de julio de 1972)
+
+Duración: 23 de enero de 1970 – 2 de julio de 1972
+
+Hijo de Joseph F. Smith, nieto de Hyrum Smith. */
+
+
+
+
+
+
+  {
+    id: 2537,
+    difficulty: "Difícil",
+    question: "¿Qué posición ocupó Joseph Fielding Smith en el Quórum de los Doce Apóstoles antes de ser Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Fue el décimo presidente del Quórum de los Doce Apóstoles",
+    incorrect_answers: [
+      "Fue el primer consejero en la Primera Presidencia",
+      "Fue el presidente asistente del Quórum de los Setenta",
+      "Fue el secretario general de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith sirvió como el décimo presidente del Quórum de los Doce Apóstoles antes de ser llamado como Presidente de la Iglesia.",
+      incorrect_answers: [
+        "Nunca fue primer consejero antes de ser Presidente de la Iglesia.",
+        "No ocupó el cargo de presidente asistente de los Setenta.",
+        "No fue secretario general de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2538,
+    difficulty: "Medio",
+    question: "¿Cuál fue uno de los temas principales que Joseph Fielding Smith enfatizó durante su ministerio?",
+    category:  profetas ,
+    correct_answer: "La importancia de la expiación de Jesucristo",
+    incorrect_answers: [
+      "La construcción de templos en todo el mundo",
+      "La organización de la Sociedad de Socorro",
+      "La traducción del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith enseñó extensamente sobre la expiación de Jesucristo y su papel central en el plan de salvación.",
+      incorrect_answers: [
+        "Aunque apoyó la construcción de templos, no fue su enfoque principal.",
+        "La Sociedad de Socorro fue organizada antes de su ministerio.",
+        "El Libro de Mormón fue traducido por José Smith, no por Joseph Fielding Smith.",
+      ],
+    },
+  },
+  {
+    id: 2539,
+    difficulty: "Fácil",
+    question: "¿En qué año nació Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "1876",
+    incorrect_answers: [
+      "1830",
+      "1901",
+      "1850",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith nació el 19 de julio de 1876 en Salt Lake City, Utah.",
+      incorrect_answers: [
+        "1830 es el año de la organización de la Iglesia.",
+        "1901 no coincide con su año de nacimiento.",
+        "1850 es incorrecto, ya que nació en 1876.",
+      ],
+    },
+  },
+  {
+    id: 2540,
+    difficulty: "Difícil",
+    question: "¿Qué libro de escrituras fue particularmente significativo en las enseñanzas de Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "Doctrina y Convenios",
+    incorrect_answers: [
+      "El Libro de Abraham",
+      "La Perla de Gran Precio",
+      "El Nuevo Testamento",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith citó y enseñó frecuentemente de Doctrina y Convenios, destacando su importancia en la doctrina de la Iglesia.",
+      incorrect_answers: [
+        "El Libro de Abraham no fue su enfoque principal.",
+        "Aunque enseñó de la Perla de Gran Precio, no fue su libro más destacado.",
+        "El Nuevo Testamento fue importante, pero no tanto como Doctrina y Convenios en sus enseñanzas.",
+      ],
+    },
+  },
+  {
+    id: 2541,
+    difficulty: "Medio",
+    question: "¿Cuántos años sirvió Joseph Fielding Smith como Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "2 años y medio",
+    incorrect_answers: [
+      "10 años",
+      "5 años",
+      "15 años",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith sirvió como Presidente de la Iglesia desde enero de 1970 hasta julio de 1972, un total de 2 años y medio.",
+      incorrect_answers: [
+        "No sirvió 10 años como Presidente.",
+        "5 años es incorrecto, ya que sirvió menos tiempo.",
+        "15 años no coincide con su período de servicio.",
+      ],
+    },
+  },
+  {
+    id: 2542,
+    difficulty: "Fácil",
+    question: "¿Quién fue el padre de Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "Hyrum Smith",
+    incorrect_answers: [
+      "Joseph Smith",
+      "Brigham Young",
+      "John Taylor",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith fue hijo de Hyrum Smith, hermano de José Smith.",
+      incorrect_answers: [
+        "Joseph Smith fue su tío, no su padre.",
+        "Brigham Young no fue su padre.",
+        "John Taylor tampoco fue su padre.",
+      ],
+    },
+  },
+  {
+    id: 2543,
+    difficulty: "Difícil",
+    question: "¿Qué papel tuvo Joseph Fielding Smith en la compilación de 'Enseñanzas del Profeta José Smith'?",
+    category:  profetas ,
+    correct_answer: "Fue el compilador principal del libro",
+    incorrect_answers: [
+      "Escribió el prólogo del libro",
+      "Fue el editor de la segunda edición",
+      "No tuvo participación en su creación",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith compiló y organizó las enseñanzas de José Smith en el libro 'Enseñanzas del Profeta José Smith'.",
+      incorrect_answers: [
+        "No solo escribió el prólogo, sino que compiló todo el libro.",
+        "No fue editor de la segunda edición.",
+        "Tuvo un papel central en su creación.",
+      ],
+    },
+  },
+  {
+    id: 2544,
+    difficulty: "Medio",
+    question: "¿Qué llamamiento tuvo Joseph Fielding Smith antes de ser apóstol?",
+    category:  profetas ,
+    correct_answer: "Fue presidente de estaca",
+    incorrect_answers: [
+      "Fue misionero de tiempo completo",
+      "Fue obispo de barrio",
+      "Fue presidente de misión",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith sirvió como presidente de estaca antes de ser llamado al Quórum de los Doce Apóstoles.",
+      incorrect_answers: [
+        "No fue misionero de tiempo completo antes de ser apóstol.",
+        "No fue obispo de barrio antes de ser apóstol.",
+        "No fue presidente de misión antes de ser apóstol.",
+      ],
+    },
+  },
+  {
+    id: 2545,
+    difficulty: "Fácil",
+    question: "¿En qué ciudad nació Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "Salt Lake City",
+    incorrect_answers: [
+      "Nauvoo",
+      "Kirtland",
+      "Independence",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith nació en Salt Lake City, Utah.",
+      incorrect_answers: [
+        "Nauvoo no es su lugar de nacimiento.",
+        "Kirtland no es su lugar de nacimiento.",
+        "Independence no es su lugar de nacimiento.",
+      ],
+    },
+  },
+  {
+    id: 2546,
+    difficulty: "Difícil",
+    question: "¿Qué evento histórico ocurrió durante la presidencia de Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "La dedicación del Templo de Ogden",
+    incorrect_answers: [
+      "La organización de la Iglesia",
+      "La llegada de los pioneros al Valle del Lago Salado",
+      "La publicación del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "El Templo de Ogden fue dedicado en 1972, durante la presidencia de Joseph Fielding Smith.",
+      incorrect_answers: [
+        "La organización de la Iglesia ocurrió en 1830, mucho antes de su presidencia.",
+        "La llegada de los pioneros fue en 1847.",
+        "El Libro de Mormón se publicó en 1830.",
+      ],
+    },
+  },
+  {
+    id: 2547,
+    difficulty: "Medio",
+    question: "¿Cuál fue una de las contribuciones literarias más importantes de Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "Escribió 'Answers to Gospel Questions'",
+    incorrect_answers: [
+      "Escribió 'Jesús el Cristo'",
+      "Escribió 'El Milagro del Perdón'",
+      "Escribió 'La Fe Precede al Milagro'",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith escribió 'Answers to Gospel Questions', una recopilación de respuestas a preguntas doctrinales.",
+      incorrect_answers: [
+        "'Jesús el Cristo' fue escrito por James E. Talmage.",
+        "'El Milagro del Perdón' fue escrito por Spencer W. Kimball.",
+        "'La Fe Precede al Milagro' fue escrito por Ezra Taft Benson.",
+      ],
+    },
+  },
+  {
+    id: 2548,
+    difficulty: "Fácil",
+    question: "¿Cuántos hijos tuvo Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "11 hijos",
+    incorrect_answers: [
+      "5 hijos",
+      "8 hijos",
+      "15 hijos",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith tuvo 11 hijos con su esposa Louie Shurtliff.",
+      incorrect_answers: [
+        "No tuvo 5 hijos.",
+        "No tuvo 8 hijos.",
+        "No tuvo 15 hijos.",
+      ],
+    },
+  },
+  {
+    id: 2549,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Joseph Fielding Smith destacó la importancia de la familia?",
+    category:  profetas ,
+    correct_answer: "Enseñó que la familia es central en el plan de salvación",
+    incorrect_answers: [
+      "Enseñó que la familia debe vivir en comunidades separadas",
+      "Enseñó que la familia no es esencial para la exaltación",
+      "Enseñó que la familia debe evitar la oración en conjunto",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith enfatizó que la familia es fundamental en el plan de salvación y debe ser fortalecida.",
+      incorrect_answers: [
+        "Nunca enseñó que las familias debían vivir separadas.",
+        "Enseñó que la familia es esencial para la exaltación.",
+        "Promovió la oración familiar, no su evitación.",
+      ],
+    },
+  },
+  {
+    id: 2550,
+    difficulty: "Medio",
+    question: "¿Qué cargo eclesiástico ocupó Joseph Fielding Smith antes de ser apóstol?",
+    category:  profetas ,
+    correct_answer: "Fue secretario de la Sociedad Genealógica de Utah",
+    incorrect_answers: [
+      "Fue presidente de la Universidad Brigham Young",
+      "Fue obispo presidente",
+      "Fue presidente de misión",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith sirvió como secretario de la Sociedad Genealógica de Utah antes de ser llamado al apostolado.",
+      incorrect_answers: [
+        "No fue presidente de la Universidad Brigham Young.",
+        "No fue obispo presidente.",
+        "No fue presidente de misión antes de ser apóstol.",
+      ],
+    },
+  },
+  {
+    id: 2551,
+    difficulty: "Fácil",
+    question: "¿Cuál fue el nombre de la esposa de Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "Louie Shurtliff",
+    incorrect_answers: [
+      "Emma Hale",
+      "Eliza R. Snow",
+      "Lucy Mack Smith",
+    ],
+    justifications: {
+      correct_answer: "Louie Shurtliff fue la esposa de Joseph Fielding Smith.",
+      incorrect_answers: [
+        "Emma Hale fue la esposa de José Smith.",
+        "Eliza R. Snow fue una líder prominente de la Iglesia.",
+        "Lucy Mack Smith fue la madre de José Smith.",
+      ],
+    },
+  },
+  {
+    id: 2552,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Joseph Fielding Smith se centró en la naturaleza de Dios?",
+    category:  profetas ,
+    correct_answer: "Enseñó que Dios tiene un cuerpo de carne y huesos",
+    incorrect_answers: [
+      "Enseñó que Dios es un ser abstracto sin forma",
+      "Enseñó que Dios no tiene interés en los asuntos humanos",
+      "Enseñó que Dios es una fuerza impersonal",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith enseñó que Dios tiene un cuerpo tangible de carne y huesos, basado en Doctrina y Convenios 130:22.",
+      incorrect_answers: [
+        "Nunca enseñó que Dios es abstracto.",
+        "Enseñó que Dios está profundamente interesado en los asuntos humanos.",
+        "No enseñó que Dios es una fuerza impersonal.",
+      ],
+    },
+  },
+  {
+    id: 2553,
+    difficulty: "Medio",
+    question: "¿Qué papel tuvo Joseph Fielding Smith en la genealogía de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Fue presidente de la Sociedad Genealógica de Utah",
+    incorrect_answers: [
+      "Fue el fundador de FamilySearch",
+      "Fue el primer historiador de la Iglesia",
+      "Fue el encargado de la construcción de templos",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith sirvió como presidente de la Sociedad Genealógica de Utah, promoviendo la obra de historia familiar.",
+      incorrect_answers: [
+        "No fue el fundador de FamilySearch.",
+        "No fue el primer historiador de la Iglesia.",
+        "No estuvo a cargo de la construcción de templos.",
+      ],
+    },
+  },
+  {
+    id: 2554,
+    difficulty: "Fácil",
+    question: "¿En qué año falleció Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "1972",
+    incorrect_answers: [
+      "1960",
+      "1980",
+      "1955",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith falleció el 2 de julio de 1972.",
+      incorrect_answers: [
+        "1960 es incorrecto, ya que falleció en 1972.",
+        "1980 es incorrecto, ya que falleció en 1972.",
+        "1955 es incorrecto, ya que falleció en 1972.",
+      ],
+    },
+  },
+  {
+    id: 2555,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Joseph Fielding Smith se refirió al papel de Jesucristo en la creación?",
+    category:  profetas ,
+    correct_answer: "Enseñó que Jesucristo fue el creador bajo la dirección del Padre",
+    incorrect_answers: [
+      "Enseñó que la creación fue obra exclusiva del Espíritu Santo",
+      "Enseñó que la creación no tuvo relación con Jesucristo",
+      "Enseñó que la creación fue un evento aleatorio",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith enseñó que Jesucristo fue el creador bajo la dirección de Dios el Padre, basado en escrituras como Moisés 1:33.",
+      incorrect_answers: [
+        "Nunca enseñó que la creación fue obra exclusiva del Espíritu Santo.",
+        "Enseñó que Jesucristo tuvo un papel central en la creación.",
+        "No enseñó que la creación fue un evento aleatorio.",
+      ],
+    },
+  },
+  {
+    id: 2556,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de Joseph Fielding Smith se refirió al bautismo por los muertos?",
+    category:  profetas ,
+    correct_answer: "Enseñó que es una ordenanza esencial para la salvación de los difuntos",
+    incorrect_answers: [
+      "Enseñó que es una práctica opcional",
+      "Enseñó que no es necesaria para la salvación",
+      "Enseñó que solo debe realizarse en ciertos templos",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith enseñó que el bautismo por los muertos es esencial para la salvación de aquellos que murieron sin el Evangelio, basado en 1 Corintios 15:29.",
+      incorrect_answers: [
+        "Nunca enseñó que es opcional.",
+        "Enseñó que es necesaria para la salvación.",
+        "No limitó su práctica a ciertos templos.",
+      ],
+    },
+  },
+  {
+    id: 2557,
+    difficulty: "Fácil",
+    question: "¿Qué libro de escrituras fue escrito por Joseph Fielding Smith?",
+    category:  profetas ,
+    correct_answer: "'Doctrina de Salvación'",
+    incorrect_answers: [
+      "'El Libro de Mormón'",
+      "'Doctrina y Convenios'",
+      "'La Perla de Gran Precio'",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith escribió 'Doctrina de Salvación', una recopilación de sus enseñanzas doctrinales.",
+      incorrect_answers: [
+        "El Libro de Mormón fue escrito por profetas antiguos.",
+        "Doctrina y Convenios es una compilación de revelaciones modernas.",
+        "La Perla de Gran Precio incluye escritos de José Smith y otros profetas.",
+      ],
+    },
+  },
+
+
+
+
+
+
+
+/* Harold B. Lee (28 de marzo de 1899 – 26 de diciembre de 1973)
+
+Duración: 7 de julio de 1972 – 26 de diciembre de 1973
+
+Enfatizó el programa de bienestar de la iglesia. */
+
+
+
+
+{
+    id: 2537,
+    difficulty: "Difícil",
+    question: "¿Qué principio enseñó Harold B. Lee sobre la importancia de seguir al profeta viviente?",
+    category:  profetas ,
+    correct_answer: "Enseñó que seguir al profeta es esencial para la salvación",
+    incorrect_answers: [
+      "Enseñó que el profeta solo da consejos opcionales",
+      "Enseñó que el profeta no tiene autoridad divina",
+      "Enseñó que el profeta solo habla de asuntos temporales",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que seguir al profeta viviente es crucial para nuestra salvación, basado en Doctrina y Convenios 1:38.",
+      incorrect_answers: [
+        "Nunca enseñó que los consejos del profeta son opcionales.",
+        "Enseñó que el profeta tiene autoridad divina.",
+        "Enseñó que el profeta habla de asuntos tanto temporales como espirituales.",
+      ],
+    },
+  },
+  {
+    id: 2538,
+    difficulty: "Medio",
+    question: "¿Qué programa de la Iglesia fue fortalecido bajo el liderazgo de Harold B. Lee?",
+    category:  profetas ,
+    correct_answer: "El programa de bienestar de la Iglesia",
+    incorrect_answers: [
+      "El programa de seminarios e institutos",
+      "El programa de construcción de templos",
+      "El programa de misiones internacionales",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee jugó un papel clave en el fortalecimiento del programa de bienestar de la Iglesia durante la Gran Depresión.",
+      incorrect_answers: [
+        "El programa de seminarios e institutos fue fortalecido por otros líderes.",
+        "La construcción de templos no fue su enfoque principal.",
+        "Las misiones internacionales no fueron su principal contribución.",
+      ],
+    },
+  },
+  {
+    id: 2539,
+    difficulty: "Fácil",
+    question: "¿En qué año fue ordenado apóstol Harold B. Lee?",
+    category:  profetas ,
+    correct_answer: "1941",
+    incorrect_answers: [
+      "1930",
+      "1950",
+      "1960",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee fue ordenado apóstol el 10 de abril de 1941.",
+      incorrect_answers: [
+        "1930 es incorrecto, ya que fue ordenado en 1941.",
+        "1950 es incorrecto, ya que fue ordenado en 1941.",
+        "1960 es incorrecto, ya que fue ordenado en 1941.",
+      ],
+    },
+  },
+  {
+    id: 2540,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Harold B. Lee se centró en la importancia de la familia?",
+    category:  profetas ,
+    correct_answer: "Enseñó que la familia es la unidad fundamental de la sociedad",
+    incorrect_answers: [
+      "Enseñó que la familia no es esencial para la salvación",
+      "Enseñó que la familia debe ser dirigida por el gobierno",
+      "Enseñó que la familia es una institución obsoleta",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que la familia es la unidad fundamental de la sociedad y debe ser fortalecida, basado en 'La Familia: Una Proclamación para el Mundo'.",
+      incorrect_answers: [
+        "Nunca enseñó que la familia no es esencial para la salvación.",
+        "No enseñó que la familia debe ser dirigida por el gobierno.",
+        "No enseñó que la familia es una institución obsoleta.",
+      ],
+    },
+  },
+  {
+    id: 2541,
+    difficulty: "Medio",
+    question: "¿Qué cargo ocupó Harold B. Lee antes de ser Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Fue primer consejero de la Primera Presidencia",
+    incorrect_answers: [
+      "Fue presidente del Quórum de los Doce Apóstoles",
+      "Fue obispo presidente",
+      "Fue presidente de misión",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee sirvió como primer consejero de la Primera Presidencia bajo el presidente Joseph Fielding Smith antes de ser Presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue presidente del Quórum de los Doce Apóstoles antes de ser Presidente.",
+        "No fue obispo presidente antes de ser Presidente.",
+        "No fue presidente de misión antes de ser Presidente.",
+      ],
+    },
+  },
+  {
+    id: 2542,
+    difficulty: "Fácil",
+    question: "¿En qué ciudad nació Harold B. Lee?",
+    category:  profetas ,
+    correct_answer: "Clifton, Idaho",
+    incorrect_answers: [
+      "Salt Lake City, Utah",
+      "Nauvoo, Illinois",
+      "Independence, Missouri",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee nació en Clifton, Idaho, el 28 de marzo de 1899.",
+      incorrect_answers: [
+        "Salt Lake City no es su lugar de nacimiento.",
+        "Nauvoo no es su lugar de nacimiento.",
+        "Independence no es su lugar de nacimiento.",
+      ],
+    },
+  },
+  {
+    id: 2543,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Harold B. Lee se refirió a la importancia de las escrituras?",
+    category:  profetas ,
+    correct_answer: "Enseñó que las escrituras son la voz del Señor para nosotros",
+    incorrect_answers: [
+      "Enseñó que las escrituras son solo relatos históricos",
+      "Enseñó que las escrituras no son necesarias para la salvación",
+      "Enseñó que las escrituras deben ser interpretadas solo por líderes",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que las escrituras son la voz del Señor para nosotros, basado en Doctrina y Convenios 18:34-36.",
+      incorrect_answers: [
+        "Nunca enseñó que las escrituras son solo relatos históricos.",
+        "Enseñó que las escrituras son esenciales para la salvación.",
+        "Enseñó que todos pueden estudiar y entender las escrituras.",
+      ],
+    },
+  },
+  {
+    id: 2544,
+    difficulty: "Medio",
+    question: "¿Qué evento histórico ocurrió durante la presidencia de Harold B. Lee?",
+    category:  profetas ,
+    correct_answer: "La dedicación del Templo de Ogden",
+    incorrect_answers: [
+      "La organización de la Iglesia",
+      "La llegada de los pioneros al Valle del Lago Salado",
+      "La publicación del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "El Templo de Ogden fue dedicado en 1972, durante la presidencia de Harold B. Lee.",
+      incorrect_answers: [
+        "La organización de la Iglesia ocurrió en 1830.",
+        "La llegada de los pioneros fue en 1847.",
+        "El Libro de Mormón se publicó en 1830.",
+      ],
+    },
+  },
+  {
+    id: 2545,
+    difficulty: "Fácil",
+    question: "¿Cuántos años sirvió Harold B. Lee como Presidente de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "1 año y medio",
+    incorrect_answers: [
+      "5 años",
+      "10 años",
+      "15 años",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee sirvió como Presidente de la Iglesia desde julio de 1972 hasta diciembre de 1973, un total de 1 año y medio.",
+      incorrect_answers: [
+        "No sirvió 5 años como Presidente.",
+        "No sirvió 10 años como Presidente.",
+        "No sirvió 15 años como Presidente.",
+      ],
+    },
+  },
+  {
+    id: 2546,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Harold B. Lee se refirió al sacerdocio?",
+    category:  profetas ,
+    correct_answer: "Enseñó que el sacerdocio es el poder de Dios para bendecir a todos",
+    incorrect_answers: [
+      "Enseñó que el sacerdocio es solo para líderes",
+      "Enseñó que el sacerdocio no tiene poder real",
+      "Enseñó que el sacerdocio es una tradición antigua",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que el sacerdocio es el poder de Dios para bendecir a todos, basado en Doctrina y Convenios 121:36.",
+      incorrect_answers: [
+        "Nunca enseñó que el sacerdocio es solo para líderes.",
+        "Enseñó que el sacerdocio tiene poder real.",
+        "No enseñó que el sacerdocio es una tradición antigua.",
+      ],
+    },
+  },
+  {
+    id: 2547,
+    difficulty: "Medio",
+    question: "¿Qué libro de escrituras fue particularmente significativo en las enseñanzas de Harold B. Lee?",
+    category:  profetas ,
+    correct_answer: "Doctrina y Convenios",
+    incorrect_answers: [
+      "El Libro de Abraham",
+      "La Perla de Gran Precio",
+      "El Nuevo Testamento",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee citó y enseñó frecuentemente de Doctrina y Convenios, destacando su importancia en la doctrina de la Iglesia.",
+      incorrect_answers: [
+        "El Libro de Abraham no fue su enfoque principal.",
+        "Aunque enseñó de la Perla de Gran Precio, no fue su libro más destacado.",
+        "El Nuevo Testamento fue importante, pero no tanto como Doctrina y Convenios en sus enseñanzas.",
+      ],
+    },
+  },
+  {
+    id: 2548,
+    difficulty: "Fácil",
+    question: "¿En qué año falleció Harold B. Lee?",
+    category:  profetas ,
+    correct_answer: "1973",
+    incorrect_answers: [
+      "1960",
+      "1980",
+      "1955",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee falleció el 26 de diciembre de 1973.",
+      incorrect_answers: [
+        "1960 es incorrecto, ya que falleció en 1973.",
+        "1980 es incorrecto, ya que falleció en 1973.",
+        "1955 es incorrecto, ya que falleció en 1973.",
+      ],
+    },
+  },
+  {
+    id: 2549,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Harold B. Lee se refirió a la importancia de la obediencia?",
+    category:  profetas ,
+    correct_answer: "Enseñó que la obediencia es el primer principio del cielo",
+    incorrect_answers: [
+      "Enseñó que la obediencia es opcional",
+      "Enseñó que la obediencia no tiene recompensa",
+      "Enseñó que la obediencia es solo para los líderes",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que la obediencia es el primer principio del cielo, basado en Doctrina y Convenios 130:20-21.",
+      incorrect_answers: [
+        "Nunca enseñó que la obediencia es opcional.",
+        "Enseñó que la obediencia tiene grandes recompensas.",
+        "Enseñó que la obediencia es para todos, no solo para líderes.",
+      ],
+    },
+  },
+  {
+    id: 2550,
+    difficulty: "Medio",
+    question: "¿Qué papel tuvo Harold B. Lee en el desarrollo del Sistema Educativo de la Iglesia?",
+    category:  profetas ,
+    correct_answer: "Fue uno de los principales promotores de su expansión",
+    incorrect_answers: [
+      "Fue el fundador del Sistema Educativo",
+      "Fue el primer director de seminarios e institutos",
+      "Fue el encargado de cerrar escuelas de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee fue uno de los principales promotores de la expansión del Sistema Educativo de la Iglesia.",
+      incorrect_answers: [
+        "No fue el fundador del Sistema Educativo.",
+        "No fue el primer director de seminarios e institutos.",
+        "No estuvo a cargo de cerrar escuelas de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2551,
+    difficulty: "Fácil",
+    question: "¿Qué llamamiento tuvo Harold B. Lee antes de ser apóstol?",
+    category:  profetas ,
+    correct_answer: "Fue presidente de estaca",
+    incorrect_answers: [
+      "Fue misionero de tiempo completo",
+      "Fue obispo de barrio",
+      "Fue presidente de misión",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee sirvió como presidente de estaca antes de ser llamado al Quórum de los Doce Apóstoles.",
+      incorrect_answers: [
+        "No fue misionero de tiempo completo antes de ser apóstol.",
+        "No fue obispo de barrio antes de ser apóstol.",
+        "No fue presidente de misión antes de ser apóstol.",
+      ],
+    },
+  },
+  {
+    id: 2552,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Harold B. Lee se refirió a la importancia de la oración?",
+    category:  profetas ,
+    correct_answer: "Enseñó que la oración es la llave para recibir revelación",
+    incorrect_answers: [
+      "Enseñó que la oración no es necesaria para la salvación",
+      "Enseñó que la oración solo debe hacerse en público",
+      "Enseñó que la oración es una práctica obsoleta",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que la oración es la llave para recibir revelación, basado en Doctrina y Convenios 88:63.",
+      incorrect_answers: [
+        "Nunca enseñó que la oración no es necesaria para la salvación.",
+        "Enseñó que la oración debe ser tanto pública como privada.",
+        "No enseñó que la oración es una práctica obsoleta.",
+      ],
+    },
+  },
+  {
+    id: 2553,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de Harold B. Lee se refirió a la importancia de la humildad?",
+    category:  profetas ,
+    correct_answer: "Enseñó que la humildad es esencial para recibir las bendiciones de Dios",
+    incorrect_answers: [
+      "Enseñó que la humildad no tiene valor espiritual",
+      "Enseñó que la humildad es solo para los débiles",
+      "Enseñó que la humildad es una virtud obsoleta",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que la humildad es esencial para recibir las bendiciones de Dios, basado en Mateo 5:5.",
+      incorrect_answers: [
+        "Nunca enseñó que la humildad no tiene valor espiritual.",
+        "Enseñó que la humildad es para todos, no solo para los débiles.",
+        "No enseñó que la humildad es una virtud obsoleta.",
+      ],
+    },
+  },
+  {
+    id: 2554,
+    difficulty: "Fácil",
+    question: "¿Qué libro de escrituras fue escrito por Harold B. Lee?",
+    category:  profetas ,
+    correct_answer: "'Enseñanzas de los Presidentes de la Iglesia: Harold B. Lee'",
+    incorrect_answers: [
+      "'Jesús el Cristo'",
+      "'El Milagro del Perdón'",
+      "'La Fe Precede al Milagro'",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee es el autor de 'Enseñanzas de los Presidentes de la Iglesia: Harold B. Lee'.",
+      incorrect_answers: [
+        "'Jesús el Cristo' fue escrito por James E. Talmage.",
+        "'El Milagro del Perdón' fue escrito por Spencer W. Kimball.",
+        "'La Fe Precede al Milagro' fue escrito por Ezra Taft Benson.",
+      ],
+    },
+  },
+
+
+
+
+
+
+
+
+
+
+
+/* 
+Spencer W. Kimball (28 de marzo de 1895 – 5 de noviembre de 1985)
+
+Duración: 30 de diciembre de 1973 – 5 de noviembre de 1985
+
+Conocido por la revelación de 1978 que permitió a todos los 
+hombres dignos recibir el sacerdocio, independientemente de su raza */
+
+
+
+  {
+    "id": 2563,
+    "difficulty": "Difícil",
+    "question": "¿Qué mensaje central destacó Spencer W. Kimball en su discurso de abril de 1978?",
+    "category": "profetas",
+    "correct_answer": "La responsabilidad de los santos en la obra del Señor es ineludible",
+    "incorrect_answers": [
+      "La paciencia es la clave para recibir bendiciones",
+      "El diezmo es la única forma de demostrar fe",
+      "Los dones espirituales no son esenciales para la exaltación"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball enfatizó que la obra del Señor requiere esfuerzo y compromiso (Doctrina y Convenios 4:3-4).",
+      "incorrect_answers": [
+        "Su mensaje no se centró en la paciencia.",
+        "No enseñó que el diezmo fuera la única demostración de fe.",
+        "Los dones espirituales sí tienen relevancia en la exaltación."
+      ]
+    }
+  },
+  {
+    "id": 2564,
+    "difficulty": "Medio",
+    "question": "¿Cuál fue el enfoque de Spencer W. Kimball sobre la familia?",
+    "category": "profetas",
+    "correct_answer": "La familia es la unidad central del plan de Dios y debe fortalecerse",
+    "incorrect_answers": [
+      "Las familias pueden funcionar sin principios espirituales",
+      "El matrimonio es opcional en la exaltación",
+      "La crianza de los hijos no requiere enseñanza espiritual"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball enseñó que la familia es central en el plan de Dios (Proclamación sobre la Familia).",
+      "incorrect_answers": [
+        "No promovió una familia sin principios espirituales.",
+        "El matrimonio es esencial en la exaltación.",
+        "Los hijos requieren enseñanza espiritual en el hogar."
+      ]
+    }
+  },
+  {
+    "id": 2565,
+    "difficulty": "Fácil",
+    "question": "¿Qué profecía cumplió Spencer W. Kimball sobre la expansión de la Iglesia?",
+    "category": "profetas",
+    "correct_answer": "Dijo que la Iglesia crecería hasta llenar toda la tierra",
+    "incorrect_answers": [
+      "Profetizó que la Iglesia solo crecería en América",
+      "Predijo que el número de templos se reduciría",
+      "Enseñó que el crecimiento de la Iglesia no era importante"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball declaró que la Iglesia llenaría toda la tierra (Daniel 2:44-45).",
+      "incorrect_answers": [
+        "La Iglesia no está limitada solo a América.",
+        "Los templos han crecido en número, no disminuido.",
+        "El crecimiento de la Iglesia es una señal profética."
+      ]
+    }
+  },
+  {
+    "id": 2566,
+    "difficulty": "Difícil",
+    "question": "¿Cuál fue la posición de Spencer W. Kimball sobre la música en la adoración?",
+    "category": "profetas",
+    "correct_answer": "La música sagrada eleva el espíritu y fortalece la fe",
+    "incorrect_answers": [
+      "La música en la Iglesia no tiene importancia",
+      "Solo los himnos antiguos son aceptables en la adoración",
+      "La música no influye en la espiritualidad"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball enseñó que la música eleva el espíritu y acerca a Dios (Efesios 5:19).",
+      "incorrect_answers": [
+        "La música sí es importante en la adoración.",
+        "Los himnos antiguos y modernos tienen valor.",
+        "La música tiene un impacto espiritual profundo."
+      ]
+    }
+  },
+  {
+    "id": 2567,
+    "difficulty": "Medio",
+    "question": "¿Cómo describió Spencer W. Kimball el rol de la oración en la vida de los santos?",
+    "category": "profetas",
+    "correct_answer": "La oración es una comunicación personal y constante con Dios",
+    "incorrect_answers": [
+      "Solo se debe orar en momentos de crisis",
+      "Dios responde solo a oraciones de líderes eclesiásticos",
+      "Las oraciones formales son las únicas que cuentan"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball enseñó que la oración debe ser constante y sincera (Alma 37:36-37).",
+      "incorrect_answers": [
+        "No limitó la oración a momentos de crisis.",
+        "Dios responde a todas las oraciones, no solo a líderes.",
+        "Las oraciones personales también son válidas."
+      ]
+    }
+  },
+  {
+    "id": 2568,
+    "difficulty": "Fácil",
+    "question": "¿Qué principio enfatizó Spencer W. Kimball sobre el perdón?",
+    "category": "profetas",
+    "correct_answer": "El perdón es esencial para recibir el perdón de Dios",
+    "incorrect_answers": [
+      "El perdón no es necesario en la vida cristiana",
+      "Solo Dios puede perdonar, los hombres no deben hacerlo",
+      "El resentimiento es una respuesta aceptable a la ofensa"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball enseñó que debemos perdonar para ser perdonados (Mateo 6:14-15).",
+      "incorrect_answers": [
+        "El perdón es central en la vida cristiana.",
+        "Los hombres deben perdonar como Dios perdona.",
+        "El resentimiento no es compatible con el Evangelio."
+      ]
+    }
+  },
+  {
+    "id": 2569,
+    "difficulty": "Difícil",
+    "question": "¿Qué advertencia hizo Spencer W. Kimball sobre la complacencia espiritual?",
+    "category": "profetas",
+    "correct_answer": "La complacencia es un peligro que debilita la fe y el testimonio",
+    "incorrect_answers": [
+      "La complacencia no afecta la vida espiritual",
+      "Es natural y no es necesario luchar contra ella",
+      "Dios la permite como parte del desarrollo humano"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball enseñó que la complacencia aleja a los santos del progreso espiritual (Apocalipsis 3:16).",
+      "incorrect_answers": [
+        "La complacencia sí afecta la espiritualidad.",
+        "Debe combatirse activamente, no aceptarse.",
+        "Dios desea que seamos diligentes, no complacientes."
+      ]
+    }
+  },
+  {
+    "id": 2570,
+    "difficulty": "Medio",
+    "question": "¿Cómo describió Spencer W. Kimball el sacrificio en la vida cristiana?",
+    "category": "profetas",
+    "correct_answer": "El sacrificio es una manifestación de amor y compromiso con Dios",
+    "incorrect_answers": [
+      "Solo los líderes deben hacer sacrificios",
+      "Dios no espera sacrificio de sus hijos",
+      "El sacrificio no es necesario para la exaltación"
+    ],
+    "justifications": {
+      "correct_answer": "Spencer W. Kimball enseñó que el sacrificio es clave en el discipulado (Romanos 12:1).",
+      "incorrect_answers": [
+        "Todos los santos están llamados al sacrificio.",
+        "Dios espera sacrificio como expresión de fe.",
+        "El sacrificio es necesario para la exaltación."
+      ]
+    }
+  },
+
+
+
+
+
+
+/* 
+Ezra Taft Benson (4 de agosto de 1899 – 30 de mayo de 1994)
+
+Duración: 10 de noviembre de 1985 – 30 de mayo de 1994
+
+Enfatizó el estudio del Libro de Mormón.
+ */
+
+
+
+
+
+
+
+
+/* Howard W. Hunter (14 de noviembre de 1907 – 3 de marzo de 1995)
+
+Duración: 5 de junio de 1994 – 3 de marzo de 1995
+
+Promovió la unidad y el amor en la iglesia. */
+
+
+
+
+
+
+
+
+
+
+
+/* 
+Gordon B. Hinckley (23 de junio de 1910 – 27 de enero de 2008)
+
+Duración: 12 de marzo de 1995 – 27 de enero de 2008
+
+Supervisó la construcción de templos y la expansión global de la iglesia. */
+
+
+
+
+
+
+
+
+/* Thomas S. Monson (21 de agosto de 1927 – 2 de enero de 2018)
+
+Duración: 3 de febrero de 2008 – 2 de enero de 2018
+
+Conocido por su enfoque en el servicio y la compasión. */
+
+
+
+
+
+
+
+
+
+
+/* 
+Russell M. Nelson (nacido el 9 de septiembre de 1924)
+
+Duración: 14 de enero de 2018 – presente
+
+Actual profeta y presidente de la iglesia. Ha enfatizado la importancia del 
+nombre correcto de la iglesia y ha supervisado 
+cambios significativos en la organización y prácticas de la iglesia. */
+
+
+
   
 ];
