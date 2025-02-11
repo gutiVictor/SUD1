@@ -50699,19 +50699,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
 
 
   {
-    "id": 2563,
-    "difficulty": "Difícil",
-    "question": "¿Qué mensaje central destacó Spencer W. Kimball en su discurso de abril de 1978?",
-    "category": "profetas",
-    "correct_answer": "La responsabilidad de los santos en la obra del Señor es ineludible",
-    "incorrect_answers": [
+    id: 2563,
+    difficulty: "Difícil",
+    question: "¿Qué mensaje central destacó Spencer W. Kimball en su discurso de abril de 1978?",
+     category: profetas,
+    correct_answer: "La responsabilidad de los santos en la obra del Señor es ineludible",
+    incorrect_answers: [
       "La paciencia es la clave para recibir bendiciones",
       "El diezmo es la única forma de demostrar fe",
       "Los dones espirituales no son esenciales para la exaltación"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball enfatizó que la obra del Señor requiere esfuerzo y compromiso (Doctrina y Convenios 4:3-4).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball enfatizó que la obra del Señor requiere esfuerzo y compromiso (Doctrina y Convenios 4:3-4).",
+      incorrect_answers: [
         "Su mensaje no se centró en la paciencia.",
         "No enseñó que el diezmo fuera la única demostración de fe.",
         "Los dones espirituales sí tienen relevancia en la exaltación."
@@ -50719,19 +50719,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
     }
   },
   {
-    "id": 2564,
-    "difficulty": "Medio",
-    "question": "¿Cuál fue el enfoque de Spencer W. Kimball sobre la familia?",
-    "category": "profetas",
-    "correct_answer": "La familia es la unidad central del plan de Dios y debe fortalecerse",
-    "incorrect_answers": [
+    id: 2564,
+    difficulty: "Medio",
+    question: "¿Cuál fue el enfoque de Spencer W. Kimball sobre la familia?",
+     category: profetas,
+    correct_answer: "La familia es la unidad central del plan de Dios y debe fortalecerse",
+    incorrect_answers: [
       "Las familias pueden funcionar sin principios espirituales",
       "El matrimonio es opcional en la exaltación",
       "La crianza de los hijos no requiere enseñanza espiritual"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball enseñó que la familia es central en el plan de Dios (Proclamación sobre la Familia).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball enseñó que la familia es central en el plan de Dios (Proclamación sobre la Familia).",
+      incorrect_answers: [
         "No promovió una familia sin principios espirituales.",
         "El matrimonio es esencial en la exaltación.",
         "Los hijos requieren enseñanza espiritual en el hogar."
@@ -50739,19 +50739,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
     }
   },
   {
-    "id": 2565,
-    "difficulty": "Fácil",
-    "question": "¿Qué profecía cumplió Spencer W. Kimball sobre la expansión de la Iglesia?",
-    "category": "profetas",
-    "correct_answer": "Dijo que la Iglesia crecería hasta llenar toda la tierra",
-    "incorrect_answers": [
+    id: 2565,
+    difficulty: "Fácil",
+    question: "¿Qué profecía cumplió Spencer W. Kimball sobre la expansión de la Iglesia?",
+     category: profetas,
+    correct_answer: "Dijo que la Iglesia crecería hasta llenar toda la tierra",
+    incorrect_answers: [
       "Profetizó que la Iglesia solo crecería en América",
       "Predijo que el número de templos se reduciría",
       "Enseñó que el crecimiento de la Iglesia no era importante"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball declaró que la Iglesia llenaría toda la tierra (Daniel 2:44-45).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball declaró que la Iglesia llenaría toda la tierra (Daniel 2:44-45).",
+      incorrect_answers: [
         "La Iglesia no está limitada solo a América.",
         "Los templos han crecido en número, no disminuido.",
         "El crecimiento de la Iglesia es una señal profética."
@@ -50759,19 +50759,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
     }
   },
   {
-    "id": 2566,
-    "difficulty": "Difícil",
-    "question": "¿Cuál fue la posición de Spencer W. Kimball sobre la música en la adoración?",
-    "category": "profetas",
-    "correct_answer": "La música sagrada eleva el espíritu y fortalece la fe",
-    "incorrect_answers": [
+    id: 2566,
+    difficulty: "Difícil",
+    question: "¿Cuál fue la posición de Spencer W. Kimball sobre la música en la adoración?",
+     category: profetas,
+    correct_answer: "La música sagrada eleva el espíritu y fortalece la fe",
+    incorrect_answers: [
       "La música en la Iglesia no tiene importancia",
       "Solo los himnos antiguos son aceptables en la adoración",
       "La música no influye en la espiritualidad"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball enseñó que la música eleva el espíritu y acerca a Dios (Efesios 5:19).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball enseñó que la música eleva el espíritu y acerca a Dios (Efesios 5:19).",
+      incorrect_answers: [
         "La música sí es importante en la adoración.",
         "Los himnos antiguos y modernos tienen valor.",
         "La música tiene un impacto espiritual profundo."
@@ -50779,19 +50779,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
     }
   },
   {
-    "id": 2567,
-    "difficulty": "Medio",
-    "question": "¿Cómo describió Spencer W. Kimball el rol de la oración en la vida de los santos?",
-    "category": "profetas",
-    "correct_answer": "La oración es una comunicación personal y constante con Dios",
-    "incorrect_answers": [
+    id: 2567,
+    difficulty: "Medio",
+    question: "¿Cómo describió Spencer W. Kimball el rol de la oración en la vida de los santos?",
+     category: profetas,
+    correct_answer: "La oración es una comunicación personal y constante con Dios",
+    incorrect_answers: [
       "Solo se debe orar en momentos de crisis",
       "Dios responde solo a oraciones de líderes eclesiásticos",
       "Las oraciones formales son las únicas que cuentan"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball enseñó que la oración debe ser constante y sincera (Alma 37:36-37).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball enseñó que la oración debe ser constante y sincera (Alma 37:36-37).",
+      incorrect_answers: [
         "No limitó la oración a momentos de crisis.",
         "Dios responde a todas las oraciones, no solo a líderes.",
         "Las oraciones personales también son válidas."
@@ -50799,19 +50799,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
     }
   },
   {
-    "id": 2568,
-    "difficulty": "Fácil",
-    "question": "¿Qué principio enfatizó Spencer W. Kimball sobre el perdón?",
-    "category": "profetas",
-    "correct_answer": "El perdón es esencial para recibir el perdón de Dios",
-    "incorrect_answers": [
+    id: 2568,
+    difficulty: "Fácil",
+    question: "¿Qué principio enfatizó Spencer W. Kimball sobre el perdón?",
+     category: profetas,
+    correct_answer: "El perdón es esencial para recibir el perdón de Dios",
+    incorrect_answers: [
       "El perdón no es necesario en la vida cristiana",
       "Solo Dios puede perdonar, los hombres no deben hacerlo",
       "El resentimiento es una respuesta aceptable a la ofensa"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball enseñó que debemos perdonar para ser perdonados (Mateo 6:14-15).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball enseñó que debemos perdonar para ser perdonados (Mateo 6:14-15).",
+      incorrect_answers: [
         "El perdón es central en la vida cristiana.",
         "Los hombres deben perdonar como Dios perdona.",
         "El resentimiento no es compatible con el Evangelio."
@@ -50819,19 +50819,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
     }
   },
   {
-    "id": 2569,
-    "difficulty": "Difícil",
-    "question": "¿Qué advertencia hizo Spencer W. Kimball sobre la complacencia espiritual?",
-    "category": "profetas",
-    "correct_answer": "La complacencia es un peligro que debilita la fe y el testimonio",
-    "incorrect_answers": [
+    id: 2569,
+    difficulty: "Difícil",
+    question: "¿Qué advertencia hizo Spencer W. Kimball sobre la complacencia espiritual?",
+     category: profetas,
+    correct_answer: "La complacencia es un peligro que debilita la fe y el testimonio",
+    incorrect_answers: [
       "La complacencia no afecta la vida espiritual",
       "Es natural y no es necesario luchar contra ella",
       "Dios la permite como parte del desarrollo humano"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball enseñó que la complacencia aleja a los santos del progreso espiritual (Apocalipsis 3:16).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball enseñó que la complacencia aleja a los santos del progreso espiritual (Apocalipsis 3:16).",
+      incorrect_answers: [
         "La complacencia sí afecta la espiritualidad.",
         "Debe combatirse activamente, no aceptarse.",
         "Dios desea que seamos diligentes, no complacientes."
@@ -50839,19 +50839,19 @@ hombres dignos recibir el sacerdocio, independientemente de su raza */
     }
   },
   {
-    "id": 2570,
-    "difficulty": "Medio",
-    "question": "¿Cómo describió Spencer W. Kimball el sacrificio en la vida cristiana?",
-    "category": "profetas",
-    "correct_answer": "El sacrificio es una manifestación de amor y compromiso con Dios",
-    "incorrect_answers": [
+    id: 2570,
+    difficulty: "Medio",
+    question: "¿Cómo describió Spencer W. Kimball el sacrificio en la vida cristiana?",
+     category: profetas,
+    correct_answer: "El sacrificio es una manifestación de amor y compromiso con Dios",
+    incorrect_answers: [
       "Solo los líderes deben hacer sacrificios",
       "Dios no espera sacrificio de sus hijos",
       "El sacrificio no es necesario para la exaltación"
     ],
-    "justifications": {
-      "correct_answer": "Spencer W. Kimball enseñó que el sacrificio es clave en el discipulado (Romanos 12:1).",
-      "incorrect_answers": [
+    justifications: {
+      correct_answer: "Spencer W. Kimball enseñó que el sacrificio es clave en el discipulado (Romanos 12:1).",
+      incorrect_answers: [
         "Todos los santos están llamados al sacrificio.",
         "Dios espera sacrificio como expresión de fe.",
         "El sacrificio es necesario para la exaltación."
@@ -50874,6 +50874,407 @@ Enfatizó el estudio del Libro de Mormón.
 
 
 
+  {
+    id: 2571,
+    difficulty: "Difícil",
+    question: "¿Qué principio enfatizó Ezra Taft Benson como esencial para la libertad personal?",
+     category: profetas,
+    correct_answer: "El principio del albedrío moral",
+    incorrect_answers: [
+      "El principio de la obediencia ciega",
+      "El principio de la autosuficiencia económica",
+      "El principio de la igualdad social",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson enseñó que el albedrío moral es fundamental para la libertad, como se menciona en 2 Nefi 2:27.",
+      incorrect_answers: [
+        "La obediencia ciega no es un principio que Benson enfatizara.",
+        "La autosuficiencia es importante, pero no es el principio central para la libertad.",
+        "La igualdad social no fue el enfoque principal de Benson.",
+      ],
+    },
+  },
+  {
+    id: 2572,
+    difficulty: "Medio",
+    question: "¿Qué libro de las Escrituras fue especialmente promovido por Ezra Taft Benson?",
+     category: profetas,
+    correct_answer: "El Libro de Mormón",
+    incorrect_answers: [
+      "La Biblia",
+      "Doctrina y Convenios",
+      "La Perla de Gran Precio",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson declaró que el Libro de Mormón es 'la clave de nuestra religión' (Introducción al Libro de Mormón).",
+      incorrect_answers: [
+        "La Biblia es importante, pero Benson enfatizó más el Libro de Mormón.",
+        "Doctrina y Convenios es valioso, pero no fue su enfoque principal.",
+        "La Perla de Gran Precio no fue el libro que Benson promovió más.",
+      ],
+    },
+  },
+  {
+    id: 2573,
+    difficulty: "Fácil",
+    question: "¿Qué cargo gubernamental ocupó Ezra Taft Benson antes de ser profeta?",
+     category: profetas,
+    correct_answer: "Secretario de Agricultura de los Estados Unidos",
+    incorrect_answers: [
+      "Senador por Utah",
+      "Gobernador de Idaho",
+      "Embajador en las Naciones Unidas",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson sirvió como Secretario de Agricultura bajo el presidente Dwight D. Eisenhower.",
+      incorrect_answers: [
+        "Nunca fue senador por Utah.",
+        "No fue gobernador de Idaho.",
+        "No sirvió como embajador en la ONU.",
+      ],
+    },
+  },
+  {
+    id: 2574,
+    difficulty: "Difícil",
+    question: "¿Qué advertencia dio Ezra Taft Benson sobre el orgullo?",
+     category: profetas,
+    correct_answer: "Que el orgullo es el pecado universal",
+    incorrect_answers: [
+      "Que el orgullo es necesario para el éxito",
+      "Que el orgullo es una virtud olvidada",
+      "Que el orgullo es inofensivo",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que el orgullo es el pecado universal que nos separa de Dios (véase 'El orgullo: el pecado universal').",
+      incorrect_answers: [
+        "El orgullo no es necesario para el éxito.",
+        "El orgullo no es una virtud, sino un pecado.",
+        "El orgullo es dañino, no inofensivo.",
+      ],
+    },
+  },
+  {
+    id: 2575,
+    difficulty: "Medio",
+    question: "¿Qué mensaje principal compartió Ezra Taft Benson sobre la familia?",
+     category: profetas,
+    correct_answer: "La importancia de la unidad familiar",
+    incorrect_answers: [
+      "La necesidad de la independencia individual",
+      "La prioridad de la educación académica",
+      "La relevancia de la riqueza material",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la unidad familiar es esencial para la felicidad eterna (véase 'La familia: una proclamación para el mundo').",
+      incorrect_answers: [
+        "La independencia individual no fue su enfoque principal.",
+        "La educación académica es importante, pero no fue su mensaje central.",
+        "La riqueza material no fue un tema destacado en sus enseñanzas.",
+      ],
+    },
+  },
+  {
+    id: 2576,
+    difficulty: "Fácil",
+    question: "¿Qué frase famosa asociamos con Ezra Taft Benson sobre el Libro de Mormón?",
+     category: profetas,
+    correct_answer: "Flood the earth with the Book of Mormon",
+    incorrect_answers: [
+      "Read the Bible daily",
+      "Follow the living prophet",
+      "Serve with all your heart",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson instó a los miembros a 'inundar la tierra con el Libro de Mormón'.",
+      incorrect_answers: [
+        "Leer la Biblia es importante, pero no es la frase asociada con Benson.",
+        "Seguir al profeta es crucial, pero no es la frase específica de Benson.",
+        "Servir es un principio clave, pero no es la frase que Benson popularizó.",
+      ],
+    },
+  },
+  {
+    id: 2577,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Ezra Taft Benson se relaciona con la autosuficiencia?",
+     category: profetas,
+    correct_answer: "La importancia de prepararse física y espiritualmente",
+    incorrect_answers: [
+      "La necesidad de depender del gobierno",
+      "La prioridad de acumular riqueza",
+      "La irrelevancia de la preparación",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la autosuficiencia incluye preparación física y espiritual (véase 'La autosuficiencia: un mandamiento divino').",
+      incorrect_answers: [
+        "No enseñó a depender del gobierno.",
+        "Acumular riqueza no fue su enfoque.",
+        "La preparación es esencial, no irrelevante.",
+      ],
+    },
+  },
+  {
+    id: 2578,
+    difficulty: "Medio",
+    question: "¿Qué dijo Ezra Taft Benson sobre la importancia de seguir al profeta viviente?",
+     category: profetas,
+    correct_answer: "Que es esencial para la salvación",
+    incorrect_answers: [
+      "Que es opcional pero recomendable",
+      "Que es innecesario en la actualidad",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que seguir al profeta viviente es esencial para la salvación (véase 'Catorce fundamentos para seguir al profeta').",
+      incorrect_answers: [
+        "No es opcional, sino esencial.",
+        "Es necesario en todo momento.",
+        "Aplica a todos los miembros, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2579,
+    difficulty: "Fácil",
+    question: "¿Qué título tuvo Ezra Taft Benson en la Iglesia antes de ser profeta?",
+     category: profetas,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Obispo",
+      "Setenta",
+      "Patriarca",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson sirvió como apóstol antes de ser presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue obispo antes de ser profeta.",
+        "No sirvió como Setenta antes de ser profeta.",
+        "No fue patriarca antes de ser profeta.",
+      ],
+    },
+  },
+  {
+    id: 2580,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Ezra Taft Benson se relaciona con la libertad política?",
+     category: profetas,
+    correct_answer: "La importancia de defender la Constitución de los Estados Unidos",
+    incorrect_answers: [
+      "La necesidad de evitar la participación política",
+      "La prioridad de apoyar gobiernos autoritarios",
+      "La irrelevancia de los principios constitucionales",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la Constitución es un documento inspirado y que debemos defenderla (véase 'La Constitución: un legado celestial').",
+      incorrect_answers: [
+        "No enseñó a evitar la participación política.",
+        "No apoyó gobiernos autoritarios.",
+        "Los principios constitucionales son relevantes y sagrados.",
+      ],
+    },
+  },
+  {
+    id: 2581,
+    difficulty: "Medio",
+    question: "¿Qué mensaje dio Ezra Taft Benson sobre la importancia de la oración?",
+     category: profetas,
+    correct_answer: "Que es una comunicación vital con Dios",
+    incorrect_answers: [
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para momentos de crisis",
+      "Que es una práctica opcional",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la oración es una comunicación esencial con Dios (véase 'La oración: un mandamiento divino').",
+      incorrect_answers: [
+        "La oración es necesaria en todo momento.",
+        "No es solo para momentos de crisis.",
+        "No es opcional, sino esencial.",
+      ],
+    },
+  },
+  {
+    id: 2582,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Ezra Taft Benson para describir el orgullo?",
+     category: profetas,
+    correct_answer: "El pecado universal",
+    incorrect_answers: [
+      "La virtud olvidada",
+      "La clave del éxito",
+      "La base de la humildad",
+    ],
+    justifications: {
+      correct_answer: "Benson describió el orgullo como 'el pecado universal' en su discurso 'El orgullo: el pecado universal'.",
+      incorrect_answers: [
+        "El orgullo no es una virtud.",
+        "No es la clave del éxito.",
+        "No es la base de la humildad, sino su opuesto.",
+      ],
+    },
+  },
+  {
+    id: 2583,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Ezra Taft Benson se relaciona con la humildad?",
+     category: profetas,
+    correct_answer: "Que es esencial para recibir revelación",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria para la salvación",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la humildad es esencial para recibir revelación (véase 'La humildad: clave para la revelación').",
+      incorrect_answers: [
+        "La humildad no es debilidad, sino fortaleza.",
+        "Es necesaria para la salvación.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2584,
+    difficulty: "Medio",
+    question: "¿Qué dijo Ezra Taft Benson sobre la importancia de la gratitud?",
+     category: profetas,
+    correct_answer: "Que es un principio fundamental para la felicidad",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos especiales",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la gratitud es fundamental para la felicidad (véase 'La gratitud: un principio de felicidad').",
+      incorrect_answers: [
+        "La gratitud es necesaria en la vida diaria.",
+        "No es solo para momentos especiales.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2585,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Ezra Taft Benson sobre la obediencia?",
+     category: profetas,
+    correct_answer: "Que trae bendiciones",
+    incorrect_answers: [
+      "Que es opcional",
+      "Que es innecesaria",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la obediencia trae bendiciones (véase 'La obediencia: un principio de bendición').",
+      incorrect_answers: [
+        "La obediencia no es opcional.",
+        "Es necesaria para recibir bendiciones.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2586,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Ezra Taft Benson se relaciona con la caridad?",
+     category: profetas,
+    correct_answer: "Que es el amor puro de Cristo",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los necesitados",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la caridad es el amor puro de Cristo (véase Moroni 7:47).",
+      incorrect_answers: [
+        "La caridad no es opcional, sino esencial.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los necesitados.",
+      ],
+    },
+  },
+  {
+    id: 2587,
+    difficulty: "Medio",
+    question: "¿Qué dijo Ezra Taft Benson sobre la importancia del servicio?",
+     category: profetas,
+    correct_answer: "Que es esencial para la salvación",
+    incorrect_answers: [
+      "Que es opcional pero recomendable",
+      "Que es innecesario en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que el servicio es esencial para la salvación (véase 'El servicio: un principio de salvación').",
+      incorrect_answers: [
+        "No es opcional, sino esencial.",
+        "Es necesario en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2588,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Ezra Taft Benson para describir la importancia del Libro de Mormón?",
+     category: profetas,
+    correct_answer: "La clave de nuestra religión",
+    incorrect_answers: [
+      "Un libro histórico interesante",
+      "Un complemento opcional a la Biblia",
+      "Un texto solo para eruditos",
+    ],
+    justifications: {
+      correct_answer: "Benson describió el Libro de Mormón como 'la clave de nuestra religión' (Introducción al Libro de Mormón).",
+      incorrect_answers: [
+        "No es solo un libro histórico.",
+        "No es un complemento opcional, sino esencial.",
+        "Es para todos, no solo para eruditos.",
+      ],
+    },
+  },
+  {
+    id: 2589,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Ezra Taft Benson se relaciona con la fe?",
+     category: profetas,
+    correct_answer: "Que es un principio de acción y poder",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que la fe es un principio de acción y poder (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2590,
+    difficulty: "Medio",
+    question: "¿Qué dijo Ezra Taft Benson sobre la importancia del arrepentimiento?",
+     category: profetas,
+    correct_answer: "Que es un proceso continuo",
+    incorrect_answers: [
+      "Que es innecesario en la vida moderna",
+      "Que es solo para pecados graves",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Benson enseñó que el arrepentimiento es un proceso continuo (véase 'El arrepentimiento: un proceso continuo').",
+      incorrect_answers: [
+        "Es necesario en todo momento.",
+        "Aplica a todos los pecados, no solo a los graves.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+
 
 
 
@@ -50888,6 +51289,407 @@ Promovió la unidad y el amor en la iglesia. */
 
 
 
+
+  {
+    id: 2591,
+    difficulty: "Difícil",
+    question: "¿Qué mensaje principal enfatizó Howard W. Hunter sobre el templo?",
+     category: profetas,
+    correct_answer: "Que es un lugar de refugio y paz espiritual",
+    incorrect_answers: [
+      "Que es un centro de reuniones sociales",
+      "Que es un lugar para estudiar historia",
+      "Que es un sitio para eventos culturales",
+    ],
+    justifications: {
+      correct_answer: "Howard W. Hunter enseñó que el templo es un refugio donde podemos sentir la paz del Señor (véase 'El templo: un refugio de paz').",
+      incorrect_answers: [
+        "El templo no es un centro de reuniones sociales.",
+        "No es principalmente un lugar para estudiar historia.",
+        "No es un sitio para eventos culturales.",
+      ],
+    },
+  },
+  {
+    id: 2592,
+    difficulty: "Medio",
+    question: "¿Qué llamado hizo Howard W. Hunter a los miembros de la Iglesia?",
+     category: profetas,
+    correct_answer: "Vivir con mayor dedicación al Evangelio",
+    incorrect_answers: [
+      "Participar más en política",
+      "Enfocarse en la riqueza material",
+      "Evitar asistir al templo",
+    ],
+    justifications: {
+      correct_answer: "Hunter instó a los miembros a vivir con mayor dedicación al Evangelio (véase 'Un llamado a la dedicación').",
+      incorrect_answers: [
+        "No enfatizó la participación política.",
+        "No promovió la riqueza material.",
+        "Enseñó lo contrario sobre el templo.",
+      ],
+    },
+  },
+  {
+    id: 2593,
+    difficulty: "Fácil",
+    question: "¿Qué cargo ocupó Howard W. Hunter antes de ser presidente de la Iglesia?",
+     category: profetas,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Obispo",
+      "Setenta",
+      "Patriarca",
+    ],
+    justifications: {
+      correct_answer: "Howard W. Hunter sirvió como apóstol antes de ser presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue obispo antes de ser profeta.",
+        "No sirvió como Setenta antes de ser profeta.",
+        "No fue patriarca antes de ser profeta.",
+      ],
+    },
+  },
+  {
+    id: 2594,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Howard W. Hunter se relaciona con la expiación de Cristo?",
+     category: profetas,
+    correct_answer: "Que es el fundamento de nuestra redención",
+    incorrect_answers: [
+      "Que es un evento histórico sin relevancia actual",
+      "Que es solo para los pecadores graves",
+      "Que es un mito religioso",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la expiación de Cristo es el fundamento de nuestra redención (véase 'La expiación: el don supremo').",
+      incorrect_answers: [
+        "La expiación es relevante hoy en día.",
+        "Es para todos, no solo para pecadores graves.",
+        "No es un mito, sino una verdad central.",
+      ],
+    },
+  },
+  {
+    id: 2595,
+    difficulty: "Medio",
+    question: "¿Qué mensaje dio Howard W. Hunter sobre la importancia de la familia?",
+     category: profetas,
+    correct_answer: "Que es la unidad central del plan de Dios",
+    incorrect_answers: [
+      "Que es una institución obsoleta",
+      "Que es menos importante que la carrera",
+      "Que es solo para personas casadas",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la familia es central en el plan de Dios (véase 'La familia: una proclamación para el mundo').",
+      incorrect_answers: [
+        "La familia no es obsoleta.",
+        "Es más importante que la carrera.",
+        "Aplica a todos, no solo a los casados.",
+      ],
+    },
+  },
+  {
+    id: 2596,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Howard W. Hunter para describir el templo?",
+     category: profetas,
+    correct_answer: "Un refugio de paz",
+    incorrect_answers: [
+      "Un lugar de negocios",
+      "Un centro de entretenimiento",
+      "Un museo histórico",
+    ],
+    justifications: {
+      correct_answer: "Hunter describió el templo como 'un refugio de paz' (véase 'El templo: un refugio de paz').",
+      incorrect_answers: [
+        "No es un lugar de negocios.",
+        "No es un centro de entretenimiento.",
+        "No es un museo histórico.",
+      ],
+    },
+  },
+  {
+    id: 2597,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Howard W. Hunter se relaciona con la oración?",
+     category: profetas,
+    correct_answer: "Que es una comunicación personal con Dios",
+    incorrect_answers: [
+      "Que es una práctica innecesaria",
+      "Que es solo para líderes de la Iglesia",
+      "Que es un ritual sin significado",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la oración es una comunicación personal con Dios (véase 'La oración: un diálogo con Dios').",
+      incorrect_answers: [
+        "La oración es necesaria.",
+        "Es para todos, no solo para líderes.",
+        "Tiene un profundo significado.",
+      ],
+    },
+  },
+  {
+    id: 2598,
+    difficulty: "Medio",
+    question: "¿Qué mensaje dio Howard W. Hunter sobre la importancia del servicio?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesario en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que el servicio es una expresión de amor cristiano (véase 'El servicio: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesario en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2599,
+    difficulty: "Fácil",
+    question: "¿Qué libro de las Escrituras fue especialmente promovido por Howard W. Hunter?",
+     category: profetas,
+    correct_answer: "El Libro de Mormón",
+    incorrect_answers: [
+      "La Biblia",
+      "Doctrina y Convenios",
+      "La Perla de Gran Precio",
+    ],
+    justifications: {
+      correct_answer: "Hunter enfatizó la importancia del Libro de Mormón como otro testamento de Jesucristo.",
+      incorrect_answers: [
+        "La Biblia es importante, pero no fue su enfoque principal.",
+        "Doctrina y Convenios es valioso, pero no fue su énfasis.",
+        "La Perla de Gran Precio no fue su enfoque principal.",
+      ],
+    },
+  },
+  {
+    id: 2600,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Howard W. Hunter se relaciona con la humildad?",
+     category: profetas,
+    correct_answer: "Que es esencial para seguir a Cristo",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria para la salvación",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la humildad es esencial para seguir a Cristo (véase 'La humildad: clave para seguir a Cristo').",
+      incorrect_answers: [
+        "La humildad no es debilidad, sino fortaleza.",
+        "Es necesaria para la salvación.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2601,
+    difficulty: "Medio",
+    question: "¿Qué dijo Howard W. Hunter sobre la importancia de la gratitud?",
+     category: profetas,
+    correct_answer: "Que es un principio fundamental para la felicidad",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos especiales",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la gratitud es fundamental para la felicidad (véase 'La gratitud: un principio de felicidad').",
+      incorrect_answers: [
+        "La gratitud es necesaria en la vida diaria.",
+        "No es solo para momentos especiales.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2602,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Howard W. Hunter sobre la obediencia?",
+     category: profetas,
+    correct_answer: "Que trae bendiciones",
+    incorrect_answers: [
+      "Que es opcional",
+      "Que es innecesaria",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la obediencia trae bendiciones (véase 'La obediencia: un principio de bendición').",
+      incorrect_answers: [
+        "La obediencia no es opcional.",
+        "Es necesaria para recibir bendiciones.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2603,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Howard W. Hunter se relaciona con la caridad?",
+     category: profetas,
+    correct_answer: "Que es el amor puro de Cristo",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los necesitados",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la caridad es el amor puro de Cristo (véase Moroni 7:47).",
+      incorrect_answers: [
+        "La caridad no es opcional, sino esencial.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los necesitados.",
+      ],
+    },
+  },
+  {
+    id: 2604,
+    difficulty: "Medio",
+    question: "¿Qué dijo Howard W. Hunter sobre la importancia del arrepentimiento?",
+     category: profetas,
+    correct_answer: "Que es un proceso continuo",
+    incorrect_answers: [
+      "Que es innecesario en la vida moderna",
+      "Que es solo para pecados graves",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que el arrepentimiento es un proceso continuo (véase 'El arrepentimiento: un proceso continuo').",
+      incorrect_answers: [
+        "Es necesario en todo momento.",
+        "Aplica a todos los pecados, no solo a los graves.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2605,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Howard W. Hunter para describir la importancia del Evangelio?",
+     category: profetas,
+    correct_answer: "El camino a la felicidad eterna",
+    incorrect_answers: [
+      "Una guía opcional para la vida",
+      "Un conjunto de reglas obsoletas",
+      "Un mito religioso",
+    ],
+    justifications: {
+      correct_answer: "Hunter describió el Evangelio como 'el camino a la felicidad eterna' (véase 'El Evangelio: el camino a la felicidad').",
+      incorrect_answers: [
+        "No es una guía opcional.",
+        "No es un conjunto de reglas obsoletas.",
+        "No es un mito, sino una verdad eterna.",
+      ],
+    },
+  },
+  {
+    id: 2606,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Howard W. Hunter se relaciona con la fe?",
+     category: profetas,
+    correct_answer: "Que es un principio de acción y poder",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la fe es un principio de acción y poder (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2607,
+    difficulty: "Medio",
+    question: "¿Qué dijo Howard W. Hunter sobre la importancia de la esperanza?",
+     category: profetas,
+    correct_answer: "Que es un ancla para el alma",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos de crisis",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la esperanza es un ancla para el alma (véase Hebreos 6:19).",
+      incorrect_answers: [
+        "La esperanza es necesaria en la vida diaria.",
+        "No es solo para momentos de crisis.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2608,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Howard W. Hunter sobre el amor?",
+     category: profetas,
+    correct_answer: "Que es el mayor de todos los dones",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesario en la vida moderna",
+      "Que es solo para los débiles",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que el amor es el mayor de todos los dones (véase 1 Corintios 13:13).",
+      incorrect_answers: [
+        "El amor no es opcional, sino esencial.",
+        "Es necesario en todo momento.",
+        "No es solo para los débiles, sino para todos.",
+      ],
+    },
+  },
+  {
+    id: 2609,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Howard W. Hunter se relaciona con la paciencia?",
+     category: profetas,
+    correct_answer: "Que es esencial para superar pruebas",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los ancianos",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la paciencia es esencial para superar pruebas (véase 'La paciencia: una virtud divina').",
+      incorrect_answers: [
+        "La paciencia no es debilidad, sino fortaleza.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los ancianos.",
+      ],
+    },
+  },
+  {
+    id: 2610,
+    difficulty: "Medio",
+    question: "¿Qué dijo Howard W. Hunter sobre la importancia de la amabilidad?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesaria en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Hunter enseñó que la amabilidad es una expresión de amor cristiano (véase 'La amabilidad: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesaria en todo momento.",
+      ],
+    },
+  },
 
 
 
@@ -50905,6 +51707,407 @@ Supervisó la construcción de templos y la expansión global de la iglesia. */
 
 
 
+  {
+    id: 2611,
+    difficulty: "Difícil",
+    question: "¿Qué mensaje principal enfatizó Gordon B. Hinckley sobre la importancia del matrimonio?",
+     category: profetas,
+    correct_answer: "Que es un convenio sagrado entre un hombre y una mujer",
+    incorrect_answers: [
+      "Que es un contrato social opcional",
+      "Que es una unión temporal sin significado eterno",
+      "Que es solo para personas sin hijos",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que el matrimonio es un convenio sagrado entre un hombre y una mujer (véase 'La familia: una proclamación para el mundo').",
+      incorrect_answers: [
+        "No es un contrato social opcional.",
+        "Tiene significado eterno, no es temporal.",
+        "No es solo para personas sin hijos.",
+      ],
+    },
+  },
+  {
+    id: 2612,
+    difficulty: "Medio",
+    question: "¿Qué llamado hizo Gordon B. Hinckley a los miembros de la Iglesia?",
+     category: profetas,
+    correct_answer: "Ser un poco mejores cada día",
+    incorrect_answers: [
+      "Evitar participar en la comunidad",
+      "Enfocarse únicamente en la riqueza material",
+      "Ignorar las enseñanzas de los profetas",
+    ],
+    justifications: {
+      correct_answer: "Hinckley instó a los miembros a ser un poco mejores cada día (véase 'Un llamado a la mejora continua').",
+      incorrect_answers: [
+        "Enseñó lo contrario sobre la participación comunitaria.",
+        "No promovió la riqueza material como enfoque principal.",
+        "Enfatizó seguir las enseñanzas de los profetas.",
+      ],
+    },
+  },
+  {
+    id: 2613,
+    difficulty: "Fácil",
+    question: "¿Qué cargo ocupó Gordon B. Hinckley antes de ser presidente de la Iglesia?",
+     category: profetas,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Obispo",
+      "Setenta",
+      "Patriarca",
+    ],
+    justifications: {
+      correct_answer: "Gordon B. Hinckley sirvió como apóstol antes de ser presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue obispo antes de ser profeta.",
+        "No sirvió como Setenta antes de ser profeta.",
+        "No fue patriarca antes de ser profeta.",
+      ],
+    },
+  },
+  {
+    id: 2614,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Gordon B. Hinckley se relaciona con la fe?",
+     category: profetas,
+    correct_answer: "Que es un principio de acción y poder",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la fe es un principio de acción y poder (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2615,
+    difficulty: "Medio",
+    question: "¿Qué mensaje dio Gordon B. Hinckley sobre la importancia de la oración?",
+     category: profetas,
+    correct_answer: "Que es una comunicación vital con Dios",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos de crisis",
+      "Que es un ritual sin significado",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la oración es una comunicación vital con Dios (véase 'La oración: un diálogo con Dios').",
+      incorrect_answers: [
+        "La oración es necesaria en la vida diaria.",
+        "No es solo para momentos de crisis.",
+        "Tiene un profundo significado.",
+      ],
+    },
+  },
+  {
+    id: 2616,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Gordon B. Hinckley para describir el Libro de Mormón?",
+     category: profetas,
+    correct_answer: "La clave de nuestra religión",
+    incorrect_answers: [
+      "Un libro histórico interesante",
+      "Un complemento opcional a la Biblia",
+      "Un texto solo para eruditos",
+    ],
+    justifications: {
+      correct_answer: "Hinckley describió el Libro de Mormón como 'la clave de nuestra religión' (véase 'El Libro de Mormón: otro testamento de Jesucristo').",
+      incorrect_answers: [
+        "No es solo un libro histórico.",
+        "No es un complemento opcional, sino esencial.",
+        "Es para todos, no solo para eruditos.",
+      ],
+    },
+  },
+  {
+    id: 2617,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Gordon B. Hinckley se relaciona con la humildad?",
+     category: profetas,
+    correct_answer: "Que es esencial para seguir a Cristo",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria para la salvación",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la humildad es esencial para seguir a Cristo (véase 'La humildad: clave para seguir a Cristo').",
+      incorrect_answers: [
+        "La humildad no es debilidad, sino fortaleza.",
+        "Es necesaria para la salvación.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2618,
+    difficulty: "Medio",
+    question: "¿Qué dijo Gordon B. Hinckley sobre la importancia del servicio?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesario en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que el servicio es una expresión de amor cristiano (véase 'El servicio: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesario en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2619,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Gordon B. Hinckley sobre la gratitud?",
+     category: profetas,
+    correct_answer: "Que es un principio fundamental para la felicidad",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos especiales",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la gratitud es fundamental para la felicidad (véase 'La gratitud: un principio de felicidad').",
+      incorrect_answers: [
+        "La gratitud es necesaria en la vida diaria.",
+        "No es solo para momentos especiales.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2620,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Gordon B. Hinckley se relaciona con la caridad?",
+     category: profetas,
+    correct_answer: "Que es el amor puro de Cristo",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los necesitados",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la caridad es el amor puro de Cristo (véase Moroni 7:47).",
+      incorrect_answers: [
+        "La caridad no es opcional, sino esencial.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los necesitados.",
+      ],
+    },
+  },
+  {
+    id: 2621,
+    difficulty: "Medio",
+    question: "¿Qué dijo Gordon B. Hinckley sobre la importancia del arrepentimiento?",
+     category: profetas,
+    correct_answer: "Que es un proceso continuo",
+    incorrect_answers: [
+      "Que es innecesario en la vida moderna",
+      "Que es solo para pecados graves",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que el arrepentimiento es un proceso continuo (véase 'El arrepentimiento: un proceso continuo').",
+      incorrect_answers: [
+        "Es necesario en todo momento.",
+        "Aplica a todos los pecados, no solo a los graves.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2622,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Gordon B. Hinckley para describir la importancia del Evangelio?",
+     category: profetas,
+    correct_answer: "El camino a la felicidad eterna",
+    incorrect_answers: [
+      "Una guía opcional para la vida",
+      "Un conjunto de reglas obsoletas",
+      "Un mito religioso",
+    ],
+    justifications: {
+      correct_answer: "Hinckley describió el Evangelio como 'el camino a la felicidad eterna' (véase 'El Evangelio: el camino a la felicidad').",
+      incorrect_answers: [
+        "No es una guía opcional.",
+        "No es un conjunto de reglas obsoletas.",
+        "No es un mito, sino una verdad eterna.",
+      ],
+    },
+  },
+  {
+    id: 2623,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Gordon B. Hinckley se relaciona con la paciencia?",
+     category: profetas,
+    correct_answer: "Que es esencial para superar pruebas",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los ancianos",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la paciencia es esencial para superar pruebas (véase 'La paciencia: una virtud divina').",
+      incorrect_answers: [
+        "La paciencia no es debilidad, sino fortaleza.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los ancianos.",
+      ],
+    },
+  },
+  {
+    id: 2624,
+    difficulty: "Medio",
+    question: "¿Qué dijo Gordon B. Hinckley sobre la importancia de la amabilidad?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesaria en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la amabilidad es una expresión de amor cristiano (véase 'La amabilidad: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesaria en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2625,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Gordon B. Hinckley sobre el amor?",
+     category: profetas,
+    correct_answer: "Que es el mayor de todos los dones",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesario en la vida moderna",
+      "Que es solo para los débiles",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que el amor es el mayor de todos los dones (véase 1 Corintios 13:13).",
+      incorrect_answers: [
+        "El amor no es opcional, sino esencial.",
+        "Es necesario en todo momento.",
+        "No es solo para los débiles, sino para todos.",
+      ],
+    },
+  },
+  {
+    id: 2626,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Gordon B. Hinckley se relaciona con la esperanza?",
+     category: profetas,
+    correct_answer: "Que es un ancla para el alma",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos de crisis",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la esperanza es un ancla para el alma (véase Hebreos 6:19).",
+      incorrect_answers: [
+        "La esperanza es necesaria en la vida diaria.",
+        "No es solo para momentos de crisis.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2627,
+    difficulty: "Medio",
+    question: "¿Qué dijo Gordon B. Hinckley sobre la importancia de la familia?",
+     category: profetas,
+    correct_answer: "Que es la unidad central del plan de Dios",
+    incorrect_answers: [
+      "Que es una institución obsoleta",
+      "Que es menos importante que la carrera",
+      "Que es solo para personas casadas",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la familia es central en el plan de Dios (véase 'La familia: una proclamación para el mundo').",
+      incorrect_answers: [
+        "La familia no es obsoleta.",
+        "Es más importante que la carrera.",
+        "Aplica a todos, no solo a los casados.",
+      ],
+    },
+  },
+  {
+    id: 2628,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Gordon B. Hinckley para describir la importancia del templo?",
+     category: profetas,
+    correct_answer: "Un refugio de paz",
+    incorrect_answers: [
+      "Un lugar de negocios",
+      "Un centro de entretenimiento",
+      "Un museo histórico",
+    ],
+    justifications: {
+      correct_answer: "Hinckley describió el templo como 'un refugio de paz' (véase 'El templo: un refugio de paz').",
+      incorrect_answers: [
+        "No es un lugar de negocios.",
+        "No es un centro de entretenimiento.",
+        "No es un museo histórico.",
+      ],
+    },
+  },
+  {
+    id: 2629,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Gordon B. Hinckley se relaciona con la obediencia?",
+     category: profetas,
+    correct_answer: "Que trae bendiciones",
+    incorrect_answers: [
+      "Que es opcional",
+      "Que es innecesaria",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la obediencia trae bendiciones (véase 'La obediencia: un principio de bendición').",
+      incorrect_answers: [
+        "La obediencia no es opcional.",
+        "Es necesaria para recibir bendiciones.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2630,
+    difficulty: "Medio",
+    question: "¿Qué dijo Gordon B. Hinckley sobre la importancia de la fe en Jesucristo?",
+     category: profetas,
+    correct_answer: "Que es el fundamento de nuestra redención",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Hinckley enseñó que la fe en Jesucristo es el fundamento de nuestra redención (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+
 
 
 
@@ -50918,6 +52121,407 @@ Conocido por su enfoque en el servicio y la compasión. */
 
 
 
+
+  {
+    id: 2631,
+    difficulty: "Difícil",
+    question: "¿Qué mensaje principal enfatizó Thomas S. Monson sobre la importancia de servir al prójimo?",
+     category: profetas,
+    correct_answer: "Que el servicio es la esencia del Evangelio",
+    incorrect_answers: [
+      "Que el servicio es opcional",
+      "Que el servicio es solo para líderes",
+      "Que el servicio es innecesario",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que el servicio es la esencia del Evangelio (véase 'El servicio: la esencia del Evangelio').",
+      incorrect_answers: [
+        "El servicio no es opcional, es esencial.",
+        "El servicio es para todos, no solo para líderes.",
+        "El servicio es necesario en la vida cristiana.",
+      ],
+    },
+  },
+  {
+    id: 2632,
+    difficulty: "Medio",
+    question: "¿Qué llamado hizo Thomas S. Monson a los miembros de la Iglesia?",
+     category: profetas,
+    correct_answer: "Escuchar y seguir las impresiones del Espíritu",
+    incorrect_answers: [
+      "Ignorar las impresiones espirituales",
+      "Enfocarse únicamente en la riqueza material",
+      "Evitar participar en la comunidad",
+    ],
+    justifications: {
+      correct_answer: "Monson instó a los miembros a escuchar y seguir las impresiones del Espíritu (véase 'Sigue las impresiones del Espíritu').",
+      incorrect_answers: [
+        "Enseñó lo contrario sobre las impresiones espirituales.",
+        "No promovió la riqueza material como enfoque principal.",
+        "Enfatizó la participación en la comunidad.",
+      ],
+    },
+  },
+  {
+    id: 2633,
+    difficulty: "Fácil",
+    question: "¿Qué cargo ocupó Thomas S. Monson antes de ser presidente de la Iglesia?",
+     category: profetas,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Obispo",
+      "Setenta",
+      "Patriarca",
+    ],
+    justifications: {
+      correct_answer: "Thomas S. Monson sirvió como apóstol antes de ser presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue obispo antes de ser profeta.",
+        "No sirvió como Setenta antes de ser profeta.",
+        "No fue patriarca antes de ser profeta.",
+      ],
+    },
+  },
+  {
+    id: 2634,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Thomas S. Monson se relaciona con la fe?",
+     category: profetas,
+    correct_answer: "Que es un principio de acción y poder",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la fe es un principio de acción y poder (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2635,
+    difficulty: "Medio",
+    question: "¿Qué mensaje dio Thomas S. Monson sobre la importancia de la oración?",
+     category: profetas,
+    correct_answer: "Que es una comunicación vital con Dios",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos de crisis",
+      "Que es un ritual sin significado",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la oración es una comunicación vital con Dios (véase 'La oración: un diálogo con Dios').",
+      incorrect_answers: [
+        "La oración es necesaria en la vida diaria.",
+        "No es solo para momentos de crisis.",
+        "Tiene un profundo significado.",
+      ],
+    },
+  },
+  {
+    id: 2636,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Thomas S. Monson para describir el Libro de Mormón?",
+     category: profetas,
+    correct_answer: "La clave de nuestra religión",
+    incorrect_answers: [
+      "Un libro histórico interesante",
+      "Un complemento opcional a la Biblia",
+      "Un texto solo para eruditos",
+    ],
+    justifications: {
+      correct_answer: "Monson describió el Libro de Mormón como 'la clave de nuestra religión' (véase 'El Libro de Mormón: otro testamento de Jesucristo').",
+      incorrect_answers: [
+        "No es solo un libro histórico.",
+        "No es un complemento opcional, sino esencial.",
+        "Es para todos, no solo para eruditos.",
+      ],
+    },
+  },
+  {
+    id: 2637,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Thomas S. Monson se relaciona con la humildad?",
+     category: profetas,
+    correct_answer: "Que es esencial para seguir a Cristo",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria para la salvación",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la humildad es esencial para seguir a Cristo (véase 'La humildad: clave para seguir a Cristo').",
+      incorrect_answers: [
+        "La humildad no es debilidad, sino fortaleza.",
+        "Es necesaria para la salvación.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2638,
+    difficulty: "Medio",
+    question: "¿Qué dijo Thomas S. Monson sobre la importancia del servicio?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesario en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que el servicio es una expresión de amor cristiano (véase 'El servicio: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesario en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2639,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Thomas S. Monson sobre la gratitud?",
+     category: profetas,
+    correct_answer: "Que es un principio fundamental para la felicidad",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos especiales",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la gratitud es fundamental para la felicidad (véase 'La gratitud: un principio de felicidad').",
+      incorrect_answers: [
+        "La gratitud es necesaria en la vida diaria.",
+        "No es solo para momentos especiales.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2640,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Thomas S. Monson se relaciona con la caridad?",
+     category: profetas,
+    correct_answer: "Que es el amor puro de Cristo",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los necesitados",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la caridad es el amor puro de Cristo (véase Moroni 7:47).",
+      incorrect_answers: [
+        "La caridad no es opcional, sino esencial.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los necesitados.",
+      ],
+    },
+  },
+  {
+    id: 2641,
+    difficulty: "Medio",
+    question: "¿Qué dijo Thomas S. Monson sobre la importancia del arrepentimiento?",
+     category: profetas,
+    correct_answer: "Que es un proceso continuo",
+    incorrect_answers: [
+      "Que es innecesario en la vida moderna",
+      "Que es solo para pecados graves",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que el arrepentimiento es un proceso continuo (véase 'El arrepentimiento: un proceso continuo').",
+      incorrect_answers: [
+        "Es necesario en todo momento.",
+        "Aplica a todos los pecados, no solo a los graves.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2642,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Thomas S. Monson para describir la importancia del Evangelio?",
+     category: profetas,
+    correct_answer: "El camino a la felicidad eterna",
+    incorrect_answers: [
+      "Una guía opcional para la vida",
+      "Un conjunto de reglas obsoletas",
+      "Un mito religioso",
+    ],
+    justifications: {
+      correct_answer: "Monson describió el Evangelio como 'el camino a la felicidad eterna' (véase 'El Evangelio: el camino a la felicidad').",
+      incorrect_answers: [
+        "No es una guía opcional.",
+        "No es un conjunto de reglas obsoletas.",
+        "No es un mito, sino una verdad eterna.",
+      ],
+    },
+  },
+  {
+    id: 2643,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Thomas S. Monson se relaciona con la paciencia?",
+     category: profetas,
+    correct_answer: "Que es esencial para superar pruebas",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los ancianos",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la paciencia es esencial para superar pruebas (véase 'La paciencia: una virtud divina').",
+      incorrect_answers: [
+        "La paciencia no es debilidad, sino fortaleza.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los ancianos.",
+      ],
+    },
+  },
+  {
+    id: 2644,
+    difficulty: "Medio",
+    question: "¿Qué dijo Thomas S. Monson sobre la importancia de la amabilidad?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesaria en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la amabilidad es una expresión de amor cristiano (véase 'La amabilidad: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesaria en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2645,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Thomas S. Monson sobre el amor?",
+     category: profetas,
+    correct_answer: "Que es el mayor de todos los dones",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesario en la vida moderna",
+      "Que es solo para los débiles",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que el amor es el mayor de todos los dones (véase 1 Corintios 13:13).",
+      incorrect_answers: [
+        "El amor no es opcional, sino esencial.",
+        "Es necesario en todo momento.",
+        "No es solo para los débiles, sino para todos.",
+      ],
+    },
+  },
+  {
+    id: 2646,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Thomas S. Monson se relaciona con la esperanza?",
+     category: profetas,
+    correct_answer: "Que es un ancla para el alma",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos de crisis",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la esperanza es un ancla para el alma (véase Hebreos 6:19).",
+      incorrect_answers: [
+        "La esperanza es necesaria en la vida diaria.",
+        "No es solo para momentos de crisis.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2647,
+    difficulty: "Medio",
+    question: "¿Qué dijo Thomas S. Monson sobre la importancia de la familia?",
+     category: profetas,
+    correct_answer: "Que es la unidad central del plan de Dios",
+    incorrect_answers: [
+      "Que es una institución obsoleta",
+      "Que es menos importante que la carrera",
+      "Que es solo para personas casadas",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la familia es central en el plan de Dios (véase 'La familia: una proclamación para el mundo').",
+      incorrect_answers: [
+        "La familia no es obsoleta.",
+        "Es más importante que la carrera.",
+        "Aplica a todos, no solo a los casados.",
+      ],
+    },
+  },
+  {
+    id: 2648,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Thomas S. Monson para describir la importancia del templo?",
+     category: profetas,
+    correct_answer: "Un refugio de paz",
+    incorrect_answers: [
+      "Un lugar de negocios",
+      "Un centro de entretenimiento",
+      "Un museo histórico",
+    ],
+    justifications: {
+      correct_answer: "Monson describió el templo como 'un refugio de paz' (véase 'El templo: un refugio de paz').",
+      incorrect_answers: [
+        "No es un lugar de negocios.",
+        "No es un centro de entretenimiento.",
+        "No es un museo histórico.",
+      ],
+    },
+  },
+  {
+    id: 2649,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Thomas S. Monson se relaciona con la obediencia?",
+     category: profetas,
+    correct_answer: "Que trae bendiciones",
+    incorrect_answers: [
+      "Que es opcional",
+      "Que es innecesaria",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la obediencia trae bendiciones (véase 'La obediencia: un principio de bendición').",
+      incorrect_answers: [
+        "La obediencia no es opcional.",
+        "Es necesaria para recibir bendiciones.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2650,
+    difficulty: "Medio",
+    question: "¿Qué dijo Thomas S. Monson sobre la importancia de la fe en Jesucristo?",
+     category: profetas,
+    correct_answer: "Que es el fundamento de nuestra redención",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Monson enseñó que la fe en Jesucristo es el fundamento de nuestra redención (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
 
 
 
@@ -50933,6 +52537,407 @@ Actual profeta y presidente de la iglesia. Ha enfatizado la importancia del
 nombre correcto de la iglesia y ha supervisado 
 cambios significativos en la organización y prácticas de la iglesia. */
 
+
+  {
+    id: 2651,
+    difficulty: "Difícil",
+    question: "¿Qué mensaje principal enfatizó Russell M. Nelson sobre la importancia de la revelación continua?",
+     category: profetas,
+    correct_answer: "Que es esencial para guiar a la Iglesia en la actualidad",
+    incorrect_answers: [
+      "Que es un concepto obsoleto",
+      "Que es solo para líderes de la Iglesia",
+      "Que es innecesaria en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la revelación continua es esencial para guiar a la Iglesia (véase 'La revelación continua: una bendición para la Iglesia').",
+      incorrect_answers: [
+        "La revelación continua no es obsoleta.",
+        "Es para todos, no solo para líderes.",
+        "Es necesaria en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2652,
+    difficulty: "Medio",
+    question: "¿Qué llamado hizo Russell M. Nelson a los miembros de la Iglesia?",
+     category: profetas,
+    correct_answer: "Aumentar su espiritualidad personal",
+    incorrect_answers: [
+      "Ignorar las impresiones espirituales",
+      "Enfocarse únicamente en la riqueza material",
+      "Evitar participar en la comunidad",
+    ],
+    justifications: {
+      correct_answer: "Nelson instó a los miembros a aumentar su espiritualidad personal (véase 'Un llamado a la espiritualidad').",
+      incorrect_answers: [
+        "Enseñó lo contrario sobre las impresiones espirituales.",
+        "No promovió la riqueza material como enfoque principal.",
+        "Enfatizó la participación en la comunidad.",
+      ],
+    },
+  },
+  {
+    id: 2653,
+    difficulty: "Fácil",
+    question: "¿Qué cargo ocupó Russell M. Nelson antes de ser presidente de la Iglesia?",
+     category: profetas,
+    correct_answer: "Apóstol",
+    incorrect_answers: [
+      "Obispo",
+      "Setenta",
+      "Patriarca",
+    ],
+    justifications: {
+      correct_answer: "Russell M. Nelson sirvió como apóstol antes de ser presidente de la Iglesia.",
+      incorrect_answers: [
+        "No fue obispo antes de ser profeta.",
+        "No sirvió como Setenta antes de ser profeta.",
+        "No fue patriarca antes de ser profeta.",
+      ],
+    },
+  },
+  {
+    id: 2654,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la fe?",
+     category: profetas,
+    correct_answer: "Que es un principio de acción y poder",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la fe es un principio de acción y poder (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2655,
+    difficulty: "Medio",
+    question: "¿Qué mensaje dio Russell M. Nelson sobre la importancia de la oración?",
+     category: profetas,
+    correct_answer: "Que es una comunicación vital con Dios",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos de crisis",
+      "Que es un ritual sin significado",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la oración es una comunicación vital con Dios (véase 'La oración: un diálogo con Dios').",
+      incorrect_answers: [
+        "La oración es necesaria en la vida diaria.",
+        "No es solo para momentos de crisis.",
+        "Tiene un profundo significado.",
+      ],
+    },
+  },
+  {
+    id: 2656,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Russell M. Nelson para describir el Libro de Mormón?",
+     category: profetas,
+    correct_answer: "La clave de nuestra religión",
+    incorrect_answers: [
+      "Un libro histórico interesante",
+      "Un complemento opcional a la Biblia",
+      "Un texto solo para eruditos",
+    ],
+    justifications: {
+      correct_answer: "Nelson describió el Libro de Mormón como 'la clave de nuestra religión' (véase 'El Libro de Mormón: otro testamento de Jesucristo').",
+      incorrect_answers: [
+        "No es solo un libro histórico.",
+        "No es un complemento opcional, sino esencial.",
+        "Es para todos, no solo para eruditos.",
+      ],
+    },
+  },
+  {
+    id: 2657,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la humildad?",
+     category: profetas,
+    correct_answer: "Que es esencial para seguir a Cristo",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria para la salvación",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la humildad es esencial para seguir a Cristo (véase 'La humildad: clave para seguir a Cristo').",
+      incorrect_answers: [
+        "La humildad no es debilidad, sino fortaleza.",
+        "Es necesaria para la salvación.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
+  {
+    id: 2658,
+    difficulty: "Medio",
+    question: "¿Qué dijo Russell M. Nelson sobre la importancia del servicio?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesario en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que el servicio es una expresión de amor cristiano (véase 'El servicio: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesario en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2659,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Russell M. Nelson sobre la gratitud?",
+     category: profetas,
+    correct_answer: "Que es un principio fundamental para la felicidad",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos especiales",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la gratitud es fundamental para la felicidad (véase 'La gratitud: un principio de felicidad').",
+      incorrect_answers: [
+        "La gratitud es necesaria en la vida diaria.",
+        "No es solo para momentos especiales.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2660,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la caridad?",
+     category: profetas,
+    correct_answer: "Que es el amor puro de Cristo",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los necesitados",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la caridad es el amor puro de Cristo (véase Moroni 7:47).",
+      incorrect_answers: [
+        "La caridad no es opcional, sino esencial.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los necesitados.",
+      ],
+    },
+  },
+  {
+    id: 2661,
+    difficulty: "Medio",
+    question: "¿Qué dijo Russell M. Nelson sobre la importancia del arrepentimiento?",
+     category: profetas,
+    correct_answer: "Que es un proceso continuo",
+    incorrect_answers: [
+      "Que es innecesario en la vida moderna",
+      "Que es solo para pecados graves",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que el arrepentimiento es un proceso continuo (véase 'El arrepentimiento: un proceso continuo').",
+      incorrect_answers: [
+        "Es necesario en todo momento.",
+        "Aplica a todos los pecados, no solo a los graves.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2662,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Russell M. Nelson para describir la importancia del Evangelio?",
+     category: profetas,
+    correct_answer: "El camino a la felicidad eterna",
+    incorrect_answers: [
+      "Una guía opcional para la vida",
+      "Un conjunto de reglas obsoletas",
+      "Un mito religioso",
+    ],
+    justifications: {
+      correct_answer: "Nelson describió el Evangelio como 'el camino a la felicidad eterna' (véase 'El Evangelio: el camino a la felicidad').",
+      incorrect_answers: [
+        "No es una guía opcional.",
+        "No es un conjunto de reglas obsoletas.",
+        "No es un mito, sino una verdad eterna.",
+      ],
+    },
+  },
+  {
+    id: 2663,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la paciencia?",
+     category: profetas,
+    correct_answer: "Que es esencial para superar pruebas",
+    incorrect_answers: [
+      "Que es un signo de debilidad",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para los ancianos",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la paciencia es esencial para superar pruebas (véase 'La paciencia: una virtud divina').",
+      incorrect_answers: [
+        "La paciencia no es debilidad, sino fortaleza.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los ancianos.",
+      ],
+    },
+  },
+  {
+    id: 2664,
+    difficulty: "Medio",
+    question: "¿Qué dijo Russell M. Nelson sobre la importancia de la amabilidad?",
+     category: profetas,
+    correct_answer: "Que es una expresión de amor cristiano",
+    incorrect_answers: [
+      "Que es una pérdida de tiempo",
+      "Que es solo para personas ricas",
+      "Que es innecesaria en la vida moderna",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la amabilidad es una expresión de amor cristiano (véase 'La amabilidad: una expresión de amor').",
+      incorrect_answers: [
+        "No es una pérdida de tiempo.",
+        "Es para todos, no solo para los ricos.",
+        "Es necesaria en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2665,
+    difficulty: "Fácil",
+    question: "¿Qué mensaje principal compartió Russell M. Nelson sobre el amor?",
+     category: profetas,
+    correct_answer: "Que es el mayor de todos los dones",
+    incorrect_answers: [
+      "Que es un sentimiento opcional",
+      "Que es innecesario en la vida moderna",
+      "Que es solo para los débiles",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que el amor es el mayor de todos los dones (véase 1 Corintios 13:13).",
+      incorrect_answers: [
+        "El amor no es opcional, sino esencial.",
+        "Es necesario en todo momento.",
+        "No es solo para los débiles, sino para todos.",
+      ],
+    },
+  },
+  {
+    id: 2666,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la esperanza?",
+     category: profetas,
+    correct_answer: "Que es un ancla para el alma",
+    incorrect_answers: [
+      "Que es innecesaria en la vida diaria",
+      "Que es solo para momentos de crisis",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la esperanza es un ancla para el alma (véase Hebreos 6:19).",
+      incorrect_answers: [
+        "La esperanza es necesaria en la vida diaria.",
+        "No es solo para momentos de crisis.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2667,
+    difficulty: "Medio",
+    question: "¿Qué dijo Russell M. Nelson sobre la importancia de la familia?",
+     category: profetas,
+    correct_answer: "Que es la unidad central del plan de Dios",
+    incorrect_answers: [
+      "Que es una institución obsoleta",
+      "Que es menos importante que la carrera",
+      "Que es solo para personas casadas",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la familia es central en el plan de Dios (véase 'La familia: una proclamación para el mundo').",
+      incorrect_answers: [
+        "La familia no es obsoleta.",
+        "Es más importante que la carrera.",
+        "Aplica a todos, no solo a los casados.",
+      ],
+    },
+  },
+  {
+    id: 2668,
+    difficulty: "Fácil",
+    question: "¿Qué frase usó Russell M. Nelson para describir la importancia del templo?",
+     category: profetas,
+    correct_answer: "Un refugio de paz",
+    incorrect_answers: [
+      "Un lugar de negocios",
+      "Un centro de entretenimiento",
+      "Un museo histórico",
+    ],
+    justifications: {
+      correct_answer: "Nelson describió el templo como 'un refugio de paz' (véase 'El templo: un refugio de paz').",
+      incorrect_answers: [
+        "No es un lugar de negocios.",
+        "No es un centro de entretenimiento.",
+        "No es un museo histórico.",
+      ],
+    },
+  },
+  {
+    id: 2669,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la obediencia?",
+     category: profetas,
+    correct_answer: "Que trae bendiciones",
+    incorrect_answers: [
+      "Que es opcional",
+      "Que es innecesaria",
+      "Que es un signo de debilidad",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la obediencia trae bendiciones (véase 'La obediencia: un principio de bendición').",
+      incorrect_answers: [
+        "La obediencia no es opcional.",
+        "Es necesaria para recibir bendiciones.",
+        "No es un signo de debilidad, sino de fortaleza.",
+      ],
+    },
+  },
+  {
+    id: 2670,
+    difficulty: "Medio",
+    question: "¿Qué dijo Russell M. Nelson sobre la importancia de la fe en Jesucristo?",
+     category: profetas,
+    correct_answer: "Que es el fundamento de nuestra redención",
+    incorrect_answers: [
+      "Que es un sentimiento pasivo",
+      "Que es innecesaria en la vida moderna",
+      "Que es solo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Nelson enseñó que la fe en Jesucristo es el fundamento de nuestra redención (véase 'La fe: un principio de acción').",
+      incorrect_answers: [
+        "La fe no es pasiva, sino activa.",
+        "Es necesaria en todo momento.",
+        "Aplica a todos, no solo a los líderes.",
+      ],
+    },
+  },
 
 
   
