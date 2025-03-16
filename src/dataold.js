@@ -57276,8 +57276,4078 @@ cambios significativos en la organización y prácticas de la iglesia. */
     },
   },
 
+// Ordenanzas el Bautismo
 
 
+
+
+  {
+    id: 2865,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el bautismo por inmersión en la Iglesia?",
+    category:  ordenanzas ,
+    correct_answer: "La muerte y resurrección de Jesucristo",
+    incorrect_answers: [
+      "El nacimiento físico de una persona",
+      "El matrimonio eterno",
+      "La restauración del sacerdocio",
+    ],
+    justifications: {
+      correct_answer: "El bautismo por inmersión simboliza la muerte, sepultura y resurrección de Jesucristo (Romanos 6:3-5).",
+      incorrect_answers: [
+        "No simboliza el nacimiento físico, sino el espiritual.",
+        "El matrimonio eterno es una ordenanza diferente.",
+        "La restauración del sacerdocio no está relacionada con el bautismo.",
+      ],
+    },
+  },
+  {
+    id: 2866,
+    difficulty: "Medio",
+    question: "¿Quién tiene la autoridad para realizar bautismos en la Iglesia?",
+    category:  ordenanzas ,
+    correct_answer: "Un poseedor del Sacerdocio Aarónico",
+    incorrect_answers: [
+      "Cualquier miembro de la Iglesia",
+      "Un presidente de estaca",
+      "Un miembro del sumo consejo",
+    ],
+    justifications: {
+      correct_answer: "Un poseedor del Sacerdocio Aarónico, específicamente un sacerdote, tiene la autoridad para realizar bautismos (DyC 20:46).",
+      incorrect_answers: [
+        "No cualquier miembro puede realizar bautismos.",
+        "Un presidente de estaca no realiza bautismos regularmente.",
+        "Un miembro del sumo consejo no tiene esta autoridad específica.",
+      ],
+    },
+  },
+  {
+    id: 2867,
+    difficulty: "Fácil",
+    question: "¿Cuál es la edad mínima para ser bautizado en la Iglesia?",
+    category:  ordenanzas ,
+    correct_answer: "8 años",
+    incorrect_answers: [
+      "12 años",
+      "18 años",
+      "21 años",
+    ],
+    justifications: {
+      correct_answer: "La edad de responsabilidad para el bautismo es 8 años, según las enseñanzas de la Iglesia (DyC 68:27).",
+      incorrect_answers: [
+        "12 años es la edad para recibir el Sacerdocio Aarónico.",
+        "18 años es la edad para servir como misionero.",
+        "21 años no es una edad relacionada con el bautismo.",
+      ],
+    },
+  },
+  {
+    id: 2868,
+    difficulty: "Difícil",
+    question: "¿Qué significa 'nacer del agua y del Espíritu' en el contexto del bautismo?",
+    category:  ordenanzas ,
+    correct_answer: "El bautismo y la confirmación",
+    incorrect_answers: [
+      "El matrimonio y el sellamiento",
+      "La ordenación al sacerdocio",
+      "La bendición patriarcal",
+    ],
+    justifications: {
+      correct_answer: "'Nacer del agua y del Espíritu' se refiere al bautismo por agua y la confirmación por el Espíritu Santo (Juan 3:5).",
+      incorrect_answers: [
+        "El matrimonio y el sellamiento son ordenanzas diferentes.",
+        "La ordenación al sacerdocio no está relacionada con esta frase.",
+        "La bendición patriarcal no es parte de este proceso.",
+      ],
+    },
+  },
+  {
+    id: 2869,
+    difficulty: "Medio",
+    question: "¿Qué convenios hacemos al ser bautizados?",
+    category:  ordenanzas ,
+    correct_answer: "Tomar sobre nosotros el nombre de Cristo",
+    incorrect_answers: [
+      "Pagar el diezmo íntegro",
+      "Servir como misioneros",
+      "Asistir a todas las reuniones",
+    ],
+    justifications: {
+      correct_answer: "Al ser bautizados, hacemos convenios de tomar sobre nosotros el nombre de Cristo y guardar Sus mandamientos (Mosíah 18:8-10).",
+      incorrect_answers: [
+        "Pagar el diezmo es un convenio separado.",
+        "Servir como misioneros no es un convenio bautismal.",
+        "Asistir a reuniones es importante, pero no es un convenio bautismal.",
+      ],
+    },
+  },
+  {
+    id: 2870,
+    difficulty: "Fácil",
+    question: "¿Por qué el bautismo es una ordenanza esencial para la salvación?",
+    category:  ordenanzas ,
+    correct_answer: "Es necesario para entrar en el reino de Dios",
+    incorrect_answers: [
+      "Es un requisito para ser miembro de la Iglesia",
+      "Es necesario para recibir el sacerdocio",
+      "Es un símbolo de la fe personal",
+    ],
+    justifications: {
+      correct_answer: "El bautismo es esencial para la salvación porque es necesario para entrar en el reino de Dios (Juan 3:5).",
+      incorrect_answers: [
+        "Ser miembro de la Iglesia es importante, pero no es el propósito principal del bautismo.",
+        "El sacerdocio no se recibe a través del bautismo.",
+        "El bautismo es más que un símbolo de fe personal.",
+      ],
+    },
+  },
+  {
+    id: 2871,
+    difficulty: "Difícil",
+    question: "¿Qué se requiere para ser bautizado en la Iglesia?",
+    category:  ordenanzas ,
+    correct_answer: "Fe en Jesucristo y arrepentimiento",
+    incorrect_answers: [
+      "Conocimiento completo de las escrituras",
+      "Haber servido como misionero",
+      "Ser mayor de 18 años",
+    ],
+    justifications: {
+      correct_answer: "Para ser bautizado, se requiere fe en Jesucristo y arrepentimiento de los pecados (Moroni 6:1-3).",
+      incorrect_answers: [
+        "No se requiere conocimiento completo de las escrituras.",
+        "No es necesario haber servido como misionero.",
+        "La edad mínima es 8 años, no 18.",
+      ],
+    },
+  },
+  {
+    id: 2872,
+    difficulty: "Medio",
+    question: "¿Qué papel juega el Espíritu Santo en el bautismo?",
+    category:  ordenanzas ,
+    correct_answer: "Confirmar el bautismo y otorgar dones espirituales",
+    incorrect_answers: [
+      "Realizar la ordenanza del bautismo",
+      "Enseñar todas las doctrinas de la Iglesia",
+      "Dirigir la ceremonia del bautismo",
+    ],
+    justifications: {
+      correct_answer: "El Espíritu Santo confirma el bautismo y otorga dones espirituales a los nuevos miembros (DyC 20:41).",
+      incorrect_answers: [
+        "El Espíritu Santo no realiza la ordenanza del bautismo.",
+        "El Espíritu Santo enseña, pero no es su papel principal en el bautismo.",
+        "El Espíritu Santo no dirige la ceremonia del bautismo.",
+      ],
+    },
+  },
+  {
+    id: 2873,
+    difficulty: "Fácil",
+    question: "¿Qué significa ser bautizado 'por inmersión'?",
+    category:  ordenanzas ,
+    correct_answer: "Ser completamente sumergido en el agua",
+    incorrect_answers: [
+      "Ser rociado con agua",
+      "Ser ungido con aceite",
+      "Ser lavado con agua corriente",
+    ],
+    justifications: {
+      correct_answer: "El bautismo por inmersión implica ser completamente sumergido en el agua, simbolizando la muerte y resurrección (Romanos 6:4).",
+      incorrect_answers: [
+        "El bautismo no se realiza por rociamiento.",
+        "La unción con aceite es una ordenanza diferente.",
+        "El lavado con agua corriente no es el método correcto.",
+      ],
+    },
+  },
+  {
+    id: 2874,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de Jesucristo respalda la necesidad del bautismo?",
+    category:  ordenanzas ,
+    correct_answer: "El mandamiento de nacer del agua y del Espíritu",
+    incorrect_answers: [
+      "La parábola del buen samaritano",
+      "El Sermón del Monte",
+      "La multiplicación de los panes y los peces",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó la necesidad de nacer del agua y del Espíritu para entrar en el reino de Dios (Juan 3:5).",
+      incorrect_answers: [
+        "La parábola del buen samaritano no habla del bautismo.",
+        "El Sermón del Monte no menciona el bautismo.",
+        "La multiplicación de los panes y los peces no está relacionada con el bautismo.",
+      ],
+    },
+  },
+  {
+    id: 2875,
+    difficulty: "Medio",
+    question: "¿Qué simboliza el agua en el bautismo?",
+    category:  ordenanzas ,
+    correct_answer: "La purificación de los pecados",
+    incorrect_answers: [
+      "La sabiduría divina",
+      "La vida eterna",
+      "La resurrección física",
+    ],
+    justifications: {
+      correct_answer: "El agua en el bautismo simboliza la purificación de los pecados y el renacimiento espiritual (Hechos 22:16).",
+      incorrect_answers: [
+        "El agua no simboliza la sabiduría divina.",
+        "La vida eterna es un resultado, no un símbolo del agua.",
+        "La resurrección física no está simbolizada por el agua.",
+      ],
+    },
+  },
+  {
+    id: 2876,
+    difficulty: "Fácil",
+    question: "¿Qué ordenanza sigue inmediatamente después del bautismo?",
+    category:  ordenanzas ,
+    correct_answer: "La confirmación y la recepción del Espíritu Santo",
+    incorrect_answers: [
+      "La ordenación al sacerdocio",
+      "La bendición patriarcal",
+      "El matrimonio en el templo",
+    ],
+    justifications: {
+      correct_answer: "Después del bautismo, se realiza la confirmación y se otorga el don del Espíritu Santo (DyC 20:41).",
+      incorrect_answers: [
+        "La ordenación al sacerdocio no sigue al bautismo.",
+        "La bendición patriarcal no es parte de este proceso.",
+        "El matrimonio en el templo es una ordenanza posterior.",
+      ],
+    },
+  },
+  {
+    id: 2877,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2878,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de José Smith destaca la importancia del bautismo?",
+    category:  ordenanzas ,
+    correct_answer: "El bautismo es la puerta de entrada al reino de Dios",
+    incorrect_answers: [
+      "El bautismo es opcional para los miembros",
+      "El bautismo no tiene relación con la salvación",
+      "El bautismo es solo para adultos",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el bautismo es la puerta de entrada al reino de Dios y es esencial para la salvación (Artículos de Fe 1:4).",
+      incorrect_answers: [
+        "El bautismo no es opcional, sino esencial.",
+        "El bautismo está directamente relacionado con la salvación.",
+        "El bautismo es para todos, no solo para adultos.",
+      ],
+    },
+  },
+  {
+    id: 2879,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2880,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2881,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2882,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2883,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2884,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2885,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2886,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2887,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2888,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2889,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda el bautismo por inmersión?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán",
+    incorrect_answers: [
+      "El bautismo por rociamiento fue practicado por los apóstoles",
+      "El bautismo no es necesario para la salvación",
+      "El bautismo es solo un símbolo sin poder real",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo fue bautizado por inmersión en el río Jordán, estableciendo el ejemplo (Mateo 3:16).",
+      incorrect_answers: [
+        "El bautismo por rociamiento no fue practicado por los apóstoles.",
+        "El bautismo es necesario para la salvación.",
+        "El bautismo tiene poder real y simbólico.",
+      ],
+    },
+  },
+
+
+
+
+
+
+//Confirmación y don del Espíritu Santo
+
+
+
+
+
+  {
+    id: 2890,
+    difficulty: "Difícil",
+    question: "¿Qué es la confirmación en la Iglesia?",
+    category:  ordenanzas ,
+    correct_answer: "La ordenanza para recibir el don del Espíritu Santo",
+    incorrect_answers: [
+      "Un ritual simbólico sin poder real",
+      "Una ceremonia de bienvenida a la Iglesia",
+      "Una ordenanza exclusiva para líderes",
+    ],
+    justifications: {
+      correct_answer: "La confirmación es la ordenanza mediante la cual se recibe el don del Espíritu Santo (DyC 33:15).",
+      incorrect_answers: [
+        "La confirmación no es solo un ritual simbólico, sino una ordenanza con poder real.",
+        "No es solo una ceremonia de bienvenida, sino una ordenanza esencial.",
+        "No es exclusiva para líderes, sino para todos los nuevos miembros.",
+      ],
+    },
+  },
+  {
+    id: 2891,
+    difficulty: "Medio",
+    question: "¿Quién puede confirmar a un nuevo miembro de la Iglesia?",
+    category:  ordenanzas ,
+    correct_answer: "Un poseedor del Sacerdocio de Melquisedec",
+    incorrect_answers: [
+      "Cualquier miembro de la Iglesia",
+      "Un presidente de estaca",
+      "Un miembro del sumo consejo",
+    ],
+    justifications: {
+      correct_answer: "Un poseedor del Sacerdocio de Melquisedec tiene la autoridad para confirmar a un nuevo miembro (DyC 20:41).",
+      incorrect_answers: [
+        "No cualquier miembro puede realizar la confirmación.",
+        "Un presidente de estaca no realiza confirmaciones regularmente.",
+        "Un miembro del sumo consejo no tiene esta autoridad específica.",
+      ],
+    },
+  },
+  {
+    id: 2892,
+    difficulty: "Fácil",
+    question: "¿Qué palabras se usan en la ordenanza de la confirmación?",
+    category:  ordenanzas ,
+    correct_answer: "Recibe el Espíritu Santo",
+    incorrect_answers: [
+      "Eres salvo en el reino de Dios",
+      "Eres un miembro de la Iglesia",
+      "Eres bendecido con el sacerdocio",
+    ],
+    justifications: {
+      correct_answer: "Las palabras 'Recibe el Espíritu Santo' son esenciales en la ordenanza de la confirmación (DyC 33:15).",
+      incorrect_answers: [
+        "No se declara la salvación en la confirmación.",
+        "No se menciona la membresía en la Iglesia.",
+        "No se otorga el sacerdocio en la confirmación.",
+      ],
+    },
+  },
+  {
+    id: 2893,
+    difficulty: "Difícil",
+    question: "¿Qué es el don del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El derecho a tener la compañía constante del Espíritu Santo",
+    incorrect_answers: [
+      "Un sentimiento temporal de paz",
+      "Un don espiritual exclusivo para líderes",
+      "Una bendición física para la salud",
+    ],
+    justifications: {
+      correct_answer: "El don del Espíritu Santo es el derecho a tener la compañía constante del Espíritu Santo (DyC 130:22-23).",
+      incorrect_answers: [
+        "No es solo un sentimiento temporal, sino una compañía constante.",
+        "No es exclusivo para líderes, sino para todos los miembros confirmados.",
+        "No es una bendición física, sino espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2894,
+    difficulty: "Medio",
+    question: "¿Cómo se diferencia el don del Espíritu Santo de la influencia del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El don es constante, mientras que la influencia es temporal",
+    incorrect_answers: [
+      "El don es solo para líderes, la influencia para todos",
+      "El don es físico, la influencia es espiritual",
+      "El don es simbólico, la influencia es real",
+    ],
+    justifications: {
+      correct_answer: "El don del Espíritu Santo es constante para los miembros confirmados, mientras que la influencia del Espíritu Santo puede ser sentida por cualquier persona de manera temporal (DyC 130:22-23).",
+      incorrect_answers: [
+        "El don no es exclusivo para líderes, sino para todos los miembros confirmados.",
+        "El don no es físico, sino espiritual.",
+        "El don no es simbólico, sino real y poderoso.",
+      ],
+    },
+  },
+  {
+    id: 2895,
+    difficulty: "Fácil",
+    question: "¿Qué responsabilidades tenemos al recibir el don del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "Vivir dignamente para mantener Su compañía",
+    incorrect_answers: [
+      "Servir como misioneros inmediatamente",
+      "Pagar el diezmo íntegro",
+      "Asistir a todas las reuniones de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Al recibir el don del Espíritu Santo, debemos vivir dignamente para mantener Su compañía (DyC 121:45-46).",
+      incorrect_answers: [
+        "No es necesario servir como misioneros inmediatamente.",
+        "Pagar el diezmo es importante, pero no es la responsabilidad principal.",
+        "Asistir a reuniones es importante, pero no es la responsabilidad principal.",
+      ],
+    },
+  },
+  {
+    id: 2896,
+    difficulty: "Difícil",
+    question: "¿Por qué es importante ser digno de la compañía del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "Porque nos guía, consuela y enseña",
+    incorrect_answers: [
+      "Porque nos da poder físico",
+      "Porque nos hace líderes de la Iglesia",
+      "Porque nos garantiza la salvación automática",
+    ],
+    justifications: {
+      correct_answer: "Ser dignos de la compañía del Espíritu Santo es importante porque Él nos guía, consuela y enseña (Juan 14:26).",
+      incorrect_answers: [
+        "El Espíritu Santo no nos da poder físico.",
+        "No nos hace líderes de la Iglesia automáticamente.",
+        "No garantiza la salvación automática, sino que nos ayuda en el camino.",
+      ],
+    },
+  },
+  {
+    id: 2897,
+    difficulty: "Medio",
+    question: "¿Cómo podemos reconocer la guía del Espíritu Santo en nuestra vida?",
+    category:  ordenanzas ,
+    correct_answer: "A través de sentimientos de paz y claridad mental",
+    incorrect_answers: [
+      "A través de sueños y visiones",
+      "A través de señales físicas",
+      "A través de la voz audible del Espíritu",
+    ],
+    justifications: {
+      correct_answer: "La guía del Espíritu Santo se reconoce principalmente a través de sentimientos de paz y claridad mental (Gálatas 5:22-23).",
+      incorrect_answers: [
+        "No es común que el Espíritu Santo se manifieste a través de sueños y visiones.",
+        "No se manifiesta a través de señales físicas.",
+        "No es común que el Espíritu Santo hable de manera audible.",
+      ],
+    },
+  },
+  {
+    id: 2898,
+    difficulty: "Fácil",
+    question: "¿Qué bendiciones recibimos al tener el don del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "Guía, consuelo y revelación personal",
+    incorrect_answers: [
+      "Riqueza material y éxito profesional",
+      "Poder físico y salud perfecta",
+      "Inmunidad a las tentaciones",
+    ],
+    justifications: {
+      correct_answer: "El don del Espíritu Santo nos brinda guía, consuelo y revelación personal (DyC 8:2-3).",
+      incorrect_answers: [
+        "No garantiza riqueza material ni éxito profesional.",
+        "No otorga poder físico ni salud perfecta.",
+        "No nos hace inmunes a las tentaciones.",
+      ],
+    },
+  },
+  {
+    id: 2899,
+    difficulty: "Difícil",
+    question: "¿Qué papel juega la imposición de manos en la confirmación?",
+    category:  ordenanzas ,
+    correct_answer: "Es el medio por el cual se otorga el don del Espíritu Santo",
+    incorrect_answers: [
+      "Es un símbolo de bienvenida a la Iglesia",
+      "Es una ceremonia de sanación física",
+      "Es una ordenanza exclusiva para líderes",
+    ],
+    justifications: {
+      correct_answer: "La imposición de manos es el medio por el cual se otorga el don del Espíritu Santo durante la confirmación (Hechos 8:17).",
+      incorrect_answers: [
+        "No es solo un símbolo de bienvenida, sino una ordenanza esencial.",
+        "No es una ceremonia de sanación física.",
+        "No es exclusiva para líderes, sino para todos los nuevos miembros.",
+      ],
+    },
+  },
+  {
+    id: 2900,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la confirmación?",
+    category:  ordenanzas ,
+    correct_answer: "La necesidad de nacer del agua y del Espíritu",
+    incorrect_answers: [
+      "La importancia de pagar el diezmo",
+      "La necesidad de servir como misioneros",
+      "La importancia de asistir al templo",
+    ],
+    justifications: {
+      correct_answer: "La confirmación es esencial porque cumple con la enseñanza de nacer del agua y del Espíritu (Juan 3:5).",
+      incorrect_answers: [
+        "Pagar el diezmo es importante, pero no está relacionado con la confirmación.",
+        "Servir como misioneros es importante, pero no es el propósito de la confirmación.",
+        "Asistir al templo es importante, pero no es el propósito de la confirmación.",
+      ],
+    },
+  },
+  {
+    id: 2901,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de José Smith destaca la importancia del don del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "Es el consolador prometido por Jesucristo",
+    incorrect_answers: [
+      "Es un don exclusivo para los profetas",
+      "Es un símbolo de la fe personal",
+      "Es una bendición temporal",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el don del Espíritu Santo es el consolador prometido por Jesucristo (DyC 21:9).",
+      incorrect_answers: [
+        "No es exclusivo para los profetas, sino para todos los miembros confirmados.",
+        "No es solo un símbolo, sino una bendición real y poderosa.",
+        "No es una bendición temporal, sino constante.",
+      ],
+    },
+  },
+  {
+    id: 2902,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda el papel del Espíritu Santo como consolador?",
+    category:  ordenanzas ,
+    correct_answer: "Jesucristo prometió enviar al Consolador",
+    incorrect_answers: [
+      "El Espíritu Santo es un ángel mensajero",
+      "El Espíritu Santo es un poder físico",
+      "El Espíritu Santo es un símbolo de la fe",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo prometió enviar al Consolador, que es el Espíritu Santo (Juan 14:26).",
+      incorrect_answers: [
+        "El Espíritu Santo no es un ángel mensajero.",
+        "El Espíritu Santo no es un poder físico.",
+        "El Espíritu Santo no es solo un símbolo, sino un ser divino.",
+      ],
+    },
+  },
+  {
+    id: 2903,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda la necesidad de vivir dignamente para mantener la compañía del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu no morará en templos impuros",
+    incorrect_answers: [
+      "El Espíritu Santo es indiferente a nuestras acciones",
+      "El Espíritu Santo solo guía a los líderes",
+      "El Espíritu Santo no tiene relación con nuestra dignidad",
+    ],
+    justifications: {
+      correct_answer: "Las escrituras enseñan que el Espíritu no morará en templos impuros, por lo que debemos vivir dignamente (1 Corintios 3:16-17).",
+      incorrect_answers: [
+        "El Espíritu Santo no es indiferente a nuestras acciones.",
+        "El Espíritu Santo guía a todos, no solo a los líderes.",
+        "El Espíritu Santo está directamente relacionado con nuestra dignidad.",
+      ],
+    },
+  },
+  {
+    id: 2904,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la guía del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos guiará a toda la verdad",
+    incorrect_answers: [
+      "El Espíritu Santo solo guía a los profetas",
+      "El Espíritu Santo no tiene relación con la verdad",
+      "El Espíritu Santo es un poder físico",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos guiará a toda la verdad (Juan 16:13).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo guía a los profetas, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la verdad.",
+        "El Espíritu Santo no es un poder físico, sino espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2905,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la revelación personal a través del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos enseñará todas las cosas",
+    incorrect_answers: [
+      "El Espíritu Santo solo revela a los líderes",
+      "El Espíritu Santo no tiene relación con la revelación",
+      "El Espíritu Santo es un símbolo de la fe",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos enseñará todas las cosas (Juan 14:26).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo revela a los líderes, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la revelación.",
+        "El Espíritu Santo no es solo un símbolo, sino un ser divino.",
+      ],
+    },
+  },
+  {
+    id: 2906,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la confirmación?",
+    category:  ordenanzas ,
+    correct_answer: "La necesidad de nacer del agua y del Espíritu",
+    incorrect_answers: [
+      "La importancia de pagar el diezmo",
+      "La necesidad de servir como misioneros",
+      "La importancia de asistir al templo",
+    ],
+    justifications: {
+      correct_answer: "La confirmación es esencial porque cumple con la enseñanza de nacer del agua y del Espíritu (Juan 3:5).",
+      incorrect_answers: [
+        "Pagar el diezmo es importante, pero no está relacionado con la confirmación.",
+        "Servir como misioneros es importante, pero no es el propósito de la confirmación.",
+        "Asistir al templo es importante, pero no es el propósito de la confirmación.",
+      ],
+    },
+  },
+  {
+    id: 2907,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia del don del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos guiará a toda la verdad",
+    incorrect_answers: [
+      "El Espíritu Santo solo guía a los profetas",
+      "El Espíritu Santo no tiene relación con la verdad",
+      "El Espíritu Santo es un poder físico",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos guiará a toda la verdad (Juan 16:13).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo guía a los profetas, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la verdad.",
+        "El Espíritu Santo no es un poder físico, sino espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2908,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la revelación personal a través del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos enseñará todas las cosas",
+    incorrect_answers: [
+      "El Espíritu Santo solo revela a los líderes",
+      "El Espíritu Santo no tiene relación con la revelación",
+      "El Espíritu Santo es un símbolo de la fe",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos enseñará todas las cosas (Juan 14:26).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo revela a los líderes, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la revelación.",
+        "El Espíritu Santo no es solo un símbolo, sino un ser divino.",
+      ],
+    },
+  },
+  {
+    id: 2909,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la confirmación?",
+    category:  ordenanzas ,
+    correct_answer: "La necesidad de nacer del agua y del Espíritu",
+    incorrect_answers: [
+      "La importancia de pagar el diezmo",
+      "La necesidad de servir como misioneros",
+      "La importancia de asistir al templo",
+    ],
+    justifications: {
+      correct_answer: "La confirmación es esencial porque cumple con la enseñanza de nacer del agua y del Espíritu (Juan 3:5).",
+      incorrect_answers: [
+        "Pagar el diezmo es importante, pero no está relacionado con la confirmación.",
+        "Servir como misioneros es importante, pero no es el propósito de la confirmación.",
+        "Asistir al templo es importante, pero no es el propósito de la confirmación.",
+      ],
+    },
+  },
+  {
+    id: 2910,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia del don del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos guiará a toda la verdad",
+    incorrect_answers: [
+      "El Espíritu Santo solo guía a los profetas",
+      "El Espíritu Santo no tiene relación con la verdad",
+      "El Espíritu Santo es un poder físico",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos guiará a toda la verdad (Juan 16:13).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo guía a los profetas, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la verdad.",
+        "El Espíritu Santo no es un poder físico, sino espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2911,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la revelación personal a través del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos enseñará todas las cosas",
+    incorrect_answers: [
+      "El Espíritu Santo solo revela a los líderes",
+      "El Espíritu Santo no tiene relación con la revelación",
+      "El Espíritu Santo es un símbolo de la fe",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos enseñará todas las cosas (Juan 14:26).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo revela a los líderes, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la revelación.",
+        "El Espíritu Santo no es solo un símbolo, sino un ser divino.",
+      ],
+    },
+  },
+  {
+    id: 2912,
+    difficulty: "Medio",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la confirmación?",
+    category:  ordenanzas ,
+    correct_answer: "La necesidad de nacer del agua y del Espíritu",
+    incorrect_answers: [
+      "La importancia de pagar el diezmo",
+      "La necesidad de servir como misioneros",
+      "La importancia de asistir al templo",
+    ],
+    justifications: {
+      correct_answer: "La confirmación es esencial porque cumple con la enseñanza de nacer del agua y del Espíritu (Juan 3:5).",
+      incorrect_answers: [
+        "Pagar el diezmo es importante, pero no está relacionado con la confirmación.",
+        "Servir como misioneros es importante, pero no es el propósito de la confirmación.",
+        "Asistir al templo es importante, pero no es el propósito de la confirmación.",
+      ],
+    },
+  },
+  {
+    id: 2913,
+    difficulty: "Fácil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia del don del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos guiará a toda la verdad",
+    incorrect_answers: [
+      "El Espíritu Santo solo guía a los profetas",
+      "El Espíritu Santo no tiene relación con la verdad",
+      "El Espíritu Santo es un poder físico",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos guiará a toda la verdad (Juan 16:13).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo guía a los profetas, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la verdad.",
+        "El Espíritu Santo no es un poder físico, sino espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2914,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de las escrituras respalda la importancia de la revelación personal a través del Espíritu Santo?",
+    category:  ordenanzas ,
+    correct_answer: "El Espíritu Santo nos enseñará todas las cosas",
+    incorrect_answers: [
+      "El Espíritu Santo solo revela a los líderes",
+      "El Espíritu Santo no tiene relación con la revelación",
+      "El Espíritu Santo es un símbolo de la fe",
+    ],
+    justifications: {
+      correct_answer: "Jesucristo enseñó que el Espíritu Santo nos enseñará todas las cosas (Juan 14:26).",
+      incorrect_answers: [
+        "El Espíritu Santo no solo revela a los líderes, sino a todos los miembros.",
+        "El Espíritu Santo está directamente relacionado con la revelación.",
+        "El Espíritu Santo no es solo un símbolo, sino un ser divino.",
+      ],
+    },
+  },
+
+
+
+  //Sacramento de la santa cena
+
+
+
+
+
+
+  
+    {
+      id: 2915,
+      difficulty: "Difícil",
+      question: "¿Qué representa el pan en la Santa Cena?",
+      category:  ordenanzas ,
+      correct_answer: "El cuerpo de Jesucristo",
+      incorrect_answers: [
+        "La sangre de Jesucristo",
+        "El Espíritu Santo",
+        "La resurrección de Jesucristo",
+      ],
+      justifications: {
+        correct_answer: "El pan en la Santa Cena representa el cuerpo de Jesucristo, como Él enseñó durante la Última Cena (Mateo 26:26).",
+        incorrect_answers: [
+          "La sangre de Jesucristo está representada por el agua.",
+          "El Espíritu Santo no está representado por el pan.",
+          "La resurrección no está simbolizada por el pan.",
+        ],
+      },
+    },
+    {
+      id: 2916,
+      difficulty: "Medio",
+      question: "¿Qué representa el agua en la Santa Cena?",
+      category:  ordenanzas ,
+      correct_answer: "La sangre de Jesucristo",
+      incorrect_answers: [
+        "El cuerpo de Jesucristo",
+        "El Espíritu Santo",
+        "La resurrección de Jesucristo",
+      ],
+      justifications: {
+        correct_answer: "El agua en la Santa Cena representa la sangre de Jesucristo, como Él enseñó durante la Última Cena (Mateo 26:28).",
+        incorrect_answers: [
+          "El cuerpo de Jesucristo está representado por el pan.",
+          "El Espíritu Santo no está representado por el agua.",
+          "La resurrección no está simbolizada por el agua.",
+        ],
+      },
+    },
+    {
+      id: 2917,
+      difficulty: "Fácil",
+      question: "¿Por qué es importante participar del sacramento semanalmente?",
+      category:  ordenanzas ,
+      correct_answer: "Para renovar nuestros convenios con Dios",
+      incorrect_answers: [
+        "Para recibir bendiciones materiales",
+        "Para cumplir con una tradición",
+        "Para socializar con otros miembros",
+      ],
+      justifications: {
+        correct_answer: "Participar del sacramento semanalmente nos permite renovar nuestros convenios con Dios y recordar a Jesucristo (DyC 59:9-12).",
+        incorrect_answers: [
+          "El sacramento no está relacionado con bendiciones materiales.",
+          "No es solo una tradición, sino una ordenanza sagrada.",
+          "El propósito principal no es socializar, sino renovar convenios.",
+        ],
+      },
+    },
+    {
+      id: 2918,
+      difficulty: "Difícil",
+      question: "¿Qué convenios renovamos al tomar el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Tomar sobre nosotros el nombre de Cristo",
+      incorrect_answers: [
+        "Pagar el diezmo íntegro",
+        "Servir como misioneros",
+        "Asistir a todas las reuniones",
+      ],
+      justifications: {
+        correct_answer: "Al tomar el sacramento, renovamos el convenio de tomar sobre nosotros el nombre de Cristo y guardar Sus mandamientos (Mosíah 18:8-10).",
+        incorrect_answers: [
+          "Pagar el diezmo es un convenio separado.",
+          "Servir como misioneros no es un convenio renovado en el sacramento.",
+          "Asistir a reuniones es importante, pero no es un convenio renovado en el sacramento.",
+        ],
+      },
+    },
+    {
+      id: 2919,
+      difficulty: "Medio",
+      question: "¿Quién tiene la autoridad para bendecir y repartir el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Los poseedores del Sacerdocio Aarónico",
+      incorrect_answers: [
+        "Cualquier miembro de la Iglesia",
+        "Los poseedores del Sacerdocio de Melquisedec",
+        "Los líderes de la Sociedad de Socorro",
+      ],
+      justifications: {
+        correct_answer: "Los poseedores del Sacerdocio Aarónico tienen la autoridad para bendecir y repartir el sacramento (DyC 20:46).",
+        incorrect_answers: [
+          "No cualquier miembro puede bendecir y repartir el sacramento.",
+          "Los poseedores del Sacerdocio de Melquisedec no realizan esta ordenanza.",
+          "Los líderes de la Sociedad de Socorro no tienen esta autoridad.",
+        ],
+      },
+    },
+    {
+      id: 2920,
+      difficulty: "Fácil",
+      question: "¿Qué oraciones se dicen durante la bendición del sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Las oraciones sacramentales",
+      incorrect_answers: [
+        "La oración del Padre Nuestro",
+        "La oración dedicatoria del templo",
+        "La oración de consagración",
+      ],
+      justifications: {
+        correct_answer: "Las oraciones sacramentales son las que se dicen durante la bendición del pan y el agua (DyC 20:77, 79).",
+        incorrect_answers: [
+          "La oración del Padre Nuestro no se usa en el sacramento.",
+          "La oración dedicatoria del templo es diferente.",
+          "La oración de consagración no es parte del sacramento.",
+        ],
+      },
+    },
+    {
+      id: 2921,
+      difficulty: "Difícil",
+      question: "¿Cómo podemos prepararnos espiritualmente para el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Meditando en la expiación de Jesucristo",
+      incorrect_answers: [
+        "Leyendo las escrituras durante la reunión",
+        "Participando en coros sacramentales",
+        "Asistiendo a todas las reuniones",
+      ],
+      justifications: {
+        correct_answer: "Prepararnos espiritualmente para el sacramento implica meditar en la expiación de Jesucristo y arrepentirnos de nuestros pecados (3 Nefi 18:7).",
+        incorrect_answers: [
+          "Leer las escrituras es bueno, pero no es la preparación principal.",
+          "Participar en coros no es la forma principal de preparación.",
+          "Asistir a reuniones es importante, pero no es la preparación específica para el sacramento.",
+        ],
+      },
+    },
+    {
+      id: 2922,
+      difficulty: "Medio",
+      question: "¿Qué significa 'recordarle siempre' durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Mantener a Jesucristo en nuestros pensamientos y acciones",
+      incorrect_answers: [
+        "Recordar las enseñanzas de los profetas",
+        "Memorizar las escrituras",
+        "Asistir a la Iglesia cada semana",
+      ],
+      justifications: {
+        correct_answer: "'Recordarle siempre' significa mantener a Jesucristo en nuestros pensamientos y acciones diarias (DyC 20:77, 79).",
+        incorrect_answers: [
+          "No se refiere específicamente a las enseñanzas de los profetas.",
+          "No implica memorizar las escrituras.",
+          "Asistir a la Iglesia es importante, pero no es el significado principal.",
+        ],
+      },
+    },
+    {
+      id: 2923,
+      difficulty: "Fácil",
+      question: "¿Qué actitud debemos tener al participar del sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Reverencia y gratitud",
+      incorrect_answers: [
+        "Alegría y celebración",
+        "Indiferencia y distracción",
+        "Orgullo y autosuficiencia",
+      ],
+      justifications: {
+        correct_answer: "Debemos participar del sacramento con reverencia y gratitud por la expiación de Jesucristo (3 Nefi 18:7).",
+        incorrect_answers: [
+          "No es un momento de celebración, sino de reflexión.",
+          "La indiferencia y la distracción no son apropiadas.",
+          "El orgullo y la autosuficiencia no son actitudes correctas.",
+        ],
+      },
+    },
+    {
+      id: 2924,
+      difficulty: "Difícil",
+      question: "¿Cómo nos ayuda el sacramento a acercarnos a Cristo?",
+      category:  ordenanzas ,
+      correct_answer: "Renovando nuestros convenios y recordando Su expiación",
+      incorrect_answers: [
+        "A través de la socialización con otros miembros",
+        "Recibiendo bendiciones materiales",
+        "Participando en actividades de la Iglesia",
+      ],
+      justifications: {
+        correct_answer: "El sacramento nos ayuda a acercarnos a Cristo al renovar nuestros convenios y recordar Su expiación (DyC 20:77, 79).",
+        incorrect_answers: [
+          "La socialización no es el propósito principal del sacramento.",
+          "No recibimos bendiciones materiales a través del sacramento.",
+          "Participar en actividades no es el enfoque del sacramento.",
+        ],
+      },
+    },
+    {
+      id: 2925,
+      difficulty: "Medio",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia del sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Jesucristo instituyó el sacramento durante la Última Cena",
+      incorrect_answers: [
+        "El sacramento fue establecido por los profetas del Libro de Mormón",
+        "El sacramento es una tradición de la Iglesia moderna",
+        "El sacramento fue instituido por los apóstoles después de Cristo",
+      ],
+      justifications: {
+        correct_answer: "Jesucristo instituyó el sacramento durante la Última Cena, como se registra en Mateo 26:26-28.",
+        incorrect_answers: [
+          "El sacramento no fue establecido por los profetas del Libro de Mormón.",
+          "No es solo una tradición moderna, sino una ordenanza sagrada.",
+          "No fue instituido por los apóstoles, sino por Jesucristo.",
+        ],
+      },
+    },
+    {
+      id: 2926,
+      difficulty: "Fácil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de recordar a Jesucristo durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Jesucristo dijo: 'Haced esto en memoria de mí'",
+      incorrect_answers: [
+        "El sacramento es un símbolo de la resurrección",
+        "El sacramento es una tradición antigua",
+        "El sacramento es una forma de adoración",
+      ],
+      justifications: {
+        correct_answer: "Jesucristo enseñó: 'Haced esto en memoria de mí', refiriéndose al sacramento (Lucas 22:19).",
+        incorrect_answers: [
+          "El sacramento no es solo un símbolo de la resurrección.",
+          "No es solo una tradición antigua, sino una ordenanza sagrada.",
+          "Es una forma de adoración, pero no es la enseñanza principal.",
+        ],
+      },
+    },
+    {
+      id: 2927,
+      difficulty: "Difícil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la reverencia durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "El sacramento es un momento sagrado para reflexionar",
+      incorrect_answers: [
+        "El sacramento es un momento para socializar",
+        "El sacramento es una ceremonia festiva",
+        "El sacramento es una reunión comunitaria",
+      ],
+      justifications: {
+        correct_answer: "El sacramento es un momento sagrado para reflexionar sobre la expiación de Jesucristo (3 Nefi 18:7).",
+        incorrect_answers: [
+          "No es un momento para socializar, sino para reflexionar.",
+          "No es una ceremonia festiva, sino reverente.",
+          "No es solo una reunión comunitaria, sino una ordenanza sagrada.",
+        ],
+      },
+    },
+    {
+      id: 2928,
+      difficulty: "Medio",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la preparación para el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos examinarnos a nosotros mismos antes de participar",
+      incorrect_answers: [
+        "El sacramento es para todos, sin preparación",
+        "La preparación no es necesaria para el sacramento",
+        "El sacramento es un acto automático de adoración",
+      ],
+      justifications: {
+        correct_answer: "Las escrituras enseñan que debemos examinarnos a nosotros mismos antes de participar del sacramento (1 Corintios 11:28).",
+        incorrect_answers: [
+          "El sacramento requiere preparación espiritual.",
+          "La preparación es esencial para participar dignamente.",
+          "No es un acto automático, sino un momento de reflexión.",
+        ],
+      },
+    },
+    {
+      id: 2929,
+      difficulty: "Fácil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la gratitud durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos estar agradecidos por la expiación de Jesucristo",
+      incorrect_answers: [
+        "El sacramento es un momento para pedir bendiciones",
+        "El sacramento es una ceremonia de acción de gracias",
+        "El sacramento es un recordatorio de nuestras posesiones",
+      ],
+      justifications: {
+        correct_answer: "El sacramento es un momento para estar agradecidos por la expiación de Jesucristo (DyC 59:9-12).",
+        incorrect_answers: [
+          "No es un momento para pedir bendiciones materiales.",
+          "No es solo una ceremonia de acción de gracias, sino de renovación.",
+          "No es un recordatorio de posesiones, sino de la expiación.",
+        ],
+      },
+    },
+    {
+      id: 2930,
+      difficulty: "Difícil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la renovación de convenios durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "El sacramento nos permite recordar y renovar nuestros convenios",
+      incorrect_answers: [
+        "El sacramento es un momento para recibir revelación",
+        "El sacramento es una ceremonia de sanación",
+        "El sacramento es un acto de adoración comunitaria",
+      ],
+      justifications: {
+        correct_answer: "El sacramento nos permite recordar y renovar nuestros convenios con Dios (DyC 20:77, 79).",
+        incorrect_answers: [
+          "No es un momento para recibir revelación personal.",
+          "No es una ceremonia de sanación física.",
+          "No es solo un acto de adoración comunitaria, sino personal.",
+        ],
+      },
+    },
+    {
+      id: 2931,
+      difficulty: "Medio",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la participación digna en el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos participar del sacramento con un corazón contrito",
+      incorrect_answers: [
+        "El sacramento es para todos, sin importar la dignidad",
+        "La participación indigna no tiene consecuencias",
+        "El sacramento es un acto simbólico sin poder real",
+      ],
+      justifications: {
+        correct_answer: "Las escrituras enseñan que debemos participar del sacramento con un corazón contrito y un espíritu quebrantado (3 Nefi 9:20).",
+        incorrect_answers: [
+          "La participación indigna no es aceptable.",
+          "La participación indigna tiene consecuencias espirituales.",
+          "El sacramento no es solo simbólico, sino una ordenanza poderosa.",
+        ],
+      },
+    },
+    {
+      id: 2932,
+      difficulty: "Fácil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la reverencia durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "El sacramento es un momento sagrado para reflexionar",
+      incorrect_answers: [
+        "El sacramento es un momento para socializar",
+        "El sacramento es una ceremonia festiva",
+        "El sacramento es una reunión comunitaria",
+      ],
+      justifications: {
+        correct_answer: "El sacramento es un momento sagrado para reflexionar sobre la expiación de Jesucristo (3 Nefi 18:7).",
+        incorrect_answers: [
+          "No es un momento para socializar, sino para reflexionar.",
+          "No es una ceremonia festiva, sino reverente.",
+          "No es solo una reunión comunitaria, sino una ordenanza sagrada.",
+        ],
+      },
+    },
+    {
+      id: 2933,
+      difficulty: "Difícil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la preparación para el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos examinarnos a nosotros mismos antes de participar",
+      incorrect_answers: [
+        "El sacramento es para todos, sin preparación",
+        "La preparación no es necesaria para el sacramento",
+        "El sacramento es un acto automático de adoración",
+      ],
+      justifications: {
+        correct_answer: "Las escrituras enseñan que debemos examinarnos a nosotros mismos antes de participar del sacramento (1 Corintios 11:28).",
+        incorrect_answers: [
+          "El sacramento requiere preparación espiritual.",
+          "La preparación es esencial para participar dignamente.",
+          "No es un acto automático, sino un momento de reflexión.",
+        ],
+      },
+    },
+    {
+      id: 2934,
+      difficulty: "Medio",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la gratitud durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos estar agradecidos por la expiación de Jesucristo",
+      incorrect_answers: [
+        "El sacramento es un momento para pedir bendiciones",
+        "El sacramento es una ceremonia de acción de gracias",
+        "El sacramento es un recordatorio de nuestras posesiones",
+      ],
+      justifications: {
+        correct_answer: "El sacramento es un momento para estar agradecidos por la expiación de Jesucristo (DyC 59:9-12).",
+        incorrect_answers: [
+          "No es un momento para pedir bendiciones materiales.",
+          "No es solo una ceremonia de acción de gracias, sino de renovación.",
+          "No es un recordatorio de posesiones, sino de la expiación.",
+        ],
+      },
+    },
+    {
+      id: 2935,
+      difficulty: "Fácil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la renovación de convenios durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "El sacramento nos permite recordar y renovar nuestros convenios",
+      incorrect_answers: [
+        "El sacramento es un momento para recibir revelación",
+        "El sacramento es una ceremonia de sanación",
+        "El sacramento es un acto de adoración comunitaria",
+      ],
+      justifications: {
+        correct_answer: "El sacramento nos permite recordar y renovar nuestros convenios con Dios (DyC 20:77, 79).",
+        incorrect_answers: [
+          "No es un momento para recibir revelación personal.",
+          "No es una ceremonia de sanación física.",
+          "No es solo un acto de adoración comunitaria, sino personal.",
+        ],
+      },
+    },
+    {
+      id: 2936,
+      difficulty: "Difícil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la participación digna en el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos participar del sacramento con un corazón contrito",
+      incorrect_answers: [
+        "El sacramento es para todos, sin importar la dignidad",
+        "La participación indigna no tiene consecuencias",
+        "El sacramento es un acto simbólico sin poder real",
+      ],
+      justifications: {
+        correct_answer: "Las escrituras enseñan que debemos participar del sacramento con un corazón contrito y un espíritu quebrantado (3 Nefi 9:20).",
+        incorrect_answers: [
+          "La participación indigna no es aceptable.",
+          "La participación indigna tiene consecuencias espirituales.",
+          "El sacramento no es solo simbólico, sino una ordenanza poderosa.",
+        ],
+      },
+    },
+    {
+      id: 2937,
+      difficulty: "Medio",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la reverencia durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "El sacramento es un momento sagrado para reflexionar",
+      incorrect_answers: [
+        "El sacramento es un momento para socializar",
+        "El sacramento es una ceremonia festiva",
+        "El sacramento es una reunión comunitaria",
+      ],
+      justifications: {
+        correct_answer: "El sacramento es un momento sagrado para reflexionar sobre la expiación de Jesucristo (3 Nefi 18:7).",
+        incorrect_answers: [
+          "No es un momento para socializar, sino para reflexionar.",
+          "No es una ceremonia festiva, sino reverente.",
+          "No es solo una reunión comunitaria, sino una ordenanza sagrada.",
+        ],
+      },
+    },
+    {
+      id: 2938,
+      difficulty: "Fácil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la preparación para el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos examinarnos a nosotros mismos antes de participar",
+      incorrect_answers: [
+        "El sacramento es para todos, sin preparación",
+        "La preparación no es necesaria para el sacramento",
+        "El sacramento es un acto automático de adoración",
+      ],
+      justifications: {
+        correct_answer: "Las escrituras enseñan que debemos examinarnos a nosotros mismos antes de participar del sacramento (1 Corintios 11:28).",
+        incorrect_answers: [
+          "El sacramento requiere preparación espiritual.",
+          "La preparación es esencial para participar dignamente.",
+          "No es un acto automático, sino un momento de reflexión.",
+        ],
+      },
+    },
+    {
+      id: 2939,
+      difficulty: "Difícil",
+      question: "¿Qué enseñanza de las escrituras respalda la importancia de la gratitud durante el sacramento?",
+      category:  ordenanzas ,
+      correct_answer: "Debemos estar agradecidos por la expiación de Jesucristo",
+      incorrect_answers: [
+        "El sacramento es un momento para pedir bendiciones",
+        "El sacramento es una ceremonia de acción de gracias",
+        "El sacramento es un recordatorio de nuestras posesiones",
+      ],
+      justifications: {
+        correct_answer: "El sacramento es un momento para estar agradecidos por la expiación de Jesucristo (DyC 59:9-12).",
+        incorrect_answers: [
+          "No es un momento para pedir bendiciones materiales.",
+          "No es solo una ceremonia de acción de gracias, sino de renovación.",
+          "No es un recordatorio de posesiones, sino de la expiación.",
+        ],
+      },
+    },
+  
+
+
+
+
+//Ordenanzas del Templo
+
+
+
+
+
+  {
+    id: 2940,
+    difficulty: "Difícil",
+    question: "¿Qué simbolismo tiene el velo en las ordenanzas del templo?",
+    category:  ordenanzas ,
+    correct_answer: "Representa la separación entre el mundo mortal y la presencia de Dios.",
+    incorrect_answers: [
+      "Simboliza el bautismo por inmersión.",
+      "Es una representación del matrimonio eterno.",
+      "Simboliza la resurrección de Jesucristo.",
+    ],
+    justifications: {
+      correct_answer: "El velo simboliza la transición hacia la presencia divina, como se enseña en Doctrina y Convenios 88:68.",
+      incorrect_answers: [
+        "El velo no está relacionado con el bautismo.",
+        "El matrimonio eterno se simboliza en otras partes del templo.",
+        "La resurrección no es el enfoque principal del velo.",
+      ],
+    },
+  },
+  {
+    id: 2941,
+    difficulty: "Medio",
+    question: "¿Qué es una investidura del templo?",
+    category:  ordenanzas ,
+    correct_answer: "Una ordenanza sagrada que incluye instrucción y promesas con Dios.",
+    incorrect_answers: [
+      "Un ritual de limpieza física.",
+      "Una ceremonia de bautismo por los muertos.",
+      "Un evento social para miembros de la Iglesia.",
+    ],
+    justifications: {
+      correct_answer: "La investidura es una ordenanza esencial que se describe en Doctrina y Convenios 124:39.",
+      incorrect_answers: [
+        "No es un ritual de limpieza física.",
+        "El bautismo por los muertos es una ordenanza separada.",
+        "No es un evento social, sino sagrado.",
+      ],
+    },
+  },
+  {
+    id: 2942,
+    difficulty: "Fácil",
+    question: "¿Qué es el sellamiento en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Una ordenanza que une a las familias por la eternidad.",
+    incorrect_answers: [
+      "Un ritual de purificación personal.",
+      "Una ceremonia de bautismo en agua.",
+      "Un evento para recibir bendiciones temporales.",
+    ],
+    justifications: {
+      correct_answer: "El sellamiento es una ordenanza eterna, como se enseña en Doctrina y Convenios 132:19.",
+      incorrect_answers: [
+        "No es un ritual de purificación personal.",
+        "El bautismo es una ordenanza diferente.",
+        "No se enfoca en bendiciones temporales.",
+      ],
+    },
+  },
+  {
+    id: 2943,
+    difficulty: "Difícil",
+    question: "¿Qué simbolismos se encuentran en la investidura?",
+    category:  ordenanzas ,
+    correct_answer: "El jardín de Edén, la Caída y el camino de regreso a Dios.",
+    incorrect_answers: [
+      "La historia de Noé y el diluvio.",
+      "La construcción del templo de Salomón.",
+      "La vida de Abraham en Egipto.",
+    ],
+    justifications: {
+      correct_answer: "La investidura incluye simbolismos del plan de salvación, como se enseña en Moisés 4:31.",
+      incorrect_answers: [
+        "No se enfoca en Noé o el diluvio.",
+        "El templo de Salomón no es el enfoque principal.",
+        "La vida de Abraham no es el tema central.",
+      ],
+    },
+  },
+  {
+    id: 2944,
+    difficulty: "Medio",
+    question: "¿Por qué es importante el sellamiento familiar?",
+    category:  ordenanzas ,
+    correct_answer: "Permite que las familias estén unidas más allá de la muerte.",
+    incorrect_answers: [
+      "Es un requisito para el bautismo.",
+      "Garantiza prosperidad económica.",
+      "Es un ritual simbólico sin efectos eternos.",
+    ],
+    justifications: {
+      correct_answer: "El sellamiento familiar es esencial para la exaltación, como se enseña en Doctrina y Convenios 131:1-4.",
+      incorrect_answers: [
+        "No es un requisito para el bautismo.",
+        "No está relacionado con la prosperidad económica.",
+        "Tiene efectos eternos, no es solo simbólico.",
+      ],
+    },
+  },
+  {
+    id: 2945,
+    difficulty: "Fácil",
+    question: "¿Qué ordenanzas se realizan por los muertos en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Bautismo, confirmacion, investidura y sellamiento.",
+    incorrect_answers: [
+      "Bendiciones patriarcales y confirmación.",
+      "Sacramento y oraciones especiales.",
+      "Matrimonio civil y bautismo infantil.",
+    ],
+    justifications: {
+      correct_answer: "Las ordenanzas vicarias incluyen bautismo, investidura y sellamiento, como se enseña en 1 Corintios 15:29.",
+      incorrect_answers: [
+        "Las bendiciones patriarcales no son ordenanzas vicarias.",
+        "El sacramento no se realiza por los muertos.",
+        "El bautismo infantil no es una práctica SUD.",
+      ],
+    },
+  },
+  {
+    id: 2946,
+    difficulty: "Difícil",
+    question: "¿Qué preparación espiritual se necesita para entrar al templo?",
+    category:  ordenanzas ,
+    correct_answer: "Vivir los mandamientos y obtener una recomendación.",
+    incorrect_answers: [
+      "Ayunar por 40 días y noches.",
+      "Memorizar las Escrituras completas.",
+      "Realizar servicio comunitario extensivo.",
+    ],
+    justifications: {
+      correct_answer: "La preparación incluye vivir dignamente y obtener una recomendación, como se enseña en Doctrina y Convenios 97:15-16.",
+      incorrect_answers: [
+        "No es necesario ayunar por 40 días.",
+        "No se requiere memorizar todas las Escrituras.",
+        "El servicio comunitario no es un requisito directo.",
+      ],
+    },
+  },
+  {
+    id: 2947,
+    difficulty: "Medio",
+    question: "¿Qué es la recomendación para el templo y cómo se obtiene?",
+    category:  ordenanzas ,
+    correct_answer: "Un documento que certifica la dignidad, obtenido mediante una entrevista.",
+    incorrect_answers: [
+      "Un certificado de bautismo.",
+      "Una bendición patriarcal.",
+      "Un registro de asistencia a la Iglesia.",
+    ],
+    justifications: {
+      correct_answer: "La recomendación se obtiene mediante una entrevista con líderes del sacerdocio, como se enseña en Doctrina y Convenios 124:39.",
+      incorrect_answers: [
+        "No es un certificado de bautismo.",
+        "No es una bendición patriarcal.",
+        "No es un registro de asistencia.",
+      ],
+    },
+  },
+  {
+    id: 2948,
+    difficulty: "Fácil",
+    question: "¿Qué promesas hacemos durante las ordenanzas del templo?",
+    category:  ordenanzas ,
+    correct_answer: "Guardar los mandamientos y ser fieles a los convenios.",
+    incorrect_answers: [
+      "Pagar diezmos y ofrendas.",
+      "Asistir a todas las reuniones dominicales.",
+      "Servir en una misión de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "Las promesas incluyen fidelidad a los convenios, como se enseña en Doctrina y Convenios 82:10.",
+      incorrect_answers: [
+        "Pagar diezmos es un mandamiento, pero no es parte de las promesas del templo.",
+        "La asistencia a reuniones no es una promesa del templo.",
+        "El servicio misional no es un requisito del templo.",
+      ],
+    },
+  },
+  {
+    id: 2949,
+    difficulty: "Difícil",
+    question: "¿Qué bendiciones recibimos al participar en las ordenanzas del templo?",
+    category:  ordenanzas ,
+    correct_answer: "Protección divina, guía espiritual y exaltación.",
+    incorrect_answers: [
+      "Riquezas materiales y éxito profesional.",
+      "Fama y reconocimiento público.",
+      "Salud física y longevidad.",
+    ],
+    justifications: {
+      correct_answer: "Las bendiciones incluyen protección y exaltación, como se enseña en Doctrina y Convenios 109:22-23.",
+      incorrect_answers: [
+        "No se prometen riquezas materiales.",
+        "No se busca fama o reconocimiento.",
+        "La salud física no es el enfoque principal.",
+      ],
+    },
+  },
+  {
+    id: 2950,
+    difficulty: "Medio",
+    question: "¿Qué significa 'lavamientos y unciones' en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Ordenanzas de purificación y preparación para las bendiciones.",
+    incorrect_answers: [
+      "Rituales de limpieza física.",
+      "Ceremonias de bautismo por inmersión.",
+      "Bendiciones para la prosperidad económica.",
+    ],
+    justifications: {
+      correct_answer: "Los lavamientos y unciones son ordenanzas sagradas, como se describe en Éxodo 40:12-15.",
+      incorrect_answers: [
+        "No son rituales de limpieza física.",
+        "No están relacionados con el bautismo.",
+        "No se enfocan en la prosperidad económica.",
+      ],
+    },
+  },
+  {
+    id: 2951,
+    difficulty: "Fácil",
+    question: "¿Qué representa el altar en las ordenanzas del templo?",
+    category:  ordenanzas ,
+    correct_answer: "Un lugar de oración y compromiso con Dios.",
+    incorrect_answers: [
+      "Un símbolo de sacrificio animal.",
+      "Un lugar para ofrendas monetarias.",
+      "Un sitio para reuniones sociales.",
+    ],
+    justifications: {
+      correct_answer: "El altar simboliza la comunicación con Dios, como se enseña en Génesis 12:7-8.",
+      incorrect_answers: [
+        "No se usa para sacrificios animales.",
+        "No es para ofrendas monetarias.",
+        "No es un lugar para reuniones sociales.",
+      ],
+    },
+  },
+  {
+    id: 2952,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza la ropa blanca en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Pureza y dignidad ante Dios.",
+    incorrect_answers: [
+      "Riqueza y prosperidad.",
+      "Autoridad en el sacerdocio.",
+      "Sabiduría y conocimiento.",
+    ],
+    justifications: {
+      correct_answer: "La ropa blanca simboliza pureza, como se enseña en Apocalipsis 7:14.",
+      incorrect_answers: [
+        "No representa riqueza o prosperidad.",
+        "No simboliza autoridad en el sacerdocio.",
+        "No está relacionada con sabiduría o conocimiento.",
+      ],
+    },
+  },
+  {
+    id: 2953,
+    difficulty: "Medio",
+    question: "¿Qué es el cuarto celestial en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Una representación simbólica del reino celestial.",
+    incorrect_answers: [
+      "Un lugar para reuniones del sacerdocio.",
+      "Un área de descanso para los visitantes.",
+      "Un salón para eventos sociales.",
+    ],
+    justifications: {
+      correct_answer: "El cuarto celestial simboliza el reino celestial, como se enseña en Doctrina y Convenios 88:17-20.",
+      incorrect_answers: [
+        "No es para reuniones del sacerdocio.",
+        "No es un área de descanso.",
+        "No es un salón para eventos sociales.",
+      ],
+    },
+  },
+  {
+    id: 2954,
+    difficulty: "Fácil",
+    question: "¿Qué simboliza el bautismo por los muertos?",
+    category:  ordenanzas ,
+    correct_answer: "La oportunidad de salvación para quienes no lo recibieron en vida.",
+    incorrect_answers: [
+      "Un ritual de purificación personal.",
+      "Una ceremonia para recordar a los difuntos.",
+      "Un evento para fortalecer la fe de los vivos.",
+    ],
+    justifications: {
+      correct_answer: "El bautismo por los muertos ofrece salvación, como se enseña en 1 Corintios 15:29.",
+      incorrect_answers: [
+        "No es un ritual de purificación personal.",
+        "No es solo para recordar a los difuntos.",
+        "No es principalmente para fortalecer la fe de los vivos.",
+      ],
+    },
+  },
+  {
+    id: 2955,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanzas se enfatizan en la investidura?",
+    category:  ordenanzas ,
+    correct_answer: "El plan de salvación y los convenios con Dios.",
+    incorrect_answers: [
+      "La historia de los profetas antiguos.",
+      "La organización de la Iglesia moderna.",
+      "Las leyes civiles y religiosas.",
+    ],
+    justifications: {
+      correct_answer: "La investidura enfatiza el plan de salvación, como se enseña en Moisés 1:39.",
+      incorrect_answers: [
+        "No se enfoca en la historia de los profetas.",
+        "No trata sobre la organización de la Iglesia.",
+        "No se relaciona con leyes civiles.",
+      ],
+    },
+  },
+  {
+    id: 2956,
+    difficulty: "Medio",
+    question: "¿Qué simboliza el jardín de Edén en la investidura?",
+    category:  ordenanzas ,
+    correct_answer: "El comienzo de la vida mortal y la Caída.",
+    incorrect_answers: [
+      "La restauración del evangelio.",
+      "La segunda venida de Cristo.",
+      "El juicio final.",
+    ],
+    justifications: {
+      correct_answer: "El jardín de Edén simboliza el inicio de la mortalidad, como se enseña en Génesis 3:23-24.",
+      incorrect_answers: [
+        "No representa la restauración del evangelio.",
+        "No simboliza la segunda venida de Cristo.",
+        "No está relacionado con el juicio final.",
+      ],
+    },
+  },
+  {
+    id: 2957,
+    difficulty: "Fácil",
+    question: "¿Qué es el convenio de obediencia en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Un compromiso de seguir los mandamientos de Dios.",
+    incorrect_answers: [
+      "Una promesa de asistir a la Iglesia semanalmente.",
+      "Un acuerdo para pagar diezmos.",
+      "Un juramento de servir en una misión.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de obediencia implica seguir los mandamientos, como se enseña en Doctrina y Convenios 82:10.",
+      incorrect_answers: [
+        "No es solo asistir a la Iglesia.",
+        "No es un acuerdo para pagar diezmos.",
+        "No es un juramento de servicio misional.",
+      ],
+    },
+  },
+  {
+    id: 2958,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el convenio de sacrificio en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "La disposición de sacrificar todo por el reino de Dios.",
+    incorrect_answers: [
+      "La necesidad de ofrendas monetarias.",
+      "El compromiso de servir en una misión.",
+      "La obligación de ayunar regularmente.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de sacrificio implica dar todo por Dios, como se enseña en Doctrina y Convenios 97:8.",
+      incorrect_answers: [
+        "No se enfoca en ofrendas monetarias.",
+        "No es un compromiso de servicio misional.",
+        "No es una obligación de ayunar.",
+      ],
+    },
+  },
+  {
+    id: 2959,
+    difficulty: "Medio",
+    question: "¿Qué simboliza el convenio de consagración en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Dedicar tiempo, talentos y recursos a la obra de Dios.",
+    incorrect_answers: [
+      "Pagar diezmos y ofrendas.",
+      "Asistir a todas las reuniones de la Iglesia.",
+      "Servir en un llamamiento de liderazgo.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de consagración implica dedicación total, como se enseña en Doctrina y Convenios 42:30.",
+      incorrect_answers: [
+        "No es solo pagar diezmos.",
+        "No es solo asistir a reuniones.",
+        "No es solo servir en liderazgo.",
+      ],
+    },
+  },
+  {
+    id: 2960,
+    difficulty: "Fácil",
+    question: "¿Qué simboliza el convenio de castidad en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "La pureza moral y fidelidad en el matrimonio.",
+    incorrect_answers: [
+      "La abstinencia de alimentos impuros.",
+      "El compromiso de servir en una misión.",
+      "La dedicación al estudio de las Escrituras.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de castidad enfatiza la pureza moral, como se enseña en Doctrina y Convenios 42:22-23.",
+      incorrect_answers: [
+        "No se relaciona con alimentos impuros.",
+        "No es un compromiso de servicio misional.",
+        "No es solo dedicación al estudio.",
+      ],
+    },
+  },
+  {
+    id: 2961,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el convenio de ley de sacrificio en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "La disposición de sacrificar todo por el reino de Dios.",
+    incorrect_answers: [
+      "La necesidad de ofrendas monetarias.",
+      "El compromiso de servir en una misión.",
+      "La obligación de ayunar regularmente.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de sacrificio implica dar todo por Dios, como se enseña en Doctrina y Convenios 97:8.",
+      incorrect_answers: [
+        "No se enfoca en ofrendas monetarias.",
+        "No es un compromiso de servicio misional.",
+        "No es una obligación de ayunar.",
+      ],
+    },
+  },
+  {
+    id: 2962,
+    difficulty: "Medio",
+    question: "¿Qué simboliza el convenio de obediencia en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Un compromiso de seguir los mandamientos de Dios.",
+    incorrect_answers: [
+      "Una promesa de asistir a la Iglesia semanalmente.",
+      "Un acuerdo para pagar diezmos.",
+      "Un juramento de servir en una misión.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de obediencia implica seguir los mandamientos, como se enseña en Doctrina y Convenios 82:10.",
+      incorrect_answers: [
+        "No es solo asistir a la Iglesia.",
+        "No es un acuerdo para pagar diezmos.",
+        "No es un juramento de servicio misional.",
+      ],
+    },
+  },
+  {
+    id: 2963,
+    difficulty: "Fácil",
+    question: "¿Qué simboliza el convenio de consagración en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Dedicar tiempo, talentos y recursos a la obra de Dios.",
+    incorrect_answers: [
+      "Pagar diezmos y ofrendas.",
+      "Asistir a todas las reuniones de la Iglesia.",
+      "Servir en un llamamiento de liderazgo.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de consagración implica dedicación total, como se enseña en Doctrina y Convenios 42:30.",
+      incorrect_answers: [
+        "No es solo pagar diezmos.",
+        "No es solo asistir a reuniones.",
+        "No es solo servir en liderazgo.",
+      ],
+    },
+  },
+  {
+    id: 2964,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el convenio de castidad en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "La pureza moral y fidelidad en el matrimonio.",
+    incorrect_answers: [
+      "La abstinencia de alimentos impuros.",
+      "El compromiso de servir en una misión.",
+      "La dedicación al estudio de las Escrituras.",
+    ],
+    justifications: {
+      correct_answer: "El convenio de castidad enfatiza la pureza moral, como se enseña en Doctrina y Convenios 42:22-23.",
+      incorrect_answers: [
+        "No se relaciona con alimentos impuros.",
+        "No es un compromiso de servicio misional.",
+        "No es solo dedicación al estudio.",
+      ],
+    },
+  },
+
+
+
+
+//Sacerdocio y ordenanzas
+
+
+
+
+  {
+    id: 2965,
+    difficulty: "Difícil",
+    question: "¿Qué es el Sacerdocio de Melquisedec?",
+    category:  ordenanzas ,
+    correct_answer: "El poder y autoridad para actuar en el nombre de Dios en asuntos espirituales.",
+    incorrect_answers: [
+      "Un grupo de líderes locales de la Iglesia.",
+      "Un título honorífico para misioneros retirados.",
+      "Una organización para la administración de bienes.",
+    ],
+    justifications: {
+      correct_answer: "El Sacerdocio de Melquisedec es el poder de Dios, como se enseña en Doctrina y Convenios 107:2-4.",
+      incorrect_answers: [
+        "No es un grupo de líderes locales.",
+        "No es un título honorífico.",
+        "No está relacionado con la administración de bienes.",
+      ],
+    },
+  },
+  {
+    id: 2966,
+    difficulty: "Medio",
+    question: "¿Qué es el Sacerdocio Aarónico?",
+    category:  ordenanzas ,
+    correct_answer: "El poder y autoridad para administrar ordenanzas externas y ministeriales.",
+    incorrect_answers: [
+      "Un grupo de maestros y diáconos.",
+      "Un título para líderes de la Sociedad de Socorro.",
+      "Una organización para la predicación en el extranjero.",
+    ],
+    justifications: {
+      correct_answer: "El Sacerdocio Aarónico tiene llaves para ordenanzas menores, como se enseña en Doctrina y Convenios 107:13-14.",
+      incorrect_answers: [
+        "No es solo un grupo de maestros y diáconos.",
+        "No está relacionado con la Sociedad de Socorro.",
+        "No es exclusivo para la predicación en el extranjero.",
+      ],
+    },
+  },
+  {
+    id: 2967,
+    difficulty: "Fácil",
+    question: "¿Qué ordenanzas puede realizar el Sacerdocio Aarónico?",
+    category:  ordenanzas ,
+    correct_answer: "Bautismo, sacramento y recolección de ofrendas.",
+    incorrect_answers: [
+      "Matrimonio, investidura y sellamiento.",
+      "Bendiciones patriarcales y consuelo.",
+      "Confirmación y ordenación al sacerdocio.",
+    ],
+    justifications: {
+      correct_answer: "El Sacerdocio Aarónico tiene autoridad para ordenanzas menores, como se enseña en Doctrina y Convenios 20:46-59.",
+      incorrect_answers: [
+        "El matrimonio y el sellamiento son del Sacerdocio de Melquisedec.",
+        "Las bendiciones patriarcales no son realizadas por el Sacerdocio Aarónico.",
+        "La confirmación y ordenación son del Sacerdocio de Melquisedec.",
+      ],
+    },
+  },
+  {
+    id: 2968,
+    difficulty: "Difícil",
+    question: "¿Qué ordenanzas puede realizar el Sacerdocio de Melquisedec?",
+    category:  ordenanzas ,
+    correct_answer: "Confirmación, investidura y sellamiento.",
+    incorrect_answers: [
+      "Bautismo, sacramento y recolección de ofrendas.",
+      "Bendiciones de salud y consuelo.",
+      "Ordenación al sacerdocio Aarónico.",
+    ],
+    justifications: {
+      correct_answer: "El Sacerdocio de Melquisedec tiene llaves para ordenanzas mayores, como se enseña en Doctrina y Convenios 107:18-19.",
+      incorrect_answers: [
+        "El bautismo y el sacramento son del Sacerdocio Aarónico.",
+        "Las bendiciones de salud no son exclusivas del Sacerdocio de Melquisedec.",
+        "La ordenación al Sacerdocio Aarónico no es una ordenanza mayor.",
+      ],
+    },
+  },
+  {
+    id: 2969,
+    difficulty: "Medio",
+    question: "¿Qué es la ordenación al sacerdocio?",
+    category:  ordenanzas ,
+    correct_answer: "Un acto sagrado donde se confiere autoridad del sacerdocio.",
+    incorrect_answers: [
+      "Un ritual de purificación personal.",
+      "Una ceremonia de graduación religiosa.",
+      "Un evento social para nuevos miembros.",
+    ],
+    justifications: {
+      correct_answer: "La ordenación confiere autoridad, como se enseña en Doctrina y Convenios 20:60.",
+      incorrect_answers: [
+        "No es un ritual de purificación.",
+        "No es una ceremonia de graduación.",
+        "No es un evento social.",
+      ],
+    },
+  },
+  {
+    id: 2970,
+    difficulty: "Fácil",
+    question: "¿Quién puede ordenar a alguien al sacerdocio?",
+    category:  ordenanzas ,
+    correct_answer: "Un poseedor del Sacerdocio de Melquisedec con la autoridad adecuada.",
+    incorrect_answers: [
+      "Cualquier miembro bautizado de la Iglesia.",
+      "Un líder civil o político.",
+      "Un familiar cercano del candidato.",
+    ],
+    justifications: {
+      correct_answer: "La ordenación requiere autoridad del Sacerdocio de Melquisedec, como se enseña en Doctrina y Convenios 42:11.",
+      incorrect_answers: [
+        "No cualquier miembro puede ordenar.",
+        "Los líderes civiles no tienen esta autoridad.",
+        "Los familiares no pueden ordenar sin autoridad.",
+      ],
+    },
+  },
+  {
+    id: 2971,
+    difficulty: "Difícil",
+    question: "¿Qué es una bendición del sacerdocio?",
+    category:  ordenanzas ,
+    correct_answer: "Un acto sagrado donde se invoca el poder de Dios para bendecir a otros.",
+    incorrect_answers: [
+      "Un ritual de limpieza física.",
+      "Una ceremonia para recibir dones espirituales.",
+      "Un evento para celebrar logros personales.",
+    ],
+    justifications: {
+      correct_answer: "Las bendiciones del sacerdocio invocan el poder divino, como se enseña en Santiago 5:14-15.",
+      incorrect_answers: [
+        "No es un ritual de limpieza física.",
+        "No es una ceremonia para recibir dones.",
+        "No es un evento para celebrar logros.",
+      ],
+    },
+  },
+  {
+    id: 2972,
+    difficulty: "Medio",
+    question: "¿Qué es una bendición patriarcal?",
+    category:  ordenanzas ,
+    correct_answer: "Una bendición personal que declara el linaje y guía divina.",
+    incorrect_answers: [
+      "Una oración general para la congregación.",
+      "Un ritual de purificación espiritual.",
+      "Un evento para celebrar cumpleaños.",
+    ],
+    justifications: {
+      correct_answer: "La bendición patriarcal declara linaje y guía, como se enseña en Génesis 49:1-28.",
+      incorrect_answers: [
+        "No es una oración general.",
+        "No es un ritual de purificación.",
+        "No es un evento para cumpleaños.",
+      ],
+    },
+  },
+  {
+    id: 2973,
+    difficulty: "Fácil",
+    question: "¿Qué es una bendición de consuelo?",
+    category:  ordenanzas ,
+    correct_answer: "Una bendición para brindar paz y consuelo en momentos difíciles.",
+    incorrect_answers: [
+      "Una ceremonia para celebrar logros.",
+      "Un ritual de limpieza espiritual.",
+      "Un evento para recibir dones espirituales.",
+    ],
+    justifications: {
+      correct_answer: "Las bendiciones de consuelo brindan paz, como se enseña en Doctrina y Convenios 42:44.",
+      incorrect_answers: [
+        "No es para celebrar logros.",
+        "No es un ritual de limpieza.",
+        "No es para recibir dones espirituales.",
+      ],
+    },
+  },
+  {
+    id: 2974,
+    difficulty: "Difícil",
+    question: "¿Qué es una bendición de salud?",
+    category:  ordenanzas ,
+    correct_answer: "Una bendición para sanar o fortalecer a los enfermos.",
+    incorrect_answers: [
+      "Un ritual para prevenir enfermedades.",
+      "Una ceremonia para celebrar la salud.",
+      "Un evento para recibir dones físicos.",
+    ],
+    justifications: {
+      correct_answer: "Las bendiciones de salud buscan sanar, como se enseña en Doctrina y Convenios 42:48.",
+      incorrect_answers: [
+        "No es un ritual preventivo.",
+        "No es una ceremonia de celebración.",
+        "No es para recibir dones físicos.",
+      ],
+    },
+  },
+  {
+    id: 2975,
+    difficulty: "Medio",
+    question: "¿Qué es el poder del sacerdocio?",
+    category:  ordenanzas ,
+    correct_answer: "La autoridad para actuar en el nombre de Dios.",
+    incorrect_answers: [
+      "Un don espiritual para sanar a otros.",
+      "Un título honorífico para líderes.",
+      "Una habilidad para realizar milagros.",
+    ],
+    justifications: {
+      correct_answer: "El sacerdocio es la autoridad de Dios, como se enseña en Doctrina y Convenios 121:36.",
+      incorrect_answers: [
+        "No es solo un don espiritual.",
+        "No es un título honorífico.",
+        "No es una habilidad para milagros.",
+      ],
+    },
+  },
+  {
+    id: 2976,
+    difficulty: "Fácil",
+    question: "¿Qué es el oficio de diácono en el Sacerdocio Aarónico?",
+    category:  ordenanzas ,
+    correct_answer: "Un oficio para jóvenes de 12 a 13 años que sirven en la Iglesia.",
+    incorrect_answers: [
+      "Un líder de la Sociedad de Socorro.",
+      "Un maestro de la Escuela Dominical.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "Los diáconos son jóvenes que sirven, como se enseña en Doctrina y Convenios 20:57-59.",
+      incorrect_answers: [
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un maestro de la Escuela Dominical.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+  {
+    id: 2977,
+    difficulty: "Difícil",
+    question: "¿Qué es el oficio de élder en el Sacerdocio de Melquisedec?",
+    category:  ordenanzas ,
+    correct_answer: "Un oficio para hombres mayores de 18 años con responsabilidades espirituales.",
+    incorrect_answers: [
+      "Un líder de la Primaria.",
+      "Un maestro de seminario.",
+      "Un misionero retirado.",
+    ],
+    justifications: {
+      correct_answer: "Los élderes tienen responsabilidades espirituales, como se enseña en Doctrina y Convenios 20:38-45.",
+      incorrect_answers: [
+        "No es un líder de la Primaria.",
+        "No es un maestro de seminario.",
+        "No es un misionero retirado.",
+      ],
+    },
+  },
+  {
+    id: 2978,
+    difficulty: "Medio",
+    question: "¿Qué es el oficio de obispo en el sacerdocio?",
+    category:  ordenanzas ,
+    correct_answer: "Un líder que preside una congregación y administra asuntos temporales.",
+    incorrect_answers: [
+      "Un maestro de la Escuela Dominical.",
+      "Un líder de la Sociedad de Socorro.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "El obispo preside una congregación, como se enseña en Doctrina y Convenios 72:2.",
+      incorrect_answers: [
+        "No es un maestro de la Escuela Dominical.",
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+  {
+    id: 2979,
+    difficulty: "Fácil",
+    question: "¿Qué es el oficio de presidente de estaca?",
+    category:  ordenanzas ,
+    correct_answer: "Un líder que preside varias congregaciones en un área geográfica.",
+    incorrect_answers: [
+      "Un líder de la Primaria.",
+      "Un maestro de seminario.",
+      "Un misionero retirado.",
+    ],
+    justifications: {
+      correct_answer: "El presidente de estaca preside varias congregaciones, como se enseña en Doctrina y Convenios 107:36.",
+      incorrect_answers: [
+        "No es un líder de la Primaria.",
+        "No es un maestro de seminario.",
+        "No es un misionero retirado.",
+      ],
+    },
+  },
+  {
+    id: 2980,
+    difficulty: "Difícil",
+    question: "¿Qué es el oficio de sumo sacerdote en el Sacerdocio de Melquisedec?",
+    category:  ordenanzas ,
+    correct_answer: "Un oficio para hombres con responsabilidades de liderazgo y enseñanza.",
+    incorrect_answers: [
+      "Un líder de la Sociedad de Socorro.",
+      "Un maestro de la Escuela Dominical.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "Los sumos sacerdotes tienen responsabilidades de liderazgo, como se enseña en Doctrina y Convenios 107:10.",
+      incorrect_answers: [
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un maestro de la Escuela Dominical.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+  {
+    id: 2981,
+    difficulty: "Medio",
+    question: "¿Qué es el oficio de maestro en el Sacerdocio Aarónico?",
+    category:  ordenanzas ,
+    correct_answer: "Un oficio para jóvenes de 14 a 15 años que sirven en la Iglesia.",
+    incorrect_answers: [
+      "Un líder de la Sociedad de Socorro.",
+      "Un maestro de seminario.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "Los maestros son jóvenes que sirven, como se enseña en Doctrina y Convenios 20:57-59.",
+      incorrect_answers: [
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un maestro de seminario.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+  {
+    id: 2982,
+    difficulty: "Fácil",
+    question: "¿Qué es el oficio de presbítero en el Sacerdocio Aarónico?",
+    category:  ordenanzas ,
+    correct_answer: "Un oficio para jóvenes de 16 a 18 años que sirven en la Iglesia.",
+    incorrect_answers: [
+      "Un líder de la Primaria.",
+      "Un maestro de la Escuela Dominical.",
+      "Un misionero retirado.",
+    ],
+    justifications: {
+      correct_answer: "Los presbíteros son jóvenes que sirven, como se enseña en Doctrina y Convenios 20:57-59.",
+      incorrect_answers: [
+        "No es un líder de la Primaria.",
+        "No es un maestro de la Escuela Dominical.",
+        "No es un misionero retirado.",
+      ],
+    },
+  },
+  {
+    id: 2983,
+    difficulty: "Difícil",
+    question: "¿Qué es el oficio de apóstol en el Sacerdocio de Melquisedec?",
+    category:  ordenanzas ,
+    correct_answer: "Un oficio para testigos especiales de Jesucristo en todo el mundo.",
+    incorrect_answers: [
+      "Un líder de la Sociedad de Socorro.",
+      "Un maestro de seminario.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "Los apóstoles son testigos especiales, como se enseña en Doctrina y Convenios 107:23.",
+      incorrect_answers: [
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un maestro de seminario.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+  {
+    id: 2984,
+    difficulty: "Medio",
+    question: "¿Qué es el oficio de setentas en el Sacerdocio de Melquisedec?",
+    category:  ordenanzas ,
+    correct_answer: "Un oficio para líderes que ayudan a los apóstoles en la obra misional.",
+    incorrect_answers: [
+      "Un líder de la Primaria.",
+      "Un maestro de la Escuela Dominical.",
+      "Un misionero retirado.",
+    ],
+    justifications: {
+      correct_answer: "Los setentas ayudan en la obra misional, como se enseña en Doctrina y Convenios 107:25-26.",
+      incorrect_answers: [
+        "No es un líder de la Primaria.",
+        "No es un maestro de la Escuela Dominical.",
+        "No es un misionero retirado.",
+      ],
+    },
+  },
+  {
+    id: 2985,
+    difficulty: "Fácil",
+    question: "¿Qué es el oficio de presidente de templo?",
+    category:  ordenanzas ,
+    correct_answer: "Un líder que supervisa las operaciones de un templo.",
+    incorrect_answers: [
+      "Un líder de la Sociedad de Socorro.",
+      "Un maestro de seminario.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "El presidente de templo supervisa las operaciones, como se enseña en Doctrina y Convenios 124:142.",
+      incorrect_answers: [
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un maestro de seminario.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+  {
+    id: 2986,
+    difficulty: "Difícil",
+    question: "¿Qué es el oficio de patriarca en el sacerdocio?",
+    category:  ordenanzas ,
+    correct_answer: "Un líder que da bendiciones patriarcales a los miembros.",
+    incorrect_answers: [
+      "Un líder de la Primaria.",
+      "Un maestro de la Escuela Dominical.",
+      "Un misionero retirado.",
+    ],
+    justifications: {
+      correct_answer: "El patriarca da bendiciones patriarcales, como se enseña en Doctrina y Convenios 107:39-56.",
+      incorrect_answers: [
+        "No es un líder de la Primaria.",
+        "No es un maestro de la Escuela Dominical.",
+        "No es un misionero retirado.",
+      ],
+    },
+  },
+  {
+    id: 2987,
+    difficulty: "Medio",
+    question: "¿Qué es el oficio de presidente de misión?",
+    category:  ordenanzas ,
+    correct_answer: "Un líder que supervisa la obra misional en un área específica.",
+    incorrect_answers: [
+      "Un líder de la Sociedad de Socorro.",
+      "Un maestro de seminario.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "El presidente de misión supervisa la obra misional, como se enseña en Doctrina y Convenios 107:65-66.",
+      incorrect_answers: [
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un maestro de seminario.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+  {
+    id: 2988,
+    difficulty: "Fácil",
+    question: "¿Qué es el oficio de presidente de rama?",
+    category:  ordenanzas ,
+    correct_answer: "Un líder que preside una congregación pequeña.",
+    incorrect_answers: [
+      "Un líder de la Primaria.",
+      "Un maestro de la Escuela Dominical.",
+      "Un misionero retirado.",
+    ],
+    justifications: {
+      correct_answer: "El presidente de rama preside una congregación pequeña, como se enseña en Doctrina y Convenios 107:74.",
+      incorrect_answers: [
+        "No es un líder de la Primaria.",
+        "No es un maestro de la Escuela Dominical.",
+        "No es un misionero retirado.",
+      ],
+    },
+  },
+  {
+    id: 2989,
+    difficulty: "Difícil",
+    question: "¿Qué es el oficio de presidente de quórum de élderes?",
+    category:  ordenanzas ,
+    correct_answer: "Un líder que preside el quórum de élderes en una congregación.",
+    incorrect_answers: [
+      "Un líder de la Sociedad de Socorro.",
+      "Un maestro de seminario.",
+      "Un misionero de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "El presidente de quórum de élderes lidera el quórum, como se enseña en Doctrina y Convenios 107:89.",
+      incorrect_answers: [
+        "No es un líder de la Sociedad de Socorro.",
+        "No es un maestro de seminario.",
+        "No es un misionero de tiempo completo.",
+      ],
+    },
+  },
+
+
+  //Matrimonio y familia
+
+
+
+
+
+  
+    {
+      id: 2990,
+      difficulty: "Difícil",
+      question: "¿Qué es el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Una unión sellada por la autoridad del sacerdocio que perdura más allá de la muerte.",
+      incorrect_answers: [
+        "Un matrimonio civil celebrado en una iglesia.",
+        "Un compromiso temporal entre dos personas.",
+        "Una ceremonia simbólica sin efectos eternos.",
+      ],
+      justifications: {
+        correct_answer: "El matrimonio eterno es una ordenanza sellada por el sacerdocio, como se enseña en Doctrina y Convenios 132:19.",
+        incorrect_answers: [
+          "No es un matrimonio civil.",
+          "No es un compromiso temporal.",
+          "No es solo una ceremonia simbólica.",
+        ],
+      },
+    },
+    {
+      id: 2991,
+      difficulty: "Medio",
+      question: "¿Por qué es importante el matrimonio en el templo?",
+      category:  ordenanzas ,
+      correct_answer: "Porque une a las familias por la eternidad bajo convenios sagrados.",
+      incorrect_answers: [
+        "Porque es un requisito para ser miembro de la Iglesia.",
+        "Porque garantiza prosperidad económica.",
+        "Porque es una tradición cultural.",
+      ],
+      justifications: {
+        correct_answer: "El matrimonio en el templo es esencial para la exaltación, como se enseña en Doctrina y Convenios 131:1-4.",
+        incorrect_answers: [
+          "No es un requisito para ser miembro.",
+          "No garantiza prosperidad económica.",
+          "No es solo una tradición cultural.",
+        ],
+      },
+    },
+    {
+      id: 2992,
+      difficulty: "Fácil",
+      question: "¿Qué promesas se hacen durante el matrimonio en el templo?",
+      category:  ordenanzas ,
+      correct_answer: "Guardar los mandamientos y ser fieles al cónyuge.",
+      incorrect_answers: [
+        "Pagar diezmos y ofrendas.",
+        "Asistir a todas las reuniones de la Iglesia.",
+        "Servir en una misión de tiempo completo.",
+      ],
+      justifications: {
+        correct_answer: "Las promesas incluyen fidelidad y obediencia, como se enseña en Doctrina y Convenios 82:10.",
+        incorrect_answers: [
+          "No se promete pagar diezmos.",
+          "No se promete asistir a reuniones.",
+          "No se promete servir en una misión.",
+        ],
+      },
+    },
+    {
+      id: 2993,
+      difficulty: "Difícil",
+      question: "¿Qué es el sellamiento de hijos a padres?",
+      category:  ordenanzas ,
+      correct_answer: "Una ordenanza que une a los hijos con sus padres por la eternidad.",
+      incorrect_answers: [
+        "Un ritual de adopción temporal.",
+        "Una ceremonia para bendecir a los niños.",
+        "Un evento para celebrar cumpleaños.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento une a las familias eternamente, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es un ritual de adopción temporal.",
+          "No es una ceremonia de bendición.",
+          "No es un evento para cumpleaños.",
+        ],
+      },
+    },
+    {
+      id: 2994,
+      difficulty: "Medio",
+      question: "¿Qué significa ser una familia eterna?",
+      category:  ordenanzas ,
+      correct_answer: "Estar unidos por convenios sagrados que perduran más allá de la muerte.",
+      incorrect_answers: [
+        "Tener una relación cercana en esta vida.",
+        "Compartir los mismos intereses y pasatiempos.",
+        "Vivir en la misma casa por siempre.",
+      ],
+      justifications: {
+        correct_answer: "La familia eterna se basa en convenios, como se enseña en Doctrina y Convenios 132:19-20.",
+        incorrect_answers: [
+          "No es solo una relación cercana en esta vida.",
+          "No se trata de intereses o pasatiempos.",
+          "No es vivir en la misma casa.",
+        ],
+      },
+    },
+    {
+      id: 2995,
+      difficulty: "Fácil",
+      question: "¿Qué papel juega el sacerdocio en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Es la autoridad que sella a las parejas por la eternidad.",
+      incorrect_answers: [
+        "Es un requisito para asistir al templo.",
+        "Es una ceremonia simbólica sin efectos eternos.",
+        "Es una tradición cultural.",
+      ],
+      justifications: {
+        correct_answer: "El sacerdocio tiene las llaves para sellar, como se enseña en Doctrina y Convenios 132:7.",
+        incorrect_answers: [
+          "No es solo un requisito para asistir al templo.",
+          "No es una ceremonia simbólica.",
+          "No es una tradición cultural.",
+        ],
+      },
+    },
+    {
+      id: 2996,
+      difficulty: "Difícil",
+      question: "¿Qué bendiciones se reciben al ser sellados como familia?",
+      category:  ordenanzas ,
+      correct_answer: "La promesa de estar juntos en la eternidad y recibir exaltación.",
+      incorrect_answers: [
+        "Prosperidad económica y éxito profesional.",
+        "Fama y reconocimiento público.",
+        "Salud física y longevidad.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento trae bendiciones eternas, como se enseña en Doctrina y Convenios 131:1-4.",
+        incorrect_answers: [
+          "No se promete prosperidad económica.",
+          "No se busca fama o reconocimiento.",
+          "No se enfoca en salud física.",
+        ],
+      },
+    },
+    {
+      id: 2997,
+      difficulty: "Medio",
+      question: "¿Qué responsabilidades tienen los padres en un matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Criar a sus hijos en rectitud y enseñarles el evangelio.",
+      incorrect_answers: [
+        "Proveer solo económicamente para la familia.",
+        "Enseñarles habilidades profesionales.",
+        "Garantizarles una educación universitaria.",
+      ],
+      justifications: {
+        correct_answer: "Los padres deben enseñar el evangelio, como se enseña en Proverbios 22:6.",
+        incorrect_answers: [
+          "No es solo proveer económicamente.",
+          "No es solo enseñar habilidades profesionales.",
+          "No es solo garantizar educación universitaria.",
+        ],
+      },
+    },
+    {
+      id: 2998,
+      difficulty: "Fácil",
+      question: "¿Qué significa 'hasta que la muerte los separe' en comparación con el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Es un compromiso temporal, mientras que el matrimonio eterno es para siempre.",
+      incorrect_answers: [
+        "Es lo mismo que el matrimonio eterno.",
+        "Es un compromiso más fuerte que el matrimonio eterno.",
+        "Es una ceremonia simbólica sin efectos.",
+      ],
+      justifications: {
+        correct_answer: "El matrimonio eterno trasciende la muerte, como se enseña en Doctrina y Convenios 132:19.",
+        incorrect_answers: [
+          "No es lo mismo que el matrimonio eterno.",
+          "No es más fuerte que el matrimonio eterno.",
+          "No es solo una ceremonia simbólica.",
+        ],
+      },
+    },
+    {
+      id: 2999,
+      difficulty: "Difícil",
+      question: "¿Cómo podemos prepararnos para un matrimonio en el templo?",
+      category:  ordenanzas ,
+      correct_answer: "Vivir los mandamientos y ser dignos de una recomendación para el templo.",
+      incorrect_answers: [
+        "Ahorrar dinero para una gran celebración.",
+        "Memorizar las Escrituras completas.",
+        "Realizar servicio comunitario extensivo.",
+      ],
+      justifications: {
+        correct_answer: "La preparación incluye vivir dignamente, como se enseña en Doctrina y Convenios 109:15.",
+        incorrect_answers: [
+          "No es solo ahorrar dinero.",
+          "No es necesario memorizar las Escrituras.",
+          "El servicio comunitario no es un requisito directo.",
+        ],
+      },
+    },
+    {
+      id: 3000,
+      difficulty: "Medio",
+      question: "¿Qué es el convenio del matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un compromiso sagrado entre un hombre, una mujer y Dios.",
+      incorrect_answers: [
+        "Un acuerdo legal entre dos personas.",
+        "Una ceremonia simbólica sin efectos eternos.",
+        "Un ritual de purificación espiritual.",
+      ],
+      justifications: {
+        correct_answer: "El matrimonio eterno es un convenio sagrado, como se enseña en Doctrina y Convenios 132:19.",
+        incorrect_answers: [
+          "No es un acuerdo legal.",
+          "No es solo una ceremonia simbólica.",
+          "No es un ritual de purificación.",
+        ],
+      },
+    },
+    {
+      id: 3001,
+      difficulty: "Fácil",
+      question: "¿Qué simboliza el altar en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un lugar sagrado donde se hacen convenios con Dios.",
+      incorrect_answers: [
+        "Un símbolo de riqueza y prosperidad.",
+        "Un lugar para ofrendas monetarias.",
+        "Un sitio para reuniones sociales.",
+      ],
+      justifications: {
+        correct_answer: "El altar simboliza la presencia de Dios, como se enseña en Génesis 12:7-8.",
+        incorrect_answers: [
+          "No es un símbolo de riqueza.",
+          "No es para ofrendas monetarias.",
+          "No es un lugar para reuniones sociales.",
+        ],
+      },
+    },
+    {
+      id: 3002,
+      difficulty: "Difícil",
+      question: "¿Qué enseñanzas se enfatizan en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "La importancia de los convenios y la fidelidad.",
+      incorrect_answers: [
+        "La necesidad de riqueza y prosperidad.",
+        "La importancia de la fama y el reconocimiento.",
+        "La necesidad de habilidades profesionales.",
+      ],
+      justifications: {
+        correct_answer: "El matrimonio eterno enfatiza los convenios, como se enseña en Doctrina y Convenios 131:1-4.",
+        incorrect_answers: [
+          "No se enfoca en riqueza o prosperidad.",
+          "No se trata de fama o reconocimiento.",
+          "No se enfoca en habilidades profesionales.",
+        ],
+      },
+    },
+    {
+      id: 3003,
+      difficulty: "Medio",
+      question: "¿Qué significa 'ser uno' en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Estar unidos en propósito, metas y amor eterno.",
+      incorrect_answers: [
+        "Compartir las mismas posesiones materiales.",
+        "Tener los mismos pasatiempos e intereses.",
+        "Vivir en el mismo lugar por siempre.",
+      ],
+      justifications: {
+        correct_answer: "Ser uno implica unidad espiritual y emocional, como se enseña en Génesis 2:24.",
+        incorrect_answers: [
+          "No es solo compartir posesiones.",
+          "No es solo tener los mismos pasatiempos.",
+          "No es solo vivir en el mismo lugar.",
+        ],
+      },
+    },
+    {
+      id: 3004,
+      difficulty: "Fácil",
+      question: "¿Qué es el convenio de fidelidad en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un compromiso de lealtad y exclusividad en el matrimonio.",
+      incorrect_answers: [
+        "Un acuerdo para pagar diezmos.",
+        "Una promesa de asistir a la Iglesia semanalmente.",
+        "Un juramento de servir en una misión.",
+      ],
+      justifications: {
+        correct_answer: "La fidelidad es esencial en el matrimonio, como se enseña en Doctrina y Convenios 42:22.",
+        incorrect_answers: [
+          "No es un acuerdo para pagar diezmos.",
+          "No es solo asistir a la Iglesia.",
+          "No es un juramento de servicio misional.",
+        ],
+      },
+    },
+    {
+      id: 3005,
+      difficulty: "Difícil",
+      question: "¿Qué simboliza el anillo en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un símbolo de amor y compromiso eterno.",
+      incorrect_answers: [
+        "Un símbolo de riqueza y estatus social.",
+        "Un símbolo de autoridad en el sacerdocio.",
+        "Un símbolo de sabiduría y conocimiento.",
+      ],
+      justifications: {
+        correct_answer: "El anillo simboliza amor eterno, como se enseña en Cantares 8:6.",
+        incorrect_answers: [
+          "No es un símbolo de riqueza.",
+          "No representa autoridad en el sacerdocio.",
+          "No simboliza sabiduría o conocimiento.",
+        ],
+      },
+    },
+    {
+      id: 3006,
+      difficulty: "Medio",
+      question: "¿Qué significa 'ser sellados por el tiempo y la eternidad'?",
+      category:  ordenanzas ,
+      correct_answer: "Que el matrimonio perdura más allá de la muerte.",
+      incorrect_answers: [
+        "Que el matrimonio es válido solo en esta vida.",
+        "Que el matrimonio es un compromiso temporal.",
+        "Que el matrimonio es una ceremonia simbólica.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento es para la eternidad, como se enseña en Doctrina y Convenios 132:19.",
+        incorrect_answers: [
+          "No es válido solo en esta vida.",
+          "No es un compromiso temporal.",
+          "No es solo una ceremonia simbólica.",
+        ],
+      },
+    },
+    {
+      id: 3007,
+      difficulty: "Fácil",
+      question: "¿Qué es el convenio de amor en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un compromiso de amar y cuidar al cónyuge por siempre.",
+      incorrect_answers: [
+        "Un acuerdo para compartir posesiones materiales.",
+        "Una promesa de asistir a la Iglesia semanalmente.",
+        "Un juramento de servir en una misión.",
+      ],
+      justifications: {
+        correct_answer: "El amor es esencial en el matrimonio, como se enseña en Efesios 5:25.",
+        incorrect_answers: [
+          "No es un acuerdo para compartir posesiones.",
+          "No es solo asistir a la Iglesia.",
+          "No es un juramento de servicio misional.",
+        ],
+      },
+    },
+    {
+      id: 3008,
+      difficulty: "Difícil",
+      question: "¿Qué significa 'ser coherederos de las promesas' en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Compartir las bendiciones de la exaltación juntos.",
+      incorrect_answers: [
+        "Recibir riquezas materiales juntos.",
+        "Compartir responsabilidades en la Iglesia.",
+        "Tener los mismos pasatiempos e intereses.",
+      ],
+      justifications: {
+        correct_answer: "Los cónyuges son coherederos de las bendiciones eternas, como se enseña en Romanos 8:17.",
+        incorrect_answers: [
+          "No se trata de riquezas materiales.",
+          "No es solo compartir responsabilidades.",
+          "No se trata de pasatiempos o intereses.",
+        ],
+      },
+    },
+    {
+      id: 3009,
+      difficulty: "Medio",
+      question: "¿Qué significa 'ser sellados por la eternidad'?",
+      category:  ordenanzas ,
+      correct_answer: "Que el matrimonio perdura más allá de la muerte.",
+      incorrect_answers: [
+        "Que el matrimonio es válido solo en esta vida.",
+        "Que el matrimonio es un compromiso temporal.",
+        "Que el matrimonio es una ceremonia simbólica.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento es para la eternidad, como se enseña en Doctrina y Convenios 132:19.",
+        incorrect_answers: [
+          "No es válido solo en esta vida.",
+          "No es un compromiso temporal.",
+          "No es solo una ceremonia simbólica.",
+        ],
+      },
+    },
+    {
+      id: 3010,
+      difficulty: "Fácil",
+      question: "¿Qué es el convenio de fidelidad en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un compromiso de lealtad y exclusividad en el matrimonio.",
+      incorrect_answers: [
+        "Un acuerdo para pagar diezmos.",
+        "Una promesa de asistir a la Iglesia semanalmente.",
+        "Un juramento de servir en una misión.",
+      ],
+      justifications: {
+        correct_answer: "La fidelidad es esencial en el matrimonio, como se enseña en Doctrina y Convenios 42:22.",
+        incorrect_answers: [
+          "No es un acuerdo para pagar diezmos.",
+          "No es solo asistir a la Iglesia.",
+          "No es un juramento de servicio misional.",
+        ],
+      },
+    },
+    {
+      id: 3011,
+      difficulty: "Difícil",
+      question: "¿Qué simboliza el anillo en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un símbolo de amor y compromiso eterno.",
+      incorrect_answers: [
+        "Un símbolo de riqueza y estatus social.",
+        "Un símbolo de autoridad en el sacerdocio.",
+        "Un símbolo de sabiduría y conocimiento.",
+      ],
+      justifications: {
+        correct_answer: "El anillo simboliza amor eterno, como se enseña en Cantares 8:6.",
+        incorrect_answers: [
+          "No es un símbolo de riqueza.",
+          "No representa autoridad en el sacerdocio.",
+          "No simboliza sabiduría o conocimiento.",
+        ],
+      },
+    },
+    {
+      id: 3012,
+      difficulty: "Medio",
+      question: "¿Qué significa 'ser uno' en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Estar unidos en propósito, metas y amor eterno.",
+      incorrect_answers: [
+        "Compartir las mismas posesiones materiales.",
+        "Tener los mismos pasatiempos e intereses.",
+        "Vivir en el mismo lugar por siempre.",
+      ],
+      justifications: {
+        correct_answer: "Ser uno implica unidad espiritual y emocional, como se enseña en Génesis 2:24.",
+        incorrect_answers: [
+          "No es solo compartir posesiones.",
+          "No es solo tener los mismos pasatiempos.",
+          "No es solo vivir en el mismo lugar.",
+        ],
+      },
+    },
+    {
+      id: 3013,
+      difficulty: "Fácil",
+      question: "¿Qué es el convenio de amor en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Un compromiso de amar y cuidar al cónyuge por siempre.",
+      incorrect_answers: [
+        "Un acuerdo para compartir posesiones materiales.",
+        "Una promesa de asistir a la Iglesia semanalmente.",
+        "Un juramento de servir en una misión.",
+      ],
+      justifications: {
+        correct_answer: "El amor es esencial en el matrimonio, como se enseña en Efesios 5:25.",
+        incorrect_answers: [
+          "No es un acuerdo para compartir posesiones.",
+          "No es solo asistir a la Iglesia.",
+          "No es un juramento de servicio misional.",
+        ],
+      },
+    },
+    {
+      id: 3014,
+      difficulty: "Difícil",
+      question: "¿Qué significa 'ser coherederos de las promesas' en el matrimonio eterno?",
+      category:  ordenanzas ,
+      correct_answer: "Compartir las bendiciones de la exaltación juntos.",
+      incorrect_answers: [
+        "Recibir riquezas materiales juntos.",
+        "Compartir responsabilidades en la Iglesia.",
+        "Tener los mismos pasatiempos e intereses.",
+      ],
+      justifications: {
+        correct_answer: "Los cónyuges son coherederos de las bendiciones eternas, como se enseña en Romanos 8:17.",
+        incorrect_answers: [
+          "No se trata de riquezas materiales.",
+          "No es solo compartir responsabilidades.",
+          "No se trata de pasatiempos o intereses.",
+        ],
+      },
+    },
+  
+// Matrimonio y la Familia
+
+
+
+  {
+    id: 2990,
+    difficulty: "Difícil",
+    question: "¿Qué es el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Una unión sellada por la autoridad del sacerdocio que perdura más allá de la muerte.",
+    incorrect_answers: [
+      "Un matrimonio civil celebrado en una iglesia.",
+      "Un compromiso temporal entre dos personas.",
+      "Una ceremonia simbólica sin efectos eternos.",
+    ],
+    justifications: {
+      correct_answer: "El matrimonio eterno es una ordenanza sellada por el sacerdocio, como se enseña en Doctrina y Convenios 132:19.",
+      incorrect_answers: [
+        "No es un matrimonio civil.",
+        "No es un compromiso temporal.",
+        "No es solo una ceremonia simbólica.",
+      ],
+    },
+  },
+  {
+    id: 2991,
+    difficulty: "Medio",
+    question: "¿Por qué es importante el matrimonio en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Porque une a las familias por la eternidad bajo convenios sagrados.",
+    incorrect_answers: [
+      "Porque es un requisito para ser miembro de la Iglesia.",
+      "Porque garantiza prosperidad económica.",
+      "Porque es una tradición cultural.",
+    ],
+    justifications: {
+      correct_answer: "El matrimonio en el templo es esencial para la exaltación, como se enseña en Doctrina y Convenios 131:1-4.",
+      incorrect_answers: [
+        "No es un requisito para ser miembro.",
+        "No garantiza prosperidad económica.",
+        "No es solo una tradición cultural.",
+      ],
+    },
+  },
+  {
+    id: 2992,
+    difficulty: "Fácil",
+    question: "¿Qué promesas se hacen durante el matrimonio en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Guardar los mandamientos y ser fieles al cónyuge.",
+    incorrect_answers: [
+      "Pagar diezmos y ofrendas.",
+      "Asistir a todas las reuniones de la Iglesia.",
+      "Servir en una misión de tiempo completo.",
+    ],
+    justifications: {
+      correct_answer: "Las promesas incluyen fidelidad y obediencia, como se enseña en Doctrina y Convenios 82:10.",
+      incorrect_answers: [
+        "No se promete pagar diezmos.",
+        "No se promete asistir a reuniones.",
+        "No se promete servir en una misión.",
+      ],
+    },
+  },
+  {
+    id: 2993,
+    difficulty: "Difícil",
+    question: "¿Qué es el sellamiento de hijos a padres?",
+    category:  ordenanzas ,
+    correct_answer: "Una ordenanza que une a los hijos con sus padres por la eternidad.",
+    incorrect_answers: [
+      "Un ritual de adopción temporal.",
+      "Una ceremonia para bendecir a los niños.",
+      "Un evento para celebrar cumpleaños.",
+    ],
+    justifications: {
+      correct_answer: "El sellamiento une a las familias eternamente, como se enseña en Doctrina y Convenios 128:18.",
+      incorrect_answers: [
+        "No es un ritual de adopción temporal.",
+        "No es una ceremonia de bendición.",
+        "No es un evento para cumpleaños.",
+      ],
+    },
+  },
+  {
+    id: 2994,
+    difficulty: "Medio",
+    question: "¿Qué significa ser una familia eterna?",
+    category:  ordenanzas ,
+    correct_answer: "Estar unidos por convenios sagrados que perduran más allá de la muerte.",
+    incorrect_answers: [
+      "Tener una relación cercana en esta vida.",
+      "Compartir los mismos intereses y pasatiempos.",
+      "Vivir en la misma casa por siempre.",
+    ],
+    justifications: {
+      correct_answer: "La familia eterna se basa en convenios, como se enseña en Doctrina y Convenios 132:19-20.",
+      incorrect_answers: [
+        "No es solo una relación cercana en esta vida.",
+        "No se trata de intereses o pasatiempos.",
+        "No es vivir en la misma casa.",
+      ],
+    },
+  },
+  {
+    id: 2995,
+    difficulty: "Fácil",
+    question: "¿Qué papel juega el sacerdocio en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Es la autoridad que sella a las parejas por la eternidad.",
+    incorrect_answers: [
+      "Es un requisito para asistir al templo.",
+      "Es una ceremonia simbólica sin efectos eternos.",
+      "Es una tradición cultural.",
+    ],
+    justifications: {
+      correct_answer: "El sacerdocio tiene las llaves para sellar, como se enseña en Doctrina y Convenios 132:7.",
+      incorrect_answers: [
+        "No es solo un requisito para asistir al templo.",
+        "No es una ceremonia simbólica.",
+        "No es una tradición cultural.",
+      ],
+    },
+  },
+  {
+    id: 2996,
+    difficulty: "Difícil",
+    question: "¿Qué bendiciones se reciben al ser sellados como familia?",
+    category:  ordenanzas ,
+    correct_answer: "La promesa de estar juntos en la eternidad y recibir exaltación.",
+    incorrect_answers: [
+      "Prosperidad económica y éxito profesional.",
+      "Fama y reconocimiento público.",
+      "Salud física y longevidad.",
+    ],
+    justifications: {
+      correct_answer: "El sellamiento trae bendiciones eternas, como se enseña en Doctrina y Convenios 131:1-4.",
+      incorrect_answers: [
+        "No se promete prosperidad económica.",
+        "No se busca fama o reconocimiento.",
+        "No se enfoca en salud física.",
+      ],
+    },
+  },
+  {
+    id: 2997,
+    difficulty: "Medio",
+    question: "¿Qué responsabilidades tienen los padres en un matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Criar a sus hijos en rectitud y enseñarles el evangelio.",
+    incorrect_answers: [
+      "Proveer solo económicamente para la familia.",
+      "Enseñarles habilidades profesionales.",
+      "Garantizarles una educación universitaria.",
+    ],
+    justifications: {
+      correct_answer: "Los padres deben enseñar el evangelio, como se enseña en Proverbios 22:6.",
+      incorrect_answers: [
+        "No es solo proveer económicamente.",
+        "No es solo enseñar habilidades profesionales.",
+        "No es solo garantizar educación universitaria.",
+      ],
+    },
+  },
+  {
+    id: 2998,
+    difficulty: "Fácil",
+    question: "¿Qué significa 'hasta que la muerte los separe' en comparación con el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Es un compromiso temporal, mientras que el matrimonio eterno es para siempre.",
+    incorrect_answers: [
+      "Es lo mismo que el matrimonio eterno.",
+      "Es un compromiso más fuerte que el matrimonio eterno.",
+      "Es una ceremonia simbólica sin efectos.",
+    ],
+    justifications: {
+      correct_answer: "El matrimonio eterno trasciende la muerte, como se enseña en Doctrina y Convenios 132:19.",
+      incorrect_answers: [
+        "No es lo mismo que el matrimonio eterno.",
+        "No es más fuerte que el matrimonio eterno.",
+        "No es solo una ceremonia simbólica.",
+      ],
+    },
+  },
+  {
+    id: 2999,
+    difficulty: "Difícil",
+    question: "¿Cómo podemos prepararnos para un matrimonio en el templo?",
+    category:  ordenanzas ,
+    correct_answer: "Vivir los mandamientos y ser dignos de una recomendación para el templo.",
+    incorrect_answers: [
+      "Ahorrar dinero para una gran celebración.",
+      "Memorizar las Escrituras completas.",
+      "Realizar servicio comunitario extensivo.",
+    ],
+    justifications: {
+      correct_answer: "La preparación incluye vivir dignamente, como se enseña en Doctrina y Convenios 109:15.",
+      incorrect_answers: [
+        "No es solo ahorrar dinero.",
+        "No es necesario memorizar las Escrituras.",
+        "El servicio comunitario no es un requisito directo.",
+      ],
+    },
+  },
+  {
+    id: 3000,
+    difficulty: "Medio",
+    question: "¿Qué es el convenio del matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un compromiso sagrado entre un hombre, una mujer y Dios.",
+    incorrect_answers: [
+      "Un acuerdo legal entre dos personas.",
+      "Una ceremonia simbólica sin efectos eternos.",
+      "Un ritual de purificación espiritual.",
+    ],
+    justifications: {
+      correct_answer: "El matrimonio eterno es un convenio sagrado, como se enseña en Doctrina y Convenios 132:19.",
+      incorrect_answers: [
+        "No es un acuerdo legal.",
+        "No es solo una ceremonia simbólica.",
+        "No es un ritual de purificación.",
+      ],
+    },
+  },
+  {
+    id: 3001,
+    difficulty: "Fácil",
+    question: "¿Qué simboliza el altar en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un lugar sagrado donde se hacen convenios con Dios.",
+    incorrect_answers: [
+      "Un símbolo de riqueza y prosperidad.",
+      "Un lugar para ofrendas monetarias.",
+      "Un sitio para reuniones sociales.",
+    ],
+    justifications: {
+      correct_answer: "El altar simboliza la presencia de Dios, como se enseña en Génesis 12:7-8.",
+      incorrect_answers: [
+        "No es un símbolo de riqueza.",
+        "No es para ofrendas monetarias.",
+        "No es un lugar para reuniones sociales.",
+      ],
+    },
+  },
+  {
+    id: 3002,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanzas se enfatizan en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "La importancia de los convenios y la fidelidad.",
+    incorrect_answers: [
+      "La necesidad de riqueza y prosperidad.",
+      "La importancia de la fama y el reconocimiento.",
+      "La necesidad de habilidades profesionales.",
+    ],
+    justifications: {
+      correct_answer: "El matrimonio eterno enfatiza los convenios, como se enseña en Doctrina y Convenios 131:1-4.",
+      incorrect_answers: [
+        "No se enfoca en riqueza o prosperidad.",
+        "No se trata de fama o reconocimiento.",
+        "No se enfoca en habilidades profesionales.",
+      ],
+    },
+  },
+  {
+    id: 3003,
+    difficulty: "Medio",
+    question: "¿Qué significa 'ser uno' en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Estar unidos en propósito, metas y amor eterno.",
+    incorrect_answers: [
+      "Compartir las mismas posesiones materiales.",
+      "Tener los mismos pasatiempos e intereses.",
+      "Vivir en el mismo lugar por siempre.",
+    ],
+    justifications: {
+      correct_answer: "Ser uno implica unidad espiritual y emocional, como se enseña en Génesis 2:24.",
+      incorrect_answers: [
+        "No es solo compartir posesiones.",
+        "No es solo tener los mismos pasatiempos.",
+        "No es solo vivir en el mismo lugar.",
+      ],
+    },
+  },
+  {
+    id: 3004,
+    difficulty: "Fácil",
+    question: "¿Qué es el convenio de fidelidad en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un compromiso de lealtad y exclusividad en el matrimonio.",
+    incorrect_answers: [
+      "Un acuerdo para pagar diezmos.",
+      "Una promesa de asistir a la Iglesia semanalmente.",
+      "Un juramento de servir en una misión.",
+    ],
+    justifications: {
+      correct_answer: "La fidelidad es esencial en el matrimonio, como se enseña en Doctrina y Convenios 42:22.",
+      incorrect_answers: [
+        "No es un acuerdo para pagar diezmos.",
+        "No es solo asistir a la Iglesia.",
+        "No es un juramento de servicio misional.",
+      ],
+    },
+  },
+  {
+    id: 3005,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el anillo en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un símbolo de amor y compromiso eterno.",
+    incorrect_answers: [
+      "Un símbolo de riqueza y estatus social.",
+      "Un símbolo de autoridad en el sacerdocio.",
+      "Un símbolo de sabiduría y conocimiento.",
+    ],
+    justifications: {
+      correct_answer: "El anillo simboliza amor eterno, como se enseña en Cantares 8:6.",
+      incorrect_answers: [
+        "No es un símbolo de riqueza.",
+        "No representa autoridad en el sacerdocio.",
+        "No simboliza sabiduría o conocimiento.",
+      ],
+    },
+  },
+  {
+    id: 3006,
+    difficulty: "Medio",
+    question: "¿Qué significa 'ser sellados por el tiempo y la eternidad'?",
+    category:  ordenanzas ,
+    correct_answer: "Que el matrimonio perdura más allá de la muerte.",
+    incorrect_answers: [
+      "Que el matrimonio es válido solo en esta vida.",
+      "Que el matrimonio es un compromiso temporal.",
+      "Que el matrimonio es una ceremonia simbólica.",
+    ],
+    justifications: {
+      correct_answer: "El sellamiento es para la eternidad, como se enseña en Doctrina y Convenios 132:19.",
+      incorrect_answers: [
+        "No es válido solo en esta vida.",
+        "No es un compromiso temporal.",
+        "No es solo una ceremonia simbólica.",
+      ],
+    },
+  },
+  {
+    id: 3007,
+    difficulty: "Fácil",
+    question: "¿Qué es el convenio de amor en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un compromiso de amar y cuidar al cónyuge por siempre.",
+    incorrect_answers: [
+      "Un acuerdo para compartir posesiones materiales.",
+      "Una promesa de asistir a la Iglesia semanalmente.",
+      "Un juramento de servir en una misión.",
+    ],
+    justifications: {
+      correct_answer: "El amor es esencial en el matrimonio, como se enseña en Efesios 5:25.",
+      incorrect_answers: [
+        "No es un acuerdo para compartir posesiones.",
+        "No es solo asistir a la Iglesia.",
+        "No es un juramento de servicio misional.",
+      ],
+    },
+  },
+  {
+    id: 3008,
+    difficulty: "Difícil",
+    question: "¿Qué significa 'ser coherederos de las promesas' en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Compartir las bendiciones de la exaltación juntos.",
+    incorrect_answers: [
+      "Recibir riquezas materiales juntos.",
+      "Compartir responsabilidades en la Iglesia.",
+      "Tener los mismos pasatiempos e intereses.",
+    ],
+    justifications: {
+      correct_answer: "Los cónyuges son coherederos de las bendiciones eternas, como se enseña en Romanos 8:17.",
+      incorrect_answers: [
+        "No se trata de riquezas materiales.",
+        "No es solo compartir responsabilidades.",
+        "No se trata de pasatiempos o intereses.",
+      ],
+    },
+  },
+  {
+    id: 3009,
+    difficulty: "Medio",
+    question: "¿Qué significa 'ser sellados por la eternidad'?",
+    category:  ordenanzas ,
+    correct_answer: "Que el matrimonio perdura más allá de la muerte.",
+    incorrect_answers: [
+      "Que el matrimonio es válido solo en esta vida.",
+      "Que el matrimonio es un compromiso temporal.",
+      "Que el matrimonio es una ceremonia simbólica.",
+    ],
+    justifications: {
+      correct_answer: "El sellamiento es para la eternidad, como se enseña en Doctrina y Convenios 132:19.",
+      incorrect_answers: [
+        "No es válido solo en esta vida.",
+        "No es un compromiso temporal.",
+        "No es solo una ceremonia simbólica.",
+      ],
+    },
+  },
+  {
+    id: 3010,
+    difficulty: "Fácil",
+    question: "¿Qué es el convenio de fidelidad en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un compromiso de lealtad y exclusividad en el matrimonio.",
+    incorrect_answers: [
+      "Un acuerdo para pagar diezmos.",
+      "Una promesa de asistir a la Iglesia semanalmente.",
+      "Un juramento de servir en una misión.",
+    ],
+    justifications: {
+      correct_answer: "La fidelidad es esencial en el matrimonio, como se enseña en Doctrina y Convenios 42:22.",
+      incorrect_answers: [
+        "No es un acuerdo para pagar diezmos.",
+        "No es solo asistir a la Iglesia.",
+        "No es un juramento de servicio misional.",
+      ],
+    },
+  },
+  {
+    id: 3011,
+    difficulty: "Difícil",
+    question: "¿Qué simboliza el anillo en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un símbolo de amor y compromiso eterno.",
+    incorrect_answers: [
+      "Un símbolo de riqueza y estatus social.",
+      "Un símbolo de autoridad en el sacerdocio.",
+      "Un símbolo de sabiduría y conocimiento.",
+    ],
+    justifications: {
+      correct_answer: "El anillo simboliza amor eterno, como se enseña en Cantares 8:6.",
+      incorrect_answers: [
+        "No es un símbolo de riqueza.",
+        "No representa autoridad en el sacerdocio.",
+        "No simboliza sabiduría o conocimiento.",
+      ],
+    },
+  },
+  {
+    id: 3012,
+    difficulty: "Medio",
+    question: "¿Qué significa 'ser uno' en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Estar unidos en propósito, metas y amor eterno.",
+    incorrect_answers: [
+      "Compartir las mismas posesiones materiales.",
+      "Tener los mismos pasatiempos e intereses.",
+      "Vivir en el mismo lugar por siempre.",
+    ],
+    justifications: {
+      correct_answer: "Ser uno implica unidad espiritual y emocional, como se enseña en Génesis 2:24.",
+      incorrect_answers: [
+        "No es solo compartir posesiones.",
+        "No es solo tener los mismos pasatiempos.",
+        "No es solo vivir en el mismo lugar.",
+      ],
+    },
+  },
+  {
+    id: 3013,
+    difficulty: "Fácil",
+    question: "¿Qué es el convenio de amor en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Un compromiso de amar y cuidar al cónyuge por siempre.",
+    incorrect_answers: [
+      "Un acuerdo para compartir posesiones materiales.",
+      "Una promesa de asistir a la Iglesia semanalmente.",
+      "Un juramento de servir en una misión.",
+    ],
+    justifications: {
+      correct_answer: "El amor es esencial en el matrimonio, como se enseña en Efesios 5:25.",
+      incorrect_answers: [
+        "No es un acuerdo para compartir posesiones.",
+        "No es solo asistir a la Iglesia.",
+        "No es un juramento de servicio misional.",
+      ],
+    },
+  },
+  {
+    id: 3014,
+    difficulty: "Difícil",
+    question: "¿Qué significa 'ser coherederos de las promesas' en el matrimonio eterno?",
+    category:  ordenanzas ,
+    correct_answer: "Compartir las bendiciones de la exaltación juntos.",
+    incorrect_answers: [
+      "Recibir riquezas materiales juntos.",
+      "Compartir responsabilidades en la Iglesia.",
+      "Tener los mismos pasatiempos e intereses.",
+    ],
+    justifications: {
+      correct_answer: "Los cónyuges son coherederos de las bendiciones eternas, como se enseña en Romanos 8:17.",
+      incorrect_answers: [
+        "No se trata de riquezas materiales.",
+        "No es solo compartir responsabilidades.",
+        "No se trata de pasatiempos o intereses.",
+      ],
+    },
+  },
+
+
+  // Ordenanzas vicarias
+
+
+
+
+
+  
+    {
+      id: 3015,
+      difficulty: "Difícil",
+      question: "¿Qué son las ordenanzas vicarias?",
+      category:  ordenanzas ,
+      correct_answer: "Ordenanzas realizadas en nombre de personas fallecidas para su salvación.",
+      incorrect_answers: [
+        "Ceremonias simbólicas sin efectos eternos.",
+        "Rituales de purificación personal.",
+        "Eventos sociales para recordar a los difuntos.",
+      ],
+      justifications: {
+        correct_answer: "Las ordenanzas vicarias son esenciales para la salvación de los muertos, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "No son ceremonias simbólicas sin efectos.",
+          "No son rituales de purificación personal.",
+          "No son eventos sociales.",
+        ],
+      },
+    },
+    {
+      id: 3016,
+      difficulty: "Medio",
+      question: "¿Por qué es importante realizar ordenanzas por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Para ofrecerles la oportunidad de aceptar el evangelio en el mundo de los espíritus.",
+      incorrect_answers: [
+        "Para honrar su memoria en la tierra.",
+        "Para garantizar su resurrección inmediata.",
+        "Para evitar que regresen como espíritus.",
+      ],
+      justifications: {
+        correct_answer: "Las ordenanzas vicarias son esenciales para la salvación, como se enseña en Doctrina y Convenios 128:15.",
+        incorrect_answers: [
+          "No es solo para honrar su memoria.",
+          "No garantizan resurrección inmediata.",
+          "No evitan que regresen como espíritus.",
+        ],
+      },
+    },
+    {
+      id: 3017,
+      difficulty: "Fácil",
+      question: "¿Qué ordenanzas se pueden realizar por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Bautismo, investidura y sellamiento.",
+      incorrect_answers: [
+        "Bendiciones patriarcales y consuelo.",
+        "Sacramento y oraciones especiales.",
+        "Matrimonio civil y bautismo infantil.",
+      ],
+      justifications: {
+        correct_answer: "Las ordenanzas vicarias incluyen bautismo, investidura y sellamiento, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "Las bendiciones patriarcales no son ordenanzas vicarias.",
+          "El sacramento no se realiza por los muertos.",
+          "El bautismo infantil no es una práctica SUD.",
+        ],
+      },
+    },
+    {
+      id: 3018,
+      difficulty: "Difícil",
+      question: "¿Qué es el bautismo vicario?",
+      category:  ordenanzas ,
+      correct_answer: "Un bautismo realizado en nombre de una persona fallecida.",
+      incorrect_answers: [
+        "Un bautismo simbólico sin efectos eternos.",
+        "Un ritual de purificación personal.",
+        "Una ceremonia para recordar a los difuntos.",
+      ],
+      justifications: {
+        correct_answer: "El bautismo vicario es esencial para la salvación, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "No es un bautismo simbólico sin efectos.",
+          "No es un ritual de purificación personal.",
+          "No es una ceremonia para recordar.",
+        ],
+      },
+    },
+    {
+      id: 3019,
+      difficulty: "Medio",
+      question: "¿Qué es la investidura vicaria?",
+      category:  ordenanzas ,
+      correct_answer: "Una investidura realizada en nombre de una persona fallecida.",
+      incorrect_answers: [
+        "Una ceremonia simbólica sin efectos eternos.",
+        "Un ritual de limpieza espiritual.",
+        "Un evento para recibir dones espirituales.",
+      ],
+      justifications: {
+        correct_answer: "La investidura vicaria es esencial para la exaltación, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es una ceremonia simbólica sin efectos.",
+          "No es un ritual de limpieza espiritual.",
+          "No es un evento para recibir dones.",
+        ],
+      },
+    },
+    {
+      id: 3020,
+      difficulty: "Fácil",
+      question: "¿Qué es el sellamiento vicario?",
+      category:  ordenanzas ,
+      correct_answer: "Un sellamiento realizado en nombre de una persona fallecida.",
+      incorrect_answers: [
+        "Un ritual de purificación personal.",
+        "Una ceremonia para bendecir a los niños.",
+        "Un evento para celebrar cumpleaños.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento vicario une familias por la eternidad, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es un ritual de purificación personal.",
+          "No es una ceremonia para bendecir niños.",
+          "No es un evento para cumpleaños.",
+        ],
+      },
+    },
+    {
+      id: 3021,
+      difficulty: "Difícil",
+      question: "¿Qué registros se necesitan para realizar ordenanzas vicarias?",
+      category:  ordenanzas ,
+      correct_answer: "Registros genealógicos que identifiquen a la persona fallecida.",
+      incorrect_answers: [
+        "Registros médicos de la persona fallecida.",
+        "Registros financieros de la familia.",
+        "Registros de asistencia a la Iglesia.",
+      ],
+      justifications: {
+        correct_answer: "Los registros genealógicos son esenciales, como se enseña en Doctrina y Convenios 128:24.",
+        incorrect_answers: [
+          "No se necesitan registros médicos.",
+          "No se necesitan registros financieros.",
+          "No se necesitan registros de asistencia.",
+        ],
+      },
+    },
+    {
+      id: 3022,
+      difficulty: "Medio",
+      question: "¿Qué papel juega la genealogía en las ordenanzas vicarias?",
+      category:  ordenanzas ,
+      correct_answer: "Proporcionar información para identificar a las personas fallecidas.",
+      incorrect_answers: [
+        "Crear árboles genealógicos decorativos.",
+        "Documentar la historia familiar para publicaciones.",
+        "Identificar enfermedades hereditarias.",
+      ],
+      justifications: {
+        correct_answer: "La genealogía es esencial para las ordenanzas vicarias, como se enseña en Doctrina y Convenios 128:24.",
+        incorrect_answers: [
+          "No es solo para crear árboles decorativos.",
+          "No es solo para publicaciones.",
+          "No es para identificar enfermedades.",
+        ],
+      },
+    },
+    {
+      id: 3023,
+      difficulty: "Fácil",
+      question: "¿Qué bendiciones reciben los muertos al aceptar las ordenanzas vicarias?",
+      category:  ordenanzas ,
+      correct_answer: "La oportunidad de aceptar el evangelio y recibir la exaltación.",
+      incorrect_answers: [
+        "La resurrección inmediata.",
+        "La restauración de su memoria en la tierra.",
+        "La liberación del mundo de los espíritus.",
+      ],
+      justifications: {
+        correct_answer: "Las ordenanzas vicarias ofrecen salvación, como se enseña en 1 Pedro 4:6.",
+        incorrect_answers: [
+          "No garantizan resurrección inmediata.",
+          "No restauran su memoria en la tierra.",
+          "No los liberan del mundo de los espíritus.",
+        ],
+      },
+    },
+    {
+      id: 3024,
+      difficulty: "Difícil",
+      question: "¿Cómo podemos participar en la obra vicaria?",
+      category:  ordenanzas ,
+      correct_answer: "Realizando ordenanzas en el templo y trabajando en genealogía.",
+      incorrect_answers: [
+        "Asistiendo a reuniones de la Iglesia.",
+        "Pagar diezmos y ofrendas.",
+        "Sirviendo en una misión de tiempo completo.",
+      ],
+      justifications: {
+        correct_answer: "La obra vicaria incluye ordenanzas y genealogía, como se enseña en Doctrina y Convenios 128:24.",
+        incorrect_answers: [
+          "No es solo asistir a reuniones.",
+          "No es solo pagar diezmos.",
+          "No es solo servir en una misión.",
+        ],
+      },
+    },
+    {
+      id: 3025,
+      difficulty: "Medio",
+      question: "¿Qué es el bautismo por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Una ordenanza vicaria que permite a los muertos aceptar el evangelio.",
+      incorrect_answers: [
+        "Un ritual de purificación personal.",
+        "Una ceremonia para recordar a los difuntos.",
+        "Un evento para fortalecer la fe de los vivos.",
+      ],
+      justifications: {
+        correct_answer: "El bautismo por los muertos es esencial para la salvación, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "No es un ritual de purificación personal.",
+          "No es solo para recordar a los difuntos.",
+          "No es principalmente para fortalecer la fe.",
+        ],
+      },
+    },
+    {
+      id: 3026,
+      difficulty: "Fácil",
+      question: "¿Qué es la investidura por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Una ordenanza vicaria que permite a los muertos recibir bendiciones eternas.",
+      incorrect_answers: [
+        "Un ritual de limpieza espiritual.",
+        "Una ceremonia para bendecir a los niños.",
+        "Un evento para celebrar cumpleaños.",
+      ],
+      justifications: {
+        correct_answer: "La investidura por los muertos es esencial para la exaltación, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es un ritual de limpieza espiritual.",
+          "No es una ceremonia para bendecir niños.",
+          "No es un evento para cumpleaños.",
+        ],
+      },
+    },
+    {
+      id: 3027,
+      difficulty: "Difícil",
+      question: "¿Qué es el sellamiento por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Una ordenanza vicaria que une a las familias por la eternidad.",
+      incorrect_answers: [
+        "Un ritual de purificación personal.",
+        "Una ceremonia para bendecir a los niños.",
+        "Un evento para celebrar cumpleaños.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento por los muertos une familias eternamente, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es un ritual de purificación personal.",
+          "No es una ceremonia para bendecir niños.",
+          "No es un evento para cumpleaños.",
+        ],
+      },
+    },
+    {
+      id: 3028,
+      difficulty: "Medio",
+      question: "¿Qué es la obra vicaria?",
+      category:  ordenanzas ,
+      correct_answer: "La realización de ordenanzas en nombre de personas fallecidas.",
+      incorrect_answers: [
+        "La predicación del evangelio a los vivos.",
+        "La construcción de templos y capillas.",
+        "La organización de eventos sociales.",
+      ],
+      justifications: {
+        correct_answer: "La obra vicaria es esencial para la salvación de los muertos, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "No es solo predicar a los vivos.",
+          "No es solo construir templos.",
+          "No es organizar eventos sociales.",
+        ],
+      },
+    },
+    {
+      id: 3029,
+      difficulty: "Fácil",
+      question: "¿Qué es el bautismo vicario?",
+      category:  ordenanzas ,
+      correct_answer: "Un bautismo realizado en nombre de una persona fallecida.",
+      incorrect_answers: [
+        "Un bautismo simbólico sin efectos eternos.",
+        "Un ritual de purificación personal.",
+        "Una ceremonia para recordar a los difuntos.",
+      ],
+      justifications: {
+        correct_answer: "El bautismo vicario es esencial para la salvación, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "No es un bautismo simbólico sin efectos.",
+          "No es un ritual de purificación personal.",
+          "No es una ceremonia para recordar.",
+        ],
+      },
+    },
+    {
+      id: 3030,
+      difficulty: "Difícil",
+      question: "¿Qué es la investidura vicaria?",
+      category:  ordenanzas ,
+      correct_answer: "Una investidura realizada en nombre de una persona fallecida.",
+      incorrect_answers: [
+        "Una ceremonia simbólica sin efectos eternos.",
+        "Un ritual de limpieza espiritual.",
+        "Un evento para recibir dones espirituales.",
+      ],
+      justifications: {
+        correct_answer: "La investidura vicaria es esencial para la exaltación, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es una ceremonia simbólica sin efectos.",
+          "No es un ritual de limpieza espiritual.",
+          "No es un evento para recibir dones.",
+        ],
+      },
+    },
+    {
+      id: 3031,
+      difficulty: "Medio",
+      question: "¿Qué es el sellamiento vicario?",
+      category:  ordenanzas ,
+      correct_answer: "Un sellamiento realizado en nombre de una persona fallecida.",
+      incorrect_answers: [
+        "Un ritual de purificación personal.",
+        "Una ceremonia para bendecir a los niños.",
+        "Un evento para celebrar cumpleaños.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento vicario une familias eternamente, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es un ritual de purificación personal.",
+          "No es una ceremonia para bendecir niños.",
+          "No es un evento para cumpleaños.",
+        ],
+      },
+    },
+    {
+      id: 3032,
+      difficulty: "Fácil",
+      question: "¿Qué registros se necesitan para realizar ordenanzas vicarias?",
+      category:  ordenanzas ,
+      correct_answer: "Registros genealógicos que identifiquen a la persona fallecida.",
+      incorrect_answers: [
+        "Registros médicos de la persona fallecida.",
+        "Registros financieros de la familia.",
+        "Registros de asistencia a la Iglesia.",
+      ],
+      justifications: {
+        correct_answer: "Los registros genealógicos son esenciales, como se enseña en Doctrina y Convenios 128:24.",
+        incorrect_answers: [
+          "No se necesitan registros médicos.",
+          "No se necesitan registros financieros.",
+          "No se necesitan registros de asistencia.",
+        ],
+      },
+    },
+    {
+      id: 3033,
+      difficulty: "Difícil",
+      question: "¿Qué papel juega la genealogía en las ordenanzas vicarias?",
+      category:  ordenanzas ,
+      correct_answer: "Proporcionar información para identificar a las personas fallecidas.",
+      incorrect_answers: [
+        "Crear árboles genealógicos decorativos.",
+        "Documentar la historia familiar para publicaciones.",
+        "Identificar enfermedades hereditarias.",
+      ],
+      justifications: {
+        correct_answer: "La genealogía es esencial para las ordenanzas vicarias, como se enseña en Doctrina y Convenios 128:24.",
+        incorrect_answers: [
+          "No es solo para crear árboles decorativos.",
+          "No es solo para publicaciones.",
+          "No es para identificar enfermedades.",
+        ],
+      },
+    },
+    {
+      id: 3034,
+      difficulty: "Medio",
+      question: "¿Qué bendiciones reciben los muertos al aceptar las ordenanzas vicarias?",
+      category:  ordenanzas ,
+      correct_answer: "La oportunidad de aceptar el evangelio y recibir la exaltación.",
+      incorrect_answers: [
+        "La resurrección inmediata.",
+        "La restauración de su memoria en la tierra.",
+        "La liberación del mundo de los espíritus.",
+      ],
+      justifications: {
+        correct_answer: "Las ordenanzas vicarias ofrecen salvación, como se enseña en 1 Pedro 4:6.",
+        incorrect_answers: [
+          "No garantizan resurrección inmediata.",
+          "No restauran su memoria en la tierra.",
+          "No los liberan del mundo de los espíritus.",
+        ],
+      },
+    },
+    {
+      id: 3035,
+      difficulty: "Fácil",
+      question: "¿Cómo podemos participar en la obra vicaria?",
+      category:  ordenanzas ,
+      correct_answer: "Realizando ordenanzas en el templo y trabajando en genealogía.",
+      incorrect_answers: [
+        "Asistiendo a reuniones de la Iglesia.",
+        "Pagar diezmos y ofrendas.",
+        "Sirviendo en una misión de tiempo completo.",
+      ],
+      justifications: {
+        correct_answer: "La obra vicaria incluye ordenanzas y genealogía, como se enseña en Doctrina y Convenios 128:24.",
+        incorrect_answers: [
+          "No es solo asistir a reuniones.",
+          "No es solo pagar diezmos.",
+          "No es solo servir en una misión.",
+        ],
+      },
+    },
+    {
+      id: 3036,
+      difficulty: "Difícil",
+      question: "¿Qué es el bautismo por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Una ordenanza vicaria que permite a los muertos aceptar el evangelio.",
+      incorrect_answers: [
+        "Un ritual de purificación personal.",
+        "Una ceremonia para recordar a los difuntos.",
+        "Un evento para fortalecer la fe de los vivos.",
+      ],
+      justifications: {
+        correct_answer: "El bautismo por los muertos es esencial para la salvación, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "No es un ritual de purificación personal.",
+          "No es solo para recordar a los difuntos.",
+          "No es principalmente para fortalecer la fe.",
+        ],
+      },
+    },
+    {
+      id: 3037,
+      difficulty: "Medio",
+      question: "¿Qué es la investidura por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Una ordenanza vicaria que permite a los muertos recibir bendiciones eternas.",
+      incorrect_answers: [
+        "Un ritual de limpieza espiritual.",
+        "Una ceremonia para bendecir a los niños.",
+        "Un evento para celebrar cumpleaños.",
+      ],
+      justifications: {
+        correct_answer: "La investidura por los muertos es esencial para la exaltación, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es un ritual de limpieza espiritual.",
+          "No es una ceremonia para bendecir niños.",
+          "No es un evento para cumpleaños.",
+        ],
+      },
+    },
+    {
+      id: 3038,
+      difficulty: "Fácil",
+      question: "¿Qué es el sellamiento por los muertos?",
+      category:  ordenanzas ,
+      correct_answer: "Una ordenanza vicaria que une a las familias por la eternidad.",
+      incorrect_answers: [
+        "Un ritual de purificación personal.",
+        "Una ceremonia para bendecir a los niños.",
+        "Un evento para celebrar cumpleaños.",
+      ],
+      justifications: {
+        correct_answer: "El sellamiento por los muertos une familias eternamente, como se enseña en Doctrina y Convenios 128:18.",
+        incorrect_answers: [
+          "No es un ritual de purificación personal.",
+          "No es una ceremonia para bendecir niños.",
+          "No es un evento para cumpleaños.",
+        ],
+      },
+    },
+    {
+      id: 3039,
+      difficulty: "Difícil",
+      question: "¿Qué es la obra vicaria?",
+      category:  ordenanzas ,
+      correct_answer: "La realización de ordenanzas en nombre de personas fallecidas.",
+      incorrect_answers: [
+        "La predicación del evangelio a los vivos.",
+        "La construcción de templos y capillas.",
+        "La organización de eventos sociales.",
+      ],
+      justifications: {
+        correct_answer: "La obra vicaria es esencial para la salvación de los muertos, como se enseña en 1 Corintios 15:29.",
+        incorrect_answers: [
+          "No es solo predicar a los vivos.",
+          "No es solo construir templos.",
+          "No es organizar eventos sociales.",
+        ],
+      },
+    },
+  
 
 
 ];
