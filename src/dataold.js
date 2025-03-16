@@ -52940,5 +52940,4344 @@ cambios significativos en la organización y prácticas de la iglesia. */
   },
 
 
-  
+// Historia Jose Smith Historia
+{
+  id: 2651,
+  difficulty: "Difícil",
+  question: "¿Qué mensaje principal enfatizó Russell M. Nelson sobre la importancia de la revelación continua?",
+   category: historia,
+  correct_answer: "Que es esencial para guiar a la Iglesia en la actualidad",
+  incorrect_answers: [
+    "Que es un concepto obsoleto",
+    "Que es solo para líderes de la Iglesia",
+    "Que es innecesaria en la vida moderna",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la revelación continua es esencial para guiar a la Iglesia (véase 'La revelación continua: una bendición para la Iglesia').",
+    incorrect_answers: [
+      "La revelación continua no es obsoleta.",
+      "Es para todos, no solo para líderes.",
+      "Es necesaria en todo momento.",
+    ],
+  },
+},
+{
+  id: 2652,
+  difficulty: "Medio",
+  question: "¿Qué llamado hizo Russell M. Nelson a los miembros de la Iglesia?",
+   category: historia,
+  correct_answer: "Aumentar su espiritualidad personal",
+  incorrect_answers: [
+    "Ignorar las impresiones espirituales",
+    "Enfocarse únicamente en la riqueza material",
+    "Evitar participar en la comunidad",
+  ],
+  justifications: {
+    correct_answer: "Nelson instó a los miembros a aumentar su espiritualidad personal (véase 'Un llamado a la espiritualidad').",
+    incorrect_answers: [
+      "Enseñó lo contrario sobre las impresiones espirituales.",
+      "No promovió la riqueza material como enfoque principal.",
+      "Enfatizó la participación en la comunidad.",
+    ],
+  },
+},
+{
+  id: 2653,
+  difficulty: "Fácil",
+  question: "¿Qué cargo ocupó Russell M. Nelson antes de ser presidente de la Iglesia?",
+   category: historia,
+  correct_answer: "Apóstol",
+  incorrect_answers: [
+    "Obispo",
+    "Setenta",
+    "Patriarca",
+  ],
+  justifications: {
+    correct_answer: "Russell M. Nelson sirvió como apóstol antes de ser presidente de la Iglesia.",
+    incorrect_answers: [
+      "No fue obispo antes de ser profeta.",
+      "No sirvió como Setenta antes de ser profeta.",
+      "No fue patriarca antes de ser profeta.",
+    ],
+  },
+},
+{
+  id: 2654,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la fe?",
+   category: historia,
+  correct_answer: "Que es un principio de acción y poder",
+  incorrect_answers: [
+    "Que es un sentimiento pasivo",
+    "Que es innecesaria en la vida moderna",
+    "Que es solo para líderes de la Iglesia",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la fe es un principio de acción y poder (véase 'La fe: un principio de acción').",
+    incorrect_answers: [
+      "La fe no es pasiva, sino activa.",
+      "Es necesaria en todo momento.",
+      "Aplica a todos, no solo a los líderes.",
+    ],
+  },
+},
+{
+  id: 2655,
+  difficulty: "Medio",
+  question: "¿Qué mensaje dio Russell M. Nelson sobre la importancia de la oración?",
+   category: historia,
+  correct_answer: "Que es una comunicación vital con Dios",
+  incorrect_answers: [
+    "Que es innecesaria en la vida diaria",
+    "Que es solo para momentos de crisis",
+    "Que es un ritual sin significado",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la oración es una comunicación vital con Dios (véase 'La oración: un diálogo con Dios').",
+    incorrect_answers: [
+      "La oración es necesaria en la vida diaria.",
+      "No es solo para momentos de crisis.",
+      "Tiene un profundo significado.",
+    ],
+  },
+},
+{
+  id: 2656,
+  difficulty: "Fácil",
+  question: "¿Qué frase usó Russell M. Nelson para describir el Libro de Mormón?",
+   category: historia,
+  correct_answer: "La clave de nuestra religión",
+  incorrect_answers: [
+    "Un libro histórico interesante",
+    "Un complemento opcional a la Biblia",
+    "Un texto solo para eruditos",
+  ],
+  justifications: {
+    correct_answer: "Nelson describió el Libro de Mormón como 'la clave de nuestra religión' (véase 'El Libro de Mormón: otro testamento de Jesucristo').",
+    incorrect_answers: [
+      "No es solo un libro histórico.",
+      "No es un complemento opcional, sino esencial.",
+      "Es para todos, no solo para eruditos.",
+    ],
+  },
+},
+{
+  id: 2657,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la humildad?",
+   category: historia,
+  correct_answer: "Que es esencial para seguir a Cristo",
+  incorrect_answers: [
+    "Que es un signo de debilidad",
+    "Que es innecesaria para la salvación",
+    "Que es solo para líderes de la Iglesia",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la humildad es esencial para seguir a Cristo (véase 'La humildad: clave para seguir a Cristo').",
+    incorrect_answers: [
+      "La humildad no es debilidad, sino fortaleza.",
+      "Es necesaria para la salvación.",
+      "Aplica a todos, no solo a los líderes.",
+    ],
+  },
+},
+{
+  id: 2658,
+  difficulty: "Medio",
+  question: "¿Qué dijo Russell M. Nelson sobre la importancia del servicio?",
+   category: historia,
+  correct_answer: "Que es una expresión de amor cristiano",
+  incorrect_answers: [
+    "Que es una pérdida de tiempo",
+    "Que es solo para personas ricas",
+    "Que es innecesario en la vida moderna",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que el servicio es una expresión de amor cristiano (véase 'El servicio: una expresión de amor').",
+    incorrect_answers: [
+      "No es una pérdida de tiempo.",
+      "Es para todos, no solo para los ricos.",
+      "Es necesario en todo momento.",
+    ],
+  },
+},
+{
+  id: 2659,
+  difficulty: "Fácil",
+  question: "¿Qué mensaje principal compartió Russell M. Nelson sobre la gratitud?",
+   category: historia,
+  correct_answer: "Que es un principio fundamental para la felicidad",
+  incorrect_answers: [
+    "Que es innecesaria en la vida diaria",
+    "Que es solo para momentos especiales",
+    "Que es un signo de debilidad",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la gratitud es fundamental para la felicidad (véase 'La gratitud: un principio de felicidad').",
+    incorrect_answers: [
+      "La gratitud es necesaria en la vida diaria.",
+      "No es solo para momentos especiales.",
+      "No es un signo de debilidad, sino de fortaleza.",
+    ],
+  },
+},
+{
+  id: 2660,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la caridad?",
+   category: historia,
+  correct_answer: "Que es el amor puro de Cristo",
+  incorrect_answers: [
+    "Que es un sentimiento opcional",
+    "Que es innecesaria en la vida moderna",
+    "Que es solo para los necesitados",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la caridad es el amor puro de Cristo (véase Moroni 7:47).",
+    incorrect_answers: [
+      "La caridad no es opcional, sino esencial.",
+      "Es necesaria en todo momento.",
+      "Aplica a todos, no solo a los necesitados.",
+    ],
+  },
+},
+{
+  id: 2661,
+  difficulty: "Medio",
+  question: "¿Qué dijo Russell M. Nelson sobre la importancia del arrepentimiento?",
+   category: historia,
+  correct_answer: "Que es un proceso continuo",
+  incorrect_answers: [
+    "Que es innecesario en la vida moderna",
+    "Que es solo para pecados graves",
+    "Que es un signo de debilidad",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que el arrepentimiento es un proceso continuo (véase 'El arrepentimiento: un proceso continuo').",
+    incorrect_answers: [
+      "Es necesario en todo momento.",
+      "Aplica a todos los pecados, no solo a los graves.",
+      "No es un signo de debilidad, sino de fortaleza.",
+    ],
+  },
+},
+{
+  id: 2662,
+  difficulty: "Fácil",
+  question: "¿Qué frase usó Russell M. Nelson para describir la importancia del Evangelio?",
+   category: historia,
+  correct_answer: "El camino a la felicidad eterna",
+  incorrect_answers: [
+    "Una guía opcional para la vida",
+    "Un conjunto de reglas obsoletas",
+    "Un mito religioso",
+  ],
+  justifications: {
+    correct_answer: "Nelson describió el Evangelio como 'el camino a la felicidad eterna' (véase 'El Evangelio: el camino a la felicidad').",
+    incorrect_answers: [
+      "No es una guía opcional.",
+      "No es un conjunto de reglas obsoletas.",
+      "No es un mito, sino una verdad eterna.",
+    ],
+  },
+},
+{
+  id: 2663,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la paciencia?",
+   category: historia,
+  correct_answer: "Que es esencial para superar pruebas",
+  incorrect_answers: [
+    "Que es un signo de debilidad",
+    "Que es innecesaria en la vida moderna",
+    "Que es solo para los ancianos",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la paciencia es esencial para superar pruebas (véase 'La paciencia: una virtud divina').",
+    incorrect_answers: [
+      "La paciencia no es debilidad, sino fortaleza.",
+      "Es necesaria en todo momento.",
+      "Aplica a todos, no solo a los ancianos.",
+    ],
+  },
+},
+{
+  id: 2664,
+  difficulty: "Medio",
+  question: "¿Qué dijo Russell M. Nelson sobre la importancia de la amabilidad?",
+   category: historia,
+  correct_answer: "Que es una expresión de amor cristiano",
+  incorrect_answers: [
+    "Que es una pérdida de tiempo",
+    "Que es solo para personas ricas",
+    "Que es innecesaria en la vida moderna",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la amabilidad es una expresión de amor cristiano (véase 'La amabilidad: una expresión de amor').",
+    incorrect_answers: [
+      "No es una pérdida de tiempo.",
+      "Es para todos, no solo para los ricos.",
+      "Es necesaria en todo momento.",
+    ],
+  },
+},
+{
+  id: 2665,
+  difficulty: "Fácil",
+  question: "¿Qué mensaje principal compartió Russell M. Nelson sobre el amor?",
+   category: historia,
+  correct_answer: "Que es el mayor de todos los dones",
+  incorrect_answers: [
+    "Que es un sentimiento opcional",
+    "Que es innecesario en la vida moderna",
+    "Que es solo para los débiles",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que el amor es el mayor de todos los dones (véase 1 Corintios 13:13).",
+    incorrect_answers: [
+      "El amor no es opcional, sino esencial.",
+      "Es necesario en todo momento.",
+      "No es solo para los débiles, sino para todos.",
+    ],
+  },
+},
+{
+  id: 2666,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la esperanza?",
+   category: historia,
+  correct_answer: "Que es un ancla para el alma",
+  incorrect_answers: [
+    "Que es innecesaria en la vida diaria",
+    "Que es solo para momentos de crisis",
+    "Que es un signo de debilidad",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la esperanza es un ancla para el alma (véase Hebreos 6:19).",
+    incorrect_answers: [
+      "La esperanza es necesaria en la vida diaria.",
+      "No es solo para momentos de crisis.",
+      "No es un signo de debilidad, sino de fortaleza.",
+    ],
+  },
+},
+{
+  id: 2667,
+  difficulty: "Medio",
+  question: "¿Qué dijo Russell M. Nelson sobre la importancia de la familia?",
+   category: historia,
+  correct_answer: "Que es la unidad central del plan de Dios",
+  incorrect_answers: [
+    "Que es una institución obsoleta",
+    "Que es menos importante que la carrera",
+    "Que es solo para personas casadas",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la familia es central en el plan de Dios (véase 'La familia: una proclamación para el mundo').",
+    incorrect_answers: [
+      "La familia no es obsoleta.",
+      "Es más importante que la carrera.",
+      "Aplica a todos, no solo a los casados.",
+    ],
+  },
+},
+{
+  id: 2668,
+  difficulty: "Fácil",
+  question: "¿Qué frase usó Russell M. Nelson para describir la importancia del templo?",
+   category: historia,
+  correct_answer: "Un refugio de paz",
+  incorrect_answers: [
+    "Un lugar de negocios",
+    "Un centro de entretenimiento",
+    "Un museo histórico",
+  ],
+  justifications: {
+    correct_answer: "Nelson describió el templo como 'un refugio de paz' (véase 'El templo: un refugio de paz').",
+    incorrect_answers: [
+      "No es un lugar de negocios.",
+      "No es un centro de entretenimiento.",
+      "No es un museo histórico.",
+    ],
+  },
+},
+{
+  id: 2669,
+  difficulty: "Difícil",
+  question: "¿Qué enseñanza de Russell M. Nelson se relaciona con la obediencia?",
+   category: historia,
+  correct_answer: "Que trae bendiciones",
+  incorrect_answers: [
+    "Que es opcional",
+    "Que es innecesaria",
+    "Que es un signo de debilidad",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la obediencia trae bendiciones (véase 'La obediencia: un principio de bendición').",
+    incorrect_answers: [
+      "La obediencia no es opcional.",
+      "Es necesaria para recibir bendiciones.",
+      "No es un signo de debilidad, sino de fortaleza.",
+    ],
+  },
+},
+{
+  id: 2670,
+  difficulty: "Medio",
+  question: "¿Qué dijo Russell M. Nelson sobre la importancia de la fe en Jesucristo?",
+   category: historia,
+  correct_answer: "Que es el fundamento de nuestra redención",
+  incorrect_answers: [
+    "Que es un sentimiento pasivo",
+    "Que es innecesaria en la vida moderna",
+    "Que es solo para líderes de la Iglesia",
+  ],
+  justifications: {
+    correct_answer: "Nelson enseñó que la fe en Jesucristo es el fundamento de nuestra redención (véase 'La fe: un principio de acción').",
+    incorrect_answers: [
+      "La fe no es pasiva, sino activa.",
+      "Es necesaria en todo momento.",
+      "Aplica a todos, no solo a los líderes.",
+    ],
+  },
+},
+
+
+// Historia Jose Smith Historia
+
+{
+  id: 2671,
+  difficulty: "Difícil",
+  question: "¿Qué evento marcó el inicio de la restauración del evangelio según José Smith?",
+ category: historia,
+  correct_answer: "La Primera Visión en la arboleda sagrada",
+  incorrect_answers: [
+    "La traducción del Libro de Mormón",
+    "La organización de la Iglesia en 1830",
+    "La visita del ángel Moroni",
+  ],
+  justifications: {
+    correct_answer: "José Smith describió la Primera Visión como el inicio de la restauración (JS-H 1:15-20).",
+    incorrect_answers: [
+      "La traducción del Libro de Mormón ocurrió después.",
+      "La organización de la Iglesia fue un paso posterior.",
+      "La visita de Moroni ocurrió después de la Primera Visión.",
+    ],
+  },
+},
+{
+  id: 2672,
+  difficulty: "Medio",
+  question: "¿Qué ángel visitó a José Smith para revelarle la ubicación de las planchas de oro?",
+ category: historia,
+  correct_answer: "El ángel Moroni",
+  incorrect_answers: [
+    "El ángel Gabriel",
+    "El ángel Miguel",
+    "El ángel Rafael",
+  ],
+  justifications: {
+    correct_answer: "Moroni visitó a José Smith y le habló de las planchas (JS-H 1:30-34).",
+    incorrect_answers: [
+      "Gabriel no está relacionado con esta visita.",
+      "Miguel no es mencionado en este contexto.",
+      "Rafael no es mencionado en las escrituras.",
+    ],
+  },
+},
+{
+  id: 2673,
+  difficulty: "Fácil",
+  question: "¿En qué año tuvo José Smith la Primera Visión?",
+ category: historia,
+  correct_answer: "1820",
+  incorrect_answers: [
+    "1830",
+    "1815",
+    "1825",
+  ],
+  justifications: {
+    correct_answer: "José Smith relata que la Primera Visión ocurrió en la primavera de 1820 (JS-H 1:14).",
+    incorrect_answers: [
+      "1830 fue el año de la organización de la Iglesia.",
+      "1815 es anterior a la Primera Visión.",
+      "1825 no coincide con el relato de José Smith.",
+    ],
+  },
+},
+{
+  id: 2674,
+  difficulty: "Difícil",
+  question: "¿Qué libro de escritura fue traducido por José Smith usando el Urim y Tumim?",
+ category: historia,
+  correct_answer: "El Libro de Mormón",
+  incorrect_answers: [
+    "La Biblia",
+    "El Libro de Abraham",
+    "Doctrina y Convenios",
+  ],
+  justifications: {
+    correct_answer: "José Smith usó el Urim y Tumim para traducir el Libro de Mormón (JS-H 1:62).",
+    incorrect_answers: [
+      "La Biblia no fue traducida con el Urim y Tumim.",
+      "El Libro de Abraham fue traducido de papiros egipcios.",
+      "Doctrina y Convenios contiene revelaciones modernas.",
+    ],
+  },
+},
+{
+  id: 2675,
+  difficulty: "Medio",
+  question: "¿Qué nombre llevaba la colina donde José Smith encontró las planchas de oro?",
+ category: historia,
+  correct_answer: "Cumorah",
+  incorrect_answers: [
+    "Sinaí",
+    "Sión",
+    "Carmelo",
+  ],
+  justifications: {
+    correct_answer: "Las planchas fueron enterradas en el cerro Cumorah (JS-H 1:51).",
+    incorrect_answers: [
+      "Sinaí está asociado con Moisés.",
+      "Sión es un término simbólico.",
+      "Carmelo no está relacionado con las planchas.",
+    ],
+  },
+},
+{
+  id: 2676,
+  difficulty: "Fácil",
+  question: "¿Cuántos años tenía José Smith cuando tuvo la Primera Visión?",
+ category: historia,
+  correct_answer: "14 años",
+  incorrect_answers: [
+    "12 años",
+    "16 años",
+    "18 años",
+  ],
+  justifications: {
+    correct_answer: "José Smith tenía 14 años en la primavera de 1820 (JS-H 1:7).",
+    incorrect_answers: [
+      "12 años es incorrecto según el relato.",
+      "16 años no coincide con la fecha.",
+      "18 años es posterior a la Primera Visión.",
+    ],
+  },
+},
+{
+  id: 2677,
+  difficulty: "Difícil",
+  question: "¿Qué profeta del Libro de Mormón fue el último en escribir en las planchas de oro?",
+ category: historia,
+  correct_answer: "Moroni",
+  incorrect_answers: [
+    "Nefi",
+    "Alma",
+    "Mormón",
+  ],
+  justifications: {
+    correct_answer: "Moroni fue el último profeta en escribir en las planchas (Mormón 8:1).",
+    incorrect_answers: [
+      "Nefi vivió mucho antes que Moroni.",
+      "Alma no fue el último en escribir.",
+      "Mormón fue el padre de Moroni.",
+    ],
+  },
+},
+{
+  id: 2678,
+  difficulty: "Medio",
+  question: "¿Qué iglesia se unió José Smith antes de la Primera Visión?",
+ category: historia,
+  correct_answer: "Ninguna",
+  incorrect_answers: [
+    "La Iglesia Metodista",
+    "La Iglesia Bautista",
+    "La Iglesia Presbiteriana",
+  ],
+  justifications: {
+    correct_answer: "José Smith no se unió a ninguna iglesia antes de la Primera Visión (JS-H 1:8).",
+    incorrect_answers: [
+      "No se unió a los metodistas.",
+      "No se unió a los bautistas.",
+      "No se unió a los presbiterianos.",
+    ],
+  },
+},
+{
+  id: 2679,
+  difficulty: "Fácil",
+  question: "¿Qué personajes divinos se le aparecieron a José Smith en la Primera Visión?",
+ category: historia,
+  correct_answer: "Dios el Padre y Jesucristo",
+  incorrect_answers: [
+    "Dos ángeles",
+    "El Espíritu Santo y un ángel",
+    "Dos profetas antiguos",
+  ],
+  justifications: {
+    correct_answer: "José Smith vio a Dios el Padre y a Jesucristo (JS-H 1:17).",
+    incorrect_answers: [
+      "No fueron dos ángeles.",
+      "El Espíritu Santo no se apareció físicamente.",
+      "No fueron profetas antiguos.",
+    ],
+  },
+},
+{
+  id: 2680,
+  difficulty: "Difícil",
+  question: "¿Qué profeta del Antiguo Testamento es comparado con José Smith en Doctrina y Convenios?",
+ category: historia,
+  correct_answer: "José de Egipto",
+  incorrect_answers: [
+    "Moisés",
+    "Isaías",
+    "Jeremías",
+  ],
+  justifications: {
+    correct_answer: "Doctrina y Convenios compara a José Smith con José de Egipto (DyC 5:10).",
+    incorrect_answers: [
+      "Moisés no es comparado directamente.",
+      "Isaías no es mencionado en este contexto.",
+      "Jeremías no es comparado con José Smith.",
+    ],
+  },
+},
+{
+  id: 2681,
+  difficulty: "Medio",
+  question: "¿Qué edad tenía José Smith cuando recibió las planchas de oro?",
+ category: historia,
+  correct_answer: "21 años",
+  incorrect_answers: [
+    "18 años",
+    "25 años",
+    "30 años",
+  ],
+  justifications: {
+    correct_answer: "José Smith recibió las planchas en 1827, a los 21 años (JS-H 1:59).",
+    incorrect_answers: [
+      "18 años es incorrecto según el relato.",
+      "25 años no coincide con la fecha.",
+      "30 años es posterior al evento.",
+    ],
+  },
+},
+{
+  id: 2682,
+  difficulty: "Fácil",
+  question: "¿Qué libro de escritura contiene el relato de la Primera Visión?",
+ category: historia,
+  correct_answer: "Perla de Gran Precio",
+  incorrect_answers: [
+    "Libro de Mormón",
+    "Doctrina y Convenios",
+    "Biblia",
+  ],
+  justifications: {
+    correct_answer: "El relato de la Primera Visión está en José Smith: Historia (Perla de Gran Precio).",
+    incorrect_answers: [
+      "El Libro de Mormón no contiene este relato.",
+      "Doctrina y Convenios no incluye la Primera Visión.",
+      "La Biblia no menciona este evento.",
+    ],
+  },
+},
+{
+  id: 2683,
+  difficulty: "Difícil",
+  question: "¿Qué evento ocurrió después de que José Smith recibiera las planchas de oro?",
+ category: historia,
+  correct_answer: "La traducción del Libro de Mormón",
+  incorrect_answers: [
+    "La organización de la Iglesia",
+    "La visita del ángel Moroni",
+    "La Primera Visión",
+  ],
+  justifications: {
+    correct_answer: "La traducción del Libro de Mormón comenzó después de recibir las planchas (JS-H 1:62).",
+    incorrect_answers: [
+      "La organización de la Iglesia ocurrió después.",
+      "La visita de Moroni fue antes.",
+      "La Primera Visión fue el inicio.",
+    ],
+  },
+},
+{
+  id: 2684,
+  difficulty: "Medio",
+  question: "¿Qué nombre llevaba el padre de José Smith?",
+ category: historia,
+  correct_answer: "Joseph Smith Sr.",
+  incorrect_answers: [
+    "Hyrum Smith",
+    "Samuel Smith",
+    "Alvin Smith",
+  ],
+  justifications: {
+    correct_answer: "El padre de José Smith se llamaba Joseph Smith Sr. (JS-H 1:4).",
+    incorrect_answers: [
+      "Hyrum era su hermano.",
+      "Samuel era su hermano.",
+      "Alvin era su hermano fallecido.",
+    ],
+  },
+},
+{
+  id: 2685,
+  difficulty: "Fácil",
+  question: "¿Qué ángel le dijo a José Smith que no uniera a ninguna iglesia?",
+ category: historia,
+  correct_answer: "Ningún ángel, fue en la Primera Visión",
+  incorrect_answers: [
+    "El ángel Moroni",
+    "El ángel Gabriel",
+    "El ángel Rafael",
+  ],
+  justifications: {
+    correct_answer: "En la Primera Visión, Jesús le dijo que no se uniera a ninguna iglesia (JS-H 1:19).",
+    incorrect_answers: [
+      "Moroni no le dijo esto.",
+      "Gabriel no está relacionado con este evento.",
+      "Rafael no es mencionado en este contexto.",
+    ],
+  },
+},
+{
+  id: 2686,
+  difficulty: "Difícil",
+  question: "¿Qué profeta del Libro de Mormón fue el padre de Moroni?",
+ category: historia,
+  correct_answer: "Mormón",
+  incorrect_answers: [
+    "Alma",
+    "Nefi",
+    "Helamán",
+  ],
+  justifications: {
+    correct_answer: "Mormón fue el padre de Moroni (Mormón 6:6).",
+    incorrect_answers: [
+      "Alma no fue su padre.",
+      "Nefi vivió mucho antes.",
+      "Helamán no fue su padre.",
+    ],
+  },
+},
+{
+  id: 2687,
+  difficulty: "Medio",
+  question: "¿Qué evento ocurrió en el cuarto de la granja de los Smith donde José Smith recibió las planchas?",
+ category: historia,
+  correct_answer: "Moroni lo visitó varias veces",
+  incorrect_answers: [
+    "La Primera Visión",
+    "La traducción del Libro de Mormón",
+    "La organización de la Iglesia",
+  ],
+  justifications: {
+    correct_answer: "Moroni visitó a José Smith en su cuarto varias veces (JS-H 1:30-34).",
+    incorrect_answers: [
+      "La Primera Visión ocurrió en la arboleda.",
+      "La traducción ocurrió después.",
+      "La organización de la Iglesia fue posterior.",
+    ],
+  },
+},
+{
+  id: 2688,
+  difficulty: "Fácil",
+  question: "¿Qué edad tenía José Smith cuando murió?",
+ category: historia,
+  correct_answer: "38 años",
+  incorrect_answers: [
+    "40 años",
+    "45 años",
+    "50 años",
+  ],
+  justifications: {
+    correct_answer: "José Smith murió en 1844 a los 38 años.",
+    incorrect_answers: [
+      "40 años es incorrecto.",
+      "45 años no coincide.",
+      "50 años es incorrecto.",
+    ],
+  },
+},
+{
+  id: 2689,
+  difficulty: "Difícil",
+  question: "¿Qué profeta del Libro de Mormón fue el primero en escribir en las planchas de oro?",
+ category: historia,
+  correct_answer: "Nefi",
+  incorrect_answers: [
+    "Mormón",
+    "Moroni",
+    "Alma",
+  ],
+  justifications: {
+    correct_answer: "Nefi fue el primer profeta en escribir en las planchas (1 Nefi 1:1).",
+    incorrect_answers: [
+      "Mormón vivió mucho después.",
+      "Moroni fue el último.",
+      "Alma no fue el primero.",
+    ],
+  },
+},
+{
+  id: 2690,
+  difficulty: "Medio",
+  question: "¿Qué evento ocurrió en el bosque cerca de la granja de los Smith en 1820?",
+ category: historia,
+  correct_answer: "La Primera Visión",
+  incorrect_answers: [
+    "La visita de Moroni",
+    "La traducción del Libro de Mormón",
+    "La organización de la Iglesia",
+  ],
+  justifications: {
+    correct_answer: "La Primera Visión ocurrió en la arboleda en 1820 (JS-H 1:14).",
+    incorrect_answers: [
+      "La visita de Moroni fue después.",
+      "La traducción ocurrió más tarde.",
+      "La organización de la Iglesia fue en 1830.",
+    ],
+  },
+},
+{
+  id: 2691,
+  difficulty: "Fácil",
+  question: "¿Qué ángel le dijo a José Smith sobre las planchas de oro?",
+ category: historia,
+  correct_answer: "Moroni",
+  incorrect_answers: [
+    "Gabriel",
+    "Miguel",
+    "Rafael",
+  ],
+  justifications: {
+    correct_answer: "Moroni le habló a José Smith sobre las planchas (JS-H 1:30-34).",
+    incorrect_answers: [
+      "Gabriel no está relacionado con este evento.",
+      "Miguel no es mencionado en este contexto.",
+      "Rafael no es mencionado en las escrituras.",
+    ],
+  },
+},
+{
+  id: 2692,
+  difficulty: "Difícil",
+  question: "¿Qué profeta del Libro de Mormón fue el encargado de esconder las planchas de oro?",
+ category: historia,
+  correct_answer: "Moroni",
+  incorrect_answers: [
+    "Mormón",
+    "Nefi",
+    "Alma",
+  ],
+  justifications: {
+    correct_answer: "Moroni escondió las planchas en el cerro Cumorah (Mormón 8:1-4).",
+    incorrect_answers: [
+      "Mormón no escondió las planchas.",
+      "Nefi vivió mucho antes.",
+      "Alma no escondió las planchas.",
+    ],
+  },
+},
+{
+  id: 2693,
+  difficulty: "Medio",
+  question: "¿Qué edad tenía José Smith cuando comenzó la traducción del Libro de Mormón?",
+ category: historia,
+  correct_answer: "21 años",
+  incorrect_answers: [
+    "18 años",
+    "25 años",
+    "30 años",
+  ],
+  justifications: {
+    correct_answer: "José Smith comenzó la traducción en 1827 a los 21 años (JS-H 1:62).",
+    incorrect_answers: [
+      "18 años es incorrecto según el relato.",
+      "25 años no coincide con la fecha.",
+      "30 años es posterior al evento.",
+    ],
+  },
+},
+
+
+
+
+// "Enseñanzas de los Presidentes de la Iglesia"
+
+
+
+
+
+{
+    id: 2694,
+    difficulty: "Difícil",
+    question: "¿Qué principio enseñó el presidente Brigham Young sobre la obediencia?",
+   category: historia,
+    correct_answer: "La obediencia es el primer principio del evangelio.",
+    incorrect_answers: [
+      "La obediencia es opcional en la vida cristiana.",
+      "La obediencia solo es necesaria en la juventud.",
+      "La obediencia no tiene relación con la fe.",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young enseñó que la obediencia es fundamental para vivir el evangelio.",
+      incorrect_answers: [
+        "La obediencia no es opcional, es esencial.",
+        "La obediencia es necesaria en todas las etapas de la vida.",
+        "La obediencia está directamente relacionada con la fe.",
+      ],
+    },
+  },
+  {
+    id: 2695,
+    difficulty: "Medio",
+    question: "¿Qué enseñó el presidente Joseph F. Smith sobre la familia?",
+   category: historia,
+    correct_answer: "La familia es central en el plan de salvación.",
+    incorrect_answers: [
+      "La familia es importante solo en esta vida.",
+      "La familia no tiene un propósito eterno.",
+      "La familia es secundaria en el evangelio.",
+    ],
+    justifications: {
+      correct_answer: "Joseph F. Smith enfatizó la importancia eterna de la familia.",
+      incorrect_answers: [
+        "La familia tiene un propósito eterno.",
+        "La familia es esencial en el plan de Dios.",
+        "La familia es fundamental en el evangelio.",
+      ],
+    },
+  },
+  {
+    id: 2696,
+    difficulty: "Fácil",
+    question: "¿Qué promesa hizo Dios a Abraham en el pacto que realizó con él?",
+   category: historia,
+    correct_answer: "Que su descendencia sería tan numerosa como las estrellas.",
+    incorrect_answers: [
+      "Que recibiría riquezas ilimitadas.",
+      "Que viviría una vida sin pruebas.",
+      "Que sería rey de todas las naciones.",
+    ],
+    justifications: {
+      correct_answer: "Dios prometió a Abraham una posteridad numerosa (Génesis 15:5).",
+      incorrect_answers: [
+        "No se mencionan riquezas ilimitadas en el pacto.",
+        "Abraham enfrentó muchas pruebas en su vida.",
+        "No se le prometió ser rey de las naciones.",
+      ],
+    },
+  },
+  {
+    id: 2697,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó el presidente David O. McKay sobre el libre albedrío?",
+   category: historia,
+    correct_answer: "El libre albedrío es un don divino esencial para el progreso.",
+    incorrect_answers: [
+      "El libre albedrío es una ilusión.",
+      "El libre albedrío no tiene importancia en el evangelio.",
+      "El libre albedrío solo existe en la vida premortal.",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay enseñó que el libre albedrío es crucial para nuestro crecimiento espiritual.",
+      incorrect_answers: [
+        "El libre albedrío es real y fundamental.",
+        "El libre albedrío es esencial en el plan de Dios.",
+        "El libre albedrío existe en esta vida y en la eternidad.",
+      ],
+    },
+  },
+  {
+    id: 2698,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó el presidente Spencer W. Kimball sobre la oración?",
+   category: historia,
+    correct_answer: "La oración sincera puede mover montañas.",
+    incorrect_answers: [
+      "La oración no tiene poder real.",
+      "La oración solo es útil en momentos de crisis.",
+      "La oración no es necesaria para recibir bendiciones.",
+    ],
+    justifications: {
+      correct_answer: "Spencer W. Kimball enseñó que la oración tiene un poder transformador.",
+      incorrect_answers: [
+        "La oración tiene un poder real y significativo.",
+        "La oración es útil en todo momento, no solo en crisis.",
+        "La oración es esencial para recibir bendiciones.",
+      ],
+    },
+  },
+  {
+    id: 2699,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó el presidente Gordon B. Hinckley sobre la gratitud?",
+   category: historia,
+    correct_answer: "La gratitud es la clave para una vida feliz.",
+    incorrect_answers: [
+      "La gratitud no tiene impacto en la felicidad.",
+      "La gratitud solo es importante en tiempos de abundancia.",
+      "La gratitud es un sentimiento innecesario.",
+    ],
+    justifications: {
+      correct_answer: "Gordon B. Hinckley enfatizó la importancia de la gratitud en la vida diaria.",
+      incorrect_answers: [
+        "La gratitud tiene un impacto profundo en la felicidad.",
+        "La gratitud es importante en todo momento, no solo en la abundancia.",
+        "La gratitud es esencial para el bienestar emocional.",
+      ],
+    },
+  },
+  {
+    id: 2700,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó el presidente Ezra Taft Benson sobre el Libro de Mormón?",
+   category: historia,
+    correct_answer: "El Libro de Mormón es la piedra angular de nuestra religión.",
+    incorrect_answers: [
+      "El Libro de Mormón es un libro histórico sin relevancia doctrinal.",
+      "El Libro de Mormón solo es útil para estudios académicos.",
+      "El Libro de Mormón no tiene relación con la salvación.",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson enseñó que el Libro de Mormón es fundamental para nuestra fe.",
+      incorrect_answers: [
+        "El Libro de Mormón es doctrinalmente relevante.",
+        "El Libro de Mormón es útil para la salvación y el crecimiento espiritual.",
+        "El Libro de Mormón está directamente relacionado con la salvación.",
+      ],
+    },
+  },
+  {
+    id: 2701,
+    difficulty: "Medio",
+    question: "¿Qué enseñó el presidente Thomas S. Monson sobre el servicio?",
+   category: historia,
+    correct_answer: "El servicio es la esencia del discipulado.",
+    incorrect_answers: [
+      "El servicio no es necesario para ser un discípulo.",
+      "El servicio solo es importante en la Iglesia.",
+      "El servicio no tiene impacto en la vida espiritual.",
+    ],
+    justifications: {
+      correct_answer: "Thomas S. Monson enseñó que el servicio es fundamental para seguir a Cristo.",
+      incorrect_answers: [
+        "El servicio es esencial para ser un discípulo.",
+        "El servicio es importante en todas las áreas de la vida.",
+        "El servicio fortalece la vida espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2702,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó el presidente Russell M. Nelson sobre la revelación personal?",
+   category: historia,
+    correct_answer: "La revelación personal es esencial para guiar nuestras vidas.",
+    incorrect_answers: [
+      "La revelación personal no es necesaria.",
+      "La revelación personal solo es para los profetas.",
+      "La revelación personal no tiene relación con la fe.",
+    ],
+    justifications: {
+      correct_answer: "Russell M. Nelson enseñó que la revelación personal es vital para nuestra guía espiritual.",
+      incorrect_answers: [
+        "La revelación personal es necesaria para todos.",
+        "La revelación personal está disponible para todos los miembros.",
+        "La revelación personal fortalece la fe.",
+      ],
+    },
+  },
+  {
+    id: 2703,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó el presidente Harold B. Lee sobre la adversidad?",
+   category: historia,
+    correct_answer: "La adversidad es una herramienta para nuestro crecimiento.",
+    incorrect_answers: [
+      "La adversidad es un castigo divino.",
+      "La adversidad no tiene propósito en la vida.",
+      "La adversidad solo afecta a los débiles.",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee enseñó que la adversidad nos ayuda a crecer espiritualmente.",
+      incorrect_answers: [
+        "La adversidad no es un castigo, sino una oportunidad.",
+        "La adversidad tiene un propósito en el plan de Dios.",
+        "La adversidad puede afectar a todos, no solo a los débiles.",
+      ],
+    },
+  },
+  {
+    id: 2704,
+    difficulty: "Medio",
+    question: "¿Qué enseñó el presidente Howard W. Hunter sobre el amor?",
+   category: historia,
+    correct_answer: "El amor es el principio más importante del evangelio.",
+    incorrect_answers: [
+      "El amor es secundario en la doctrina de la Iglesia.",
+      "El amor no tiene relación con la salvación.",
+      "El amor solo es importante en la familia.",
+    ],
+    justifications: {
+      correct_answer: "Howard W. Hunter enseñó que el amor es fundamental en el evangelio.",
+      incorrect_answers: [
+        "El amor es central en la doctrina de la Iglesia.",
+        "El amor está relacionado con la salvación.",
+        "El amor es importante en todas las relaciones.",
+      ],
+    },
+  },
+  {
+    id: 2705,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó el presidente George Albert Smith sobre la bondad?",
+   category: historia,
+    correct_answer: "La bondad es la esencia del evangelio de Jesucristo.",
+    incorrect_answers: [
+      "La bondad no es necesaria para ser cristiano.",
+      "La bondad solo es importante en la Iglesia.",
+      "La bondad no tiene impacto en la vida espiritual.",
+    ],
+    justifications: {
+      correct_answer: "George Albert Smith enseñó que la bondad es fundamental en el evangelio.",
+      incorrect_answers: [
+        "La bondad es esencial para ser cristiano.",
+        "La bondad es importante en todas las áreas de la vida.",
+        "La bondad fortalece la vida espiritual.",
+      ],
+    },
+  },
+  {
+    id: 2706,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó el presidente Lorenzo Snow sobre el diezmo?",
+   category: historia,
+    correct_answer: "El diezmo es una ley eterna que trae bendiciones.",
+    incorrect_answers: [
+      "El diezmo es opcional en la Iglesia.",
+      "El diezmo no tiene relación con las bendiciones.",
+      "El diezmo solo es necesario en tiempos de abundancia.",
+    ],
+    justifications: {
+      correct_answer: "Lorenzo Snow enseñó que el diezmo es una ley divina que trae bendiciones.",
+      incorrect_answers: [
+        "El diezmo es un mandamiento, no es opcional.",
+        "El diezmo está relacionado con las bendiciones.",
+        "El diezmo es necesario en todo momento.",
+      ],
+    },
+  },
+  {
+    id: 2707,
+    difficulty: "Medio",
+    question: "¿Qué enseñó el presidente Heber J. Grant sobre la perseverancia?",
+   category: historia,
+    correct_answer: "La perseverancia es clave para superar las dificultades.",
+    incorrect_answers: [
+      "La perseverancia no es necesaria para el éxito.",
+      "La perseverancia solo es importante en el deporte.",
+      "La perseverancia no tiene relación con la fe.",
+    ],
+    justifications: {
+      correct_answer: "Heber J. Grant enseñó que la perseverancia es esencial para el éxito.",
+      incorrect_answers: [
+        "La perseverancia es necesaria para superar desafíos.",
+        "La perseverancia es importante en todas las áreas de la vida.",
+        "La perseverancia fortalece la fe.",
+      ],
+    },
+  },
+  {
+    id: 2708,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó el presidente Joseph Fielding Smith sobre la expiación de Jesucristo?",
+   category: historia,
+    correct_answer: "La expiación es el evento más importante en la historia del mundo.",
+    incorrect_answers: [
+      "La expiación no tiene relevancia en la salvación.",
+      "La expiación solo afecta a los pecadores.",
+      "La expiación no tiene relación con la resurrección.",
+    ],
+    justifications: {
+      correct_answer: "Joseph Fielding Smith enseñó que la expiación es central en el plan de salvación.",
+      incorrect_answers: [
+        "La expiación es esencial para la salvación.",
+        "La expiación beneficia a todos, no solo a los pecadores.",
+        "La expiación hace posible la resurrección.",
+      ],
+    },
+  },
+  {
+    id: 2709,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó el presidente John Taylor sobre la libertad religiosa?",
+   category: historia,
+    correct_answer: "La libertad religiosa es un derecho divino.",
+    incorrect_answers: [
+      "La libertad religiosa no es importante.",
+      "La libertad religiosa solo es para ciertas religiones.",
+      "La libertad religiosa no tiene relación con la fe.",
+    ],
+    justifications: {
+      correct_answer: "John Taylor enseñó que la libertad religiosa es esencial para el ejercicio de la fe.",
+      incorrect_answers: [
+        "La libertad religiosa es fundamental para todas las personas.",
+        "La libertad religiosa es un derecho universal.",
+        "La libertad religiosa fortalece la fe.",
+      ],
+    },
+  },
+  {
+    id: 2710,
+    difficulty: "Medio",
+    question: "¿Qué enseñó el presidente Wilford Woodruff sobre la obediencia a los mandamientos?",
+   category: historia,
+    correct_answer: "La obediencia trae bendiciones temporales y espirituales.",
+    incorrect_answers: [
+      "La obediencia no tiene relación con las bendiciones.",
+      "La obediencia solo es necesaria en la juventud.",
+      "La obediencia no es importante en la vida adulta.",
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff enseñó que la obediencia es clave para recibir bendiciones.",
+      incorrect_answers: [
+        "La obediencia está relacionada con las bendiciones.",
+        "La obediencia es necesaria en todas las etapas de la vida.",
+        "La obediencia es importante en la vida adulta.",
+      ],
+    },
+  },
+  {
+    id: 2711,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó el presidente George Q. Cannon sobre la fe?",
+   category: historia,
+    correct_answer: "La fe es el principio de acción en el evangelio.",
+    incorrect_answers: [
+      "La fe no tiene impacto en la vida espiritual.",
+      "La fe solo es importante en momentos de crisis.",
+      "La fe no es necesaria para recibir bendiciones.",
+    ],
+    justifications: {
+      correct_answer: "George Q. Cannon enseñó que la fe es fundamental para actuar en el evangelio.",
+      incorrect_answers: [
+        "La fe tiene un impacto profundo en la vida espiritual.",
+        "La fe es importante en todo momento, no solo en crisis.",
+        "La fe es esencial para recibir bendiciones.",
+      ],
+    },
+  },
+  {
+    id: 2712,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó el presidente Joseph Smith sobre la revelación continua?",
+   category: historia,
+    correct_answer: "La revelación continua es esencial para guiar a la Iglesia.",
+    incorrect_answers: [
+      "La revelación continua no es necesaria.",
+      "La revelación continua solo ocurrió en el pasado.",
+      "La revelación continua no tiene relación con la fe.",
+    ],
+    justifications: {
+      correct_answer: "Joseph Smith enseñó que la revelación continua es vital para la dirección de la Iglesia.",
+      incorrect_answers: [
+        "La revelación continua es necesaria para la Iglesia.",
+        "La revelación continua ocurre en el presente.",
+        "La revelación continua fortalece la fe.",
+      ],
+    },
+  },
+  {
+    id: 2713,
+    difficulty: "Medio",
+    question: "¿Qué enseñó el presidente Brigham Young sobre la autosuficiencia?",
+   category: historia,
+    correct_answer: "La autosuficiencia es un principio fundamental del evangelio.",
+    incorrect_answers: [
+      "La autosuficiencia no es importante en la Iglesia.",
+      "La autosuficiencia solo es necesaria en tiempos de crisis.",
+      "La autosuficiencia no tiene relación con la fe.",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young enseñó que la autosuficiencia es esencial para el bienestar espiritual.",
+      incorrect_answers: [
+        "La autosuficiencia es importante en la Iglesia.",
+        "La autosuficiencia es necesaria en todo momento.",
+        "La autosuficiencia fortalece la fe.",
+      ],
+    },
+  },
+
+
+//"Historia de la Iglesia" (Documentary History of the Church)
+
+
+
+
+
+
+
+  {
+    id: 2715,
+    difficulty: "Difícil",
+    question: "¿Qué evento marcó el inicio de la restauración del Evangelio en 1820?",
+    category:  historia,
+    correct_answer: "La Primera Visión de José Smith en el bosque",
+    incorrect_answers: [
+      "La publicación del Libro de Mormón",
+      "La organización oficial de la Iglesia",
+      "La traducción de los papiros egipcios",
+    ],
+    justifications: {
+      correct_answer: "José Smith relató que vio a Dios el Padre y a Jesucristo en el bosque (José Smith—Historia 1:17).",
+      incorrect_answers: [
+        "El Libro de Mormón se publicó en 1830, después de la Primera Visión.",
+        "La Iglesia se organizó oficialmente en 1830.",
+        "La traducción de los papiros egipcios ocurrió en la década de 1830.",
+      ],
+    },
+  },
+  {
+    id: 2716,
+    difficulty: "Medio",
+    question: "¿Cuál fue el propósito principal del Libro de Mormón según su título?",
+    category:  historia,
+    correct_answer: "Mostrar al mundo que Jesucristo es el Salvador",
+    incorrect_answers: [
+      "Servir como un registro histórico de América",
+      "Proporcionar leyes para gobernar la Iglesia",
+      "Enseñar principios de agricultura avanzada",
+    ],
+    justifications: {
+      correct_answer: "El título del Libro de Mormón indica que su propósito es convencer al mundo de que Jesús es el Cristo (Portada del Libro de Mormón).",
+      incorrect_answers: [
+        "Aunque contiene historia, no es su propósito principal.",
+        "No fue escrito como un código de leyes.",
+        "No se enfoca en temas de agricultura.",
+      ],
+    },
+  },
+  {
+    id: 2717,
+    difficulty: "Fácil",
+    question: "¿Quién fue el primer profeta de La Iglesia de Jesucristo de los Santos de los Últimos Días?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "Thomas S. Monson",
+      "John Taylor",
+    ],
+    justifications: {
+      correct_answer: "José Smith fue llamado como profeta en 1830 cuando se organizó la Iglesia (DyC 21:1).",
+      incorrect_answers: [
+        "Brigham Young fue el segundo presidente de la Iglesia.",
+        "Thomas S. Monson fue un profeta moderno.",
+        "John Taylor fue el tercer presidente de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2718,
+    difficulty: "Difícil",
+    question: "¿Qué documento histórico contiene las revelaciones recibidas por José Smith?",
+    category:  historia,
+    correct_answer: "Doctrina y Convenios",
+    incorrect_answers: [
+      "El Libro de Mormón",
+      "La Perla de Gran Precio",
+      "La Biblia",
+    ],
+    justifications: {
+      correct_answer: "Doctrina y Convenios es una recopilación de revelaciones modernas dadas a José Smith.",
+      incorrect_answers: [
+        "El Libro de Mormón es un registro antiguo.",
+        "La Perla de Gran Precio contiene otros textos sagrados.",
+        "La Biblia es un registro antiguo de profetas hebreos.",
+      ],
+    },
+  },
+  {
+    id: 2719,
+    difficulty: "Medio",
+    question: "¿Qué ciudad fue considerada el centro de la Iglesia durante la época de José Smith?",
+    category:  historia,
+    correct_answer: "Nauvoo",
+    incorrect_answers: [
+      "Salt Lake City",
+      "Kirtland",
+      "Independence",
+    ],
+    justifications: {
+      correct_answer: "Nauvoo fue el principal asentamiento de los santos desde 1839 hasta 1846.",
+      incorrect_answers: [
+        "Salt Lake City se convirtió en el centro después de 1847.",
+        "Kirtland fue un centro importante en la década de 1830.",
+        "Independence fue designada como Sion, pero no fue el centro principal.",
+      ],
+    },
+  },
+  {
+    id: 2720,
+    difficulty: "Fácil",
+    question: "¿Qué evento llevó a los santos a mudarse a Utah?",
+    category:  historia,
+    correct_answer: "El asesinato de José Smith y la persecución en Illinois",
+    incorrect_answers: [
+      "Una revelación directa para establecerse en el oeste",
+      "La búsqueda de tierras más fértiles",
+      "Un conflicto con el gobierno federal",
+    ],
+    justifications: {
+      correct_answer: "Tras el martirio de José Smith, los santos fueron expulsados de Nauvoo y buscaron refugio en el oeste.",
+      incorrect_answers: [
+        "No hubo una revelación específica inicial para mudarse a Utah.",
+        "La fertilidad de la tierra no fue el motivo principal.",
+        "El conflicto con el gobierno fue una consecuencia, no la causa.",
+      ],
+    },
+  },
+  {
+    id: 2721,
+    difficulty: "Difícil",
+    question: "¿Qué papel jugó Brigham Young en la historia de la Iglesia?",
+    category:  historia,
+    correct_answer: "Lideró a los santos a Utah después de la muerte de José Smith",
+    incorrect_answers: [
+      "Fue el primer misionero enviado a Inglaterra",
+      "Tradujo el Libro de Mormón",
+      "Escribió los Artículos de Fe",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young sucedió a José Smith y guió a los santos a Utah.",
+      incorrect_answers: [
+        "Los primeros misioneros a Inglaterra fueron Heber C. Kimball y otros.",
+        "José Smith tradujo el Libro de Mormón.",
+        "José Smith escribió los Artículos de Fe.",
+      ],
+    },
+  },
+  {
+    id: 2722,
+    difficulty: "Medio",
+    question: "¿Qué evento ocurrió en el Templo de Kirtland?",
+    category:  historia,
+    correct_answer: "La aparición de Jesucristo y otros seres celestiales",
+    incorrect_answers: [
+      "La organización oficial de la Iglesia",
+      "La primera conferencia general",
+      "La traducción del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "En el Templo de Kirtland, Jesucristo, Moisés, Elías y Elías el Profeta se aparecieron (DyC 110).",
+      incorrect_answers: [
+        "La Iglesia se organizó en 1830, antes de la construcción del templo.",
+        "Las conferencias generales comenzaron antes de la dedicación del templo.",
+        "El Libro de Mormón se tradujo antes de la construcción del templo.",
+      ],
+    },
+  },
+  {
+    id: 2723,
+    difficulty: "Fácil",
+    question: "¿Qué profeta recibió las planchas de oro del Libro de Mormón?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "Moroni",
+      "Alma",
+    ],
+    justifications: {
+      correct_answer: "José Smith recibió las planchas de Moroni en 1827.",
+      incorrect_answers: [
+        "Brigham Young no recibió las planchas.",
+        "Moroni fue el ángel que las entregó, no el profeta.",
+        "Alma fue un profeta del Libro de Mormón, no de esta dispensación.",
+      ],
+    },
+  },
+  {
+    id: 2724,
+    difficulty: "Difícil",
+    question: "¿Qué significa el término 'Sion' en el contexto de la historia de la Iglesia?",
+    category:  historia,
+    correct_answer: "Un lugar de reunión para los santos",
+    incorrect_answers: [
+      "Un término para describir el cielo",
+      "Un nombre para el Libro de Mormón",
+      "Un título dado a José Smith",
+    ],
+    justifications: {
+      correct_answer: "Sion se refiere a un lugar donde los justos se reúnen (DyC 97:21).",
+      incorrect_answers: [
+        "No se refiere al cielo, sino a un lugar físico.",
+        "No está relacionado con el Libro de Mormón.",
+        "No es un título dado a José Smith.",
+      ],
+    },
+  },
+  {
+    id: 2725,
+    difficulty: "Medio",
+    question: "¿Qué profeta anunció la abolición de la poligamia en 1890?",
+    category:  historia,
+    correct_answer: "Wilford Woodruff",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Lorenzo Snow",
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff emitió el Manifiesto en 1890.",
+      incorrect_answers: [
+        "Brigham Young practicó la poligamia.",
+        "John Taylor defendió la poligamia.",
+        "Lorenzo Snow sucedió a Woodruff.",
+      ],
+    },
+  },
+  {
+    id: 2726,
+    difficulty: "Fácil",
+    question: "¿Qué ángel visitó a José Smith para prepararlo para recibir las planchas?",
+    category:  historia,
+    correct_answer: "Moroni",
+    incorrect_answers: [
+      "Miguel",
+      "Gabriel",
+      "Rafael",
+    ],
+    justifications: {
+      correct_answer: "Moroni visitó a José Smith en 1823 (José Smith—Historia 1:33).",
+      incorrect_answers: [
+        "Miguel es un arcángel, pero no visitó a José Smith.",
+        "Gabriel es un ángel, pero no estuvo involucrado en este evento.",
+        "Rafael no se menciona en las escrituras SUD.",
+      ],
+    },
+  },
+  {
+    id: 2727,
+    difficulty: "Difícil",
+    question: "¿Qué evento ocurrió en la Cárcel de Liberty?",
+    category:  historia,
+    correct_answer: "José Smith recibió revelaciones que están en Doctrina y Convenios",
+    incorrect_answers: [
+      "Se tradujo el Libro de Mormón",
+      "Se organizó la Iglesia",
+      "Se escribieron los Artículos de Fe",
+    ],
+    justifications: {
+      correct_answer: "En la Cárcel de Liberty, José Smith recibió revelaciones como DyC 121-123.",
+      incorrect_answers: [
+        "El Libro de Mormón se tradujo antes de este evento.",
+        "La Iglesia se organizó en 1830.",
+        "Los Artículos de Fe se escribieron en 1842.",
+      ],
+    },
+  },
+  {
+    id: 2728,
+    difficulty: "Medio",
+    question: "¿Qué profeta lideró la construcción del Templo de Salt Lake?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young inició la construcción del Templo de Salt Lake en 1853.",
+      incorrect_answers: [
+        "José Smith murió antes de la migración a Utah.",
+        "John Taylor fue el tercer presidente de la Iglesia.",
+        "Wilford Woodruff dedicó el templo en 1893.",
+      ],
+    },
+  },
+  {
+    id: 2729,
+    difficulty: "Fácil",
+    question: "¿Qué libro de escritura contiene los escritos de Abraham?",
+    category:  historia,
+    correct_answer: "La Perla de Gran Precio",
+    incorrect_answers: [
+      "El Libro de Mormón",
+      "Doctrina y Convenios",
+      "La Biblia",
+    ],
+    justifications: {
+      correct_answer: "El Libro de Abraham está en La Perla de Gran Precio.",
+      incorrect_answers: [
+        "El Libro de Mormón no contiene los escritos de Abraham.",
+        "Doctrina y Convenios contiene revelaciones modernas.",
+        "La Biblia no incluye el Libro de Abraham.",
+      ],
+    },
+  },
+  {
+    id: 2730,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre el sacerdocio para todos los hombres dignos en 1978?",
+    category:  historia,
+    correct_answer: "Spencer W. Kimball",
+    incorrect_answers: [
+      "David O. McKay",
+      "Ezra Taft Benson",
+      "Gordon B. Hinckley",
+    ],
+    justifications: {
+      correct_answer: "Spencer W. Kimball recibió la revelación en 1978 (Declaración Oficial 2).",
+      incorrect_answers: [
+        "David O. McKay fue presidente antes de Kimball.",
+        "Ezra Taft Benson sucedió a Kimball.",
+        "Gordon B. Hinckley fue presidente después de Benson.",
+      ],
+    },
+  },
+  {
+    id: 2731,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el fin de la persecución legal contra la Iglesia por la poligamia?",
+    category:  historia,
+    correct_answer: "El Manifiesto de 1890",
+    incorrect_answers: [
+      "La migración a Utah",
+      "La dedicación del Templo de Salt Lake",
+      "La muerte de Brigham Young",
+    ],
+    justifications: {
+      correct_answer: "El Manifiesto puso fin a la práctica de la poligamia y la persecución legal.",
+      incorrect_answers: [
+        "La migración a Utah no detuvo la persecución.",
+        "El templo se dedicó después del Manifiesto.",
+        "La muerte de Brigham Young no afectó la persecución.",
+      ],
+    },
+  },
+  {
+    id: 2732,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido como el 'Profeta del Templo'?",
+    category:  historia,
+    correct_answer: "Howard W. Hunter",
+    incorrect_answers: [
+      "Gordon B. Hinckley",
+      "Thomas S. Monson",
+      "Ezra Taft Benson",
+    ],
+    justifications: {
+      correct_answer: "Howard W. Hunter enfatizó la importancia de los templos.",
+      incorrect_answers: [
+        "Gordon B. Hinckley fue conocido por su liderazgo global.",
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+      ],
+    },
+  },
+  {
+    id: 2733,
+    difficulty: "Difícil",
+    question: "¿Qué profeta introdujo el programa de estacas en la Iglesia?",
+    category:  historia,
+    correct_answer: "Harold B. Lee",
+    incorrect_answers: [
+      "David O. McKay",
+      "Joseph Fielding Smith",
+      "Spencer W. Kimball",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee reorganizó la Iglesia en estacas en la década de 1960.",
+      incorrect_answers: [
+        "David O. McKay fue presidente antes de Lee.",
+        "Joseph Fielding Smith fue presidente después de Lee.",
+        "Spencer W. Kimball sucedió a Lee.",
+      ],
+    },
+  },
+  {
+    id: 2734,
+    difficulty: "Medio",
+    question: "¿Qué profeta fue conocido por su énfasis en el estudio del Libro de Mormón?",
+    category:  historia,
+    correct_answer: "Ezra Taft Benson",
+    incorrect_answers: [
+      "Gordon B. Hinckley",
+      "Thomas S. Monson",
+      "Howard W. Hunter",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson promovió el estudio del Libro de Mormón.",
+      incorrect_answers: [
+        "Gordon B. Hinckley fue conocido por su liderazgo global.",
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Howard W. Hunter enfatizó los templos.",
+      ],
+    },
+  },
+  {
+    id: 2735,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido por su énfasis en la obra misional?",
+    category:  historia,
+    correct_answer: "David O. McKay",
+    incorrect_answers: [
+      "Joseph Fielding Smith",
+      "Spencer W. Kimball",
+      "Harold B. Lee",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay popularizó el lema 'Cada miembro un misionero'.",
+      incorrect_answers: [
+        "Joseph Fielding Smith fue conocido por su erudición.",
+        "Spencer W. Kimball enfatizó la expansión global.",
+        "Harold B. Lee reorganizó la Iglesia en estacas.",
+      ],
+    },
+  },
+  {
+    id: 2736,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre la organización de la Sociedad de Socorro?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith organizó la Sociedad de Socorro en 1842.",
+      incorrect_answers: [
+        "Brigham Young apoyó la Sociedad de Socorro, pero no la organizó.",
+        "John Taylor fue presidente después de Brigham Young.",
+        "Wilford Woodruff fue presidente después de John Taylor.",
+      ],
+    },
+  },
+  {
+    id: 2737,
+    difficulty: "Medio",
+    question: "¿Qué profeta fue conocido por su énfasis en la educación?",
+    category:  historia,
+    correct_answer: "Gordon B. Hinckley",
+    incorrect_answers: [
+      "Thomas S. Monson",
+      "Ezra Taft Benson",
+      "Howard W. Hunter",
+    ],
+    justifications: {
+      correct_answer: "Gordon B. Hinckley promovió la educación y la construcción de templos.",
+      incorrect_answers: [
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+        "Howard W. Hunter enfatizó los templos.",
+      ],
+    },
+  },
+  {
+    id: 2738,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido por su énfasis en la obra del templo y la historia familiar?",
+    category:  historia,
+    correct_answer: "Russell M. Nelson",
+    incorrect_answers: [
+      "Thomas S. Monson",
+      "Gordon B. Hinckley",
+      "Ezra Taft Benson",
+    ],
+    justifications: {
+      correct_answer: "Russell M. Nelson ha enfatizado la importancia de los templos y la historia familiar.",
+      incorrect_answers: [
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Gordon B. Hinckley fue conocido por su liderazgo global.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+      ],
+    },
+  },
+  {
+    id: 2739,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre la Palabra de Sabiduría?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith recibió la Palabra de Sabiduría en 1833 (DyC 89).",
+      incorrect_answers: [
+        "Brigham Young implementó la Palabra de Sabiduría.",
+        "John Taylor fue presidente después de Brigham Young.",
+        "Wilford Woodruff fue presidente después de John Taylor.",
+      ],
+    },
+  },
+
+//"Santo: La historia de La Iglesia de Jesucristo de los Santos de los Últimos Días"
+
+//Este es un libro oficial publicado por la Iglesia en 2018. Cubre la historia completa de 
+//la Iglesia desde sus inicios hasta la actualidad, con un enfoque en la Restauración y el 
+//crecimiento global. Está disponible en formato impreso y digital.
+
+
+
+
+  {
+    id: 2740,
+    difficulty: "Difícil",
+    question: "¿Qué evento marcó el inicio de la traducción del Libro de Mormón?",
+    category:  historia,
+    correct_answer: "José Smith recibió las planchas de oro en 1827",
+    incorrect_answers: [
+      "La publicación del Libro de Mormón en 1830",
+      "La organización de la Iglesia en 1830",
+      "La Primera Visión en 1820",
+    ],
+    justifications: {
+      correct_answer: "José Smith recibió las planchas de Moroni en 1827, lo que permitió la traducción (José Smith—Historia 1:59).",
+      incorrect_answers: [
+        "La publicación ocurrió después de la traducción.",
+        "La organización de la Iglesia fue posterior.",
+        "La Primera Visión no está relacionada con la traducción.",
+      ],
+    },
+  },
+  {
+    id: 2741,
+    difficulty: "Medio",
+    question: "¿Qué profeta lideró a los santos en la construcción del Templo de Nauvoo?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith inició la construcción del Templo de Nauvoo antes de su muerte en 1844.",
+      incorrect_answers: [
+        "Brigham Young lideró a los santos después de la muerte de José Smith.",
+        "John Taylor fue el tercer presidente de la Iglesia.",
+        "Wilford Woodruff fue el cuarto presidente de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2742,
+    difficulty: "Fácil",
+    question: "¿Qué libro de escritura contiene el relato de la Primera Visión?",
+    category:  historia,
+    correct_answer: "La Perla de Gran Precio",
+    incorrect_answers: [
+      "El Libro de Mormón",
+      "Doctrina y Convenios",
+      "La Biblia",
+    ],
+    justifications: {
+      correct_answer: "El relato de la Primera Visión se encuentra en José Smith—Historia, parte de La Perla de Gran Precio.",
+      incorrect_answers: [
+        "El Libro de Mormón no contiene el relato de la Primera Visión.",
+        "Doctrina y Convenios contiene revelaciones modernas.",
+        "La Biblia no incluye la Primera Visión.",
+      ],
+    },
+  },
+  {
+    id: 2743,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a los santos a abandonar Nauvoo en 1846?",
+    category:  historia,
+    correct_answer: "La persecución y el asesinato de José Smith",
+    incorrect_answers: [
+      "Una revelación directa para mudarse al oeste",
+      "La finalización del Templo de Nauvoo",
+      "Un conflicto interno en la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "Tras el martirio de José Smith, los santos fueron expulsados de Nauvoo.",
+      incorrect_answers: [
+        "No hubo una revelación específica inicial para mudarse al oeste.",
+        "El templo se completó, pero no fue la razón principal.",
+        "No hubo un conflicto interno significativo.",
+      ],
+    },
+  },
+  {
+    id: 2744,
+    difficulty: "Medio",
+    question: "¿Qué profeta recibió la revelación sobre la Palabra de Sabiduría?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith recibió la Palabra de Sabiduría en 1833 (DyC 89).",
+      incorrect_answers: [
+        "Brigham Young implementó la Palabra de Sabiduría.",
+        "John Taylor fue presidente después de Brigham Young.",
+        "Wilford Woodruff fue presidente después de John Taylor.",
+      ],
+    },
+  },
+  {
+    id: 2745,
+    difficulty: "Fácil",
+    question: "¿Qué ciudad fue el primer asentamiento permanente de los santos en Utah?",
+    category:  historia,
+    correct_answer: "Salt Lake City",
+    incorrect_answers: [
+      "Nauvoo",
+      "Kirtland",
+      "Independence",
+    ],
+    justifications: {
+      correct_answer: "Salt Lake City fue fundada en 1847 por Brigham Young y los santos.",
+      incorrect_answers: [
+        "Nauvoo fue un asentamiento anterior en Illinois.",
+        "Kirtland fue un centro importante en la década de 1830.",
+        "Independence fue designada como Sion, pero no fue el primer asentamiento en Utah.",
+      ],
+    },
+  },
+  {
+    id: 2746,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre la organización de la Sociedad de Socorro?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith organizó la Sociedad de Socorro en 1842.",
+      incorrect_answers: [
+        "Brigham Young apoyó la Sociedad de Socorro, pero no la organizó.",
+        "John Taylor fue presidente después de Brigham Young.",
+        "Wilford Woodruff fue presidente después de John Taylor.",
+      ],
+    },
+  },
+  {
+    id: 2747,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el inicio de la obra misional moderna en la Iglesia?",
+    category:  historia,
+    correct_answer: "El llamamiento de los primeros misioneros en 1830",
+    incorrect_answers: [
+      "La publicación del Libro de Mormón",
+      "La organización de la Iglesia",
+      "La dedicación del Templo de Kirtland",
+    ],
+    justifications: {
+      correct_answer: "Los primeros misioneros fueron llamados en 1830 para predicar el Evangelio.",
+      incorrect_answers: [
+        "La publicación del Libro de Mormón fue un paso previo.",
+        "La organización de la Iglesia fue un evento separado.",
+        "El Templo de Kirtland se dedicó años después.",
+      ],
+    },
+  },
+  {
+    id: 2748,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido como el 'Profeta del Templo'?",
+    category:  historia,
+    correct_answer: "Howard W. Hunter",
+    incorrect_answers: [
+      "Gordon B. Hinckley",
+      "Thomas S. Monson",
+      "Ezra Taft Benson",
+    ],
+    justifications: {
+      correct_answer: "Howard W. Hunter enfatizó la importancia de los templos.",
+      incorrect_answers: [
+        "Gordon B. Hinckley fue conocido por su liderazgo global.",
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+      ],
+    },
+  },
+  {
+    id: 2749,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre el sacerdocio para todos los hombres dignos en 1978?",
+    category:  historia,
+    correct_answer: "Spencer W. Kimball",
+    incorrect_answers: [
+      "David O. McKay",
+      "Ezra Taft Benson",
+      "Gordon B. Hinckley",
+    ],
+    justifications: {
+      correct_answer: "Spencer W. Kimball recibió la revelación en 1978 (Declaración Oficial 2).",
+      incorrect_answers: [
+        "David O. McKay fue presidente antes de Kimball.",
+        "Ezra Taft Benson sucedió a Kimball.",
+        "Gordon B. Hinckley fue presidente después de Benson.",
+      ],
+    },
+  },
+  {
+    id: 2750,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el fin de la persecución legal contra la Iglesia por la poligamia?",
+    category:  historia,
+    correct_answer: "El Manifiesto de 1890",
+    incorrect_answers: [
+      "La migración a Utah",
+      "La dedicación del Templo de Salt Lake",
+      "La muerte de Brigham Young",
+    ],
+    justifications: {
+      correct_answer: "El Manifiesto puso fin a la práctica de la poligamia y la persecución legal.",
+      incorrect_answers: [
+        "La migración a Utah no detuvo la persecución.",
+        "El templo se dedicó después del Manifiesto.",
+        "La muerte de Brigham Young no afectó la persecución.",
+      ],
+    },
+  },
+  {
+    id: 2751,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido por su énfasis en la obra misional?",
+    category:  historia,
+    correct_answer: "David O. McKay",
+    incorrect_answers: [
+      "Joseph Fielding Smith",
+      "Spencer W. Kimball",
+      "Harold B. Lee",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay popularizó el lema 'Cada miembro un misionero'.",
+      incorrect_answers: [
+        "Joseph Fielding Smith fue conocido por su erudición.",
+        "Spencer W. Kimball enfatizó la expansión global.",
+        "Harold B. Lee reorganizó la Iglesia en estacas.",
+      ],
+    },
+  },
+  {
+    id: 2752,
+    difficulty: "Difícil",
+    question: "¿Qué profeta introdujo el programa de estacas en la Iglesia?",
+    category:  historia,
+    correct_answer: "Harold B. Lee",
+    incorrect_answers: [
+      "David O. McKay",
+      "Joseph Fielding Smith",
+      "Spencer W. Kimball",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee reorganizó la Iglesia en estacas en la década de 1960.",
+      incorrect_answers: [
+        "David O. McKay fue presidente antes de Lee.",
+        "Joseph Fielding Smith fue presidente después de Lee.",
+        "Spencer W. Kimball sucedió a Lee.",
+      ],
+    },
+  },
+  {
+    id: 2753,
+    difficulty: "Medio",
+    question: "¿Qué profeta fue conocido por su énfasis en el estudio del Libro de Mormón?",
+    category:  historia,
+    correct_answer: "Ezra Taft Benson",
+    incorrect_answers: [
+      "Gordon B. Hinckley",
+      "Thomas S. Monson",
+      "Howard W. Hunter",
+    ],
+    justifications: {
+      correct_answer: "Ezra Taft Benson promovió el estudio del Libro de Mormón.",
+      incorrect_answers: [
+        "Gordon B. Hinckley fue conocido por su liderazgo global.",
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Howard W. Hunter enfatizó los templos.",
+      ],
+    },
+  },
+  {
+    id: 2754,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido por su énfasis en la educación?",
+    category:  historia,
+    correct_answer: "Gordon B. Hinckley",
+    incorrect_answers: [
+      "Thomas S. Monson",
+      "Ezra Taft Benson",
+      "Howard W. Hunter",
+    ],
+    justifications: {
+      correct_answer: "Gordon B. Hinckley promovió la educación y la construcción de templos.",
+      incorrect_answers: [
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+        "Howard W. Hunter enfatizó los templos.",
+      ],
+    },
+  },
+  {
+    id: 2755,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre la organización de la Sociedad de Socorro?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith organizó la Sociedad de Socorro en 1842.",
+      incorrect_answers: [
+        "Brigham Young apoyó la Sociedad de Socorro, pero no la organizó.",
+        "John Taylor fue presidente después de Brigham Young.",
+        "Wilford Woodruff fue presidente después de John Taylor.",
+      ],
+    },
+  },
+  {
+    id: 2756,
+    difficulty: "Medio",
+    question: "¿Qué profeta fue conocido por su énfasis en la obra del templo y la historia familiar?",
+    category:  historia,
+    correct_answer: "Russell M. Nelson",
+    incorrect_answers: [
+      "Thomas S. Monson",
+      "Gordon B. Hinckley",
+      "Ezra Taft Benson",
+    ],
+    justifications: {
+      correct_answer: "Russell M. Nelson ha enfatizado la importancia de los templos y la historia familiar.",
+      incorrect_answers: [
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Gordon B. Hinckley fue conocido por su liderazgo global.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+      ],
+    },
+  },
+  {
+    id: 2757,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido por su énfasis en la obra misional?",
+    category:  historia,
+    correct_answer: "David O. McKay",
+    incorrect_answers: [
+      "Joseph Fielding Smith",
+      "Spencer W. Kimball",
+      "Harold B. Lee",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay popularizó el lema 'Cada miembro un misionero'.",
+      incorrect_answers: [
+        "Joseph Fielding Smith fue conocido por su erudición.",
+        "Spencer W. Kimball enfatizó la expansión global.",
+        "Harold B. Lee reorganizó la Iglesia en estacas.",
+      ],
+    },
+  },
+  {
+    id: 2758,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre la Palabra de Sabiduría?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith recibió la Palabra de Sabiduría en 1833 (DyC 89).",
+      incorrect_answers: [
+        "Brigham Young implementó la Palabra de Sabiduría.",
+        "John Taylor fue presidente después de Brigham Young.",
+        "Wilford Woodruff fue presidente después de John Taylor.",
+      ],
+    },
+  },
+  {
+    id: 2759,
+    difficulty: "Medio",
+    question: "¿Qué profeta fue conocido por su énfasis en la educación?",
+    category:  historia,
+    correct_answer: "Gordon B. Hinckley",
+    incorrect_answers: [
+      "Thomas S. Monson",
+      "Ezra Taft Benson",
+      "Howard W. Hunter",
+    ],
+    justifications: {
+      correct_answer: "Gordon B. Hinckley promovió la educación y la construcción de templos.",
+      incorrect_answers: [
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+        "Howard W. Hunter enfatizó los templos.",
+      ],
+    },
+  },
+  {
+    id: 2760,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido como el 'Profeta del Templo'?",
+    category:  historia,
+    correct_answer: "Howard W. Hunter",
+    incorrect_answers: [
+      "Gordon B. Hinckley",
+      "Thomas S. Monson",
+      "Ezra Taft Benson",
+    ],
+    justifications: {
+      correct_answer: "Howard W. Hunter enfatizó la importancia de los templos.",
+      incorrect_answers: [
+        "Gordon B. Hinckley fue conocido por su liderazgo global.",
+        "Thomas S. Monson fue conocido por su servicio.",
+        "Ezra Taft Benson enfatizó el Libro de Mormón.",
+      ],
+    },
+  },
+  {
+    id: 2761,
+    difficulty: "Difícil",
+    question: "¿Qué profeta recibió la revelación sobre el sacerdocio para todos los hombres dignos en 1978?",
+    category:  historia,
+    correct_answer: "Spencer W. Kimball",
+    incorrect_answers: [
+      "David O. McKay",
+      "Ezra Taft Benson",
+      "Gordon B. Hinckley",
+    ],
+    justifications: {
+      correct_answer: "Spencer W. Kimball recibió la revelación en 1978 (Declaración Oficial 2).",
+      incorrect_answers: [
+        "David O. McKay fue presidente antes de Kimball.",
+        "Ezra Taft Benson sucedió a Kimball.",
+        "Gordon B. Hinckley fue presidente después de Benson.",
+      ],
+    },
+  },
+  {
+    id: 2762,
+    difficulty: "Medio",
+    question: "¿Qué evento marcó el fin de la persecución legal contra la Iglesia por la poligamia?",
+    category:  historia,
+    correct_answer: "El Manifiesto de 1890",
+    incorrect_answers: [
+      "La migración a Utah",
+      "La dedicación del Templo de Salt Lake",
+      "La muerte de Brigham Young",
+    ],
+    justifications: {
+      correct_answer: "El Manifiesto puso fin a la práctica de la poligamia y la persecución legal.",
+      incorrect_answers: [
+        "La migración a Utah no detuvo la persecución.",
+        "El templo se dedicó después del Manifiesto.",
+        "La muerte de Brigham Young no afectó la persecución.",
+      ],
+    },
+  },
+  {
+    id: 2763,
+    difficulty: "Fácil",
+    question: "¿Qué profeta fue conocido por su énfasis en la obra misional?",
+    category:  historia,
+    correct_answer: "David O. McKay",
+    incorrect_answers: [
+      "Joseph Fielding Smith",
+      "Spencer W. Kimball",
+      "Harold B. Lee",
+    ],
+    justifications: {
+      correct_answer: "David O. McKay popularizó el lema 'Cada miembro un misionero'.",
+      incorrect_answers: [
+        "Joseph Fielding Smith fue conocido por su erudición.",
+        "Spencer W. Kimball enfatizó la expansión global.",
+        "Harold B. Lee reorganizó la Iglesia en estacas.",
+      ],
+    },
+  },
+  {
+    id: 2764,
+    difficulty: "Difícil",
+    question: "¿Qué profeta introdujo el programa de estacas en la Iglesia?",
+    category:  historia,
+    correct_answer: "Harold B. Lee",
+    incorrect_answers: [
+      "David O. McKay",
+      "Joseph Fielding Smith",
+      "Spencer W. Kimball",
+    ],
+    justifications: {
+      correct_answer: "Harold B. Lee reorganizó la Iglesia en estacas en la década de 1960.",
+      incorrect_answers: [
+        "David O. McKay fue presidente antes de Lee.",
+        "Joseph Fielding Smith fue presidente después de Lee.",
+        "Spencer W. Kimball sucedió a Lee.",
+      ],
+    },
+  },
+
+
+//"Doctrina y Convenios"
+
+// Este libro de escrituras contiene revelaciones dadas a José Smith y otros profetas modernos. Muchas secciones incluyen contexto histórico que ayuda a entender los desafíos y bendiciones de los primeros santos.
+
+
+
+
+  {
+    id: 2765,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la oración dedicatoria del Templo de Kirtland?",
+    category:  historia,
+    correct_answer: "Sección 109",
+    incorrect_answers: [
+      "Sección 110",
+      "Sección 76",
+      "Sección 89",
+    ],
+    justifications: {
+      correct_answer: "La oración dedicatoria del Templo de Kirtland se encuentra en Doctrina y Convenios 109.",
+      incorrect_answers: [
+        "La sección 110 contiene la aparición de Jesucristo en el templo.",
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+      ],
+    },
+  },
+  {
+    id: 2766,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la visión de los tres grados de gloria?",
+    category:  historia,
+    correct_answer: "Sección 76",
+    incorrect_answers: [
+      "Sección 88",
+      "Sección 131",
+      "Sección 132",
+    ],
+    justifications: {
+      correct_answer: "La visión de los tres grados de gloria se encuentra en Doctrina y Convenios 76.",
+      incorrect_answers: [
+        "La sección 88 contiene la 'Oración del Profeta'.",
+        "La sección 131 contiene enseñanzas sobre el matrimonio eterno.",
+        "La sección 132 contiene la doctrina del matrimonio plural.",
+      ],
+    },
+  },
+  {
+    id: 2767,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la Palabra de Sabiduría?",
+    category:  historia,
+    correct_answer: "Sección 89",
+    incorrect_answers: [
+      "Sección 88",
+      "Sección 76",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La Palabra de Sabiduría se encuentra en Doctrina y Convenios 89.",
+      incorrect_answers: [
+        "La sección 88 contiene enseñanzas sobre la luz de Cristo.",
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2768,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el matrimonio eterno?",
+    category:  historia,
+    correct_answer: "Sección 132",
+    incorrect_answers: [
+      "Sección 131",
+      "Sección 76",
+      "Sección 89",
+    ],
+    justifications: {
+      correct_answer: "La doctrina del matrimonio eterno se encuentra en Doctrina y Convenios 132.",
+      incorrect_answers: [
+        "La sección 131 contiene enseñanzas sobre el matrimonio celestial.",
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+      ],
+    },
+  },
+  {
+    id: 2769,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la 'Oración del Profeta'?",
+    category:  historia,
+    correct_answer: "Sección 88",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 109",
+      "Sección 89",
+    ],
+    justifications: {
+      correct_answer: "La 'Oración del Profeta' se encuentra en Doctrina y Convenios 88.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+      ],
+    },
+  },
+  {
+    id: 2770,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre la organización de la Iglesia?",
+    category:  historia,
+    correct_answer: "Sección 20",
+    incorrect_answers: [
+      "Sección 21",
+      "Sección 76",
+      "Sección 89",
+    ],
+    justifications: {
+      correct_answer: "La organización de la Iglesia se describe en Doctrina y Convenios 20.",
+      incorrect_answers: [
+        "La sección 21 contiene la revelación sobre José Smith como profeta.",
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+      ],
+    },
+  },
+  {
+    id: 2771,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el sacerdocio de Melquisedec?",
+    category:  historia,
+    correct_answer: "Sección 107",
+    incorrect_answers: [
+      "Sección 84",
+      "Sección 76",
+      "Sección 89",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el sacerdocio de Melquisedec se encuentra en Doctrina y Convenios 107.",
+      incorrect_answers: [
+        "La sección 84 contiene enseñanzas sobre el sacerdocio.",
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+      ],
+    },
+  },
+  {
+    id: 2772,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre la ley de consagración?",
+    category:  historia,
+    correct_answer: "Sección 42",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La ley de consagración se encuentra en Doctrina y Convenios 42.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2773,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el bautismo por los muertos?",
+    category:  historia,
+    correct_answer: "Sección 128",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el bautismo por los muertos se encuentra en Doctrina y Convenios 128.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2774,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre la Nueva Jerusalén?",
+    category:  historia,
+    correct_answer: "Sección 84",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre la Nueva Jerusalén se encuentra en Doctrina y Convenios 84.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2775,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el Sacerdocio Aarónico?",
+    category:  historia,
+    correct_answer: "Sección 13",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el Sacerdocio Aarónico se encuentra en Doctrina y Convenios 13.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2776,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre los élderes y su deber de predicar?",
+    category:  historia,
+    correct_answer: "Sección 20",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre los élderes y su deber de predicar se encuentra en Doctrina y Convenios 20.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2777,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el orden de la Iglesia?",
+    category:  historia,
+    correct_answer: "Sección 20",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el orden de la Iglesia se encuentra en Doctrina y Convenios 20.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2778,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el don del Espíritu Santo?",
+    category:  historia,
+    correct_answer: "Sección 20",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el don del Espíritu Santo se encuentra en Doctrina y Convenios 20.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2779,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el bautismo?",
+    category:  historia,
+    correct_answer: "Sección 20",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el bautismo se encuentra en Doctrina y Convenios 20.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2780,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre la restauración del sacerdocio?",
+    category:  historia,
+    correct_answer: "Sección 27",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre la restauración del sacerdocio se encuentra en Doctrina y Convenios 27.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2781,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el Sacerdocio de Melquisedec?",
+    category:  historia,
+    correct_answer: "Sección 107",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el Sacerdocio de Melquisedec se encuentra en Doctrina y Convenios 107.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2782,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el don de lenguas?",
+    category:  historia,
+    correct_answer: "Sección 46",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el don de lenguas se encuentra en Doctrina y Convenios 46.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2783,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el matrimonio plural?",
+    category:  historia,
+    correct_answer: "Sección 132",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el matrimonio plural se encuentra en Doctrina y Convenios 132.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2784,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el bautismo de niños?",
+    category:  historia,
+    correct_answer: "Sección 68",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el bautismo de niños se encuentra en Doctrina y Convenios 68.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2785,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el diezmo?",
+    category:  historia,
+    correct_answer: "Sección 119",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el diezmo se encuentra en Doctrina y Convenios 119.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2786,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre la Segunda Venida?",
+    category:  historia,
+    correct_answer: "Sección 45",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre la Segunda Venida se encuentra en Doctrina y Convenios 45.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2787,
+    difficulty: "Medio",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el recogimiento de Israel?",
+    category:  historia,
+    correct_answer: "Sección 110",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el recogimiento de Israel se encuentra en Doctrina y Convenios 110.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2788,
+    difficulty: "Fácil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el don de profecía?",
+    category:  historia,
+    correct_answer: "Sección 46",
+    incorrect_answers: [
+      "Sección 76",
+      "Sección 89",
+      "Sección 109",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el don de profecía se encuentra en Doctrina y Convenios 46.",
+      incorrect_answers: [
+        "La sección 76 contiene la visión de los tres grados de gloria.",
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+      ],
+    },
+  },
+  {
+    id: 2789,
+    difficulty: "Difícil",
+    question: "¿Qué sección de Doctrina y Convenios contiene la revelación sobre el juicio final?",
+    category:  historia,
+    correct_answer: "Sección 76",
+    incorrect_answers: [
+      "Sección 89",
+      "Sección 109",
+      "Sección 132",
+    ],
+    justifications: {
+      correct_answer: "La revelación sobre el juicio final se encuentra en Doctrina y Convenios 76.",
+      incorrect_answers: [
+        "La sección 89 contiene la Palabra de Sabiduría.",
+        "La sección 109 contiene la oración dedicatoria del Templo de Kirtland.",
+        "La sección 132 contiene la doctrina del matrimonio eterno.",
+      ],
+    },
+  },
+
+
+
+
+
+  //"El Libro de Mormón"
+
+// Aunque es principalmente un libro de escrituras, también contiene relatos históricos de los pueblos nefitas y lamanitas. Puedes usarlo para explorar temas como la fe, la obediencia y la intervención divina en la historia.
+
+
+
+
+  {
+    id: 2790,
+    difficulty: "Difícil",
+    question: "¿Quién fue el primer profeta nefita que registró sus escritos en las planchas menores?",
+    category:  historia,
+    correct_answer: "Nefi",
+    incorrect_answers: [
+      "Jacob",
+      "Enós",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Nefi fue el primer profeta nefita que comenzó a registrar sus escritos en las planchas menores (1 Nefi 19:1-3).",
+      incorrect_answers: [
+        "Jacob fue el segundo profeta en escribir en las planchas menores.",
+        "Enós fue un profeta posterior que también escribió en las planchas.",
+        "Mormón fue el compilador final del Libro de Mormón.",
+      ],
+    },
+  },
+  {
+    id: 2791,
+    difficulty: "Medio",
+    question: "¿Qué pueblo fue el principal enemigo de los nefitas durante la mayor parte del Libro de Mormón?",
+    category:  historia,
+    correct_answer: "Los lamanitas",
+    incorrect_answers: [
+      "Los jareditas",
+      "Los mulekitas",
+      "Los amlicitas",
+    ],
+    justifications: {
+      correct_answer: "Los lamanitas fueron los principales enemigos de los nefitas durante la mayor parte del relato (2 Nefi 5:14).",
+      incorrect_answers: [
+        "Los jareditas eran un pueblo anterior que no interactuó directamente con los nefitas.",
+        "Los mulekitas se unieron a los nefitas y no fueron sus enemigos.",
+        "Los amlicitas fueron un grupo disidente, pero no el principal enemigo.",
+      ],
+    },
+  },
+  {
+    id: 2792,
+    difficulty: "Fácil",
+    question: "¿Quién fue el profeta nefita que vio en visión el árbol de la vida?",
+    category:  historia,
+    correct_answer: "Lehi",
+    incorrect_answers: [
+      "Nefi",
+      "Alma",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Lehi fue el profeta que vio el árbol de la vida en visión (1 Nefi 8:10-12).",
+      incorrect_answers: [
+        "Nefi también tuvo una visión similar, pero después de Lehi.",
+        "Alma fue un profeta posterior que no tuvo esta visión.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2793,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los zoramitas?",
+    category:  historia,
+    correct_answer: "Alma",
+    incorrect_answers: [
+      "Nefi",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Alma predicó a los zoramitas y les enseñó sobre la fe y la oración (Alma 31:5-6).",
+      incorrect_answers: [
+        "Nefi fue un profeta anterior que no interactuó con los zoramitas.",
+        "Helamán fue hijo de Alma y continuó su obra, pero no entre los zoramitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2794,
+    difficulty: "Medio",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón fue uno de los hijos de Mosíah que predicó a los lamanitas (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2795,
+    difficulty: "Fácil",
+    question: "¿Quién fue el líder nefita que construyó barcos para viajar a la tierra prometida?",
+    category:  historia,
+    correct_answer: "Nefi",
+    incorrect_answers: [
+      "Lehi",
+      "Jacob",
+      "Alma",
+    ],
+    justifications: {
+      correct_answer: "Nefi construyó barcos bajo la dirección del Señor para viajar a la tierra prometida (1 Nefi 17:8-9).",
+      incorrect_answers: [
+        "Lehi fue el padre de Nefi, pero no construyó los barcos.",
+        "Jacob fue hijo de Lehi, pero no participó en la construcción.",
+        "Alma fue un profeta posterior que no construyó barcos.",
+      ],
+    },
+  },
+  {
+    id: 2796,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas junto a sus hermanos?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón y sus hermanos predicaron a los lamanitas y convirtieron a muchos (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2797,
+    difficulty: "Medio",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los zoramitas?",
+    category:  historia,
+    correct_answer: "Alma",
+    incorrect_answers: [
+      "Nefi",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Alma predicó a los zoramitas y les enseñó sobre la fe y la oración (Alma 31:5-6).",
+      incorrect_answers: [
+        "Nefi fue un profeta anterior que no interactuó con los zoramitas.",
+        "Helamán fue hijo de Alma y continuó su obra, pero no entre los zoramitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2798,
+    difficulty: "Fácil",
+    question: "¿Quién fue el profeta nefita que vio en visión el árbol de la vida?",
+    category:  historia,
+    correct_answer: "Lehi",
+    incorrect_answers: [
+      "Nefi",
+      "Alma",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Lehi fue el profeta que vio el árbol de la vida en visión (1 Nefi 8:10-12).",
+      incorrect_answers: [
+        "Nefi también tuvo una visión similar, pero después de Lehi.",
+        "Alma fue un profeta posterior que no tuvo esta visión.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2799,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón fue uno de los hijos de Mosíah que predicó a los lamanitas (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2800,
+    difficulty: "Medio",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los zoramitas?",
+    category:  historia,
+    correct_answer: "Alma",
+    incorrect_answers: [
+      "Nefi",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Alma predicó a los zoramitas y les enseñó sobre la fe y la oración (Alma 31:5-6).",
+      incorrect_answers: [
+        "Nefi fue un profeta anterior que no interactuó con los zoramitas.",
+        "Helamán fue hijo de Alma y continuó su obra, pero no entre los zoramitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2801,
+    difficulty: "Fácil",
+    question: "¿Quién fue el líder nefita que construyó barcos para viajar a la tierra prometida?",
+    category:  historia,
+    correct_answer: "Nefi",
+    incorrect_answers: [
+      "Lehi",
+      "Jacob",
+      "Alma",
+    ],
+    justifications: {
+      correct_answer: "Nefi construyó barcos bajo la dirección del Señor para viajar a la tierra prometida (1 Nefi 17:8-9).",
+      incorrect_answers: [
+        "Lehi fue el padre de Nefi, pero no construyó los barcos.",
+        "Jacob fue hijo de Lehi, pero no participó en la construcción.",
+        "Alma fue un profeta posterior que no construyó barcos.",
+      ],
+    },
+  },
+  {
+    id: 2802,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas junto a sus hermanos?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón y sus hermanos predicaron a los lamanitas y convirtieron a muchos (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2803,
+    difficulty: "Medio",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los zoramitas?",
+    category:  historia,
+    correct_answer: "Alma",
+    incorrect_answers: [
+      "Nefi",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Alma predicó a los zoramitas y les enseñó sobre la fe y la oración (Alma 31:5-6).",
+      incorrect_answers: [
+        "Nefi fue un profeta anterior que no interactuó con los zoramitas.",
+        "Helamán fue hijo de Alma y continuó su obra, pero no entre los zoramitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2804,
+    difficulty: "Fácil",
+    question: "¿Quién fue el profeta nefita que vio en visión el árbol de la vida?",
+    category:  historia,
+    correct_answer: "Lehi",
+    incorrect_answers: [
+      "Nefi",
+      "Alma",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Lehi fue el profeta que vio el árbol de la vida en visión (1 Nefi 8:10-12).",
+      incorrect_answers: [
+        "Nefi también tuvo una visión similar, pero después de Lehi.",
+        "Alma fue un profeta posterior que no tuvo esta visión.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2805,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón fue uno de los hijos de Mosíah que predicó a los lamanitas (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2806,
+    difficulty: "Medio",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los zoramitas?",
+    category:  historia,
+    correct_answer: "Alma",
+    incorrect_answers: [
+      "Nefi",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Alma predicó a los zoramitas y les enseñó sobre la fe y la oración (Alma 31:5-6).",
+      incorrect_answers: [
+        "Nefi fue un profeta anterior que no interactuó con los zoramitas.",
+        "Helamán fue hijo de Alma y continuó su obra, pero no entre los zoramitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2807,
+    difficulty: "Fácil",
+    question: "¿Quién fue el líder nefita que construyó barcos para viajar a la tierra prometida?",
+    category:  historia,
+    correct_answer: "Nefi",
+    incorrect_answers: [
+      "Lehi",
+      "Jacob",
+      "Alma",
+    ],
+    justifications: {
+      correct_answer: "Nefi construyó barcos bajo la dirección del Señor para viajar a la tierra prometida (1 Nefi 17:8-9).",
+      incorrect_answers: [
+        "Lehi fue el padre de Nefi, pero no construyó los barcos.",
+        "Jacob fue hijo de Lehi, pero no participó en la construcción.",
+        "Alma fue un profeta posterior que no construyó barcos.",
+      ],
+    },
+  },
+  {
+    id: 2808,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas junto a sus hermanos?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón y sus hermanos predicaron a los lamanitas y convirtieron a muchos (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2809,
+    difficulty: "Medio",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los zoramitas?",
+    category:  historia,
+    correct_answer: "Alma",
+    incorrect_answers: [
+      "Nefi",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Alma predicó a los zoramitas y les enseñó sobre la fe y la oración (Alma 31:5-6).",
+      incorrect_answers: [
+        "Nefi fue un profeta anterior que no interactuó con los zoramitas.",
+        "Helamán fue hijo de Alma y continuó su obra, pero no entre los zoramitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2810,
+    difficulty: "Fácil",
+    question: "¿Quién fue el profeta nefita que vio en visión el árbol de la vida?",
+    category:  historia,
+    correct_answer: "Lehi",
+    incorrect_answers: [
+      "Nefi",
+      "Alma",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Lehi fue el profeta que vio el árbol de la vida en visión (1 Nefi 8:10-12).",
+      incorrect_answers: [
+        "Nefi también tuvo una visión similar, pero después de Lehi.",
+        "Alma fue un profeta posterior que no tuvo esta visión.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2811,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón fue uno de los hijos de Mosíah que predicó a los lamanitas (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2812,
+    difficulty: "Medio",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los zoramitas?",
+    category:  historia,
+    correct_answer: "Alma",
+    incorrect_answers: [
+      "Nefi",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Alma predicó a los zoramitas y les enseñó sobre la fe y la oración (Alma 31:5-6).",
+      incorrect_answers: [
+        "Nefi fue un profeta anterior que no interactuó con los zoramitas.",
+        "Helamán fue hijo de Alma y continuó su obra, pero no entre los zoramitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+  {
+    id: 2813,
+    difficulty: "Fácil",
+    question: "¿Quién fue el líder nefita que construyó barcos para viajar a la tierra prometida?",
+    category:  historia,
+    correct_answer: "Nefi",
+    incorrect_answers: [
+      "Lehi",
+      "Jacob",
+      "Alma",
+    ],
+    justifications: {
+      correct_answer: "Nefi construyó barcos bajo la dirección del Señor para viajar a la tierra prometida (1 Nefi 17:8-9).",
+      incorrect_answers: [
+        "Lehi fue el padre de Nefi, pero no construyó los barcos.",
+        "Jacob fue hijo de Lehi, pero no participó en la construcción.",
+        "Alma fue un profeta posterior que no construyó barcos.",
+      ],
+    },
+  },
+  {
+    id: 2814,
+    difficulty: "Difícil",
+    question: "¿Qué profeta nefita fue conocido por su ministerio entre los lamanitas junto a sus hermanos?",
+    category:  historia,
+    correct_answer: "Amón",
+    incorrect_answers: [
+      "Alma",
+      "Helamán",
+      "Mormón",
+    ],
+    justifications: {
+      correct_answer: "Amón y sus hermanos predicaron a los lamanitas y convirtieron a muchos (Alma 17:19-20).",
+      incorrect_answers: [
+        "Alma predicó principalmente entre los nefitas y zoramitas.",
+        "Helamán fue un líder nefita que no predicó a los lamanitas.",
+        "Mormón fue el compilador final del registro.",
+      ],
+    },
+  },
+
+
+
+//"Enseñanzas del Profeta José Smith"
+
+// Compilado por Joseph Fielding Smith, este libro recopila discursos y enseñanzas de José Smith. Es una excelente fuente para entender sus perspectivas doctrinales y su visión para la Iglesia.
+
+
+
+
+  {
+    id: 2815,
+    difficulty: "Difícil",
+    question: "¿Qué enseñanza de José Smith enfatizó la importancia de la revelación continua?",
+    category:  historia,
+    correct_answer: "La necesidad de profetas vivientes en la Iglesia",
+    incorrect_answers: [
+      "La importancia de la Biblia como única escritura",
+      "La exclusividad de la salvación para los nefitas",
+      "La abolición del sacerdocio en los últimos días",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la revelación continua es esencial y que los profetas vivientes son necesarios para guiar a la Iglesia (DyC 1:38).",
+      incorrect_answers: [
+        "José Smith no enseñó que la Biblia fuera la única escritura.",
+        "La salvación no es exclusiva para los nefitas.",
+        "El sacerdocio no fue abolido, sino restaurado.",
+      ],
+    },
+  },
+  {
+    id: 2816,
+    difficulty: "Medio",
+    question: "¿Qué principio enseñó José Smith sobre la naturaleza de Dios?",
+    category:  historia,
+    correct_answer: "Dios tiene un cuerpo de carne y huesos",
+    incorrect_answers: [
+      "Dios es un ser sin forma física",
+      "Dios es una fuerza impersonal",
+      "Dios es una creación humana",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que Dios tiene un cuerpo de carne y huesos tal como el hombre (DyC 130:22).",
+      incorrect_answers: [
+        "José Smith no enseñó que Dios carece de forma física.",
+        "Dios no es una fuerza impersonal, sino un ser personal.",
+        "Dios no es una creación humana.",
+      ],
+    },
+  },
+  {
+    id: 2817,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre la organización de la Iglesia?",
+    category:  historia,
+    correct_answer: "Debe estar organizada con apóstoles y profetas",
+    incorrect_answers: [
+      "Debe ser dirigida por un consejo de ancianos",
+      "No necesita una estructura organizativa",
+      "Debe ser gobernada por reyes terrenales",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la Iglesia debe estar organizada con apóstoles y profetas, siguiendo el modelo de la Iglesia primitiva (Efesios 2:19-20).",
+      incorrect_answers: [
+        "No enseñó que un consejo de ancianos debía dirigir la Iglesia.",
+        "La Iglesia sí necesita una estructura organizativa.",
+        "No promovió un gobierno por reyes terrenales.",
+      ],
+    },
+  },
+  {
+    id: 2818,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la relación entre el hombre y Dios?",
+    category:  historia,
+    correct_answer: "El hombre puede llegar a ser como Dios",
+    incorrect_answers: [
+      "El hombre nunca puede acercarse a Dios",
+      "El hombre es independiente de Dios",
+      "El hombre es superior a Dios",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el hombre tiene el potencial de llegar a ser como Dios (DyC 132:20).",
+      incorrect_answers: [
+        "El hombre sí puede acercarse a Dios.",
+        "El hombre no es independiente de Dios.",
+        "El hombre no es superior a Dios.",
+      ],
+    },
+  },
+  {
+    id: 2819,
+    difficulty: "Medio",
+    question: "¿Qué enseñó José Smith sobre la naturaleza de la familia?",
+    category:  historia,
+    correct_answer: "Las familias pueden ser eternas",
+    incorrect_answers: [
+      "Las familias solo existen en la tierra",
+      "Las familias no tienen importancia espiritual",
+      "Las familias son temporales y efímeras",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que las familias pueden ser selladas por la eternidad a través de las ordenanzas del templo (DyC 131:1-4).",
+      incorrect_answers: [
+        "Las familias no están limitadas a la existencia terrenal.",
+        "Las familias tienen gran importancia espiritual.",
+        "Las familias no son efímeras, sino eternas.",
+      ],
+    },
+  },
+  {
+    id: 2820,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre el Libro de Mormón?",
+    category:  historia,
+    correct_answer: "Es el libro más correcto de cualquier otro",
+    incorrect_answers: [
+      "Es un libro histórico sin valor espiritual",
+      "Es una colección de mitos antiguos",
+      "Es un libro que contradice la Biblia",
+    ],
+    justifications: {
+      correct_answer: "José Smith declaró que el Libro de Mormón es el libro más correcto de cualquier otro y que nos acerca más a Dios (Introducción del Libro de Mormón).",
+      incorrect_answers: [
+        "El Libro de Mormón tiene un gran valor espiritual.",
+        "No es una colección de mitos, sino un registro sagrado.",
+        "No contradice la Biblia, sino que la complementa.",
+      ],
+    },
+  },
+  {
+    id: 2821,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la expiación de Jesucristo?",
+    category:  historia,
+    correct_answer: "Es central para la salvación de la humanidad",
+    incorrect_answers: [
+      "Es un evento simbólico sin poder real",
+      "Es innecesaria para la salvación",
+      "Es un mito creado por los apóstoles",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la expiación de Jesucristo es esencial para la salvación y la redención de la humanidad (2 Nefi 9:21-22).",
+      incorrect_answers: [
+        "La expiación no es simbólica, sino real y poderosa.",
+        "Es absolutamente necesaria para la salvación.",
+        "No es un mito, sino un evento histórico y divino.",
+      ],
+    },
+  },
+  {
+    id: 2822,
+    difficulty: "Medio",
+    question: "¿Qué enseñó José Smith sobre la importancia del sacerdocio?",
+    category:  historia,
+    correct_answer: "Es necesario para realizar ordenanzas sagradas",
+    incorrect_answers: [
+      "Es un concepto obsoleto en la Iglesia",
+      "Es solo para líderes religiosos profesionales",
+      "No tiene relación con la autoridad divina",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el sacerdocio es la autoridad de Dios para realizar ordenanzas sagradas y dirigir la Iglesia (DyC 84:19-22).",
+      incorrect_answers: [
+        "El sacerdocio no es obsoleto, sino esencial.",
+        "No está limitado a líderes profesionales.",
+        "Está directamente relacionado con la autoridad divina.",
+      ],
+    },
+  },
+  {
+    id: 2823,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre la naturaleza de la revelación?",
+    category:  historia,
+    correct_answer: "Es un proceso continuo y vivo",
+    incorrect_answers: [
+      "Terminó con la Biblia",
+      "Es solo para líderes de la Iglesia",
+      "No es necesaria en la actualidad",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la revelación es un proceso continuo y que Dios sigue hablando a Sus hijos (DyC 1:38).",
+      incorrect_answers: [
+        "La revelación no terminó con la Biblia.",
+        "No está limitada a los líderes de la Iglesia.",
+        "Es esencial en la actualidad.",
+      ],
+    },
+  },
+  {
+    id: 2824,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la vida después de la muerte?",
+    category:  historia,
+    correct_answer: "Hay grados de gloria en la vida eterna",
+    incorrect_answers: [
+      "Todos reciben la misma recompensa",
+      "No existe vida después de la muerte",
+      "Solo los nefitas serán salvos",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que hay grados de gloria en la vida eterna, como se describe en Doctrina y Convenios 76.",
+      incorrect_answers: [
+        "No todos reciben la misma recompensa.",
+        "La vida después de la muerte es una doctrina central.",
+        "La salvación no está limitada a los nefitas.",
+      ],
+    },
+  },
+  {
+    id: 2825,
+    difficulty: "Medio",
+    question: "¿Qué enseñó José Smith sobre la importancia del templo?",
+    category:  historia,
+    correct_answer: "Es un lugar para ordenanzas sagradas",
+    incorrect_answers: [
+      "Es solo un edificio simbólico",
+      "No tiene relevancia espiritual",
+      "Es exclusivo para líderes de la Iglesia",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el templo es un lugar sagrado para realizar ordenanzas esenciales para la salvación (DyC 124:38-40).",
+      incorrect_answers: [
+        "No es solo simbólico, sino funcional y sagrado.",
+        "Tiene gran relevancia espiritual.",
+        "No es exclusivo para líderes, sino para todos los miembros dignos.",
+      ],
+    },
+  },
+  {
+    id: 2826,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre la importancia de la fe?",
+    category:  historia,
+    correct_answer: "Es el primer principio del Evangelio",
+    incorrect_answers: [
+      "Es innecesaria para la salvación",
+      "Es solo para personas débiles",
+      "No tiene relación con las obras",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la fe es el primer principio del Evangelio y es esencial para la salvación (Artículos de Fe 1:4).",
+      incorrect_answers: [
+        "La fe es absolutamente necesaria para la salvación.",
+        "No es solo para personas débiles, sino para todos.",
+        "La fe y las obras están relacionadas.",
+      ],
+    },
+  },
+  {
+    id: 2827,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la naturaleza de la Trinidad?",
+    category:  historia,
+    correct_answer: "Dios, Jesucristo y el Espíritu Santo son seres separados",
+    incorrect_answers: [
+      "Son una sola persona con tres nombres",
+      "No existen como seres divinos",
+      "Son conceptos filosóficos sin base real",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que Dios, Jesucristo y el Espíritu Santo son tres seres separados y distintos (DyC 130:22).",
+      incorrect_answers: [
+        "No son una sola persona, sino tres seres distintos.",
+        "Son seres divinos y reales.",
+        "No son conceptos filosóficos, sino realidades divinas.",
+      ],
+    },
+  },
+  {
+    id: 2828,
+    difficulty: "Medio",
+    question: "¿Qué enseñó José Smith sobre la importancia del arrepentimiento?",
+    category:  historia,
+    correct_answer: "Es esencial para la salvación",
+    incorrect_answers: [
+      "Es innecesario si se tiene fe",
+      "Es solo para personas pecadoras",
+      "No tiene relación con el perdón",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el arrepentimiento es esencial para la salvación y el perdón de los pecados (DyC 19:15-20).",
+      incorrect_answers: [
+        "El arrepentimiento es necesario incluso con fe.",
+        "Es para todos, no solo para personas pecadoras.",
+        "Está directamente relacionado con el perdón.",
+      ],
+    },
+  },
+  {
+    id: 2829,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre la importancia del bautismo?",
+    category:  historia,
+    correct_answer: "Es necesario para entrar en el reino de Dios",
+    incorrect_answers: [
+      "Es solo un símbolo sin poder real",
+      "No es necesario para la salvación",
+      "Es exclusivo para adultos",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el bautismo es esencial para entrar en el reino de Dios (Juan 3:5).",
+      incorrect_answers: [
+        "No es solo un símbolo, sino una ordenanza sagrada.",
+        "Es necesario para la salvación.",
+        "No es exclusivo para adultos, sino para todos los que alcancen la edad de responsabilidad.",
+      ],
+    },
+  },
+  {
+    id: 2830,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la naturaleza de la salvación?",
+    category:  historia,
+    correct_answer: "Requiere fe, arrepentimiento y ordenanzas",
+    incorrect_answers: [
+      "Es automática para todos los seres humanos",
+      "No requiere esfuerzo personal",
+      "Es exclusiva para los nefitas",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la salvación requiere fe, arrepentimiento y la recepción de ordenanzas sagradas (2 Nefi 31:17-21).",
+      incorrect_answers: [
+        "No es automática, sino que requiere esfuerzo.",
+        "Requiere esfuerzo personal y obediencia.",
+        "No está limitada a los nefitas, sino disponible para todos.",
+      ],
+    },
+  },
+  {
+    id: 2831,
+    difficulty: "Medio",
+    question: "¿Qué enseñó José Smith sobre la importancia de las escrituras?",
+    category:  historia,
+    correct_answer: "Son una guía esencial para la vida",
+    incorrect_answers: [
+      "Son solo libros históricos sin relevancia",
+      "No tienen relación con la revelación moderna",
+      "Son exclusivas para líderes religiosos",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que las escrituras son una guía esencial para la vida y la salvación (2 Timoteo 3:16-17).",
+      incorrect_answers: [
+        "No son solo históricas, sino relevantes para hoy.",
+        "Están relacionadas con la revelación moderna.",
+        "No son exclusivas para líderes, sino para todos.",
+      ],
+    },
+  },
+  {
+    id: 2832,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre la importancia de la oración?",
+    category:  historia,
+    correct_answer: "Es un medio para comunicarse con Dios",
+    incorrect_answers: [
+      "Es innecesaria si se tiene fe",
+      "Es solo para momentos de crisis",
+      "No tiene poder real",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la oración es un medio esencial para comunicarse con Dios y recibir guía (Mateo 7:7-8).",
+      incorrect_answers: [
+        "La oración es necesaria incluso con fe.",
+        "No es solo para crisis, sino para todo momento.",
+        "Tiene un poder real y transformador.",
+      ],
+    },
+  },
+  {
+    id: 2833,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la naturaleza de la resurrección?",
+    category:  historia,
+    correct_answer: "Todos resucitarán con un cuerpo físico perfecto",
+    incorrect_answers: [
+      "Solo los justos resucitarán",
+      "La resurrección es un mito",
+      "No hay vida después de la muerte",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que todos resucitarán con un cuerpo físico perfecto gracias a la expiación de Jesucristo (Alma 40:23).",
+      incorrect_answers: [
+        "No solo los justos, sino todos resucitarán.",
+        "La resurrección no es un mito, sino una realidad.",
+        "Sí hay vida después de la muerte.",
+      ],
+    },
+  },
+  {
+    id: 2834,
+    difficulty: "Medio",
+    question: "¿Qué enseñó José Smith sobre la importancia del servicio?",
+    category:  historia,
+    correct_answer: "Es una forma de seguir a Jesucristo",
+    incorrect_answers: [
+      "Es innecesario para la salvación",
+      "Es solo para líderes de la Iglesia",
+      "No tiene relación con el amor al prójimo",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que el servicio es una forma de seguir a Jesucristo y demostrar amor al prójimo (Mosíah 2:17).",
+      incorrect_answers: [
+        "El servicio es esencial para la salvación.",
+        "No es solo para líderes, sino para todos.",
+        "Está directamente relacionado con el amor al prójimo.",
+      ],
+    },
+  },
+  {
+    id: 2835,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre la importancia de la caridad?",
+    category:  historia,
+    correct_answer: "Es el puro amor de Cristo",
+    incorrect_answers: [
+      "Es innecesaria para la salvación",
+      "Es solo para personas ricas",
+      "No tiene relación con el amor al prójimo",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la caridad es el puro amor de Cristo y es esencial para la salvación (Moroni 7:47).",
+      incorrect_answers: [
+        "La caridad es necesaria para la salvación.",
+        "No es solo para personas ricas, sino para todos.",
+        "Está directamente relacionada con el amor al prójimo.",
+      ],
+    },
+  },
+  {
+    id: 2836,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la importancia de la obediencia?",
+    category:  historia,
+    correct_answer: "Es esencial para recibir las bendiciones de Dios",
+    incorrect_answers: [
+      "Es innecesaria si se tiene fe",
+      "Es solo para líderes de la Iglesia",
+      "No tiene relación con la salvación",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la obediencia es esencial para recibir las bendiciones de Dios y la salvación (DyC 130:20-21).",
+      incorrect_answers: [
+        "La obediencia es necesaria incluso con fe.",
+        "No es solo para líderes, sino para todos.",
+        "Está directamente relacionada con la salvación.",
+      ],
+    },
+  },
+  {
+    id: 2837,
+    difficulty: "Medio",
+    question: "¿Qué enseñó José Smith sobre la importancia de la humildad?",
+    category:  historia,
+    correct_answer: "Es esencial para recibir revelación",
+    incorrect_answers: [
+      "Es innecesaria para la salvación",
+      "Es solo para personas débiles",
+      "No tiene relación con la fe",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la humildad es esencial para recibir revelación y las bendiciones de Dios (DyC 112:10).",
+      incorrect_answers: [
+        "La humildad es necesaria para la salvación.",
+        "No es solo para personas débiles, sino para todos.",
+        "Está directamente relacionada con la fe.",
+      ],
+    },
+  },
+  {
+    id: 2838,
+    difficulty: "Fácil",
+    question: "¿Qué enseñó José Smith sobre la importancia de la gratitud?",
+    category:  historia,
+    correct_answer: "Es una forma de reconocer las bendiciones de Dios",
+    incorrect_answers: [
+      "Es innecesaria para la salvación",
+      "Es solo para momentos de abundancia",
+      "No tiene relación con la felicidad",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la gratitud es una forma de reconocer las bendiciones de Dios y aumentar nuestra felicidad (DyC 59:21).",
+      incorrect_answers: [
+        "La gratitud es necesaria para la salvación.",
+        "No es solo para momentos de abundancia, sino para todo momento.",
+        "Está directamente relacionada con la felicidad.",
+      ],
+    },
+  },
+  {
+    id: 2839,
+    difficulty: "Difícil",
+    question: "¿Qué enseñó José Smith sobre la importancia de la paciencia?",
+    category:  historia,
+    correct_answer: "Es esencial para superar las pruebas",
+    incorrect_answers: [
+      "Es innecesaria para la salvación",
+      "Es solo para personas débiles",
+      "No tiene relación con la fe",
+    ],
+    justifications: {
+      correct_answer: "José Smith enseñó que la paciencia es esencial para superar las pruebas y crecer espiritualmente (DyC 67:13).",
+      incorrect_answers: [
+        "La paciencia es necesaria para la salvación.",
+        "No es solo para personas débiles, sino para todos.",
+        "Está directamente relacionada con la fe.",
+      ],
+    },
+  },
+
+
+  //"La Travesía Mormona" (The Mormon Journey)
+
+//Este libro, escrito por Leonard J. Arrington y Davis Bitton, es una obra histórica ampliamente reconocida que cubre la historia de la Iglesia desde sus inicios hasta el siglo XX. Aunque no es una publicación oficial de la Iglesia, es respetada por su rigor académico.
+
+
+
+
+  {
+    id: 2840,
+    difficulty: "Difícil",
+    question: "¿Qué evento marcó el inicio de la migración mormona hacia el oeste en 1846?",
+    category:  historia,
+    correct_answer: "El éxodo de Nauvoo",
+    incorrect_answers: [
+      "La fundación de Salt Lake City",
+      "La finalización del Templo de Kirtland",
+      "La organización de la Iglesia en 1830",
+    ],
+    justifications: {
+      correct_answer: "El éxodo de Nauvoo en 1846 marcó el inicio de la migración mormona hacia el oeste tras la persecución y el martirio de José Smith.",
+      incorrect_answers: [
+        "Salt Lake City fue fundada después del éxodo.",
+        "El Templo de Kirtland se completó antes del éxodo.",
+        "La organización de la Iglesia ocurrió mucho antes.",
+      ],
+    },
+  },
+  {
+    id: 2841,
+    difficulty: "Medio",
+    question: "¿Quién lideró a los santos en la migración hacia el Valle del Lago Salado?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young fue el líder que guió a los santos hacia el Valle del Lago Salado tras la muerte de José Smith.",
+      incorrect_answers: [
+        "José Smith murió antes de la migración.",
+        "John Taylor fue un líder posterior.",
+        "Wilford Woodruff fue el cuarto presidente de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2842,
+    difficulty: "Fácil",
+    question: "¿Qué ciudad fue fundada por los santos en el Valle del Lago Salado?",
+    category:  historia,
+    correct_answer: "Salt Lake City",
+    incorrect_answers: [
+      "Nauvoo",
+      "Kirtland",
+      "Independence",
+    ],
+    justifications: {
+      correct_answer: "Salt Lake City fue fundada por los santos en 1847 bajo la dirección de Brigham Young.",
+      incorrect_answers: [
+        "Nauvoo fue un asentamiento anterior en Illinois.",
+        "Kirtland fue un centro importante en la década de 1830.",
+        "Independence fue designada como Sion, pero no fue fundada por los santos en Utah.",
+      ],
+    },
+  },
+  {
+    id: 2843,
+    difficulty: "Difícil",
+    question: "¿Qué desafío enfrentaron los santos durante la migración hacia el oeste?",
+    category:  historia,
+    correct_answer: "Condiciones climáticas extremas y falta de recursos",
+    incorrect_answers: [
+      "Conflictos con los jareditas",
+      "La construcción del Templo de Kirtland",
+      "La traducción del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "Los santos enfrentaron condiciones climáticas extremas y falta de recursos durante la migración hacia el oeste.",
+      incorrect_answers: [
+        "Los jareditas no interactuaron con los santos.",
+        "El Templo de Kirtland se construyó antes de la migración.",
+        "El Libro de Mormón se tradujo antes de la migración.",
+      ],
+    },
+  },
+  {
+    id: 2844,
+    difficulty: "Medio",
+    question: "¿Qué papel jugó el Batallón Mormón en la historia de la Iglesia?",
+    category:  historia,
+    correct_answer: "Ayudó a financiar la migración hacia el oeste",
+    incorrect_answers: [
+      "Construyó el Templo de Salt Lake",
+      "Tradujo el Libro de Mormón",
+      "Organizó la Iglesia en 1830",
+    ],
+    justifications: {
+      correct_answer: "El Batallón Mormón ayudó a financiar la migración hacia el oeste a través de su servicio en la Guerra México-Estadounidense.",
+      incorrect_answers: [
+        "El Templo de Salt Lake se construyó después de la migración.",
+        "El Libro de Mormón se tradujo antes de la formación del batallón.",
+        "La Iglesia se organizó en 1830, mucho antes del batallón.",
+      ],
+    },
+  },
+  {
+    id: 2845,
+    difficulty: "Fácil",
+    question: "¿Qué líder de la Iglesia fue conocido como el 'Profeta Americano'?",
+    category:  historia,
+    correct_answer: "José Smith",
+    incorrect_answers: [
+      "Brigham Young",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "José Smith fue conocido como el 'Profeta Americano' por su papel en la Restauración.",
+      incorrect_answers: [
+        "Brigham Young fue conocido como el 'Profeta Mormón'.",
+        "John Taylor fue el tercer presidente de la Iglesia.",
+        "Wilford Woodruff fue el cuarto presidente de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2846,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a la expulsión de los santos de Missouri en 1838?",
+    category:  historia,
+    correct_answer: "La Orden de Exterminio del Gobernador Boggs",
+    incorrect_answers: [
+      "La finalización del Templo de Kirtland",
+      "La organización de la Iglesia en 1830",
+      "La migración hacia el oeste",
+    ],
+    justifications: {
+      correct_answer: "La Orden de Exterminio del Gobernador Boggs en 1838 llevó a la expulsión de los santos de Missouri.",
+      incorrect_answers: [
+        "El Templo de Kirtland se completó antes de la expulsión.",
+        "La organización de la Iglesia ocurrió en 1830.",
+        "La migración hacia el oeste ocurrió después de la expulsión.",
+      ],
+    },
+  },
+  {
+    id: 2847,
+    difficulty: "Medio",
+    question: "¿Qué ciudad fue designada como 'Sion' por los primeros santos?",
+    category:  historia,
+    correct_answer: "Independence, Missouri",
+    incorrect_answers: [
+      "Nauvoo, Illinois",
+      "Salt Lake City, Utah",
+      "Kirtland, Ohio",
+    ],
+    justifications: {
+      correct_answer: "Independence, Missouri, fue designada como 'Sion' por los primeros santos.",
+      incorrect_answers: [
+        "Nauvoo fue un asentamiento importante, pero no fue designada como Sion.",
+        "Salt Lake City fue fundada después de la designación de Sion.",
+        "Kirtland fue un centro importante, pero no fue designada como Sion.",
+      ],
+    },
+  },
+  {
+    id: 2848,
+    difficulty: "Fácil",
+    question: "¿Qué profeta recibió la revelación para migrar hacia el oeste?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young recibió la revelación para migrar hacia el oeste tras la muerte de José Smith.",
+      incorrect_answers: [
+        "José Smith murió antes de la migración.",
+        "John Taylor fue un líder posterior.",
+        "Wilford Woodruff fue el cuarto presidente de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2849,
+    difficulty: "Difícil",
+    question: "¿Qué evento marcó el fin de la persecución legal contra la Iglesia por la poligamia?",
+    category:  historia,
+    correct_answer: "El Manifiesto de 1890",
+    incorrect_answers: [
+      "La migración a Utah",
+      "La dedicación del Templo de Salt Lake",
+      "La muerte de Brigham Young",
+    ],
+    justifications: {
+      correct_answer: "El Manifiesto de 1890 puso fin a la práctica de la poligamia y la persecución legal.",
+      incorrect_answers: [
+        "La migración a Utah no detuvo la persecución.",
+        "El templo se dedicó después del Manifiesto.",
+        "La muerte de Brigham Young no afectó la persecución.",
+      ],
+    },
+  },
+  {
+    id: 2850,
+    difficulty: "Medio",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la educación?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la educación y fundó la Universidad de Deseret (ahora Universidad de Utah).",
+      incorrect_answers: [
+        "José Smith enfatizó la revelación y la organización de la Iglesia.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+        "Wilford Woodruff fue conocido por el Manifiesto de 1890.",
+      ],
+    },
+  },
+  {
+    id: 2851,
+    difficulty: "Fácil",
+    question: "¿Qué líder de la Iglesia fue conocido como el 'Profeta Mormón'?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young fue conocido como el 'Profeta Mormón' por su liderazgo durante la migración hacia el oeste.",
+      incorrect_answers: [
+        "José Smith fue conocido como el 'Profeta Americano'.",
+        "John Taylor fue el tercer presidente de la Iglesia.",
+        "Wilford Woodruff fue el cuarto presidente de la Iglesia.",
+      ],
+    },
+  },
+  {
+    id: 2852,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a la construcción del Templo de Nauvoo?",
+    category:  historia,
+    correct_answer: "La necesidad de un lugar sagrado para ordenanzas",
+    incorrect_answers: [
+      "La migración hacia el oeste",
+      "La finalización del Templo de Kirtland",
+      "La organización de la Iglesia en 1830",
+    ],
+    justifications: {
+      correct_answer: "El Templo de Nauvoo se construyó para proporcionar un lugar sagrado para realizar ordenanzas como el bautismo por los muertos.",
+      incorrect_answers: [
+        "La migración hacia el oeste ocurrió después de la construcción.",
+        "El Templo de Kirtland se completó antes del de Nauvoo.",
+        "La organización de la Iglesia ocurrió en 1830.",
+      ],
+    },
+  },
+  {
+    id: 2853,
+    difficulty: "Medio",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la obra misional?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la obra misional y envió misioneros a todo el mundo.",
+      incorrect_answers: [
+        "José Smith organizó la Iglesia y envió a los primeros misioneros.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+        "Wilford Woodruff fue conocido por el Manifiesto de 1890.",
+      ],
+    },
+  },
+  {
+    id: 2854,
+    difficulty: "Fácil",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la construcción de templos?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la construcción de templos, incluyendo el Templo de Salt Lake.",
+      incorrect_answers: [
+        "José Smith inició la construcción del Templo de Kirtland.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+        "Wilford Woodruff fue conocido por el Manifiesto de 1890.",
+      ],
+    },
+  },
+  {
+    id: 2855,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a la organización de la Iglesia en 1830?",
+    category:  historia,
+    correct_answer: "La restauración del sacerdocio",
+    incorrect_answers: [
+      "La migración hacia el oeste",
+      "La finalización del Templo de Kirtland",
+      "La traducción del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "La restauración del sacerdocio fue esencial para la organización de la Iglesia en 1830.",
+      incorrect_answers: [
+        "La migración hacia el oeste ocurrió después de la organización.",
+        "El Templo de Kirtland se completó después de la organización.",
+        "El Libro de Mormón se tradujo antes de la organización.",
+      ],
+    },
+  },
+  {
+    id: 2856,
+    difficulty: "Medio",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la obra del templo?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la obra del templo y la construcción de templos en Utah.",
+      incorrect_answers: [
+        "José Smith inició la construcción del Templo de Kirtland.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+        "Wilford Woodruff fue conocido por el Manifiesto de 1890.",
+      ],
+    },
+  },
+  {
+    id: 2857,
+    difficulty: "Fácil",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la historia familiar?",
+    category:  historia,
+    correct_answer: "Wilford Woodruff",
+    incorrect_answers: [
+      "Brigham Young",
+      "José Smith",
+      "John Taylor",
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff promovió la obra de historia familiar y la obra vicaria en los templos.",
+      incorrect_answers: [
+        "Brigham Young fue conocido por su liderazgo en la migración hacia el oeste.",
+        "José Smith fue conocido como el 'Profeta Americano'.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+      ],
+    },
+  },
+  {
+    id: 2858,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a la dedicación del Templo de Salt Lake en 1893?",
+    category:  historia,
+    correct_answer: "La finalización de su construcción",
+    incorrect_answers: [
+      "La migración hacia el oeste",
+      "La organización de la Iglesia en 1830",
+      "La traducción del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "El Templo de Salt Lake fue dedicado en 1893 tras décadas de construcción.",
+      incorrect_answers: [
+        "La migración hacia el oeste ocurrió antes de la construcción.",
+        "La organización de la Iglesia ocurrió en 1830.",
+        "El Libro de Mormón se tradujo antes de la construcción.",
+      ],
+    },
+  },
+  {
+    id: 2859,
+    difficulty: "Medio",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la obra misional?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la obra misional y envió misioneros a todo el mundo.",
+      incorrect_answers: [
+        "José Smith organizó la Iglesia y envió a los primeros misioneros.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+        "Wilford Woodruff fue conocido por el Manifiesto de 1890.",
+      ],
+    },
+  },
+  {
+    id: 2860,
+    difficulty: "Fácil",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la construcción de templos?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la construcción de templos, incluyendo el Templo de Salt Lake.",
+      incorrect_answers: [
+        "José Smith inició la construcción del Templo de Kirtland.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+        "Wilford Woodruff fue conocido por el Manifiesto de 1890.",
+      ],
+    },
+  },
+  {
+    id: 2861,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a la organización de la Iglesia en 1830?",
+    category:  historia,
+    correct_answer: "La restauración del sacerdocio",
+    incorrect_answers: [
+      "La migración hacia el oeste",
+      "La finalización del Templo de Kirtland",
+      "La traducción del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "La restauración del sacerdocio fue esencial para la organización de la Iglesia en 1830.",
+      incorrect_answers: [
+        "La migración hacia el oeste ocurrió después de la organización.",
+        "El Templo de Kirtland se completó después de la organización.",
+        "El Libro de Mormón se tradujo antes de la organización.",
+      ],
+    },
+  },
+  {
+    id: 2862,
+    difficulty: "Medio",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la obra del templo?",
+    category:  historia,
+    correct_answer: "Brigham Young",
+    incorrect_answers: [
+      "José Smith",
+      "John Taylor",
+      "Wilford Woodruff",
+    ],
+    justifications: {
+      correct_answer: "Brigham Young promovió la obra del templo y la construcción de templos en Utah.",
+      incorrect_answers: [
+        "José Smith inició la construcción del Templo de Kirtland.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+        "Wilford Woodruff fue conocido por el Manifiesto de 1890.",
+      ],
+    },
+  },
+  {
+    id: 2863,
+    difficulty: "Fácil",
+    question: "¿Qué líder de la Iglesia fue conocido por su énfasis en la historia familiar?",
+    category:  historia,
+    correct_answer: "Wilford Woodruff",
+    incorrect_answers: [
+      "Brigham Young",
+      "José Smith",
+      "John Taylor",
+    ],
+    justifications: {
+      correct_answer: "Wilford Woodruff promovió la obra de historia familiar y la obra vicaria en los templos.",
+      incorrect_answers: [
+        "Brigham Young fue conocido por su liderazgo en la migración hacia el oeste.",
+        "José Smith fue conocido como el 'Profeta Americano'.",
+        "John Taylor fue conocido por su defensa de la poligamia.",
+      ],
+    },
+  },
+  {
+    id: 2864,
+    difficulty: "Difícil",
+    question: "¿Qué evento llevó a la dedicación del Templo de Salt Lake en 1893?",
+    category:  historia,
+    correct_answer: "La finalización de su construcción",
+    incorrect_answers: [
+      "La migración hacia el oeste",
+      "La organización de la Iglesia en 1830",
+      "La traducción del Libro de Mormón",
+    ],
+    justifications: {
+      correct_answer: "El Templo de Salt Lake fue dedicado en 1893 tras décadas de construcción.",
+      incorrect_answers: [
+        "La migración hacia el oeste ocurrió antes de la construcción.",
+        "La organización de la Iglesia ocurrió en 1830.",
+        "El Libro de Mormón se tradujo antes de la construcción.",
+      ],
+    },
+  },
+
+
+
+
+
 ];
