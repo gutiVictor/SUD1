@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Results } from './Results';
 import Timer from './Timer';
-
 export const Question = ({
     filteredQuestion,
     questionsFiltered,
@@ -19,25 +18,88 @@ export const Question = ({
     const [justification, setJustification] = useState('');
     const [timerTime, setTimerTime] = useState(25);
 
+    // Estados para las ayudas (ahora son para toda la ronda)
+    const [fiftyFiftyAvailable, setFiftyFiftyAvailable] = useState(true);
+    const [audienceHelpAvailable, setAudienceHelpAvailable] = useState(true);
+    const [smartDiscardAvailable, setSmartDiscardAvailable] = useState(true);
+    const [audienceResults, setAudienceResults] = useState(null);
+    const [availableAnswers, setAvailableAnswers] = useState([]);
     useEffect(() => {
         if (filteredQuestion) {
             const answers = [
-                ...filteredQuestion.incorrect_answers,
                 filteredQuestion.correct_answer,
+                ...filteredQuestion.incorrect_answers,
             ];
+            const randomizedAnswers = answers.sort(() => Math.random() - 0.5);
+            setAnswersRandom(randomizedAnswers);
             setCorrectAnswer(filteredQuestion.correct_answer);
-            setAnswersRandom(answers.sort(() => Math.random() - 0.5));
-            setTimerTime(45); // Reinicia el temporizador al cargar una nueva pregunta
-            setAnswered(false); // Resetea el estado de respuesta al cargar una nueva pregunta
-            setSelectAnswerIndex(null); // Reinicia la selección de respuesta
-            setJustification(''); // Reinicia la justificación
+            setAvailableAnswers(randomizedAnswers.map(answer => answer));
+            setTimerTime(45);
+            setAnswered(false);
+            setSelectAnswerIndex(null);
+            setJustification('');
+            setAudienceResults(null);
         }
     }, [filteredQuestion, indexQuestion]);
+    const useFiftyFifty = () => {
+        if (fiftyFiftyAvailable && !answered) {
+            const correctAnswerIndex = answersRandom.indexOf(correctAnswer);
+            let newAvailableAnswers = [...availableAnswers];
+            let incorrectAnswersRemaining = newAvailableAnswers
+                .map((answer, index) => ({ answer, index }))
+                .filter(item => item.answer !== null && item.index !== correctAnswerIndex);
+            for (let i = 0; i < 2 && incorrectAnswersRemaining.length > 0; i++) {
+                const randomIndex = Math.floor(Math.random() * incorrectAnswersRemaining.length);
+                const toRemove = incorrectAnswersRemaining[randomIndex];
+                newAvailableAnswers[toRemove.index] = null;
+                incorrectAnswersRemaining.splice(randomIndex, 1);
+            }
+            setAvailableAnswers(newAvailableAnswers);
+            setFiftyFiftyAvailable(false);
+        }
+    };
+    const useSmartDiscard = () => {
+        if (smartDiscardAvailable && !answered) {
+            const correctAnswerIndex = answersRandom.indexOf(correctAnswer);
+            let newAvailableAnswers = [...availableAnswers];
 
+            let incorrectAnswersRemaining = newAvailableAnswers
+                .map((answer, index) => ({ answer, index }))
+                .filter(item => item.answer !== null && item.index !== correctAnswerIndex);
+            if (incorrectAnswersRemaining.length > 0) {
+                const randomIndex = Math.floor(Math.random() * incorrectAnswersRemaining.length);
+                const toRemove = incorrectAnswersRemaining[randomIndex];
+                newAvailableAnswers[toRemove.index] = null;
+                setAvailableAnswers(newAvailableAnswers);
+            }
+            setSmartDiscardAvailable(false);
+        }
+    };
+    const useAudienceHelp = () => {
+        if (audienceHelpAvailable && !answered) {
+            const correctIndex = answersRandom.indexOf(correctAnswer);
+            let results = answersRandom.map((_, index) => {
+                if (index === correctIndex) {
+                    return Math.floor(Math.random() * (65 - 45) + 45);
+                } else if (availableAnswers[index] === null) {
+                    return 0;
+                } else {
+                    return Math.floor(Math.random() * 25);
+                }
+            });
+
+            const total = results.reduce((a, b) => a + b, 0);
+            const adjustedResults = results.map(value =>
+                total === 0 ? 0 : Math.round((value / total) * 100)
+            );
+
+            setAudienceResults(adjustedResults);
+            setAudienceHelpAvailable(false);
+        }
+    };
     const checkAnswer = (answerText, index) => {
         setSelectAnswerIndex(index);
         setAnswered(true);
-
         if (answerText === correctAnswer) {
             setScore(score + 1);
             setJustification(filteredQuestion.justifications.correct_answer);
@@ -46,7 +108,6 @@ export const Question = ({
             setJustification(filteredQuestion.justifications.incorrect_answers[incorrectIndex]);
         }
     };
-
     const onNextQuestion = () => {
         if (indexQuestion + 1 < questionsFiltered.length) {
             setIndexQuestion(indexQuestion + 1);
@@ -54,17 +115,17 @@ export const Question = ({
             setActiveResults(true);
         }
     };
-
     const onReset = () => {
         setScore(0);
         setActiveQuiz(false);
         setIndexQuestion(0);
+        setFiftyFiftyAvailable(true);
+        setAudienceHelpAvailable(true);
+        setSmartDiscardAvailable(true);
     };
-
     if (!filteredQuestion) {
         return <p>Cargando pregunta...</p>;
     }
-
     return (
         <>
             {activeResults ? (
@@ -74,89 +135,146 @@ export const Question = ({
                     onReset={onReset}
                 />
             ) : (
-                <div className='flex flex-col justify-between shadow-md shadow-slate-300 w-full max-w-lg mx-auto h-auto p-10 rounded-lg'>
-                    <div className='flex justify-between'>
-                        <span className='text-xl font-bold'>
+                <div className='glass-dark flex flex-col justify-between w-full max-w-3xl mx-auto h-auto p-8 sm:p-10 rounded-3xl shadow-2xl border-2 border-white/10 animate-fade-in-scale'>
+                    <div className='flex justify-between mb-4'>
+                        <span className='text-xl font-bold text-gold'>
                             {indexQuestion + 1} / {questionsFiltered.length}
                         </span>
                         <div>
                             <span className='font-semibold'>Dificultad: </span>
-                            <span className='font-bold'>
+                            <span className='font-bold text-gold-light'>
                                 {filteredQuestion.difficulty}
                             </span>
                         </div>
                     </div>
-
-                    <div className='text-gray-700 text-lg font-semibold mb-4'>
-                        ID de la pregunta: {filteredQuestion.id}
+                    {/* Botones de ayuda */}
+                    <div className='flex gap-2 mb-4 flex-wrap'>
+                        <button
+                            className={`px-4 py-2 rounded ${!fiftyFiftyAvailable ? 'bg-gray-300' : 'bg-blue-500 hover:bg-blue-600'
+                                } text-white font-bold transition-all duration-300`}
+                            onClick={useFiftyFifty}
+                            disabled={!fiftyFiftyAvailable || answered}
+                        >
+                            50:50
+                        </button>
+                        <button
+                            className={`px-4 py-2 rounded ${!audienceHelpAvailable ? 'bg-gray-300' : 'bg-purple-500 hover:bg-purple-600'
+                                } text-white font-bold transition-all duration-300`}
+                            onClick={useAudienceHelp}
+                            disabled={!audienceHelpAvailable || answered}
+                        >
+                            Consultar Público
+                        </button>
+                        <button
+                            className={`px-4 py-2 rounded ${!smartDiscardAvailable ? 'bg-gray-300' : 'bg-orange-500 hover:bg-orange-600'
+                                } text-white font-bold transition-all duration-300`}
+                            onClick={useSmartDiscard}
+                            disabled={!smartDiscardAvailable || answered}
+                        >
+                            Descarte Extra
+                        </button>
                     </div>
-
-                    <button
-                        className='border px-5 py-2 rounded-lg font-bold transition-all hover:bg-yellow-500 hover:text-gray-900'
-                        onClick={onReset}
-                    >
-                        Reiniciar
-                    </button>
-                    <div>
-                        <h1 className='font-bold'>{filteredQuestion.question}</h1>
+                    {/* Resultados del público */}
+                    {audienceResults && (
+                        <div className='bg-white p-3 rounded mb-4 border-2 border-purple-500 shadow-lg'>
+                            <h3 className='font-bold mb-2 text-black'>Resultados del Público:</h3>
+                            <div className='space-y-2'>
+                                {answersRandom.map((answer, index) => (
+                                    answer !== null && (
+                                        <div key={index} className='flex items-center gap-2'>
+                                            <div className='w-24 text-black'>{answer}:</div>
+                                            <div className='flex-1 bg-gray-200 rounded-full h-4'>
+                                                <div
+                                                    className='bg-purple-500 h-4 rounded-full'
+                                                    style={{ width: `${audienceResults[index]}%` }}
+                                                ></div>
+                                            </div>
+                                            <div className='w-12 text-right text-black font-medium'>{audienceResults[index]}%</div>
+                                        </div>
+                                    )
+                                ))}
+                            </div>
+                        </div>
+                    )}
+                    {/* PREGUNTA - MÁS GRANDE Y CENTRADA */}
+                    <div className='my-6'>
+                        <h2 className='text-2xl sm:text-3xl md:text-4xl font-bold text-gold-light leading-relaxed text-center'>
+                            {filteredQuestion.question}
+                        </h2>
                     </div>
-
                     <Timer time={timerTime} onTimeout={() => setAnswered(true)} active={!answered} />
-
-                    <div className='grid grid-cols-1 md:grid-cols-2 gap-5'>
+                    {/* Respuestas */}
+                    <div className='grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4'>
                         {answersRandom.map((answer, index) => (
-                            <button
-                                className={`border p-5 rounded-lg flex justify-center items-center hover:scale-105 ${
-                                    selectAnswerIndex !== null &&
-                                    index === selectAnswerIndex
-                                        ? answer === correctAnswer
-                                            ? 'bg-green-500'
-                                            : 'bg-red-500'
-                                        : ''
-                                }`}
-                                key={answer}
-                                onClick={() => checkAnswer(answer, index)}
-                                disabled={answered}
-                            >
-                                <p className='font-medium text-center text-sm'>
-                                    {answer}
-                                </p>
-                            </button>
+                            availableAnswers[index] !== null && (
+                                <button
+                                    className={`border p-5 rounded-lg flex justify-center items-center 
+                                        transition-all duration-300 ease-in-out
+                                        ${!answered ? 'bg-gray-800 hover:bg-gray-700 text-white' : ''}
+                                        ${selectAnswerIndex !== null && index === selectAnswerIndex
+                                            ? answer === correctAnswer
+                                                ? 'bg-green-600 text-white'
+                                                : 'bg-red-600 text-white'
+                                            : ''
+                                        }
+                                        ${answered && answer === correctAnswer ? 'bg-green-600 text-white' : ''}
+                                        transform hover:scale-102 hover:shadow-lg
+                                        border-2 border-gray-600 hover:border-gray-400`}
+                                    key={index}
+                                    onClick={() => !answered && checkAnswer(answer, index)}
+                                    disabled={answered}
+                                >
+                                    <p className='font-medium text-center text-sm'>
+                                        {answer}
+                                    </p>
+                                </button>
+                            )
                         ))}
                     </div>
-
+                    {/* Justificación */}
                     {answered && selectAnswerIndex !== null && (
                         <>
-                            <p className='mt-3'>
-                                La respuesta correcta es: <strong>{correctAnswer}</strong>
+                            <p className='mt-4 text-lg'>
+                                La respuesta correcta es: <strong className='text-gold-light'>{correctAnswer}</strong>
                             </p>
-                            <p className='mt-2 italic'>{justification}</p>
+                            <p className='mt-2 italic text-gray-300'>{justification}</p>
                         </>
                     )}
-
-                    <Link to='/' className='mt-4'>
-                        <button className='border-4 border-red-900 text-yellow-100 rounded-md px-5 py-2 hover:bg-yellow-600 hover:text-black font-medium'>
-                            Regresar al Menú Principal
-                        </button>
-                    </Link>
-
-                    {indexQuestion + 1 === questionsFiltered.length ? (
+                    {/* BOTONES DE ACCIÓN - VERTICAL */}
+                    <div className='flex flex-col gap-3 mt-6 w-full'>
+                        {/* Botón Reiniciar */}
                         <button
-                            className='border-2 border-red-900 text-black rounded-md px-5 py-2 hover:bg-yellow-600 hover:text-black font-medium mt-2'
-                            onClick={() => setActiveResults(true)}
+                            className='border px-5 py-2 rounded-lg font-bold transition-all hover:bg-yellow-500 hover:text-gray-900 text-center'
+                            onClick={onReset}
                         >
-                            Finalizar
+                            Reiniciar
                         </button>
-                    ) : (
-                        <button
-                            className='border-4 border-red-900 text-orange-600 rounded-md px-5 py-2 hover:bg-blue-500 hover:text-black font-medium mt-2'
-                            onClick={onNextQuestion}
-                        >
-                            Siguiente Pregunta
-                        </button>
-                    )}
-                </div>
+
+                        {/* Botón Regresar al Menú Principal */}
+                        <Link to='/' className='w-full'>
+                            <button className='w-full border-4 border-red-900 text-yellow-100 rounded-md px-5 py-2 hover:bg-yellow-600 hover:text-black font-medium text-center'>
+                                Regresar al Menú Principal
+                            </button>
+                        </Link>
+
+                        {/* Botón Siguiente o Finalizar */}
+                        {indexQuestion + 1 === questionsFiltered.length ? (
+                            <button
+                                className='border-2 border-red-900 text-black rounded-md px-5 py-2 hover:bg-yellow-600 hover:text-black font-medium text-center'
+                                onClick={() => setActiveResults(true)}
+                            >
+                                Finalizar
+                            </button>
+                        ) : (
+                            <button
+                                className='border-4 border-red-900 text-orange-600 rounded-md px-5 py-2 hover:bg-blue-500 hover:text-black font-medium text-center'
+                                onClick={onNextQuestion}
+                            >
+                                Siguiente Pregunta
+                            </button>
+                        )}
+                    </div>
             )}
-        </>
-    );
+                </>
+            );
 };

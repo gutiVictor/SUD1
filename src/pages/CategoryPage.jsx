@@ -89,55 +89,94 @@ export const CategoryPage = () => {
                 />
             ) : (
                 <>
-                    {/* Mostrar la categoría y su imagen */}
-                    <div className='flex flex-col gap-5 mt-14'>
-                        <h1 className='text-3xl text-red-500 text-center font-bold'>
-                            {category === "Master" 
-                                ? "Banco Completo de Preguntas" 
+                    {/* Category Display Card */}
+                    <div className='glass-dark rounded-3xl p-8 sm:p-10 md:p-12 
+                                  max-w-2xl mx-auto animate-fade-in-scale
+                                  shadow-2xl border-2 border-white/10'>
+
+                        {/* Category Title */}
+                        <h1 className='text-3xl sm:text-4xl md:text-5xl text-gold text-center 
+                                     font-bold mb-6 text-heading drop-shadow-xl'>
+                            {category === "Master"
+                                ? "Banco Completo de Preguntas"
                                 : category}
                         </h1>
 
-                        <div className='flex justify-center items-center'>
+                        {/* Category Image */}
+                        <div className='flex justify-center items-center mb-8'>
                             <img
                                 src={imgCategory}
                                 alt={category}
-                                className='w-60'
+                                className='w-48 sm:w-56 md:w-64 drop-shadow-2xl
+                                         hover:scale-110 transition-transform duration-500'
                             />
                         </div>
-                    </div>
 
-                    {/* Botones para seleccionar la dificultad */}
-                    <div className='flex flex-col gap-4'>
-                        <h2 className='text-2xl font-bold text-center'>Selecciona la dificultad:</h2>
-                        <button
-    className="bg-white/20 text-white py-3 px-6 rounded-xl backdrop-blur-lg font-bold text-lg shadow-lg border border-white/30 transition-all hover:bg-white hover:text-gray-900 hover:scale-105"
-    onClick={() => handleStartQuiz('Facil')}
->
-    Fácil
-</button>
+                        {/* Difficulty Selection */}
+                        <div>
+                            <h2 className='text-2xl sm:text-3xl font-bold text-center mb-6
+                                         text-gold-light text-heading'>
+                                Selecciona la dificultad:
+                            </h2>
 
-<button
-    className="bg-gradient-to-br from-gray-800 to-gray-600 text-white py-3 px-6 rounded-xl border border-gray-500 shadow-md hover:bg-gradient-to-br hover:from-gray-700 hover:to-gray-500 hover:shadow-lg transform transition-all hover:scale-105"
-    onClick={() => handleStartQuiz('Medio')}
->
-   Medio
-</button>
+                            <div className='flex flex-col gap-4'>
+                                {/* Easy Button */}
+                                <button
+                                    className="glass-strong text-white py-4 px-8 rounded-xl 
+                                             font-bold text-lg shadow-xl 
+                                             border-2 border-green-400/30 
+                                             transition-all duration-300
+                                             hover:bg-green-500/30 hover:border-green-400
+                                             hover:scale-105 hover:shadow-green-500/50
+                                             text-accent"
+                                    onClick={() => handleStartQuiz('Facil')}
+                                >
+                                    🟢 Fácil
+                                </button>
 
+                                {/* Medium Button */}
+                                <button
+                                    className="glass-strong text-white py-4 px-8 rounded-xl 
+                                             font-bold text-lg shadow-xl 
+                                             border-2 border-yellow-400/30 
+                                             transition-all duration-300
+                                             hover:bg-yellow-500/30 hover:border-yellow-400
+                                             hover:scale-105 hover:shadow-yellow-500/50
+                                             text-accent"
+                                    onClick={() => handleStartQuiz('Medio')}
+                                >
+                                    🟡 Medio
+                                </button>
 
-<button
-    className="bg-white/20 text-white py-3 px-6 rounded-xl backdrop-blur-lg font-bold text-lg shadow-lg border border-white/30 transition-all hover:bg-white hover:text-gray-900 hover:scale-105"
-    onClick={() => handleStartQuiz('Dificil')}
->
-    Difícil
-</button>
+                                {/* Hard Button */}
+                                <button
+                                    className="glass-strong text-white py-4 px-8 rounded-xl 
+                                             font-bold text-lg shadow-xl 
+                                             border-2 border-red-400/30 
+                                             transition-all duration-300
+                                             hover:bg-red-500/30 hover:border-red-400
+                                             hover:scale-105 hover:shadow-red-500/50
+                                             text-accent"
+                                    onClick={() => handleStartQuiz('Dificil')}
+                                >
+                                    🔴 Difícil
+                                </button>
 
-<button
-   className="bg-gradient-to-br from-gray-800 to-gray-600 text-white py-3 px-6 rounded-xl border border-gray-500 shadow-md hover:bg-gradient-to-br hover:from-gray-700 hover:to-gray-500 hover:shadow-lg transform transition-all hover:scale-105"
-    onClick={() => handleStartQuiz(null)}
->
-    Aleatorio
-</button>
-
+                                {/* Random Button */}
+                                <button
+                                    className="glass-strong text-white py-4 px-8 rounded-xl 
+                                             font-bold text-lg shadow-xl 
+                                             border-2 border-gold/40 
+                                             transition-all duration-300
+                                             hover:bg-gold/30 hover:border-gold
+                                             hover:scale-105 hover:shadow-gold/50
+                                             text-accent"
+                                    onClick={() => handleStartQuiz(null)}
+                                >
+                                    ⭐ Aleatorio
+                                </button>
+                            </div>
+                        </div>
                     </div>
                 </>
             )}

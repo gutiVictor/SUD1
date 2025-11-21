@@ -1,23 +1,310 @@
-/* index.css */
+/* ==================== QUIZ SUD - DESIGN SYSTEM ==================== */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body {
-  background: url("../src/assets/back.png") no-repeat center center fixed;
-  background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla*/
-  color: #f7f1f1;
-  font-family: "Arial", sans-serif;
+/* ==================== CSS VARIABLES ==================== */
+:root {
+  /* Colores principales - Tema religioso serio */
+  --primary-dark: #1a1a2e;
+  --primary-blue: #16213e;
+  --primary-navy: #0f3460;
+  --accent-gold: #c9a961;
+  --accent-light: #eee4d4;
+  --accent-gold-light: #e8d4a2;
+  
+  /* Backgrounds */
+  --bg-overlay: rgba(22, 33, 62, 0.85);
+  --bg-glass: rgba(255, 255, 255, 0.1);
+  --bg-glass-strong: rgba(255, 255, 255, 0.15);
+  
+  /* Shadows */
+  --shadow-glow: 0 0 20px rgba(201, 169, 97, 0.3);
+  --shadow-strong: 0 10px 40px rgba(0, 0, 0, 0.3);
+  --shadow-subtle: 0 4px 12px rgba(0, 0, 0, 0.15);
+  
+  /* Fonts */
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-accent: 'Montserrat', sans-serif;
 }
 
-/* body {
-    
-    background: url('../src/assets/fondo.png') no-repeat center center fixed;
-    background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla
-    color: #050505;
-    font-family: 'Arial', sans-serif;
+/* ==================== GLOBAL STYLES ==================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
+  font-family: var(--font-body);
+  color: #ffffff;
+  overflow-x: hidden;
+  min-height: 100vh;
+  position: relative;
+  
+  /* Animated Gradient Background */
+  background: linear-gradient(
+    135deg,
+    #0f1419 0%,
+    #1a1a2e 25%,
+    #16213e 50%,
+    #0f3460 75%,
+    #1a1a2e 100%
+  );
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+}
 
-    
-    
-    */
+/* Background overlay pattern */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(circle at 20% 50%, rgba(201, 169, 97, 0.05) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(15, 52, 96, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 40% 20%, rgba(238, 228, 212, 0.03) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Floating particles effect */
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(2px 2px at 20% 30%, rgba(255, 255, 255, 0.15), transparent),
+    radial-gradient(2px 2px at 60% 70%, rgba(201, 169, 97, 0.1), transparent),
+    radial-gradient(1px 1px at 50% 50%, rgba(255, 255, 255, 0.1), transparent),
+    radial-gradient(1px 1px at 80% 10%, rgba(201, 169, 97, 0.15), transparent);
+  background-size: 200px 200px, 300px 300px, 150px 150px, 250px 250px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  animation: particleFloat 20s linear infinite;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.5;
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+/* ==================== ANIMATIONS ==================== */
+@keyframes gradientShift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+@keyframes particleFloat {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  100% {
+    transform: translateY(-100px) translateX(50px);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideInFromLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(201, 169, 97, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(201, 169, 97, 0.4);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* ==================== UTILITY CLASSES ==================== */
+
+/* Glassmorphism */
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-strong {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.glass-dark {
+  background: rgba(22, 33, 62, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(201, 169, 97, 0.2);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+/* Animations */
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.animate-fade-in-scale {
+  animation: fadeInScale 0.5s ease-out forwards;
+}
+
+.animate-slide-in {
+  animation: slideInFromLeft 0.6s ease-out forwards;
+}
+
+.animate-glow {
+  animation: glow 2s ease-in-out infinite;
+}
+
+.animate-pulse-slow {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* Stagger delays for list animations */
+.stagger-1 { animation-delay: 0.1s; }
+.stagger-2 { animation-delay: 0.2s; }
+.stagger-3 { animation-delay: 0.3s; }
+.stagger-4 { animation-delay: 0.4s; }
+.stagger-5 { animation-delay: 0.5s; }
+.stagger-6 { animation-delay: 0.6s; }
+.stagger-7 { animation-delay: 0.7s; }
+.stagger-8 { animation-delay: 0.8s; }
+
+/* Text Styles */
+.text-heading {
+  font-family: var(--font-heading);
+  font-weight: 700;
+}
+
+.text-accent {
+  font-family: var(--font-accent);
+  font-weight: 600;
+}
+
+.text-gold {
+  color: var(--accent-gold);
+}
+
+.text-gold-light {
+  color: var(--accent-light);
+}
+
+/* ==================== CUSTOM SCROLLBAR ==================== */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--primary-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent-gold);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-gold-light);
+}
+
+/* ==================== RESPONSIVE TYPOGRAPHY ==================== */
+html {
+  font-size: 16px;
+}
+
+@media (max-width: 640px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1920px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/* ==================== TRANSITIONS ==================== */
+* {
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Disable transitions for initial page load */
+.preload * {
+  transition: none !important;
+}
+
