@@ -18,7 +18,7 @@ export const Question = ({
     const [correctAnswer, setCorrectAnswer] = useState('');
     const [justification, setJustification] = useState('');
     const [timerTime, setTimerTime] = useState(25);
-    
+
     // Estados para las ayudas (ahora son para toda la ronda)
     const [fiftyFiftyAvailable, setFiftyFiftyAvailable] = useState(true);
     const [audienceHelpAvailable, setAudienceHelpAvailable] = useState(true);
@@ -71,7 +71,7 @@ export const Question = ({
         if (smartDiscardAvailable && !answered) {
             const correctAnswerIndex = answersRandom.indexOf(correctAnswer);
             let newAvailableAnswers = [...availableAnswers];
-            
+
             // Encontrar respuestas incorrectas que aún están disponibles
             let incorrectAnswersRemaining = newAvailableAnswers
                 .map((answer, index) => ({ answer, index }))
@@ -105,13 +105,13 @@ export const Question = ({
                     return Math.floor(Math.random() * 25);
                 }
             });
-            
+
             // Ajustar porcentajes para que sumen 100%
             const total = results.reduce((a, b) => a + b, 0);
-            const adjustedResults = results.map(value => 
+            const adjustedResults = results.map(value =>
                 total === 0 ? 0 : Math.round((value / total) * 100)
             );
-            
+
             setAudienceResults(adjustedResults);
             setAudienceHelpAvailable(false);
         }
@@ -177,27 +177,24 @@ export const Question = ({
                     {/* Botones de ayuda */}
                     <div className='flex gap-2 mb-4 flex-wrap'>
                         <button
-                            className={`px-4 py-2 rounded ${
-                                !fiftyFiftyAvailable ? 'bg-gray-300' : 'bg-blue-500 hover:bg-blue-600'
-                            } text-white font-bold`}
+                            className={`px-4 py-2 rounded ${!fiftyFiftyAvailable ? 'bg-gray-300' : 'bg-blue-500 hover:bg-blue-600'
+                                } text-white font-bold`}
                             onClick={useFiftyFifty}
                             disabled={!fiftyFiftyAvailable || answered}
                         >
                             50:50
                         </button>
                         <button
-                            className={`px-4 py-2 rounded ${
-                                !audienceHelpAvailable ? 'bg-gray-300' : 'bg-purple-500 hover:bg-purple-600'
-                            } text-white font-bold`}
+                            className={`px-4 py-2 rounded ${!audienceHelpAvailable ? 'bg-gray-300' : 'bg-purple-500 hover:bg-purple-600'
+                                } text-white font-bold`}
                             onClick={useAudienceHelp}
                             disabled={!audienceHelpAvailable || answered}
                         >
                             Consultar Público
                         </button>
                         <button
-                            className={`px-4 py-2 rounded ${
-                                !smartDiscardAvailable ? 'bg-gray-300' : 'bg-orange-500 hover:bg-orange-600'
-                            } text-white font-bold`}
+                            className={`px-4 py-2 rounded ${!smartDiscardAvailable ? 'bg-gray-300' : 'bg-orange-500 hover:bg-orange-600'
+                                } text-white font-bold`}
                             onClick={useSmartDiscard}
                             disabled={!smartDiscardAvailable || answered}
                         >
@@ -207,20 +204,20 @@ export const Question = ({
 
                     {/* Mostrar resultados de la audiencia si está activo */}
                     {audienceResults && (
-                        <div className='bg-white p-3 rounded mb-4 border-2 border-purple-500 shadow-lg'> 
-                            <h3 className='font-bold mb-2 text-black'>Resultados del Público:</h3> 
+                        <div className='bg-white p-3 rounded mb-4 border-2 border-purple-500 shadow-lg'>
+                            <h3 className='font-bold mb-2 text-black'>Resultados del Público:</h3>
                             <div className='space-y-2'>
                                 {answersRandom.map((answer, index) => (
                                     answer !== null && (
                                         <div key={index} className='flex items-center gap-2'>
-                                            <div className='w-24 text-black'>{answer}:</div> 
+                                            <div className='w-24 text-black'>{answer}:</div>
                                             <div className='flex-1 bg-gray-200 rounded-full h-4'>
                                                 <div
                                                     className='bg-purple-500 h-4 rounded-full'
                                                     style={{ width: `${audienceResults[index]}%` }}
                                                 ></div>
                                             </div>
-                                            <div className='w-12 text-right text-black font-medium'>{audienceResults[index]}%</div> 
+                                            <div className='w-12 text-right text-black font-medium'>{audienceResults[index]}%</div>
                                         </div>
                                     )
                                 ))}
@@ -232,15 +229,8 @@ export const Question = ({
                         ID de la pregunta: {filteredQuestion.id}
                     </div>
 
-                    <button
-                        className='border px-5 py-2 rounded-lg font-bold transition-all hover:bg-yellow-500 hover:text-gray-900'
-                        onClick={onReset}
-                    >
-                        Reiniciar
-                    </button>
-
-                    <div>
-                        <h1 className='font-bold'>{filteredQuestion.question}</h1>
+                    <div className='my-6 p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border-2 border-blue-300'>
+                        <h1 className='text-2xl font-extrabold text-blue-800 text-center leading-relaxed'>{filteredQuestion.question}</h1>
                     </div>
 
                     <Timer time={timerTime} onTimeout={() => setAnswered(true)} active={!answered} />
@@ -282,7 +272,14 @@ export const Question = ({
                         </>
                     )}
 
-                    <Link to='/' className='mt-4'>
+                    <button
+                        className='border px-5 py-2 rounded-lg font-bold transition-all hover:bg-yellow-500 hover:text-gray-900 mt-4'
+                        onClick={onReset}
+                    >
+                        Reiniciar
+                    </button>
+
+                    <Link to='/' className='mt-2'>
                         <button className='border-4 border-red-900 text-yellow-100 rounded-md px-5 py-2 hover:bg-yellow-600 hover:text-black font-medium'>
                             Regresar al Menú Principal
                         </button>
